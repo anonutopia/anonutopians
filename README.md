@@ -42,3 +42,17 @@
 - [x] prepare contract for oracles
 - [x] price updating oracle
 - [x] remove owner from all calculations
+
+## AnonOracle
+
+#### TODO
+
+- [ ] refactor code
+- [ ] hrk price
+- [ ] usd price
+
+#### DONE
+
+- [x] prepare contract
+- [x] move password to config
+- [x] move json key to file
