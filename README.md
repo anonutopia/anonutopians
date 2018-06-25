@@ -111,3 +111,14 @@
 - [x] github
 - [x] facebook page
 - [x] aktivirati ostale domene
+
+## AnonTaxi
+
+#### TODO
+
+- [ ] basic smart contract / backed
+- [ ] finish MVP
+
+#### DONE
+
+- [x] basic mobile app
