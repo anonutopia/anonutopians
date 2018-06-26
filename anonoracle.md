@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] activate oracle on servers
 - [ ] refactor code
 - [ ] hrk price
 - [ ] usd price
