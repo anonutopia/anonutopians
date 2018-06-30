@@ -4,10 +4,10 @@
 
 #### TODO
 
-- [ ] user friendly loading
 - [ ] handle no meta mask / no dapp browser
 - [ ] handle wrong network
 - [ ] handle metamask not signed in
+- [ ] referral system
 - [ ] connect all data points
 - [ ] receiving qr code
 - [ ] copy address to clipboard
@@ -24,3 +24,4 @@
 - [x] connect metamask / basic wallet object
 - [x] update favicon
 - [x] update logo
+- [x] user friendly loading
