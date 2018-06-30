@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] handle no meta mask / no dapp browser
 - [ ] handle wrong network
 - [ ] handle metamask not signed in
 - [ ] referral system
@@ -13,7 +12,9 @@
 - [ ] copy address to clipboard
 - [ ] sending
 - [ ] contract exchange
-- [ ] profile / account
+- [ ] profile / account (anonutopia?)
+- [ ] load abi from file
+- [ ] load contract addresses from config
 
 #### DONE
 
@@ -25,3 +26,4 @@
 - [x] update favicon
 - [x] update logo
 - [x] user friendly loading
+- [x] handle no meta mask / no dapp browser
