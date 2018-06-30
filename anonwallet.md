@@ -10,7 +10,6 @@
 - [ ] sending
 - [ ] contract exchange
 - [ ] profile / account
-- [ ] update logo
 
 #### DONE
 
@@ -20,3 +19,4 @@
 - [x] deploy script
 - [x] connect metamask / basic wallet object
 - [x] update favicon
+- [x] update logo
