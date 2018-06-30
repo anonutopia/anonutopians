@@ -4,6 +4,8 @@
 
 #### TODO
 
+- [ ] load abi from file
+- [ ] load contract addresses from config
 - [ ] referral system
 - [ ] connect all data points
 - [ ] receiving qr code
@@ -11,8 +13,6 @@
 - [ ] sending
 - [ ] contract exchange
 - [ ] profile / account (anonutopia?)
-- [ ] load abi from file
-- [ ] load contract addresses from config
 
 #### DONE
 
