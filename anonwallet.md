@@ -5,8 +5,12 @@
 #### TODO
 
 - [ ] user friendly loading
+- [ ] handle no meta mask / no dapp browser
+- [ ] handle wrong network
+- [ ] handle metamask not signed in
 - [ ] connect all data points
 - [ ] receiving qr code
+- [ ] copy address to clipboard
 - [ ] sending
 - [ ] contract exchange
 - [ ] profile / account
