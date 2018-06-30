@@ -4,9 +4,14 @@
 
 #### TODO
 
-- [ ] connect metamask / basic wallet object
+- [ ] user friendly loading
+- [ ] connect all data points
 - [ ] receiving qr code
 - [ ] sending
+- [ ] contract exchange
+- [ ] profile / account
+- [ ] update logo
+- [ ] update favicon
 
 #### DONE
 
@@ -14,3 +19,4 @@
 - [x] logo
 - [x] deploy
 - [x] deploy script
+- [x] connect metamask / basic wallet object
