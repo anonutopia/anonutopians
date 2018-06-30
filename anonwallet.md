@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] handle wrong network
 - [ ] referral system
 - [ ] connect all data points
 - [ ] receiving qr code
@@ -27,3 +26,4 @@
 - [x] user friendly loading
 - [x] handle no meta mask / no dapp browser
 - [x] handle metamask not signed in
+- [x] handle wrong network
