@@ -7,3 +7,5 @@
 - [ ] basic smart contract
 
 #### DONE
+
+- [x] init version
