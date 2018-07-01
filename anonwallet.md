@@ -4,7 +4,7 @@
 
 #### TODO
 
-- [ ] sending eth
+- [ ] keep data live
 - [ ] profile / account (anonutopia?)
 - [ ] referral system
 - [ ] contract exchange
@@ -29,3 +29,4 @@
 - [x] copy address to clipboard
 - [x] receiving qr code
 - [x] sending ant
+- [x] sending eth
