@@ -5,11 +5,10 @@
 #### TODO
 
 - [ ] referral system
-- [ ] connect all data points (kuna, euro, dollar)
-- [ ] receiving qr code
 - [ ] sending
 - [ ] contract exchange
 - [ ] profile / account (anonutopia?)
+- [ ] connect all data points (kuna, euro, dollar)
 
 #### DONE
 
@@ -27,3 +26,4 @@
 - [x] load contract addresses from config
 - [x] load abi from file
 - [x] copy address to clipboard
+- [x] receiving qr code
