@@ -4,11 +4,12 @@
 
 #### TODO
 
-- [ ] referral system
-- [ ] sending
-- [ ] contract exchange
+- [ ] sending eth
 - [ ] profile / account (anonutopia?)
+- [ ] referral system
+- [ ] contract exchange
 - [ ] connect all data points (kuna, euro, dollar)
+- [ ] transaction history
 
 #### DONE
 
@@ -27,3 +28,4 @@
 - [x] load abi from file
 - [x] copy address to clipboard
 - [x] receiving qr code
+- [x] sending ant
