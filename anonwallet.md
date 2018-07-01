@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] load abi from file
 - [ ] referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] receiving qr code
@@ -27,3 +26,4 @@
 - [x] handle metamask not signed in
 - [x] handle wrong network
 - [x] load contract addresses from config
+- [x] load abi from file
