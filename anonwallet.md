@@ -7,7 +7,6 @@
 - [ ] referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] receiving qr code
-- [ ] copy address to clipboard
 - [ ] sending
 - [ ] contract exchange
 - [ ] profile / account (anonutopia?)
@@ -27,3 +26,4 @@
 - [x] handle wrong network
 - [x] load contract addresses from config
 - [x] load abi from file
+- [x] copy address to clipboard
