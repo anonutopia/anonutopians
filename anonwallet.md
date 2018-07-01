@@ -5,9 +5,8 @@
 #### TODO
 
 - [ ] load abi from file
-- [ ] load contract addresses from config
 - [ ] referral system
-- [ ] connect all data points
+- [ ] connect all data points (kuna, euro, dollar)
 - [ ] receiving qr code
 - [ ] copy address to clipboard
 - [ ] sending
@@ -27,3 +26,4 @@
 - [x] handle no meta mask / no dapp browser
 - [x] handle metamask not signed in
 - [x] handle wrong network
+- [x] load contract addresses from config
