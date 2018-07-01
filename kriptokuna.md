@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] dizajn kriptokune / anote
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
 - [ ] facebook page
@@ -39,3 +38,4 @@
 - [x] github
 - [x] facebook page
 - [x] aktivirati ostale domene
+- [x] dizajn kriptokune / anote
