@@ -4,7 +4,7 @@
 
 #### TODO
 
-
+- [ ] deploy new anote
 - [ ] update kriptokuna website
 - [ ] write and send press release
 

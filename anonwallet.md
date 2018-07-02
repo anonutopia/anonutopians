@@ -4,6 +4,8 @@
 
 #### TODO
 
+- [ ] finish directory
+- [ ] general profit balance checker (for other addresses)
 - [ ] advanced referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
