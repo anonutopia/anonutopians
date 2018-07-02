@@ -4,8 +4,8 @@
 
 #### TODO
 
-- [ ] contract exchange - ant to eth
 - [ ] profit page
+- [ ] disable profile for production for now
 - [ ] advanced referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
@@ -35,3 +35,4 @@
 - [x] deploy testing version
 - [x] contract exchange - basic ui
 - [x] contract exchange - eth to ant
+- [x] contract exchange - ant to eth
