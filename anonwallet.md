@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] profile / account (anonutopia?)
 - [ ] referral system
 - [ ] contract exchange
 - [ ] connect all data points (kuna, euro, dollar)
@@ -31,3 +30,4 @@
 - [x] sending eth
 - [x] keep data live
 - [x] set active link
+- [x] profile / account (anonutopia?)

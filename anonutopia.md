@@ -4,7 +4,8 @@
 
 #### TODO
 
-- [ ] basic smart contract
+- [ ] register nickname for somebody else
+- [ ] upgrade mechanism
 
 #### DONE
 
