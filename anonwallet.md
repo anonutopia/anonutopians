@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] fix favicon
 - [ ] disable profile for production for now
 - [ ] advanced referral system
 - [ ] connect all data points (kuna, euro, dollar)
@@ -38,3 +37,4 @@
 - [x] contract exchange - ant to eth
 - [x] profit page
 - [x] web3 sometimes missing
+- [x] fix favicon
