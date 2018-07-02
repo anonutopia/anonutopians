@@ -31,3 +31,4 @@
 - [x] keep data live
 - [x] set active link
 - [x] profile / account (anonutopia?)
+- [x] deploy testing version
