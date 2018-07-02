@@ -4,7 +4,8 @@
 
 #### TODO
 
-- [ ] contract exchange
+- [ ] contract exchange - eth to ant
+- [ ] contract exchange - ant to eth
 - [ ] referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
@@ -32,3 +33,4 @@
 - [x] set active link
 - [x] profile / account (anonutopia?)
 - [x] deploy testing version
+- [x] contract exchange - basic ui
