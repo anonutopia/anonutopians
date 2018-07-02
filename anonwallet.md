@@ -6,7 +6,6 @@
 
 - [ ] fix favicon
 - [ ] disable profile for production for now
-- [ ] web3 sometimes missing
 - [ ] advanced referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
@@ -38,3 +37,4 @@
 - [x] contract exchange - eth to ant
 - [x] contract exchange - ant to eth
 - [x] profit page
+- [x] web3 sometimes missing
