@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] disable profile for production for now
 - [ ] advanced referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
@@ -38,3 +37,4 @@
 - [x] profit page
 - [x] web3 sometimes missing
 - [x] fix favicon
+- [x] disable profile for production for now
