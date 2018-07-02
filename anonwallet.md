@@ -4,8 +4,8 @@
 
 #### TODO
 
-- [ ] referral system
 - [ ] contract exchange
+- [ ] referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
 
