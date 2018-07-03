@@ -4,7 +4,14 @@
 
 #### TODO
 
-- [ ] proci sve tekstove pod kriptokuna
+- [ ] naslovnica - mali tekstovi
+- [ ] naslovnica - buttoni
+- [ ] sto je kriptokuna
+- [ ] manifest blokiranima
+- [ ] cesta pitanja
+- [ ] volontiraj
+- [ ] novcanik - tekst
+
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
 - [ ] facebook page
@@ -44,3 +51,4 @@
 - [x] provjeriti favicon
 - [x] maknuti prijave
 - [x] update slika / logoa na podstranicama
+- [x] nova struktura
