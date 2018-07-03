@@ -2,14 +2,15 @@
 
 ## Kriptokuna
 
-#### TODO
+#### TODO MVP
 
-- [ ] sto je kriptokuna
-- [ ] manifest blokiranima
-- [ ] volontiraj
-- [ ] novcanik - tutorial
 - [ ] plan / o nama
 - [ ] anote
+- [ ] sto je kriptokuna - update
+- [ ] manifest blokiranima - update
+- [ ] volontiraj - update
+
+#### TODO
 
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
@@ -55,3 +56,4 @@
 - [x] prirediti sve podstranice
 - [x] naslovnica - mali tekstovi
 - [x] cesta pitanja
+- [x] novcanik - tutorial
