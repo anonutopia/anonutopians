@@ -5,7 +5,6 @@
 #### TODO
 
 - [ ] naslovnica - brojevi
-- [ ] maknuti prijave
 - [ ] proci sve tekstove pod kriptokuna
 - [ ] update slika / logoa na podstranicama
 - [ ] tutoriali - kako biti anoniman na Internetu
@@ -44,3 +43,4 @@
 - [x] aktivirati ostale domene
 - [x] dizajn kriptokune / anote
 - [x] provjeriti favicon
+- [x] maknuti prijave
