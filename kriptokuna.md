@@ -4,13 +4,12 @@
 
 #### TODO
 
-- [ ] naslovnica - brojevi
 - [ ] proci sve tekstove pod kriptokuna
-- [ ] update slika / logoa na podstranicama
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
 - [ ] facebook page
 - [ ] pregledati sve na firefoxu
+- [ ] naslovnica - brojevi
 
 #### DONE
 
@@ -44,3 +43,4 @@
 - [x] dizajn kriptokune / anote
 - [x] provjeriti favicon
 - [x] maknuti prijave
+- [x] update slika / logoa na podstranicama
