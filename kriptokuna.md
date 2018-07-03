@@ -10,6 +10,7 @@
 - [ ] cesta pitanja
 - [ ] volontiraj
 - [ ] novcanik - tekst
+- [ ] plan / o nama
 
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
@@ -52,3 +53,4 @@
 - [x] update slika / logoa na podstranicama
 - [x] nova struktura
 - [x] naslovnica - buttoni
+- [x] prirediti sve podstranice
