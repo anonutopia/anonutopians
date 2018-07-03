@@ -4,13 +4,12 @@
 
 #### TODO
 
-- [ ] naslovnica - mali tekstovi
 - [ ] sto je kriptokuna
 - [ ] manifest blokiranima
-- [ ] cesta pitanja
 - [ ] volontiraj
-- [ ] novcanik - tekst
+- [ ] novcanik - tutorial
 - [ ] plan / o nama
+- [ ] anote
 
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
@@ -54,3 +53,5 @@
 - [x] nova struktura
 - [x] naslovnica - buttoni
 - [x] prirediti sve podstranice
+- [x] naslovnica - mali tekstovi
+- [x] cesta pitanja
