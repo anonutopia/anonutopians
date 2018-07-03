@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] add google analytics
 - [ ] finish directory
 - [ ] general profit balance checker (for other addresses)
 - [ ] advanced referral system
