@@ -5,7 +5,6 @@
 #### TODO
 
 - [ ] naslovnica - mali tekstovi
-- [ ] naslovnica - buttoni
 - [ ] sto je kriptokuna
 - [ ] manifest blokiranima
 - [ ] cesta pitanja
@@ -52,3 +51,4 @@
 - [x] maknuti prijave
 - [x] update slika / logoa na podstranicama
 - [x] nova struktura
+- [x] naslovnica - buttoni
