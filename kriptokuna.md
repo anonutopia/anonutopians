@@ -4,6 +4,10 @@
 
 #### TODO
 
+- [ ] naslovnica - brojevi
+- [ ] maknuti prijave
+- [ ] proci sve tekstove pod kriptokuna
+- [ ] update slika / logoa na podstranicama
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
 - [ ] facebook page
@@ -39,3 +43,4 @@
 - [x] facebook page
 - [x] aktivirati ostale domene
 - [x] dizajn kriptokune / anote
+- [x] provjeriti favicon
