@@ -4,8 +4,8 @@
 
 #### TODO MVP
 
-- [ ] transparentnost
 - [ ] anote
+- [ ] kontakt
 - [ ] sto je kriptokuna - update
 - [ ] manifest blokiranima - update
 - [ ] volontiraj - update
@@ -58,3 +58,4 @@
 - [x] cesta pitanja
 - [x] novcanik - tutorial
 - [x] plan / o nama
+- [x] transparentnost
