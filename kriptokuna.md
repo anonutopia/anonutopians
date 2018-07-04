@@ -4,7 +4,7 @@
 
 #### TODO MVP
 
-- [ ] plan / o nama
+- [ ] transparentnost
 - [ ] anote
 - [ ] sto je kriptokuna - update
 - [ ] manifest blokiranima - update
@@ -57,3 +57,4 @@
 - [x] naslovnica - mali tekstovi
 - [x] cesta pitanja
 - [x] novcanik - tutorial
+- [x] plan / o nama
