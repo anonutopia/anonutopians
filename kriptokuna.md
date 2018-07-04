@@ -7,7 +7,6 @@
 - [ ] anote
 - [ ] sto je kriptokuna - update
 - [ ] manifest blokiranima - update
-- [ ] volontiraj - update
 - [ ] create anonutopia email
 
 #### TODO
@@ -60,3 +59,4 @@
 - [x] plan / o nama
 - [x] transparentnost
 - [x] kontakt
+- [x] volontiraj - update
