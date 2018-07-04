@@ -5,10 +5,10 @@
 #### TODO MVP
 
 - [ ] anote
-- [ ] kontakt
 - [ ] sto je kriptokuna - update
 - [ ] manifest blokiranima - update
 - [ ] volontiraj - update
+- [ ] create anonutopia email
 
 #### TODO
 
@@ -59,3 +59,4 @@
 - [x] novcanik - tutorial
 - [x] plan / o nama
 - [x] transparentnost
+- [x] kontakt
