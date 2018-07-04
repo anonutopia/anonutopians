@@ -16,7 +16,6 @@
 - [ ] pregledati sve na firefoxu
 - [ ] naslovnica - brojevi
 - [ ] naslovnica - različite verzije imperativa
-- [ ] kontakt - staviti novi mail 
 
 #### DONE
 
