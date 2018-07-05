@@ -5,6 +5,8 @@
 #### TODO
 
 - [ ] update kriptokuna website
+- [ ] advanced referral system
+- [ ] move another 100k ANT
 - [ ] write and send press release
 
 ## Other TODO Lists

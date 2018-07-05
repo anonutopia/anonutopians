@@ -4,9 +4,9 @@
 
 #### TODO MVP
 
-- [ ] anote
 - [ ] manifest blokiranima - update
 - [ ] create anonutopia email
+- [ ] dodati još slika
 
 #### TODO
 
@@ -62,3 +62,4 @@
 - [x] kontakt
 - [x] volontiraj - update
 - [x] sto je kriptokuna - update
+- [x] anote
