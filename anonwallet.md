@@ -9,6 +9,7 @@
 
 #### TODO
 
+- [ ] buy anote for profit
 - [ ] fix seo description issue
 - [ ] finish directory
 - [ ] general profit balance checker (for other addresses)
