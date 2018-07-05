@@ -4,6 +4,8 @@
 
 #### TODO
 
+- [ ] define democratic rules for open source projects
+- [ ] buy missing domains
 - [ ] update kriptokuna website
 - [ ] advanced referral system
 - [ ] move another 100k ANT
