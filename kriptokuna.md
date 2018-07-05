@@ -16,6 +16,7 @@
 - [ ] facebook page
 - [ ] pregledati sve na firefoxu
 - [ ] naslovnica - brojevi
+- [ ] naslovnica - različite verzije imperativa
 
 #### DONE
 
