@@ -2,14 +2,17 @@
 
 ## GENERAL
 
-#### TODO
+#### TODO MVP
 
-- [ ] define democratic rules for open source projects
-- [ ] buy missing domains
 - [ ] update kriptokuna website
 - [ ] advanced referral system
 - [ ] move another 100k ANT
 - [ ] write and send press release
+
+#### TODO
+
+- [ ] define democratic rules for open source projects
+- [ ] buy missing domains
 
 ## Other TODO Lists
 

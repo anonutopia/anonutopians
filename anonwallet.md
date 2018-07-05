@@ -2,13 +2,16 @@
 
 ## AnonWallet
 
+#### TODO MVP
+
+- [ ] advanced referral system
+- [ ] add google analytics
+
 #### TODO
 
 - [ ] fix seo description issue
-- [ ] add google analytics
 - [ ] finish directory
 - [ ] general profit balance checker (for other addresses)
-- [ ] advanced referral system
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
 

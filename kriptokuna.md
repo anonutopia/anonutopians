@@ -4,8 +4,8 @@
 
 #### TODO MVP
 
-- [ ] create anonutopia email
 - [ ] dodati još slika
+- [ ] referal sistem
 
 #### TODO
 
