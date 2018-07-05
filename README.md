@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] deploy new anote
 - [ ] update kriptokuna website
 - [ ] write and send press release
 
@@ -22,3 +21,4 @@
 - [x] basic design for anote
 - [x] deploy anote and fiats
 - [x] finish wallet MVP
+- [x] deploy new anote

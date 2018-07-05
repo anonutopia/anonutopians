@@ -10,6 +10,7 @@
 
 #### TODO
 
+- [ ] seo - update description
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
 - [ ] facebook page
