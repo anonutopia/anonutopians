@@ -5,7 +5,6 @@
 #### TODO MVP
 
 - [ ] update kriptokuna website
-- [ ] advanced referral system
 - [ ] write and send press release
 
 #### TODO
