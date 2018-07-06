@@ -8,7 +8,7 @@
 
 #### TODO
 
-- [ ] referal sistem
+- [ ] advanced referal sistem
 - [ ] seo - update description
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster

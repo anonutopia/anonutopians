@@ -2,13 +2,9 @@
 
 ## AnonWallet
 
-#### TODO MVP
-
-- [ ] advanced referral system
-- [ ] add google analytics
-
 #### TODO
 
+- [ ] advanced referral system
 - [ ] buy anote for profit
 - [ ] fix seo description issue
 - [ ] finish directory
@@ -46,3 +42,4 @@
 - [x] web3 sometimes missing
 - [x] fix favicon
 - [x] disable profile for production for now
+- [x] add google analytics
