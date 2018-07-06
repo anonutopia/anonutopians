@@ -5,11 +5,10 @@
 #### TODO MVP
 
 - [ ] dodati još slika
-- [ ] anonutopia email
-- [ ] referal sistem
 
 #### TODO
 
+- [ ] referal sistem
 - [ ] seo - update description
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
@@ -64,3 +63,4 @@
 - [x] sto je kriptokuna - update
 - [x] anote
 - [x] manifest blokiranima - update
+- [x] anonutopia email
