@@ -6,7 +6,6 @@
 
 - [ ] update kriptokuna website
 - [ ] advanced referral system
-- [ ] move another 100k ANT
 - [ ] write and send press release
 
 #### TODO
@@ -29,3 +28,4 @@
 - [x] deploy anote and fiats
 - [x] finish wallet MVP
 - [x] deploy new anote
+- [x] move another 100k ANT
