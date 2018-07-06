@@ -4,7 +4,6 @@
 
 #### TODO MVP
 
-- [ ] update kriptokuna website
 - [ ] write and send press release
 
 #### TODO
@@ -28,3 +27,4 @@
 - [x] finish wallet MVP
 - [x] deploy new anote
 - [x] move another 100k ANT
+- [x] update kriptokuna website

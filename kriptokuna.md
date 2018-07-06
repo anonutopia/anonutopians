@@ -2,10 +2,6 @@
 
 ## Kriptokuna
 
-#### TODO MVP
-
-- [ ] dodati još slika
-
 #### TODO
 
 - [ ] advanced referal sistem
@@ -64,3 +60,4 @@
 - [x] anote
 - [x] manifest blokiranima - update
 - [x] anonutopia email
+- [x] dodati još slika
