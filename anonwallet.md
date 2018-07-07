@@ -43,3 +43,4 @@
 - [x] fix favicon
 - [x] disable profile for production for now
 - [x] add google analytics
+- [x] show price buy
