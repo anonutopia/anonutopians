@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] bolji funnel za kupiti ant
 - [ ] advanced referal sistem
 - [ ] seo - update description
 - [ ] tutoriali - kako biti anoniman na Internetu

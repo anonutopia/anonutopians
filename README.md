@@ -2,10 +2,6 @@
 
 ## GENERAL
 
-#### TODO MVP
-
-- [ ] write and send press release
-
 #### TODO
 
 - [ ] define democratic rules for open source projects
@@ -28,3 +24,4 @@
 - [x] deploy new anote
 - [x] move another 100k ANT
 - [x] update kriptokuna website
+- [x] write and send press release
