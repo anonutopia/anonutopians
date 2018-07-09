@@ -9,7 +9,6 @@
 - [ ] sync blockchain
 - [ ] basic anote daemon
 - [ ] purchasing anote
-- [ ] update website and info
 
 #### TODO
 
@@ -36,3 +35,4 @@
 - [x] write and send press release
 - [x] deploy test website
 - [x] create test deploy script for website
+- [x] update website - info and tutorials
