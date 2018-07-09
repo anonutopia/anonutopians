@@ -2,6 +2,15 @@
 
 ## GENERAL
 
+#### TODO - WAVES MOVE
+
+- [ ] setup waves node
+- [ ] make first API transaction
+- [ ] sync blockchain
+- [ ] basic anote daemon
+- [ ] purchasing anote
+- [ ] update website and info
+
 #### TODO
 
 - [ ] define democratic rules for open source projects
@@ -25,3 +34,5 @@
 - [x] move another 100k ANT
 - [x] update kriptokuna website
 - [x] write and send press release
+- [x] deploy test website
+- [x] create test deploy script for website
