@@ -6,7 +6,6 @@
 
 - [ ] setup waves node
 - [ ] make first API transaction
-- [ ] sync blockchain
 - [ ] basic anote daemon
 - [ ] purchasing anote
 
@@ -36,3 +35,4 @@
 - [x] deploy test website
 - [x] create test deploy script for website
 - [x] update website - info and tutorials
+- [x] sync blockchain
