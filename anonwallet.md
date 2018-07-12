@@ -4,6 +4,7 @@
 
 #### TODO WAVES MVP
 
+- [ ] anote daemon
 - [ ] referral system
 - [ ] backup
 - [ ] register email
