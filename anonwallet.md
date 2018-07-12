@@ -8,7 +8,6 @@
 - [ ] home - transfer
 - [ ] profit
 - [ ] exchange
-- [ ] sign up
 
 #### TODO
 
@@ -57,3 +56,5 @@
 - [x] home - balance ant
 - [x] home - balance eth
 - [x] sign in
+- [x] sign up
+- [x] import
