@@ -2,6 +2,14 @@
 
 ## AnonWallet
 
+#### TODO WAVES MVP
+
+- [ ] home - balance wav
+- [ ] home - transfer
+- [ ] profit
+- [ ] exchange
+- [ ] sign up
+
 #### TODO
 
 - [ ] advanced referral system
@@ -44,3 +52,8 @@
 - [x] disable profile for production for now
 - [x] add google analytics
 - [x] show price buy
+- [x] home - address
+- [x] home - qr
+- [x] home - balance ant
+- [x] home - balance eth
+- [x] sign in
