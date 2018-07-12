@@ -4,7 +4,6 @@
 
 #### TODO WAVES MVP
 
-- [ ] exchange
 - [ ] referral system
 - [ ] backup
 - [ ] register email
@@ -64,3 +63,4 @@
 - [x] home - transfer wav
 - [x] home - transfer eth
 - [x] profit page
+- [x] exchange
