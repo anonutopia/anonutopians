@@ -4,11 +4,11 @@
 
 #### TODO WAVES MVP
 
-- [ ] home - balance wav
 - [ ] home - transfer eth
 - [ ] home - transfer wav
 - [ ] profit
 - [ ] exchange
+- [ ] referral system
 
 #### TODO
 
@@ -61,3 +61,4 @@
 - [x] import
 - [x] loading
 - [x] home - transfer ant
+- [x] home - balance wav
