@@ -5,7 +5,6 @@
 #### TODO WAVES MVP
 
 - [ ] home - balance wav
-- [ ] home - transfer ant
 - [ ] home - transfer eth
 - [ ] home - transfer wav
 - [ ] profit
@@ -61,3 +60,4 @@
 - [x] sign up
 - [x] import
 - [x] loading
+- [x] home - transfer ant
