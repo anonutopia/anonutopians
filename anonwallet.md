@@ -4,9 +4,10 @@
 
 #### TODO WAVES MVP
 
-- [ ] profit
 - [ ] exchange
 - [ ] referral system
+- [ ] backup
+- [ ] register email
 
 #### TODO
 
@@ -62,3 +63,4 @@
 - [x] home - balance wav
 - [x] home - transfer wav
 - [x] home - transfer eth
+- [x] profit page
