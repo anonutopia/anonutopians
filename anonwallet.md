@@ -4,10 +4,8 @@
 
 #### TODO WAVES MVP
 
-- [ ] referral system
 - [ ] backup
 - [ ] register email
-- [ ] better profit page
 
 #### TODO
 
@@ -66,3 +64,5 @@
 - [x] profit page
 - [x] exchange
 - [x] anote daemon
+- [x] referral system
+- [x] better profit page
