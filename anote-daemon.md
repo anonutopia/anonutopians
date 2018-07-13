@@ -4,10 +4,10 @@
 
 #### TODO
 
-- [ ] detect wav payments
 - [ ] detect exchange type
 - [ ] detect referral
  
 #### DONE
 
-- [ ] basic daemon - connect to waves node
+- [x] basic daemon - connect to waves node
+- [x] detect wav payments
