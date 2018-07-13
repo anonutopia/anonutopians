@@ -4,7 +4,6 @@
 
 #### TODO MVP
 
-- [ ] detect referral
 - [ ] profit payout
 
 #### TODO
@@ -17,3 +16,4 @@
 - [x] detect wav payments
 - [x] deploy
 - [x] deploy script
+- [x] referral payout
