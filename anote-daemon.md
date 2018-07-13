@@ -5,8 +5,6 @@
 #### TODO MVP
 
 - [ ] detect referral
-- [ ] deploy
-- [ ] deploy script
 - [ ] profit payout
 
 #### TODO
@@ -17,3 +15,5 @@
 
 - [x] basic daemon - connect to waves node
 - [x] detect wav payments
+- [x] deploy
+- [x] deploy script

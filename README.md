@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] configure waves production node 
 - [ ] define democratic rules for open source projects
 - [ ] buy missing domains
 
