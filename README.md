@@ -2,13 +2,6 @@
 
 ## GENERAL
 
-#### TODO - WAVES MOVE
-
-- [ ] setup waves node
-- [ ] make first API transaction
-- [ ] basic anote daemon
-- [ ] purchasing anote
-
 #### TODO
 
 - [ ] define democratic rules for open source projects
@@ -36,3 +29,7 @@
 - [x] create test deploy script for website
 - [x] update website - info and tutorials
 - [x] sync blockchain
+- [x] setup waves node
+- [x] make first API transaction
+- [x] basic anote daemon
+- [x] purchasing anote
