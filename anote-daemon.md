@@ -2,11 +2,17 @@
 
 ## AnonTaxi
 
+#### TODO MVP
+
+- [ ] detect referral
+- [ ] deploy
+- [ ] deploy script
+- [ ] profit payout
+
 #### TODO
 
 - [ ] detect exchange type
-- [ ] detect referral
- 
+
 #### DONE
 
 - [x] basic daemon - connect to waves node

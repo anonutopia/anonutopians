@@ -4,10 +4,10 @@
 
 #### TODO WAVES MVP
 
-- [ ] anote daemon
 - [ ] referral system
 - [ ] backup
 - [ ] register email
+- [ ] better profit page
 
 #### TODO
 
@@ -65,3 +65,4 @@
 - [x] home - transfer eth
 - [x] profit page
 - [x] exchange
+- [x] anote daemon
