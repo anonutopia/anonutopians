@@ -2,10 +2,6 @@
 
 ## AnonTaxi
 
-#### TODO MVP
-
-- [ ] profit payout
-
 #### TODO
 
 - [ ] detect exchange type
@@ -17,3 +13,4 @@
 - [x] deploy
 - [x] deploy script
 - [x] referral payout
+- [x] holder payout
