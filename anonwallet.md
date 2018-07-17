@@ -4,11 +4,14 @@
 
 #### TODO WAVES MVP
 
-- [ ] backup
-- [ ] register email
+- [ ] basic btc gateway
+- [ ] basic eth gateway
+- [ ] profit withdrawal
 
 #### TODO
 
+- [ ] profile page
+- [ ] move to serious database
 - [ ] advanced referral system
 - [ ] buy anote for profit
 - [ ] fix seo description issue
@@ -66,3 +69,4 @@
 - [x] anote daemon
 - [x] referral system
 - [x] better profit page
+- [x] backup + check and fix registration

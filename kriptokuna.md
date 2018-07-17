@@ -2,6 +2,10 @@
 
 ## Kriptokuna
 
+#### TODO MVP
+
+- [ ] tutoriali i info za novi wallet
+
 #### TODO
 
 - [ ] bolji funnel za kupiti ant
