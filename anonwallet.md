@@ -4,7 +4,11 @@
 
 #### TODO WAVES MVP
 
+- [ ] send ABTC to BTC address
+- [ ] exchange BTC to other currencies 
 - [ ] basic eth gateway
+- [ ] exchange ETH to other currencies
+- [ ] send AETH to ETH address
 - [ ] profit withdrawal
 
 #### TODO
@@ -70,3 +74,4 @@
 - [x] better profit page
 - [x] backup + check and fix registration
 - [x] basic btc gateway
+- [x] send ABTC to internal address
