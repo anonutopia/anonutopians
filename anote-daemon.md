@@ -14,3 +14,4 @@
 - [x] deploy script
 - [x] referral payout
 - [x] holder payout
+- [x] detect bitcoin payments
