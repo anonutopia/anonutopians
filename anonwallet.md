@@ -4,7 +4,6 @@
 
 #### TODO WAVES MVP
 
-- [ ] basic btc gateway
 - [ ] basic eth gateway
 - [ ] profit withdrawal
 
@@ -70,3 +69,4 @@
 - [x] referral system
 - [x] better profit page
 - [x] backup + check and fix registration
+- [x] basic btc gateway
