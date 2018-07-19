@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta
 
+- [ ] invoice payment UI
 - [ ] profit withdrawal
 
 #### TODO 1.0.1 beta
