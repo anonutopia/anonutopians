@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] basic eth gateway
 - [ ] profit withdrawal
 
 #### TODO 1.0.1 beta
@@ -79,3 +78,4 @@
 - [x] exchange ETH to other currencies
 - [x] send AETH to ETH address
 - [x] handle failed transactions
+- [x] basic eth gateway
