@@ -5,6 +5,7 @@
 #### TODO MVP
 
 - [ ] tutoriali i info za novi wallet
+- [ ] prebaciti prijave na mail
 
 #### TODO
 

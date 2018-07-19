@@ -2,14 +2,14 @@
 
 ## AnonWallet
 
-#### TODO WAVES MVP
+#### TODO 1.0.0 beta
 
 - [ ] basic eth gateway
 - [ ] profit withdrawal
-- [ ] handle failed transactions
 
-#### TODO
+#### TODO 1.0.1 beta
 
+- [ ] exchange calculator
 - [ ] forward btc
 - [ ] forward eth
 - [ ] profile page
@@ -22,7 +22,7 @@
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
 
-#### DONE
+#### DONE 1.0.0 beta
 
 - [x] favicon
 - [x] logo
@@ -78,3 +78,4 @@
 - [x] exchange BTC to ANO
 - [x] exchange ETH to other currencies
 - [x] send AETH to ETH address
+- [x] handle failed transactions

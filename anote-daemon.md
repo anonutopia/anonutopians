@@ -2,9 +2,11 @@
 
 ## AnonTaxi
 
-#### TODO
+#### TODO 1.0.0 beta
 
-#### DONE
+- [ ] price calculations
+
+#### DONE 1.0.0 beta
 
 - [x] basic daemon - connect to waves node
 - [x] detect wav payments
