@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] forward bitcoin
 - [ ] detect exchange type
 
 #### DONE
