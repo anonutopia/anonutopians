@@ -4,7 +4,6 @@
 
 #### TODO MVP
 
-- [ ] tutoriali i info za novi wallet
 - [ ] prebaciti prijave na mail
 
 #### TODO
@@ -67,3 +66,4 @@
 - [x] manifest blokiranima - update
 - [x] anonutopia email
 - [x] dodati još slika
+- [x] tutoriali i info za novi wallet
