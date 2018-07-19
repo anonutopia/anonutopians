@@ -4,7 +4,6 @@
 
 #### TODO WAVES MVP
 
-- [ ] exchange BTC to other currencies 
 - [ ] basic eth gateway
 - [ ] exchange ETH to other currencies
 - [ ] send AETH to ETH address
@@ -76,3 +75,4 @@
 - [x] basic btc gateway
 - [x] send ABTC to internal address
 - [x] send ABTC to BTC address
+- [x] exchange BTC to ANO
