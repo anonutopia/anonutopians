@@ -10,6 +10,8 @@
 
 #### TODO
 
+- [ ] forward btc
+- [ ] forward eth
 - [ ] profile page
 - [ ] move to serious database
 - [ ] advanced referral system

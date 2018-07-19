@@ -4,9 +4,6 @@
 
 #### TODO
 
-- [ ] forward bitcoin
-- [ ] detect exchange type
-
 #### DONE
 
 - [x] basic daemon - connect to waves node
@@ -16,3 +13,4 @@
 - [x] referral payout
 - [x] holder payout
 - [x] detect bitcoin payments
+- [x] detect exchange type
