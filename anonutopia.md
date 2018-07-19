@@ -4,7 +4,7 @@
 
 #### TODO
 
-- [ ] deploy script
+- [ ] setup google analytics
 - [ ] register nickname for somebody else
 - [ ] upgrade mechanism
 - [ ] update logo
@@ -14,3 +14,4 @@
 - [x] init version
 - [x] basic website
 - [x] deploy basic website
+- [x] deploy script
