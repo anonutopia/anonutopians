@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] configure waves production node 
 - [ ] define democratic rules for open source projects
 - [ ] buy missing domains
 
@@ -34,3 +33,4 @@
 - [x] make first API transaction
 - [x] basic anote daemon
 - [x] purchasing anote
+- [x] configure waves production node 
