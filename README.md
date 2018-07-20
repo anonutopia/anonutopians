@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] setup final version anonnet
 - [ ] define democratic rules for open source projects
 - [ ] buy missing domains
 

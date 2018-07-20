@@ -16,3 +16,4 @@
 - [x] holder payout
 - [x] detect bitcoin payments
 - [x] detect exchange type
+- [x] split profit to holders

@@ -9,6 +9,8 @@
 - [ ] doraditi stranicu transparentnost
 - [ ] kako radi anota
 - [ ] projekti (anonutopia, anote, kriptokuna (kriptofiati), anonwallet, anontaxi, anonatm, anonoracle, anonnet)
+- [ ] iz medija
+- [ ] referral program
 
 #### TODO
 
