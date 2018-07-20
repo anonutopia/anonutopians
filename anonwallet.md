@@ -80,3 +80,4 @@
 - [x] send AETH to ETH address
 - [x] handle failed transactions
 - [x] basic eth gateway
+- [x] use anote for fees

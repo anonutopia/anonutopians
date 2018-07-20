@@ -5,6 +5,10 @@
 #### TODO MVP
 
 - [ ] prebaciti prijave na mail
+- [ ] tutorial - kako ostvariti profit s kriptokunom
+- [ ] doraditi stranicu transparentnost
+- [ ] kako radi anota
+- [ ] projekti (anonutopia, anote, kriptokuna (kriptofiati), anonwallet, anontaxi, anonatm, anonoracle, anonnet)
 
 #### TODO
 
