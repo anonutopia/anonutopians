@@ -5,7 +5,7 @@
 #### TODO MVP
 
 - [ ] prebaciti prijave na mail
-- [ ] tutorial - kako ostvariti profit s kriptokunom
+- [ ] tutorial - kako ostvariti profit s kriptokunom i anotom
 - [ ] doraditi stranicu transparentnost
 - [ ] kako radi anota
 - [ ] projekti (anonutopia, anote, kriptokuna (kriptofiati), anonwallet, anontaxi, anonatm, anonoracle, anonnet)

@@ -5,10 +5,12 @@
 #### TODO 1.0.0 beta
 
 - [ ] profit withdrawal
-- [ ] tool for paying utilities
 
 #### TODO 1.0.1 beta
 
+- [ ] tool for paying utilities
+- [ ] sign in logo - link to homepage
+- [ ] backup seed
 - [ ] exchange calculator
 - [ ] forward btc
 - [ ] forward eth
@@ -81,3 +83,4 @@
 - [x] handle failed transactions
 - [x] basic eth gateway
 - [x] use anote for fees
+- [x] localization
