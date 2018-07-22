@@ -5,6 +5,7 @@
 #### TODO 1.0.0 beta
 
 - [ ] profit withdrawal
+- [ ] localization - js
 
 #### TODO 1.0.1 beta
 
@@ -84,3 +85,4 @@
 - [x] basic eth gateway
 - [x] use anote for fees
 - [x] localization
+- [x] localization - go
