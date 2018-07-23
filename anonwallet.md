@@ -6,6 +6,7 @@
 
 - [ ] profit withdrawal
 - [ ] localization - js
+- [ ] localization - logo
 
 #### TODO 1.0.1 beta
 
@@ -86,3 +87,4 @@
 - [x] use anote for fees
 - [x] localization
 - [x] localization - go
+- [x] deploy anonutopia wallet
