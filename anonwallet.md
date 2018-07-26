@@ -6,7 +6,6 @@
 
 - [ ] profit withdrawal
 - [ ] localization - js
-- [ ] localization fix - banka
 - [ ] localization - kriptokuna string
 - [ ] gatway out - btc
 - [ ] gatway out - eth
@@ -92,3 +91,4 @@
 - [x] localization - go
 - [x] deploy anonutopia wallet
 - [x] localization - logo
+- [x] localization fix - banka
