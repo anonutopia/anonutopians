@@ -4,7 +4,9 @@
 
 #### TODO - MVP
 
-- [ ] finish localization
+- [ ] finish wallet localization
+- [ ] basic kriptodinar website
+- [ ] anon plans
 
 #### TODO
 
