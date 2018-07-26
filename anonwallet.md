@@ -5,7 +5,6 @@
 #### TODO 1.0.0 beta
 
 - [ ] profit withdrawal
-- [ ] localization - js
 - [ ] gatway out - btc
 - [ ] gatway out - eth
 
@@ -92,3 +91,4 @@
 - [x] localization - logo
 - [x] localization fix - banka
 - [x] localization - kriptokuna string
+- [x] localization - js
