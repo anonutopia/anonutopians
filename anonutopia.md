@@ -5,8 +5,15 @@
 #### TODO
 
 - [ ] setup google analytics
-- [ ] register nickname for somebody else
-- [ ] upgrade mechanism
+- [ ] wallet link
+- [ ] anote
+- [ ] anonymous link
+
+- [ ] anonymous - home
+- [ ] anonymous - message
+- [ ] anonymous - registration
+- [ ] anonymous - deploy
+- [ ] anonymous - deploy script
 
 #### DONE
 

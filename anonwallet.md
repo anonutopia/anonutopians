@@ -6,7 +6,10 @@
 
 - [ ] profit withdrawal
 - [ ] localization - js
-- [ ] localization - logo
+- [ ] localization fix - banka
+- [ ] localization - kriptokuna string
+- [ ] gatway out - btc
+- [ ] gatway out - eth
 
 #### TODO 1.0.1 beta
 
@@ -88,3 +91,4 @@
 - [x] localization
 - [x] localization - go
 - [x] deploy anonutopia wallet
+- [x] localization - logo

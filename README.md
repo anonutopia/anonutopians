@@ -2,6 +2,10 @@
 
 ## GENERAL
 
+#### TODO - MVP
+
+- [ ] finish localization
+
 #### TODO
 
 - [ ] setup final version anonnet
