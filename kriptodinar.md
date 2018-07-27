@@ -4,7 +4,6 @@
 
 #### TODO MVP
 
-- [ ] webmasters tools
 - [ ] analytics
 
 #### TODO
@@ -16,3 +15,4 @@
 - [x] osnovna stranica
 - [x] wallet glavna lokalizacija
 - [x] wallet js lokalizacija
+- [x] webmasters tools
