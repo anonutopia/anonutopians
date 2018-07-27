@@ -17,6 +17,7 @@
 
 - [ANOTE](anote.md)
 - [Anonutopia](anonutopia.md)
+- [Anonymous](anonymous.md)
 - [Kriptokuna](kriptokuna.md)
 - [Kriptodinar](kriptodinar.md)
 - [AnonOracle](anonoracle.md)
