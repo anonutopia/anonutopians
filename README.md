@@ -6,6 +6,8 @@
 
 - [ ] finish wallet localization and MVP
 - [ ] anon plans
+- [ ] anonutopia website
+- [ ] anonymous portal
 
 #### TODO
 
