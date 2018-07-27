@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] setup google analytics
 - [ ] anote
 - [ ] anonymous link
 
@@ -23,3 +22,4 @@
 - [x] update logo
 - [x] fix facebook tags
 - [x] wallet link
+- [x] setup google analytics
