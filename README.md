@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] finish wallet localization and MVP
+- [ ] finish wallet MVP
 - [ ] anon plans
 - [ ] anonutopia website
 - [ ] anonymous portal
@@ -45,3 +45,4 @@
 - [x] purchasing anote
 - [x] configure waves production node 
 - [x] basic kriptodinar website
+- [x] finish wallet localization
