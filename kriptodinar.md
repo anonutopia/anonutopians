@@ -4,8 +4,6 @@
 
 #### TODO MVP
 
-- [ ] analytics
-
 #### TODO
 
 #### DONE
@@ -16,3 +14,4 @@
 - [x] wallet glavna lokalizacija
 - [x] wallet js lokalizacija
 - [x] webmasters tools
+- [x] analytics
