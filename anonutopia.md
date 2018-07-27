@@ -22,3 +22,4 @@
 - [x] deploy basic website
 - [x] deploy script
 - [x] update logo
+- [x] fix facebook tags
