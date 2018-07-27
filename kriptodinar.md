@@ -4,6 +4,9 @@
 
 #### TODO MVP
 
+- [ ] webmasters tools
+- [ ] analytics
+
 #### TODO
 
 #### DONE
