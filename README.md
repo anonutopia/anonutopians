@@ -4,8 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] finish wallet localization
-- [ ] basic kriptodinar website
+- [ ] finish wallet localization and MVP
 - [ ] anon plans
 
 #### TODO
@@ -42,3 +41,4 @@
 - [x] basic anote daemon
 - [x] purchasing anote
 - [x] configure waves production node 
+- [x] basic kriptodinar website

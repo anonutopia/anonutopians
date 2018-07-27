@@ -7,6 +7,7 @@
 - [ ] profit withdrawal
 - [ ] gatway out - btc
 - [ ] gatway out - eth
+- [ ] enable wbtc and weth
 
 #### TODO 1.0.1 beta
 
