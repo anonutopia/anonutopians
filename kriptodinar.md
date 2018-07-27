@@ -6,7 +6,6 @@
 
 - [ ] wallet glavna lokalizacija
 - [ ] wallet js lokalizacija
-- [ ] osnovna stranica
 
 #### TODO
 
@@ -14,3 +13,4 @@
 
 - [x] deploy wallet
 - [x] deploy stranice
+- [x] osnovna stranica
