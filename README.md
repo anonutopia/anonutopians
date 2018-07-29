@@ -5,9 +5,9 @@
 #### TODO - MVP
 
 - [ ] finish wallet MVP
-- [ ] anon plans
-- [ ] anonutopia website
+- [ ] anonutopia website (projects, earn money, crypto countries)
 - [ ] anonymous portal
+- [ ] anon plans
 
 #### TODO
 

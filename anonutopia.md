@@ -18,3 +18,4 @@
 - [x] wallet link
 - [x] setup google analytics
 - [x] anonymous - github
+- [x] contact page

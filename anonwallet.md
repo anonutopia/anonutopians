@@ -8,21 +8,21 @@
 - [ ] gatway out - btc
 - [ ] gatway out - eth
 - [ ] enable wbtc and weth
+- [ ] move to a serious database
+- [ ] buy anote for profit
 
 #### TODO 1.0.1 beta
 
+- [ ] confirm dialog for transactions
+- [ ] advanced fee management
 - [ ] tool for paying utilities
 - [ ] sign in logo - link to homepage
 - [ ] backup seed
 - [ ] exchange calculator
-- [ ] forward btc
-- [ ] forward eth
 - [ ] profile page
-- [ ] move to serious database
 - [ ] advanced referral system
-- [ ] buy anote for profit
 - [ ] fix seo description issue
-- [ ] finish directory
+- [ ] address book
 - [ ] general profit balance checker (for other addresses)
 - [ ] connect all data points (kuna, euro, dollar)
 - [ ] transaction history
