@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] projects and software
 - [ ] anote
 - [ ] anonymous link
 
