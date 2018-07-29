@@ -20,3 +20,4 @@
 - [x] anonymous - github
 - [x] contact page
 - [x] earn money
+- [x] crypto countries
