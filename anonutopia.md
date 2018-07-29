@@ -19,3 +19,4 @@
 - [x] setup google analytics
 - [x] anonymous - github
 - [x] contact page
+- [x] earn money
