@@ -6,9 +6,8 @@
 
 - [ ] fucked up layout on websites
 - [ ] finish wallet MVP
-- [ ] anonutopia website (projects, earn money, crypto countries)
+- [ ] anonutopia website
 - [ ] anonymous portal
-- [ ] anon plans
 
 #### TODO
 

@@ -2,8 +2,9 @@
 
 ## AnonWallet
 
-#### TODO 1.0.0 beta
+#### TODO 1.0.0 beta - MVP
 
+- [ ] 1 free ANO on registration + referral system (10% in this case)
 - [ ] profit withdrawal
 - [ ] gatway out - btc
 - [ ] gatway out - eth

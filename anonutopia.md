@@ -2,10 +2,14 @@
 
 ## Anonutopia
 
+#### TODO - MVP
+
+- [ ] about us - anote
+- [ ] profit - explain how for every
+
 #### TODO
 
 - [ ] about us - plan
-- [ ] about us - anote
 - [ ] about us - crypto-fiats
 - [ ] about us - faq
 - [ ] anonymous link
