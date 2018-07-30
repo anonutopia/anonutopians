@@ -4,8 +4,10 @@
 
 #### TODO
 
-- [ ] projects and software
-- [ ] anote
+- [ ] about us - plan
+- [ ] about us - anote
+- [ ] about us - crypto-fiats
+- [ ] about us - faq
 - [ ] anonymous link
 
 #### DONE
@@ -22,3 +24,5 @@
 - [x] contact page
 - [x] earn money
 - [x] crypto countries
+- [x] generate sitemap.xml and submit
+- [x] projects and software

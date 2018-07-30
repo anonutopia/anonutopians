@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] fucked up layout on websites
 - [ ] finish wallet MVP
 - [ ] anonutopia website (projects, earn money, crypto countries)
 - [ ] anonymous portal
