@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] move to postgresql
 - [ ] profit withdrawal
 - [ ] buy anote for profit
 
@@ -95,3 +94,4 @@
 - [x] localization - js
 - [x] 1 free ANO on registration + referral system
 - [x] fix huge bot exploit :)
+- [x] move to postgresql
