@@ -4,8 +4,6 @@
 
 #### TODO MVP
 
-- [ ] ispraviti 404 errore
-
 #### TODO
 
 #### DONE
@@ -17,3 +15,4 @@
 - [x] wallet js lokalizacija
 - [x] webmasters tools
 - [x] analytics
+- [x] ispraviti 404 errore
