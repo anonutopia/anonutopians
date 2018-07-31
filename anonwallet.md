@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] 1 free ANO on registration + referral system
 - [ ] profit withdrawal
 - [ ] gatway out - forward - anonsrobot
 - [ ] move to a serious database
@@ -95,3 +94,4 @@
 - [x] localization fix - banka
 - [x] localization - kriptokuna string
 - [x] localization - js
+- [x] 1 free ANO on registration + referral system
