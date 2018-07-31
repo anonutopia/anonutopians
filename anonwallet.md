@@ -9,6 +9,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] empty fields after sending
 - [ ] gatway out - btc
 - [ ] gatway out - eth
 - [ ] enable wbtc and weth

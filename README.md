@@ -4,13 +4,13 @@
 
 #### TODO - MVP
 
-- [ ] fucked up layout on websites
+- [ ] kriptodinar 404 pages
 - [ ] finish wallet MVP
 - [ ] anonutopia website
-- [ ] anonymous portal
 
 #### TODO
 
+- [ ] anonymous portal
 - [ ] setup final version anonnet
 - [ ] define democratic rules for open source projects
 - [ ] buy missing domains
@@ -46,3 +46,4 @@
 - [x] configure waves production node 
 - [x] basic kriptodinar website
 - [x] finish wallet localization
+- [x] fucked up layout on websites
