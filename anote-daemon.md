@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] gateway out - forward - anonsrobot
 - [ ] price calculations
 
 #### DONE 1.0.0 beta
@@ -18,3 +17,4 @@
 - [x] detect bitcoin payments
 - [x] detect exchange type
 - [x] split profit to holders
+- [x] gateway out - forward - anonsrobot
