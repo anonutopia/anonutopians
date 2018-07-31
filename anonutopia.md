@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] about us - anote
-- [ ] profit - explain how for every
+- [ ] profit - explain how for every one
 
 #### TODO
 

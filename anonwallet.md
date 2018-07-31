@@ -4,16 +4,17 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] 1 free ANO on registration + referral system (10% in this case)
+- [ ] 1 free ANO on registration + referral system
 - [ ] profit withdrawal
-- [ ] gatway out - btc
-- [ ] gatway out - eth
-- [ ] enable wbtc and weth
+- [ ] gatway out - forward - anonsrobot
 - [ ] move to a serious database
 - [ ] buy anote for profit
 
 #### TODO 1.0.1 beta
 
+- [ ] gatway out - btc
+- [ ] gatway out - eth
+- [ ] enable wbtc and weth
 - [ ] confirm dialog for transactions
 - [ ] advanced fee management
 - [ ] tool for paying utilities
