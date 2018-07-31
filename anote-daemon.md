@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta
 
+- [ ] gateway out - forward - anonsrobot
 - [ ] price calculations
 
 #### DONE 1.0.0 beta

@@ -5,7 +5,6 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] profit withdrawal
-- [ ] gatway out - forward - anonsrobot
 - [ ] move to a serious database
 - [ ] buy anote for profit
 

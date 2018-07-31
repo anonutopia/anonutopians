@@ -4,11 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] about us - anote
-- [ ] profit - explain how for every one
+- [ ] translate anonsrobot to english and serbian
 
 #### TODO
 
+- [ ] more on anote
+- [ ] profit - explain how for every one
 - [ ] about us - plan
 - [ ] about us - crypto-fiats
 - [ ] about us - faq
