@@ -4,8 +4,9 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] fix huge bot exploit
+- [ ] move to postgresql
 - [ ] profit withdrawal
-- [ ] move to a serious database
 - [ ] buy anote for profit
 
 #### TODO 1.0.1 beta

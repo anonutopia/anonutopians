@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] translate anonsrobot to english and serbian
+- [ ] airdrop page
 
 #### TODO
 
@@ -31,3 +31,4 @@
 - [x] crypto countries
 - [x] generate sitemap.xml and submit
 - [x] projects and software
+- [x] translate anonsrobot to english and serbian
