@@ -4,7 +4,6 @@
 
 #### TODO MVP
 
-- [ ] fucked up layout kad je referral
 - [ ] prebaciti prijave na mail
 - [ ] tutorial - kako ostvariti profit s kriptokunom i anotom
 - [ ] doraditi stranicu transparentnost
@@ -74,3 +73,4 @@
 - [x] anonutopia email
 - [x] dodati još slika
 - [x] tutoriali i info za novi wallet
+- [x] fucked up layout kad je referral

@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] finish wallet MVP
 - [ ] anonutopia website
+- [ ] finish wallet MVP
 
 #### TODO
 
