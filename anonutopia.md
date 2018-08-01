@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] airdrop page
-
 #### TODO
 
 - [ ] more on anote
@@ -32,3 +30,4 @@
 - [x] generate sitemap.xml and submit
 - [x] projects and software
 - [x] translate anonsrobot to english and serbian
+- [x] airdrop page
