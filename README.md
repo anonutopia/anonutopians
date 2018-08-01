@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] anonutopia website
 - [ ] finish wallet MVP
 
 #### TODO
@@ -47,3 +46,4 @@
 - [x] finish wallet localization
 - [x] fucked up layout on websites
 - [x] kriptodinar 404 pages
+- [x] anonutopia website
