@@ -98,3 +98,4 @@
 - [x] move to postgresql
 - [x] prohibit more then once per telegram acc
 - [x] price calculator
+- [x] telegram notification
