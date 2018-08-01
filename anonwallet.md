@@ -96,3 +96,4 @@
 - [x] 1 free ANO on registration + referral system
 - [x] fix huge bot exploit :)
 - [x] move to postgresql
+- [x] prohibit more then once per telegram acc
