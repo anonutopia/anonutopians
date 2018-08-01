@@ -4,11 +4,11 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] profit withdrawal
-- [ ] buy anote for profit
-
 #### TODO 1.0.1 beta
 
+- [ ] advanced fee system for all transactions
+- [ ] profit withdrawal
+- [ ] buy anote for profit
 - [ ] empty fields after sending
 - [ ] gatway out - btc
 - [ ] gatway out - eth
@@ -97,3 +97,4 @@
 - [x] fix huge bot exploit :)
 - [x] move to postgresql
 - [x] prohibit more then once per telegram acc
+- [x] price calculator
