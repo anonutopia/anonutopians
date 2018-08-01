@@ -8,7 +8,7 @@
 - [ ] tutorial - kako ostvariti profit s kriptokunom i anotom
 - [ ] doraditi stranicu transparentnost
 - [ ] kako radi anota
-- [ ] projekti (anonutopia, anote, kriptokuna (kriptofiati), anonwallet, anontaxi, anonatm, anonoracle, anonnet)
+- [ ] projekti
 - [ ] iz medija
 - [ ] referral program
 
