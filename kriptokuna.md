@@ -5,7 +5,6 @@
 #### TODO MVP
 
 - [ ] prebaciti prijave na mail
-- [ ] tutorial - kako ostvariti profit s kriptokunom i anotom
 - [ ] doraditi stranicu transparentnost
 - [ ] kako radi anota
 - [ ] projekti
@@ -74,3 +73,4 @@
 - [x] dodati još slika
 - [x] tutoriali i info za novi wallet
 - [x] fucked up layout kad je referral
+- [x] tutorial - kako ostvariti profit s kriptokunom i anotom
