@@ -7,7 +7,6 @@
 - [ ] prebaciti prijave na mail
 - [ ] doraditi stranicu transparentnost
 - [ ] kako radi anota
-- [ ] projekti
 - [ ] iz medija
 - [ ] referral program
 
@@ -74,3 +73,4 @@
 - [x] tutoriali i info za novi wallet
 - [x] fucked up layout kad je referral
 - [x] tutorial - kako ostvariti profit s kriptokunom i anotom
+- [x] projekti
