@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] finish wallet MVP
+- [ ] wallet MVP
+- [ ] anon portal (CMS) MVP
 
 #### TODO
 
