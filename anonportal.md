@@ -7,6 +7,7 @@
 - [ ] pages
 - [ ] posts
 - [ ] tags
+- [ ] users
 
 #### DONE 1.0.0 alpha
 
