@@ -4,6 +4,11 @@
 
 #### TODO - MVP
 
+- [ ] basic contract
+- [ ] new menu layout
+- [ ] homepage
+- [ ] apply for citizenship
+
 #### TODO
 
 - [ ] more on anote
