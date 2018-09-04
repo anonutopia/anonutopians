@@ -16,6 +16,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] anote stats page
 - [ ] disable subpages without sign in
 - [ ] tool for paying utilities
 - [ ] sign in logo - link to homepage
