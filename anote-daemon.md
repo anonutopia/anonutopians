@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] price calculations
+- [ ] finish math completely
 
 #### DONE 1.0.0 beta
 

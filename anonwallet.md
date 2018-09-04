@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] disable subpages without sign in
 - [ ] confirm dialog for transactions - confirm
 - [ ] confirm dialog for transactions - fee currency
 - [ ] empty fields after sending

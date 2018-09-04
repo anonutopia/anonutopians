@@ -6,6 +6,9 @@
 
 - [ ] wallet MVP - profit, payouts and eye candy
 - [ ] anon portal (CMS) MVP
+- [ ] basic anonutopia contract
+- [ ] update anonutopia website
+- [ ] refactor and clean close on everything
 
 #### TODO
 
