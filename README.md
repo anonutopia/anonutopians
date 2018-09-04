@@ -6,7 +6,7 @@
 
 - [ ] wallet MVP
 - [ ] anote daemon MVP
-- [ ] basic anonutopia contract
+- [ ] basic anonutopia contract + basic app
 - [ ] update anonutopia website
 
 #### TODO
