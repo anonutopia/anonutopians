@@ -4,14 +4,14 @@
 
 #### TODO - MVP
 
-- [ ] wallet MVP - profit, payouts and eye candy
-- [ ] anon portal (CMS) MVP
+- [ ] wallet MVP
 - [ ] basic anonutopia contract
 - [ ] update anonutopia website
-- [ ] refactor and clean close on everything
 
 #### TODO
 
+- [ ] refactor and clean code on everything
+- [ ] anon portal (CMS) MVP
 - [ ] anonymous portal
 - [ ] setup final version anonnet
 - [ ] define democratic rules for open source projects
