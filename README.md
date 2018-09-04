@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] wallet MVP
+- [ ] wallet MVP - profit, payouts and eye candy
 - [ ] anon portal (CMS) MVP
 
 #### TODO

@@ -4,28 +4,27 @@
 
 #### TODO 1.0.0 beta - MVP
 
-#### TODO 1.0.1 beta
-
-- [ ] advanced fee system for all transactions
-- [ ] profit withdrawal
-- [ ] buy anote for profit
+- [ ] confirm dialog for transactions - confirm
+- [ ] confirm dialog for transactions - fee currency
 - [ ] empty fields after sending
+- [ ] buy anote for profit
+- [ ] profit withdrawal
 - [ ] gatway out - btc
 - [ ] gatway out - eth
 - [ ] enable wbtc and weth
-- [ ] confirm dialog for transactions
-- [ ] advanced fee management
+- [ ] backup seed
+- [ ] transaction history
+
+#### TODO 1.0.1 beta
+
 - [ ] tool for paying utilities
 - [ ] sign in logo - link to homepage
-- [ ] backup seed
-- [ ] exchange calculator
 - [ ] profile page
 - [ ] advanced referral system
 - [ ] fix seo description issue
 - [ ] address book
 - [ ] general profit balance checker (for other addresses)
 - [ ] connect all data points (kuna, euro, dollar)
-- [ ] transaction history
 
 #### DONE 1.0.0 beta
 

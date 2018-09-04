@@ -6,6 +6,7 @@
 
 - [ ] pages
 - [ ] posts
+- [ ] tags
 
 #### DONE 1.0.0 alpha
 
