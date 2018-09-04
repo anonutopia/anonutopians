@@ -14,7 +14,6 @@
 - [ ] gatway out - eth
 - [ ] enable wbtc and weth
 - [ ] backup seed
-- [ ] transaction history
 
 #### TODO 1.0.1 beta
 
@@ -26,6 +25,7 @@
 - [ ] address book
 - [ ] general profit balance checker (for other addresses)
 - [ ] connect all data points (kuna, euro, dollar)
+- [ ] transaction history - our own
 
 #### DONE 1.0.0 beta
 
@@ -99,3 +99,4 @@
 - [x] prohibit more then once per telegram acc
 - [x] price calculator
 - [x] telegram notification
+- [x] transaction history - simple
