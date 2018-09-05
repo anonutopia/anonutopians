@@ -6,7 +6,6 @@
 
 - [ ] confirm dialog for transactions - confirm
 - [ ] confirm dialog for transactions - fee currency
-- [ ] empty fields after sending
 - [ ] buy anote for profit
 - [ ] profit withdrawal
 - [ ] gatway out - btc
@@ -16,6 +15,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] advanced exchange
 - [ ] anote stats page
 - [ ] disable subpages without sign in
 - [ ] tool for paying utilities
@@ -101,3 +101,4 @@
 - [x] price calculator
 - [x] telegram notification
 - [x] transaction history - simple
+- [x] empty fields after sending
