@@ -13,7 +13,7 @@
 #### TODO 1.0.1 beta
 
 - [ ] confirmatin dialog on exchange - choose fee currency / advanced fee management
-- [ ] pay fee in any of our currencies (choose automatically and manually)
+- [ ] pay fee in any of our currencies (choose automatically and / or manually)
 - [ ] hardcoded fee price
 - [ ] enable wbtc and weth
 - [ ] advanced exchange
