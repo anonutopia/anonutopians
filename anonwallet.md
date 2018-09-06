@@ -13,7 +13,7 @@
 
 #### TODO 1.0.1 beta
 
-- [ ] pay fee in any or oru currencies
+- [ ] pay fee in any of our currencies (choose automatically and manually)
 - [ ] hardcoded fee price
 - [ ] enable wbtc and weth
 - [ ] advanced exchange
