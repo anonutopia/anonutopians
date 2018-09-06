@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] confirm dialog for transactions - fee currency
 - [ ] buy anote for profit
 - [ ] profit withdrawal
 - [ ] gatway out - btc
@@ -104,3 +103,4 @@
 - [x] transaction history - simple
 - [x] empty fields after sending
 - [x] confirm dialog for transactions - confirm
+- [x] confirm dialog for transactions - fee currency
