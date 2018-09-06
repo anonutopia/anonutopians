@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta
 
+- [ ] profit withdrawal
 - [ ] finish math completely
 
 #### DONE 1.0.0 beta
