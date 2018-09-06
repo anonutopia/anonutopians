@@ -8,6 +8,7 @@
 - [ ] basic anonutopia contract + basic app
 - [ ] update anonutopia website
 - [ ] anote daemon MVP
+- [ ] growth hacking (anonsrobot, voting for decisions)
 
 #### TODO
 
