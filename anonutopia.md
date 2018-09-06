@@ -8,7 +8,7 @@
 - [ ] new menu layout
 - [ ] homepage
 - [ ] apply for citizenship
-- [ ] project / fature voting (website directory, taxi, oracle, email, exchange, portal, maintenance)
+- [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, maintenance)
 
 #### TODO
 
