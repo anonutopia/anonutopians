@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] profit withdrawal
 - [ ] buy anote for profit
 - [ ] gateway out - btc
 - [ ] gateway out - eth
@@ -107,3 +106,4 @@
 - [x] confirm dialog for transactions - fee currency
 - [x] backup seed
 - [x] update deployment script
+- [x] profit withdrawal
