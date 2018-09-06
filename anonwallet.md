@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] update deployment script
 - [ ] profit withdrawal
 - [ ] buy anote for profit
 - [ ] gateway out - btc
