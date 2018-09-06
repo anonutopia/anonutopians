@@ -4,8 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] buy anote for profit
 - [ ] profit withdrawal
+- [ ] buy anote for profit
 - [ ] gateway out - btc
 - [ ] gateway out - eth
 
