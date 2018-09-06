@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta
 
+- [ ] new deployment script
 - [ ] profit withdrawal
 - [ ] finish math completely
 
