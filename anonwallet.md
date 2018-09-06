@@ -12,6 +12,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] official versioning + code
 - [ ] confirmatin dialog on exchange - choose fee currency / advanced fee management
 - [ ] pay fee in any of our currencies (choose automatically and / or manually)
 - [ ] hardcoded fee price
