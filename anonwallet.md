@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] backup seed
 - [ ] buy anote for profit
 - [ ] profit withdrawal
 - [ ] gatway out - btc
@@ -105,3 +104,4 @@
 - [x] empty fields after sending
 - [x] confirm dialog for transactions - confirm
 - [x] confirm dialog for transactions - fee currency
+- [x] backup seed
