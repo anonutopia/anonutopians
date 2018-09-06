@@ -4,17 +4,16 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] confirm dialog for transactions - confirm
 - [ ] confirm dialog for transactions - fee currency
 - [ ] buy anote for profit
 - [ ] profit withdrawal
 - [ ] gatway out - btc
 - [ ] gatway out - eth
-- [ ] enable wbtc and weth
 - [ ] backup seed
 
 #### TODO 1.0.1 beta
 
+- [ ] enable wbtc and weth
 - [ ] advanced exchange
 - [ ] anote stats page
 - [ ] disable subpages without sign in
@@ -102,3 +101,4 @@
 - [x] telegram notification
 - [x] transaction history - simple
 - [x] empty fields after sending
+- [x] confirm dialog for transactions - confirm
