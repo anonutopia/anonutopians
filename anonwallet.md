@@ -4,11 +4,11 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] backup seed
 - [ ] buy anote for profit
 - [ ] profit withdrawal
 - [ ] gatway out - btc
 - [ ] gatway out - eth
-- [ ] backup seed
 
 #### TODO 1.0.1 beta
 
