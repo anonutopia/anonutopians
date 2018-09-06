@@ -6,8 +6,8 @@
 
 - [ ] buy anote for profit
 - [ ] profit withdrawal
-- [ ] gatway out - btc
-- [ ] gatway out - eth
+- [ ] gateway out - btc
+- [ ] gateway out - eth
 
 #### TODO 1.0.1 beta
 
