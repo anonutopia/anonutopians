@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] profit withdrawal
 - [ ] finish math completely
 
 #### DONE 1.0.0 beta
@@ -20,3 +19,4 @@
 - [x] split profit to holders
 - [x] gateway out - forward - anonsrobot
 - [x] new deployment script
+- [x] profit withdrawal
