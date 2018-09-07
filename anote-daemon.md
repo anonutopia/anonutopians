@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] new deployment script
 - [ ] profit withdrawal
 - [ ] finish math completely
 
@@ -20,3 +19,4 @@
 - [x] detect exchange type
 - [x] split profit to holders
 - [x] gateway out - forward - anonsrobot
+- [x] new deployment script
