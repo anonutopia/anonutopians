@@ -4,8 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] gateway out - btc
-- [ ] gateway out - eth
 - [ ] pay fee in any of our currencies (choose automatically and / or manually)
 - [ ] confirmation dialog on exchange - choose fee currency / advanced fee management
 
