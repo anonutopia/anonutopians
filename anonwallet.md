@@ -4,12 +4,12 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] buy anote for profit
 - [ ] gateway out - btc
 - [ ] gateway out - eth
 
 #### TODO 1.0.1 beta
 
+- [ ] buy anote for profit
 - [ ] official versioning + code
 - [ ] confirmatin dialog on exchange - choose fee currency / advanced fee management
 - [ ] pay fee in any of our currencies (choose automatically and / or manually)
