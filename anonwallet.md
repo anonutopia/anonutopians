@@ -6,13 +6,13 @@
 
 - [ ] gateway out - btc
 - [ ] gateway out - eth
+- [ ] pay fee in any of our currencies (choose automatically and / or manually)
+- [ ] confirmation dialog on exchange - choose fee currency / advanced fee management
 
 #### TODO 1.0.1 beta
 
 - [ ] buy anote for profit
 - [ ] official versioning + code
-- [ ] confirmation dialog on exchange - choose fee currency / advanced fee management
-- [ ] pay fee in any of our currencies (choose automatically and / or manually)
 - [ ] hardcoded fee price
 - [ ] enable wbtc and weth
 - [ ] advanced exchange
