@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] wallet MVP
 - [ ] anonutopia MVP - website + basic contract + basic app
 - [ ] anote daemon MVP
 
@@ -54,3 +53,4 @@
 - [x] fucked up layout on websites
 - [x] kriptodinar 404 pages
 - [x] anonutopia website
+- [x] wallet MVP
