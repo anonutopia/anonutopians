@@ -4,8 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] confirmation dialog on exchange - choose fee currency / advanced fee management
 - [ ] choose fee currency automatically
+- [ ] confirmation dialog on exchange - choose fee currency / advanced fee management
 
 #### TODO 1.0.1 beta
 
