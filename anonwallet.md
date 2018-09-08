@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] choose fee currency automatically
 - [ ] confirmation dialog on exchange - choose fee currency / advanced fee management
 
 #### TODO 1.0.1 beta
@@ -106,3 +105,4 @@
 - [x] update deployment script
 - [x] profit withdrawal
 - [x] pay fee in any of our currencies (choose automatically and / or manually)
+- [x] choose fee currency automatically
