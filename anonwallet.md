@@ -8,6 +8,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] choose fee currency automatically
 - [ ] buy anote for profit
 - [ ] official versioning + code
 - [ ] hardcoded fee price
