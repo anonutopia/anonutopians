@@ -2,10 +2,6 @@
 
 ## AnonWallet
 
-#### TODO 1.0.0 beta - MVP
-
-- [ ] confirmation dialog on exchange + choose fee currency
-
 #### TODO 1.0.1 beta
 
 - [ ] buy anote for profit
@@ -106,3 +102,4 @@
 - [x] profit withdrawal
 - [x] pay fee in any of our currencies (choose automatically and / or manually)
 - [x] choose fee currency automatically
+- [x] confirmation dialog on exchange + choose fee currency
