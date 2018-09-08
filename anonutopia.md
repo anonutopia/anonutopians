@@ -4,10 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] basic contract
 - [ ] new menu layout
 - [ ] homepage
 - [ ] apply for citizenship
+- [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 
 #### TODO
