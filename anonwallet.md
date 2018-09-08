@@ -5,10 +5,10 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] confirmation dialog on exchange - choose fee currency / advanced fee management
+- [ ] choose fee currency automatically
 
 #### TODO 1.0.1 beta
 
-- [ ] choose fee currency automatically
 - [ ] buy anote for profit
 - [ ] official versioning + code
 - [ ] hardcoded fee price
