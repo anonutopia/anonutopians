@@ -4,9 +4,9 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] finish math completely
 - [ ] gateway out - btc
 - [ ] gateway out - eth
+- [ ] finish math completely
 
 #### DONE 1.0.0 beta
 
