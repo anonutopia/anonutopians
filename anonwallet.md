@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
-
+- [ ] charge btc gateway fee
 
 #### TODO 1.0.1 beta
 
