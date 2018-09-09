@@ -2,6 +2,10 @@
 
 ## AnonWallet
 
+#### TODO 1.0.0 beta - MVP
+
+- [ ] new btc gateway
+
 #### TODO 1.0.1 beta
 
 - [ ] buy anote for profit
