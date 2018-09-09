@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] gateway out - btc
 - [ ] gateway out - eth
 - [ ] finish math completely
 
@@ -22,3 +21,4 @@
 - [x] gateway out - forward - anonsrobot
 - [x] new deployment script
 - [x] profit withdrawal
+- [x] gateway out - btc
