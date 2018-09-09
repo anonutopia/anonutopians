@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] new btc gateway
+
 
 #### TODO 1.0.1 beta
 
@@ -108,3 +108,4 @@
 - [x] pay fee in any of our currencies (choose automatically and / or manually)
 - [x] choose fee currency automatically
 - [x] confirmation dialog on exchange + choose fee currency
+- [x] new btc gateway
