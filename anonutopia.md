@@ -4,8 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] crowdfunding page
 - [ ] homepage
+- [ ] crowdfunding page
+- [ ] about page
+- [ ] blog
 - [ ] apply for citizenship
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
