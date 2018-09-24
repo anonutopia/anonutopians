@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] new menu layout
+- [ ] crowdfunding page
 - [ ] homepage
 - [ ] apply for citizenship
 - [ ] basic contract
@@ -37,3 +37,4 @@
 - [x] projects and software
 - [x] translate anonsrobot to english and serbian
 - [x] airdrop page
+- [x] new menu layout
