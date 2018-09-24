@@ -4,13 +4,13 @@
 
 #### TODO - MVP
 
-- [ ] homepage
 - [ ] crowdfunding page
 - [ ] about page
 - [ ] blog
 - [ ] apply for citizenship
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
+- [ ] team
 
 #### TODO
 
@@ -40,3 +40,4 @@
 - [x] translate anonsrobot to english and serbian
 - [x] airdrop page
 - [x] new menu layout
+- [x] homepage
