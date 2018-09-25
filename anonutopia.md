@@ -8,12 +8,12 @@
 - [ ] apply for citizenship
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
-- [ ] team
-- [ ] ANOTE - how does it work
 - [ ] update sitemap.xml
 
 #### TODO
 
+- [ ] team
+- [ ] ANOTE - how does it work
 - [ ] tags explanation
 - [ ] blog
 - [ ] more on anote
