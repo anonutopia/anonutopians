@@ -11,6 +11,8 @@
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
+- [ ] 404 page
+- [ ] update sidebar menu
 
 #### TODO
 
