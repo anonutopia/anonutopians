@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] tags page
 - [ ] about page
 - [ ] apply for citizenship
 - [ ] basic contract
@@ -15,6 +14,7 @@
 
 #### TODO
 
+- [ ] tags explanation
 - [ ] blog
 - [ ] more on anote
 - [ ] profit - explain how for every one
@@ -47,3 +47,4 @@
 - [x] update sidebar menu
 - [x] crypto countries page
 - [x] 404 page
+- [x] tags page
