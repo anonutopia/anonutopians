@@ -4,19 +4,18 @@
 
 #### TODO - MVP
 
-- [ ] about page
 - [ ] tags page
-- [ ] blog
+- [ ] about page
 - [ ] apply for citizenship
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
-- [ ] 404 page
 - [ ] ANOTE - how does it work
 - [ ] update sitemap.xml
 
 #### TODO
 
+- [ ] blog
 - [ ] more on anote
 - [ ] profit - explain how for every one
 - [ ] about us - plan
@@ -47,3 +46,4 @@
 - [x] crowdfunding page
 - [x] update sidebar menu
 - [x] crypto countries page
+- [x] 404 page
