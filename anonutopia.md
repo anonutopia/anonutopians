@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] crowdfunding page
 - [ ] about page
 - [ ] blog
 - [ ] apply for citizenship
@@ -43,3 +42,4 @@
 - [x] airdrop page
 - [x] new menu layout
 - [x] homepage
+- [x] crowdfunding page
