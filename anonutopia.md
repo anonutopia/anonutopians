@@ -6,7 +6,6 @@
 
 - [ ] about page
 - [ ] tags page
-- [ ] crypto countries page
 - [ ] blog
 - [ ] apply for citizenship
 - [ ] basic contract
@@ -14,6 +13,7 @@
 - [ ] team
 - [ ] 404 page
 - [ ] ANOTE - how does it work
+- [ ] update sitemap.xml
 
 #### TODO
 
@@ -46,3 +46,4 @@
 - [x] homepage
 - [x] crowdfunding page
 - [x] update sidebar menu
+- [x] crypto countries page
