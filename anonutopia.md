@@ -8,7 +8,6 @@
 - [ ] apply for citizenship
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
-- [ ] update sitemap.xml
 
 #### TODO
 
@@ -48,3 +47,4 @@
 - [x] crypto countries page
 - [x] 404 page
 - [x] tags page
+- [x] update sitemap.xml
