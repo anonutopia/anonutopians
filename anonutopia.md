@@ -8,9 +8,11 @@
 - [ ] fix links and funnels
 - [ ] more on crowdfunding page
 - [ ] add email on website
+- [ ] connect homepage numbers
 
 #### TODO
 
+- [ ] choose better photos
 - [ ] anons portal and MVP app
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
