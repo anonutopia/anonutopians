@@ -6,6 +6,7 @@
 
 - [ ] gateway out - eth
 - [ ] finish math completely
+- [ ] finish funds completely
 
 #### DONE 1.0.0 beta
 
