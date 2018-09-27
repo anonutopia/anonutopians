@@ -5,11 +5,14 @@
 #### TODO - MVP
 
 - [ ] apply for citizenship
-- [ ] basic contract
-- [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
+- [ ] fix links and funnels
+- [ ] more on crowdfunding page
 
 #### TODO
 
+- [ ] anons portal and MVP app
+- [ ] basic contract
+- [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
 - [ ] ANOTE - how does it work
 - [ ] tags explanation

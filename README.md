@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] anonutopia MVP - website + basic contract + basic app
-- [ ] anote daemon MVP
+- [ ] anote daemon MVP (check math)
 
 #### TODO
 
