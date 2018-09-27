@@ -4,15 +4,15 @@
 
 #### TODO - MVP
 
-- [ ] fix links and funnels
 - [ ] more on crowdfunding page
 - [ ] add email on website
-- [ ] connect homepage numbers
 
 #### TODO
 
+- [ ] connect homepage numbers
 - [ ] anons portal and MVP app
 - [ ] find better photos
+- [ ] fix links and funnels
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
@@ -21,10 +21,7 @@
 - [ ] blog
 - [ ] more on anote
 - [ ] profit - explain how for every one
-- [ ] about us - plan
-- [ ] about us - crypto-fiats
 - [ ] about us - faq
-- [ ] anonymous link
 
 #### DONE
 
