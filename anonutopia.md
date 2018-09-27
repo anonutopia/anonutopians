@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] apply for citizenship
+- [ ] apply for citizenship - page
 - [ ] fix links and funnels
 - [ ] more on crowdfunding page
 - [ ] add email on website
