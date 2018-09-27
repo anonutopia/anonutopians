@@ -7,6 +7,7 @@
 - [ ] apply for citizenship
 - [ ] fix links and funnels
 - [ ] more on crowdfunding page
+- [ ] add email on website
 
 #### TODO
 
