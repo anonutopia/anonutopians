@@ -11,8 +11,8 @@
 
 #### TODO
 
-- [ ] choose better photos
 - [ ] anons portal and MVP app
+- [ ] find better photos
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
