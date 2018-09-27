@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] about page
 - [ ] apply for citizenship
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
@@ -48,3 +47,4 @@
 - [x] 404 page
 - [x] tags page
 - [x] update sitemap.xml
+- [x] about page
