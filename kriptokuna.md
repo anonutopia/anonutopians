@@ -14,13 +14,10 @@
 
 - [ ] bolji funnel za kupiti ant
 - [ ] advanced referal sistem
-- [ ] seo - update description
 - [ ] tutoriali - kako biti anoniman na Internetu
 - [ ] tutoriali - kako postati Kriptokuna Bankster
-- [ ] facebook page
 - [ ] pregledati sve na firefoxu
 - [ ] naslovnica - brojevi
-- [ ] naslovnica - različite verzije imperativa
 
 #### DONE
 
@@ -74,3 +71,4 @@
 - [x] fucked up layout kad je referral
 - [x] tutorial - kako ostvariti profit s kriptokunom i anotom
 - [x] projekti
+- [x] facebook page

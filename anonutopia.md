@@ -16,10 +16,9 @@
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
-- [ ] ANOTE - how does it work
 - [ ] tags explanation
 - [ ] blog
-- [ ] more on anote
+- [ ] more on anote - how does it work
 - [ ] profit - explain how for every one
 - [ ] about us - faq
 
