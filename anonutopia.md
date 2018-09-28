@@ -6,10 +6,11 @@
 
 - [ ] more on crowdfunding page
 - [ ] fix links and funnels
+- [ ] waves staking page
+- [ ] docs page
 
 #### TODO
 
-- [ ] waves staking page
 - [ ] connect homepage numbers
 - [ ] anons portal and MVP app
 - [ ] find better photos
