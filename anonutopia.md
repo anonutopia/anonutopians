@@ -5,14 +5,13 @@
 #### TODO - MVP
 
 - [ ] more on crowdfunding page
-- [ ] add email on website
+- [ ] fix links and funnels
 
 #### TODO
 
 - [ ] connect homepage numbers
 - [ ] anons portal and MVP app
 - [ ] find better photos
-- [ ] fix links and funnels
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
@@ -50,3 +49,4 @@
 - [x] update sitemap.xml
 - [x] about page
 - [x] apply for citizenship - page
+- [x] add email on website
