@@ -21,7 +21,7 @@
 - [ ] blog
 - [ ] more on anote - how does it work
 - [ ] profit - explain how for every one
-- [ ] about us - faq
+- [ ] about - faq
 
 #### DONE
 
