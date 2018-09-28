@@ -9,6 +9,7 @@
 
 #### TODO
 
+- [ ] waves staking page
 - [ ] connect homepage numbers
 - [ ] anons portal and MVP app
 - [ ] find better photos
