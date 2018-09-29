@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] more on crowdfunding page
 - [ ] fix links and funnels
 
 #### TODO
@@ -52,3 +51,4 @@
 - [x] add email on website
 - [x] docs page
 - [x] waves staking page
+- [x] more on crowdfunding page
