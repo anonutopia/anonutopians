@@ -7,7 +7,7 @@
 
 - presidential elections / elections for ambassadors
 - sponsored Waves staking
-- free websites
+- free websites / local food
 - hacker news and reddit
 - anonymous app / portal
 - contacting influencers
