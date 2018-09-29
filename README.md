@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] anonutopia MVP - website + basic contract + basic app
 - [ ] wallet - anonutopia
 - [ ] anote daemon MVP (check math)
 
@@ -55,3 +54,4 @@
 - [x] kriptodinar 404 pages
 - [x] anonutopia website
 - [x] wallet MVP
+- [x] anonutopia MVP - website + basic contract + basic app
