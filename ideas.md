@@ -5,7 +5,7 @@
 
 ## Growth Hacking Ideas
 
-- presidential elections
+- presidential elections / elections for ambassadors
 - sponsored Waves staking
 - free websites
 - hacker news and reddit
