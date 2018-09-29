@@ -9,7 +9,10 @@
 - sponsored Waves staking
 - free websites
 - hacker news and reddit
-- anonymous app
+- anonymous app / portal
 - contacting influencers
 - contacting anonymous groups
 - the hunt on ANOTE
+- AnonsRobot expansions
+- AnonOracle MVP
+- Banksters app MVP
