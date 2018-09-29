@@ -4,10 +4,9 @@
 
 #### TODO - MVP
 
-- [ ] fix links and funnels
-
 #### TODO
 
+- [ ] check funnels
 - [ ] connect homepage numbers
 - [ ] anons portal and MVP app
 - [ ] find better photos
@@ -52,3 +51,4 @@
 - [x] docs page
 - [x] waves staking page
 - [x] more on crowdfunding page
+- [x] fix links and funnels
