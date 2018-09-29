@@ -6,7 +6,6 @@
 
 - [ ] more on crowdfunding page
 - [ ] fix links and funnels
-- [ ] waves staking page
 
 #### TODO
 
@@ -52,3 +51,4 @@
 - [x] apply for citizenship - page
 - [x] add email on website
 - [x] docs page
+- [x] waves staking page
