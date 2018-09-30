@@ -17,3 +17,4 @@
 - Banksters app MVP
 - charity work
 - presidential elections / elections for ambassadors
+- create and advertise event on facebook (for example - anons party)
