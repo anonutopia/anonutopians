@@ -16,3 +16,4 @@
 - AnonsRobot expansions
 - AnonOracle MVP
 - Banksters app MVP
+- charity work

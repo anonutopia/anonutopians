@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] wallet - anonutopia
-- [ ] anote daemon MVP (check math)
+- [ ] anote daemon MVP (check math, funds)
 
 #### TODO
 
