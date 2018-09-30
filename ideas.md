@@ -5,7 +5,6 @@
 
 ## Growth Hacking Ideas
 
-- presidential elections / elections for ambassadors
 - sponsored Waves staking
 - free websites / local food
 - hacker news and reddit
@@ -17,3 +16,4 @@
 - AnonOracle MVP
 - Banksters app MVP
 - charity work
+- presidential elections / elections for ambassadors
