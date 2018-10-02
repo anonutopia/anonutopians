@@ -6,6 +6,7 @@
 
 - [ ] wallet - anonutopia
 - [ ] anote daemon MVP (check math, funds)
+- [ ] finish white paper
 
 #### TODO
 
