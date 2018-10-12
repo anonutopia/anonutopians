@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] anonutopia - apply for citizenshipg
+- [ ] anonutopia - apply for citizenship
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
 
