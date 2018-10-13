@@ -4,7 +4,13 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] anonutopia - apply for citizenship
+- [ ] anonutopia - save
+- [ ] anonutopia - login required
+- [ ] anonutopia - sign in session
+- [ ] anonutopia - email verification
+- [ ] anonutopia - translate
+- [ ] anonutopia - allow application based on amount of ANOTEs
+- [ ] disable subpages without sign in
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
 
@@ -16,7 +22,6 @@
 - [ ] enable wbtc and weth
 - [ ] advanced exchange
 - [ ] anote stats page
-- [ ] disable subpages without sign in
 - [ ] tool for paying utilities
 - [ ] sign in logo - link to homepage
 - [ ] profile page
