@@ -5,12 +5,11 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] anonutopia - save
-- [ ] anonutopia - login required
+- [ ] anonutopia - login required (add on subpages too)
 - [ ] anonutopia - sign in session
 - [ ] anonutopia - email verification
 - [ ] anonutopia - translate
-- [ ] anonutopia - allow application based on amount of ANOTEs
-- [ ] disable subpages without sign in
+- [ ] anonutopia - basic tag system
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
 
