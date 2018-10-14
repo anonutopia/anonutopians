@@ -5,8 +5,7 @@
 #### TODO 1.0.0 beta
 
 - [ ] gateway out - eth
-- [ ] finish math completely
-- [ ] finish funds completely
+- [ ] finish anote math
 
 #### DONE 1.0.0 beta
 
