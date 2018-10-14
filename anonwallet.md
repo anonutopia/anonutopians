@@ -5,8 +5,8 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] anonutopia - apply - handle responses
-- [ ] anonutopia - login required (add on subpages too)
 - [ ] anonutopia - sign in session
+- [ ] anonutopia - login required (add on subpages too)
 - [ ] anonutopia - email verification
 - [ ] anonutopia - translate
 - [ ] anonutopia - basic tag system + limitations
