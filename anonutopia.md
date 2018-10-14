@@ -4,10 +4,14 @@
 
 #### TODO - MVP
 
+- [ ] connect homepage numbers
+- [ ] more on anote - how does it work
+- [ ] profit - explain how for every one
+- [ ] about - faq
+- [ ] check funnels
+
 #### TODO
 
-- [ ] check funnels
-- [ ] connect homepage numbers
 - [ ] anons portal and MVP app
 - [ ] find better photos
 - [ ] basic contract
@@ -15,9 +19,6 @@
 - [ ] team
 - [ ] tags explanation
 - [ ] blog
-- [ ] more on anote - how does it work
-- [ ] profit - explain how for every one
-- [ ] about - faq
 
 #### DONE
 
