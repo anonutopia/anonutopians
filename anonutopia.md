@@ -8,6 +8,7 @@
 - [ ] more on anote - how does it work
 - [ ] profit - explain how for every one
 - [ ] about - faq
+- [ ] tags explanation
 - [ ] check funnels
 
 #### TODO
@@ -17,7 +18,6 @@
 - [ ] basic contract
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
-- [ ] tags explanation
 - [ ] blog
 
 #### DONE
