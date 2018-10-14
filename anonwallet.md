@@ -9,7 +9,7 @@
 - [ ] anonutopia - sign in session
 - [ ] anonutopia - email verification
 - [ ] anonutopia - translate
-- [ ] anonutopia - basic tag system
+- [ ] anonutopia - basic tag system + limitations
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
 
