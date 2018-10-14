@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] anonutopia - save
+- [ ] anonutopia - apply - handle responses
 - [ ] anonutopia - login required (add on subpages too)
 - [ ] anonutopia - sign in session
 - [ ] anonutopia - email verification
@@ -115,3 +115,4 @@
 - [x] choose fee currency automatically
 - [x] confirmation dialog on exchange + choose fee currency
 - [x] new btc gateway
+- [x] anonutopia - apply
