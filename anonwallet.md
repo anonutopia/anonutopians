@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] anonutopia - sign in session
 - [ ] anonutopia - email verification
 - [ ] anonutopia - translate
 - [ ] anonutopia - basic tag system + limitations
@@ -116,3 +115,4 @@
 - [x] anonutopia - apply
 - [x] anonutopia - apply - handle responses
 - [x] anonutopia - login required (add on subpages too)
+- [x] anonutopia - sign in session
