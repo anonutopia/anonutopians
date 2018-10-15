@@ -7,7 +7,7 @@
 - [ ] anonutopia - basic tag system + limitations
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
-- [ ] anonutopia - translate - serbian 
+- [ ] anonutopia - translate - serbian
 
 #### TODO 1.0.1 beta
 
