@@ -8,6 +8,7 @@
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
 - [ ] anonutopia - translate - serbian
+- [ ] strengthen up security
 
 #### TODO 1.0.1 beta
 
