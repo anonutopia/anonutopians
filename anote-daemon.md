@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] gateway out - eth
 - [ ] finish anote math
 
 #### DONE 1.0.0 beta
@@ -22,3 +21,4 @@
 - [x] new deployment script
 - [x] profit withdrawal
 - [x] gateway out - btc
+- [x] gateway out - eth
