@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] anonutopia - tag limitations
+- [ ] anonutopia - tag limitations, display, management
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
 - [ ] anonutopia - translate - serbian
