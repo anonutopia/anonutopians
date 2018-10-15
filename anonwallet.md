@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] anonutopia - email verification
 - [ ] anonutopia - translate
 - [ ] anonutopia - basic tag system + limitations
 - [ ] charge btc gateway fee
@@ -118,3 +117,4 @@
 - [x] anonutopia - sign in session
 - [x] anonutopia - email verification - send first email
 - [x] anonutopia - email verification - template
+- [x] anonutopia - email verification
