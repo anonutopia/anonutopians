@@ -4,10 +4,11 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] anonutopia - tag limitations, display, management
+- [ ] anonutopia - add badges
+- [ ] anonutopia - limitations based on badges
+- [ ] anonutopia - display badges
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
-- [ ] anonutopia - translate - serbian
 - [ ] strengthen up security
 
 #### TODO 1.0.1 beta
@@ -121,3 +122,4 @@
 - [x] anonutopia - email verification
 - [x] anonutopia - translate
 - [x] anonutopia - basic tags
+- [x] anonutopia - translate - serbian
