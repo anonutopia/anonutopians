@@ -5,7 +5,6 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] anonutopia - add badges based on anote amount
-- [ ] anonutopia - display badges
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
 - [ ] strengthen up security
@@ -122,3 +121,4 @@
 - [x] anonutopia - translate
 - [x] anonutopia - basic tags
 - [x] anonutopia - translate - serbian
+- [x] anonutopia - display badges
