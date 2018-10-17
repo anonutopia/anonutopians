@@ -4,7 +4,9 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] finish anote math
+- [ ] founder payouts
+- [ ] referral payouts
+- [ ] anote price growth
 
 #### DONE 1.0.0 beta
 
