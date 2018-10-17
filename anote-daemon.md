@@ -5,7 +5,6 @@
 #### TODO 1.0.0 beta
 
 - [ ] founder payouts
-- [ ] referral payouts
 - [ ] anote price growth
 
 #### DONE 1.0.0 beta
@@ -25,3 +24,4 @@
 - [x] gateway out - btc
 - [x] gateway out - eth
 - [x] finish anote math
+- [x] referral payouts
