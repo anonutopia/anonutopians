@@ -22,3 +22,4 @@
 - [x] profit withdrawal
 - [x] gateway out - btc
 - [x] gateway out - eth
+- [x] finish anote math
