@@ -4,8 +4,8 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] founder payouts
 - [ ] anote price growth
+- [ ] founder payout
 
 #### DONE 1.0.0 beta
 
