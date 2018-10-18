@@ -4,8 +4,8 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
+- [ ] charge btc gateway fee
 
 #### DONE 1.0.0 beta
 
