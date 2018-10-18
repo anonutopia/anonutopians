@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] separate funds
+
 
 #### DONE 1.0.0 beta
 
@@ -26,3 +26,4 @@
 - [x] referral payouts
 - [x] anote price growth
 - [x] founder payout
+- [x] separate funds
