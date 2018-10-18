@@ -4,6 +4,8 @@
 
 #### TODO 1.0.0 beta
 
+- [ ] new eth gateway logic
+- [ ] new btc gateway logic
 - [ ] charge eth gateway fee
 - [ ] charge btc gateway fee
 - [ ] sponsored fees updates
