@@ -5,6 +5,7 @@
 #### TODO 1.0.0 beta
 
 - [ ] founder payout
+- [ ] separate funds
 
 #### DONE 1.0.0 beta
 
