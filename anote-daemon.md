@@ -6,6 +6,7 @@
 
 - [ ] charge eth gateway fee
 - [ ] charge btc gateway fee
+- [ ] sponsored fees updates
 
 #### DONE 1.0.0 beta
 
