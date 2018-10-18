@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] bug - exchange - fees only in anote
 - [ ] anonutopia - add badges based on anote amount
 - [ ] strengthen up security
 - [ ] update exchange calculator
@@ -122,3 +121,4 @@
 - [x] anonutopia - basic tags
 - [x] anonutopia - translate - serbian
 - [x] anonutopia - display badges
+- [x] bug - exchange - fees only in anote
