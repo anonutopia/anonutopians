@@ -9,6 +9,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] send max amount button
 - [ ] update badges on anote balance change
 - [ ] buy anote for profit
 - [ ] official versioning + code
