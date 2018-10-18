@@ -9,6 +9,7 @@
 - [ ] charge btc gateway fee
 - [ ] charge eth gateway fee
 - [ ] strengthen up security
+- [ ] update exchange calculator
 
 #### TODO 1.0.1 beta
 
