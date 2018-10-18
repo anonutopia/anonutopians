@@ -9,7 +9,7 @@
 - [ ] profit - explain how for every one
 - [ ] about - faq
 - [ ] tags explanation
-- [ ] check funnels
+- [ ] check funnels and test everything
 
 #### TODO
 
