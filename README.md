@@ -19,6 +19,7 @@
 - [ ] buy missing domains
 - [ ] backup everything
 - [ ] secure everything
+- [ ] decentralize everything
 
 ## Other TODO Lists
 
