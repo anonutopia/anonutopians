@@ -6,8 +6,6 @@
 
 - [ ] bug - exchange - fees only in anote
 - [ ] anonutopia - add badges based on anote amount
-- [ ] charge btc gateway fee
-- [ ] charge eth gateway fee
 - [ ] strengthen up security
 - [ ] update exchange calculator
 
