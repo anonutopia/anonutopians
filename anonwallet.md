@@ -10,6 +10,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] remove badges if anote spent
 - [ ] buy anote for profit
 - [ ] official versioning + code
 - [ ] hardcoded fee price
