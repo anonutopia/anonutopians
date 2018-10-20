@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta
 
-- [ ] new eth gateway logic
 - [ ] new btc gateway logic
 - [ ] charge eth gateway fee
 - [ ] charge btc gateway fee
@@ -31,3 +30,4 @@
 - [x] anote price growth
 - [x] founder payout
 - [x] separate funds
+- [x] new eth gateway logic
