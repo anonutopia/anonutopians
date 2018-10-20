@@ -10,6 +10,7 @@
 - [ ] about - faq
 - [ ] tags explanation
 - [ ] check funnels and test everything
+- [ ] mobile menu bug
 
 #### TODO
 
