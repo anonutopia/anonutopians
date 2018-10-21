@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] update apply page
 - [ ] write more about anote - how does it work
 - [ ] tags explanation
 - [ ] profit - explain how for every one
