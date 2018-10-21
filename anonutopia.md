@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] connect homepage numbers
 - [ ] mobile menu bug
 - [ ] more on anote - how does it work
 - [ ] profit - explain how for every one
@@ -54,3 +53,4 @@
 - [x] waves staking page
 - [x] more on crowdfunding page
 - [x] fix links and funnels
+- [x] connect homepage numbers
