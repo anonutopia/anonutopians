@@ -5,12 +5,12 @@
 #### TODO - MVP
 
 - [ ] connect homepage numbers
+- [ ] mobile menu bug
 - [ ] more on anote - how does it work
 - [ ] profit - explain how for every one
 - [ ] about - faq
 - [ ] tags explanation
 - [ ] check funnels and test everything
-- [ ] mobile menu bug
 
 #### TODO
 
