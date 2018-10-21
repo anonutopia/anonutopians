@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] wallet - anonutopia
-- [ ] anote daemon MVP (check math, funds)
 - [ ] finish white paper
 
 #### TODO
@@ -57,3 +56,4 @@
 - [x] anonutopia website
 - [x] wallet MVP
 - [x] anonutopia MVP - website + basic contract + basic app
+- [x] anote daemon MVP (check math, funds)
