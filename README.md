@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] wallet - anonutopia
+- [ ] website work
 - [ ] finish white paper
 
 #### TODO
