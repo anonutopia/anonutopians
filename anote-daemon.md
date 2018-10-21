@@ -2,7 +2,7 @@
 
 ## Anote Daemon
 
-#### TODO 1.0.0 beta
+#### TODO 1.0.1 beta
 
 - [ ] sponsored fees updates
 
