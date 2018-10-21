@@ -4,8 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] update exchange calculator
-
 #### TODO 1.0.1 beta
 
 - [ ] send max amount button
@@ -124,3 +122,4 @@
 - [x] bug - exchange - fees only in anote
 - [x] anonutopia - add badges based on anote amount
 - [x] strengthen up the security
+- [x] update exchange calculator
