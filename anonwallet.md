@@ -6,6 +6,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] limit badges
 - [ ] send max amount button
 - [ ] update badges on anote balance change
 - [ ] buy anote for profit
