@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] write more about anote - how does it work
+- [ ] anote price and stats
 - [ ] tags explanation
 - [ ] profit - explain how for every one
 - [ ] check funnels and test everything
@@ -56,3 +56,4 @@
 - [x] mobile menu bug
 - [x] about - faq
 - [x] update apply page
+- [x] write more about anote - how does it work
