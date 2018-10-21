@@ -18,6 +18,7 @@
 - [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance)
 - [ ] team
 - [ ] blog
+- [ ] more FAQ items
 
 #### DONE
 
