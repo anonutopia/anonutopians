@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] update apply page
 - [ ] write more about anote - how does it work
 - [ ] tags explanation
 - [ ] profit - explain how for every one
@@ -56,3 +55,4 @@
 - [x] connect homepage numbers
 - [x] mobile menu bug
 - [x] about - faq
+- [x] update apply page
