@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] strengthen up security
 - [ ] update exchange calculator
 
 #### TODO 1.0.1 beta
@@ -124,3 +123,4 @@
 - [x] anonutopia - display badges
 - [x] bug - exchange - fees only in anote
 - [x] anonutopia - add badges based on anote amount
+- [x] strengthen up the security
