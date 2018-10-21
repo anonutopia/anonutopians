@@ -4,10 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] more on anote - how does it work
-- [ ] profit - explain how for every one
 - [ ] about - faq
+- [ ] write more about anote - how does it work
 - [ ] tags explanation
+- [ ] profit - explain how for every one
 - [ ] check funnels and test everything
 
 #### TODO
