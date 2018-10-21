@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] mobile menu bug
 - [ ] more on anote - how does it work
 - [ ] profit - explain how for every one
 - [ ] about - faq
@@ -54,3 +53,4 @@
 - [x] more on crowdfunding page
 - [x] fix links and funnels
 - [x] connect homepage numbers
+- [x] mobile menu bug
