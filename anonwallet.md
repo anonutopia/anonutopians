@@ -4,8 +4,9 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- sign in / up delay
+- sign in / sign up delay
 - verify email - preview
+- verify email - sign in
 
 #### TODO 1.0.1 beta
 

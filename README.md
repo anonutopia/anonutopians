@@ -8,10 +8,10 @@
 - [ ] send anote to first buyer
 - [ ] reset anote
 - [ ] website work
-- [ ] finish white paper
 
 #### TODO
 
+- [ ] finish white paper
 - [ ] growth hacking (anonsrobot, voting for decisions)
 - [ ] refactor and clean code on everything
 - [ ] anon portal (CMS) MVP
