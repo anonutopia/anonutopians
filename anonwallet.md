@@ -4,6 +4,9 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- sign in / up delay
+- verify email - preview
+
 #### TODO 1.0.1 beta
 
 - [ ] limit number of badges

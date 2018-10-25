@@ -4,6 +4,9 @@
 
 #### TODO - MVP
 
+- [ ] send anote to everybody
+- [ ] send anote to first buyer
+- [ ] reset anote
 - [ ] website work
 - [ ] finish white paper
 
