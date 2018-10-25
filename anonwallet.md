@@ -4,8 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- verify email - preview
-- verify email - sign in
+- [ ] verify email - preview
+- [ ] verify email - sign in
 
 #### TODO 1.0.1 beta
 
