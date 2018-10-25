@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] verify email - preview
 - [ ] verify email - sign in
 
 #### TODO 1.0.1 beta
@@ -128,3 +127,4 @@
 - [x] strengthen up the security
 - [x] update exchange calculator
 - [x] sign in / sign up delay
+- [x] verify email - preview
