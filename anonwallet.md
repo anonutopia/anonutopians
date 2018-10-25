@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- sign in / sign up delay
 - verify email - preview
 - verify email - sign in
 
@@ -128,3 +127,4 @@
 - [x] anonutopia - add badges based on anote amount
 - [x] strengthen up the security
 - [x] update exchange calculator
+- [x] sign in / sign up delay
