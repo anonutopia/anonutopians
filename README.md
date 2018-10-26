@@ -8,6 +8,7 @@
 - [ ] send anote to first buyer
 - [ ] reset anote
 - [ ] website work
+- [ ] update AnonsRobot
 
 #### TODO
 
