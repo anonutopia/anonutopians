@@ -4,8 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] verify email - sign in
-
 #### TODO 1.0.1 beta
 
 - [ ] limit number of badges
@@ -128,3 +126,4 @@
 - [x] update exchange calculator
 - [x] sign in / sign up delay
 - [x] verify email - preview
+- [x] verify email - sign in
