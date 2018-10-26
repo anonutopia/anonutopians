@@ -4,7 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] teasers (apply for citizenship notification)
+- [ ] teasers - apply for citizenship notification
+- [ ] teasers - profit page - call new funders
 
 #### TODO 1.0.1 beta
 

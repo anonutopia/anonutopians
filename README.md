@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] contact cvl
+- [ ] contact everybody to apply
 - [ ] website work
 - [ ] update AnonsRobot
 
