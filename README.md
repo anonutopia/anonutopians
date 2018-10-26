@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] reset anote
 - [ ] website work
 - [ ] update AnonsRobot
 
@@ -61,3 +60,4 @@
 - [x] send anote to everybody
 - [x] apply everybody who needs to be applied
 - [x] send anote to first buyer
+- [x] reset anote
