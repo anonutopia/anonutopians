@@ -2,11 +2,12 @@
 
 ## Anote Daemon
 
-#### TODO 1.0.0 beta
-
-#### DONE 1.0.1 beta
+#### TODO 1.0.1 beta
 
 - [ ] sponsored fees updates
+
+#### DONE 1.0.0 beta
+
 - [x] basic daemon - connect to waves node
 - [x] detect wav payments
 - [x] deploy
