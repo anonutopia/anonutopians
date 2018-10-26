@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] check sign up on a new browser with an existing address
 - [ ] test on mobile
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new funders
