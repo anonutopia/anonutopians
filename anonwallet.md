@@ -5,7 +5,7 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] disable application when balance is less then 1 anote
-- [ ] teasers
+- [ ] teasers (apply for citizenship notification)
 
 #### TODO 1.0.1 beta
 
