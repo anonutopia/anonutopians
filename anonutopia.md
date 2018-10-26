@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] speed up anote page
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
 - [ ] profit - explain how for every one
