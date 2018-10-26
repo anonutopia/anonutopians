@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] anote price and stats
+- [ ] anote - price, charts, calculator
 - [ ] tags explanation
 - [ ] profit - explain how for every one
 - [ ] check funnels and test everything + teasers

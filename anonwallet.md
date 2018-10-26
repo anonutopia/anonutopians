@@ -4,6 +4,9 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] disable application when balance is less then 1 anote
+- [ ] teasers
+
 #### TODO 1.0.1 beta
 
 - [ ] limit number of badges
