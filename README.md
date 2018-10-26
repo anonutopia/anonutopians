@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] send 2.4 mil for anonutopia
 - [ ] contact cvl
 - [ ] contact everybody to apply
 - [ ] website work
