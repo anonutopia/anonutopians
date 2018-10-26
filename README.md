@@ -24,7 +24,7 @@
 
 ## Other TODO Lists
 
-- [ANOTE](anote.md)
+- [ANOTE](anote-daemon.md)
 - [Anonutopia](anonutopia.md)
 - [Anonymous](anonymous.md)
 - [Kriptokuna](kriptokuna.md)
