@@ -7,7 +7,7 @@
 - [ ] anote price and stats
 - [ ] tags explanation
 - [ ] profit - explain how for every one
-- [ ] check funnels and test everything
+- [ ] check funnels and test everything + teasers
 
 #### TODO
 
