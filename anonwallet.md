@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] disable application when balance is less then 1 anote
 - [ ] teasers (apply for citizenship notification)
 
 #### TODO 1.0.1 beta
@@ -130,3 +129,4 @@
 - [x] sign in / sign up delay
 - [x] verify email - preview
 - [x] verify email - sign in
+- [x] disable application when balance is less then 1 anote
