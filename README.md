@@ -16,7 +16,6 @@
 - [ ] growth hacking (anonsrobot, voting for decisions)
 - [ ] refactor and clean code on everything
 - [ ] anon portal (CMS) MVP
-- [ ] setup final version anonnet
 - [ ] define democratic rules for open source projects
 - [ ] buy missing domains
 - [ ] backup everything
