@@ -6,7 +6,7 @@
 
 - [ ] send 2.4 mil for anonutopia
 - [ ] contact cvl
-- [ ] contact everybody to apply
+- [ ] contact everybody to apply (friends + groups)
 - [ ] website work
 - [ ] update AnonsRobot
 
