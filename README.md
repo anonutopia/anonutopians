@@ -4,9 +4,9 @@
 
 #### TODO - MVP
 
-- [ ] send anote to everybody
 - [ ] send anote to first buyer
 - [ ] reset anote
+- [ ] apply everybody who needs to be applied
 - [ ] website work
 - [ ] update AnonsRobot
 
@@ -60,3 +60,4 @@
 - [x] anonutopia MVP - website + basic contract + basic app
 - [x] anote daemon MVP (check math, funds)
 - [x] wallet - anonutopia
+- [x] send anote to everybody
