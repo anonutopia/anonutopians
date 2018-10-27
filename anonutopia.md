@@ -9,6 +9,7 @@
 - [ ] tags explanation
 - [ ] profit - explain how for every one
 - [ ] check funnels and test everything + teasers
+- [ ] anonsrobot teasing
 
 #### TODO
 

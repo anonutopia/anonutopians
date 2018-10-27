@@ -8,7 +8,6 @@
 - [ ] contact cvl
 - [ ] contact everybody to apply (friends + groups)
 - [ ] website work
-- [ ] update AnonsRobot
 
 #### TODO
 
