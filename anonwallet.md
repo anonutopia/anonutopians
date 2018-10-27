@@ -4,8 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] bug - load sign up form nicely
 - [ ] bug - address cookie
-- [ ] test on mobile
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new funders
 
@@ -135,3 +135,5 @@
 - [x] verify email - sign in
 - [x] disable application when balance is less then 1 anote
 - [x] check sign up on a new browser with an existing address
+- [x] test on mobile
+- [x] bug - mobile sign up form
