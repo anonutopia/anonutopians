@@ -9,7 +9,6 @@
 - [ ] tags explanation
 - [ ] profit - explain how for every one
 - [ ] check funnels and test everything + teasers
-- [ ] anonsrobot teasing
 
 #### TODO
 
@@ -59,3 +58,4 @@
 - [x] about - faq
 - [x] update apply page
 - [x] write more about anote - how does it work
+- [x] anonsrobot teasing
