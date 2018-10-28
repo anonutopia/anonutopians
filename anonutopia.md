@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] bug - kriptodinar link
 - [ ] speed up anote page
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
