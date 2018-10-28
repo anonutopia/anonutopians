@@ -4,13 +4,12 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] bug - load sign up form nicely
+#### TODO 1.0.1 beta
+
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new funders
 - [ ] duplicated seo issue
-
-#### TODO 1.0.1 beta
-
+- [ ] bug - load sign up form nicely
 - [ ] setup smtp domain
 - [ ] limit number of badges
 - [ ] send max amount button
