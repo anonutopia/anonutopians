@@ -7,6 +7,7 @@
 - [ ] bug - load sign up form nicely
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new funders
+- [ ] duplicated seo issue
 
 #### TODO 1.0.1 beta
 
@@ -24,7 +25,6 @@
 - [ ] sign in logo - link to homepage
 - [ ] profile page
 - [ ] advanced referral system
-- [ ] fix seo description issue
 - [ ] address book
 - [ ] general profit balance checker (for other addresses)
 - [ ] connect all data points (kuna, euro, dollar)
@@ -137,3 +137,4 @@
 - [x] test on mobile
 - [x] bug - mobile sign up form
 - [x] bug - address cookie
+- [x] fix seo description issue
