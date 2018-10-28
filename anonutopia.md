@@ -9,10 +9,10 @@
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
 - [ ] profit - explain how for every one
-- [ ] check funnels and test everything + teasers
 
 #### TODO
 
+- [ ] check funnels and test everything
 - [ ] anons portal and MVP app
 - [ ] find better photos
 - [ ] basic contract
