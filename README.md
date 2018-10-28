@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] add tags for lm and god
 - [ ] send 2.4 mil for anonutopia
 - [ ] contact cvl
 - [ ] send anote to logo designer
