@@ -8,7 +8,6 @@
 - [ ] send 2.4 mil for anonutopia
 - [ ] contact cvl
 - [ ] send anote to logo designer
-- [ ] contact everybody to apply (friends + groups)
 - [ ] website work
 
 #### TODO
@@ -65,3 +64,4 @@
 - [x] apply everybody who needs to be applied
 - [x] send anote to first buyer
 - [x] reset anote
+- [x] contact everybody to apply (friends + groups)
