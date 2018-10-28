@@ -6,6 +6,7 @@
 
 - [ ] send 2.4 mil for anonutopia
 - [ ] contact cvl
+- [ ] send anote to logo designer
 - [ ] contact everybody to apply (friends + groups)
 - [ ] website work
 
