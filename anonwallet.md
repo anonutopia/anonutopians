@@ -4,6 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] add domain on smtp and validate it
+
 #### TODO 1.0.1 beta
 
 - [ ] teasers - apply for citizenship notification
