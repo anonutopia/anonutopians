@@ -5,6 +5,8 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] add domain on smtp and validate it
+- [ ] hogar - remove free anote warning
+- [ ] verify link - localization
 
 #### TODO 1.0.1 beta
 
