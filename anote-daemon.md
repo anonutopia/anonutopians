@@ -4,6 +4,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] double price update robot messages
 - [ ] sponsored fees updates
 
 #### DONE 1.0.0 beta
