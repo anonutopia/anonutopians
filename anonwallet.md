@@ -8,6 +8,7 @@
 - [ ] hogar - remove free anote warning
 - [ ] verify link - localization
 - [ ] math - wrong balance rounding
+- [ ] nicer message when sending too much
 
 #### TODO 1.0.1 beta
 
