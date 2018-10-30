@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] ANOTE - Anote
 - [ ] anonutopia_balkan link
 - [ ] speed up anote page
 - [ ] anote - price, charts, calculator
