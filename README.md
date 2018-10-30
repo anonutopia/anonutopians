@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] send 2.4 mil for anonutopia
-- [ ] send anote to logo designer
 - [ ] website work
 
 #### TODO
@@ -65,3 +63,5 @@
 - [x] contact everybody to apply (friends + groups)
 - [x] add tags for lm and god
 - [x] contact cvl
+- [x] send anote to logo designer
+- [x] send 2.4 mil for anonutopia
