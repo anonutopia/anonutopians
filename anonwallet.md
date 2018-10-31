@@ -7,7 +7,6 @@
 - [ ] profit withdrawal - check if there's something to withdraw for every currency
 - [ ] add domain on smtp and validate it
 - [ ] hogar - remove free anote warning
-- [ ] verify link - localization
 
 #### TODO 1.0.1 beta
 
@@ -145,3 +144,4 @@
 - [x] bug - mobile sign up form
 - [x] bug - address cookie
 - [x] fix seo description issue
+- [x] verify link - localization
