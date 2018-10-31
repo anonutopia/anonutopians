@@ -4,14 +4,16 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] profit withdrawal - check if there's something to withdraw for every currency
 - [ ] add domain on smtp and validate it
 - [ ] hogar - remove free anote warning
 - [ ] verify link - localization
-- [ ] math - wrong balance rounding
-- [ ] nicer message when sending too much
 
 #### TODO 1.0.1 beta
 
+- [ ] math - wrong balance rounding
+- [ ] nicer message when sending too much
+- [ ] list referred users
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new funders
 - [ ] duplicated seo issue
