@@ -4,7 +4,6 @@
 
 #### TODO 1.0.1 beta
 
-- [ ] double price update robot messages
 - [ ] sponsored fees updates
 
 #### DONE 1.0.0 beta
@@ -32,3 +31,4 @@
 - [x] new btc gateway logic
 - [x] charge eth gateway fee
 - [x] charge btc gateway fee
+- [x] double price update robot messages
