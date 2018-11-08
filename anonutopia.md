@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] airdrop - two ways, 2 free anotes
 - [ ] ANOTE - Anote
 - [ ] anonutopia_balkan link
 - [ ] speed up anote page
@@ -13,6 +14,7 @@
 
 #### TODO
 
+- [ ] move kriptokuna / kriptodinar to anonutopia CMS
 - [ ] check funnels and test everything
 - [ ] anons portal and MVP app
 - [ ] find better photos

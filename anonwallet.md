@@ -4,6 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] referral anote on verifying email
+
 #### TODO 1.0.1 beta
 
 - [ ] limit amount of free anotes to 10k
