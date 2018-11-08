@@ -5,13 +5,13 @@
 #### TODO - MVP
 
 - [ ] anonutopia_balkan link
-- [ ] speed up anote page
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
 - [ ] profit - explain how for every one
 
 #### TODO
 
+- [ ] speed up anote page
 - [ ] move kriptokuna / kriptodinar to anonutopia CMS
 - [ ] check funnels and test everything
 - [ ] anons portal and MVP app
