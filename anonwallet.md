@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] send 1 free anote on first email verification
 - [ ] become a citizen if 10 referred users become applicants
 
 #### TODO 1.0.1 beta
@@ -152,3 +151,4 @@
 - [x] add domain on smtp and validate it
 - [x] email verification message
 - [x] allow everybody to apply
+- [x] send 1 free anote on first email verification
