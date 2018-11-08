@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] ANOTE - Anote
 - [ ] anonutopia_balkan link
 - [ ] speed up anote page
 - [ ] anote - price, charts, calculator
@@ -64,3 +63,4 @@
 - [x] anonsrobot teasing
 - [x] bug - kriptodinar link
 - [x] airdrop - two ways, 2 free anotes
+- [x] ANOTE - Anote
