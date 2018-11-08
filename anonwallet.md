@@ -4,8 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] referral anote on verifying email
-
 #### TODO 1.0.1 beta
 
 - [ ] limit amount of free anotes to 10k
@@ -153,3 +151,4 @@
 - [x] allow everybody to apply
 - [x] send 1 free anote on first email verification
 - [x] become a citizen if 10 referred users become verified applicants
+- [x] referral anote on verifying email
