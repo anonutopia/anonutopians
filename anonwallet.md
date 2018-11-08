@@ -8,7 +8,7 @@
 - [ ] email verification message
 - [ ] send 1 free anote on first email verification
 - [ ] become a citizen if 10 referred users become applicants
-- [ ] limit amount of free anotes to 20k
+- [ ] limit amount of free anotes to 10k
 
 #### TODO 1.0.1 beta
 
