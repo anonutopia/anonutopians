@@ -8,10 +8,10 @@
 - [ ] email verification message
 - [ ] send 1 free anote on first email verification
 - [ ] become a citizen if 10 referred users become applicants
-- [ ] limit amount of free anotes to 10k
 
 #### TODO 1.0.1 beta
 
+- [ ] limit amount of free anotes to 10k
 - [ ] become a founder if 100 referred users become applicants
 - [ ] become a pioneer if 1000 referred users become applicants
 - [ ] profit withdrawal - check if there's something to withdraw for every currency
