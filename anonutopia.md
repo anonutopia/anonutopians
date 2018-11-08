@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] airdrop - two ways, 2 free anotes
 - [ ] ANOTE - Anote
 - [ ] anonutopia_balkan link
 - [ ] speed up anote page
@@ -64,3 +63,4 @@
 - [x] write more about anote - how does it work
 - [x] anonsrobot teasing
 - [x] bug - kriptodinar link
+- [x] airdrop - two ways, 2 free anotes
