@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] become a citizen if 10 referred users become applicants
+- [ ] become a citizen if 10 referred users become verified applicants
 
 #### TODO 1.0.1 beta
 
