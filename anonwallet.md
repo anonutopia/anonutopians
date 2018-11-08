@@ -4,11 +4,18 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] profit withdrawal - check if there's something to withdraw for every currency
-- [ ] hogar - remove free anote warning
+- [ ] allow everybody to apply
+- [ ] email verification message
+- [ ] send 1 free anote on first email verification
+- [ ] become a citizen if 10 referred users become applicants
+- [ ] limit amount of free anotes to 20k
 
 #### TODO 1.0.1 beta
 
+- [ ] become a founder if 100 referred users become applicants
+- [ ] become a pioneer if 1000 referred users become applicants
+- [ ] profit withdrawal - check if there's something to withdraw for every currency
+- [ ] remove free anote warning
 - [ ] math - wrong balance rounding
 - [ ] nicer message when sending too much
 - [ ] list referred users
