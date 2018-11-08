@@ -4,6 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] profit - show amount in euros
+
 #### TODO 1.0.1 beta
 
 - [ ] move asset ids to config
