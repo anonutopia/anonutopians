@@ -17,7 +17,7 @@
 - [ ] nicer message when sending too much
 - [ ] list referred users
 - [ ] teasers - apply for citizenship notification
-- [ ] teasers - profit page - call new funders
+- [ ] teasers - profit page - call new founders
 - [ ] duplicated seo issue
 - [ ] bug - load sign up form nicely
 - [ ] setup smtp domain
