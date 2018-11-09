@@ -20,7 +20,6 @@
 - [ ] teasers - profit page - call new founders
 - [ ] duplicated seo issue
 - [ ] bug - load sign up form nicely
-- [ ] setup smtp domain
 - [ ] limit number of badges
 - [ ] send max amount button
 - [ ] update badges on anote balance change
