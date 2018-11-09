@@ -4,8 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] profit - show amount in euros
-
 #### TODO 1.0.1 beta
 
 - [ ] move asset ids to config
@@ -155,3 +153,4 @@
 - [x] send 1 free anote on first email verification
 - [x] become a citizen if 10 referred users become verified applicants
 - [x] referral anote on verifying email
+- [x] profit - show amount in euros
