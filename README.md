@@ -5,6 +5,8 @@
 #### TODO - MVP
 
 - [ ] website work
+- [ ] hello message for robot - adding to groups
+- [ ] robot - report all errors to AnonOps group
 
 #### TODO
 
