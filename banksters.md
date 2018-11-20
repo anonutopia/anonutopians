@@ -52,6 +52,38 @@
 - [ ] UniCredit banka
 - [ ] Vojvođanska banka
 
+## BiH
+
+### Federacija BiH
+
+- [ ] Addiko Bank
+- [ ] ASA Banka
+- [ ] Bosna Bank International
+- [ ] Intesa Sanpaolo Banka
+- [ ] Komerijalno-investiciona banka
+- [ ] NLB Banka
+- [ ] Privredna Banka Sarajevo
+- [ ] ProCredit Bank
+- [ ] Raiffeisen Bank
+- [ ] Razvojna banka Federacije BiH
+- [ ] Sberbank BH
+- [ ] Sparkasse Bank
+- [ ] UniCredit Bank
+- [ ] Union banka
+- [ ] Vakufska banka
+- [ ] Sarajevo ZiraatBank BH
+
+### Republika Srpska
+
+- [ ] Addiko Bank
+- [ ] Komercijalna banka
+- [ ] MF Banka
+- [ ] NLB Banka
+- [ ] Nova banka
+- [ ] Pavlovic International Bank
+- [ ] Sberbank
+- [ ] Unicredit Bank
+
 ## Ireland
 
 - [ ] Allied Irish Banks                            - Rubeola
