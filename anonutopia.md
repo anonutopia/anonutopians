@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] multiple languages
 - [ ] typo - wallet (anote page)
 - [ ] anonutopia_balkan link
 - [ ] anote - price, charts, calculator
