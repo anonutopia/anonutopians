@@ -1,5 +1,10 @@
 # Anonutopia Banksters
 
+## World Wide
+
+- [ ] Revolut                                       - Boduloman
+- [ ] Monese                                        - Boduloman
+
 ## Croatia
 
 - [ ] Addiko Bank                                   - Hogar (?)
