@@ -2,15 +2,15 @@
 
 ## World Wide
 
-- [ ] Revolut                                       - Boduloman
-- [ ] Monese                                        - Boduloman
+- [*] Revolut                                       - Boduloman
+- [*] Monese                                        - Boduloman
 
 ## Croatia
 
-- [ ] Addiko Bank                                   - Hogar (?)
+- [*] Addiko Bank                                   - Hogar (?)
 - [ ] Banka Kovanica
 - [ ] Croatia banka
-- [ ] Erste&Steiermärkische Bank                    - Boduloman, Hogar
+- [*] Erste&Steiermärkische Bank                    - Boduloman, Hogar
 - [ ] Hrvatska poštanska banka
 - [ ] Imex banka
 - [ ] Istarska kreditna banka Umag
@@ -28,15 +28,15 @@
 - [ ] Sberbank
 - [ ] Slatinska banka
 - [ ] Splitska banka
-- [ ] Zagrebačka banka                              - S
+- [*] Zagrebačka banka                              - S
 
 ## Serbia
 
 - [ ] Addiko Bank
 - [ ] AIK banka
 - [ ] API Bank
-- [ ] Banca Intesa                                  - Bog
-- [ ] Banka Poštanska Štedionica                    - Z
+- [*] Banca Intesa                                  - Bog
+- [*] Banka Poštanska Štedionica                    - Z
 - [ ] Credit Agricole Srbija
 - [ ] Direktna Banka AD
 - [ ] Erste banka
@@ -53,7 +53,7 @@
 - [ ] Raiffeisen bank
 - [ ] Sberbank
 - [ ] Societe Generale banka
-- [ ] Telenor banka                                 - MK Ultra
+- [*] Telenor banka                                 - MK Ultra
 - [ ] UniCredit banka
 - [ ] Vojvođanska banka
 
@@ -91,7 +91,7 @@
 
 ## Ireland
 
-- [ ] Allied Irish Banks                            - Rubeola
+- [*] Allied Irish Banks                            - Rubeola
 - [ ] Bank of America Merrill Lynch International
 - [ ] Bank of Ireland
 - [ ] Bank of Montreal Ireland
