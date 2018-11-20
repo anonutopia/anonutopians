@@ -4,6 +4,9 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] show nickname
+- [ ] apply for tag later
+
 #### TODO 1.0.1 beta
 
 - [ ] choose a different main currency
