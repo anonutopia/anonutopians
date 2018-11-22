@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] multiple languages
-- [ ] typo - wallet (anote page)
 - [ ] anonutopia_balkan link
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
@@ -66,3 +65,4 @@
 - [x] bug - kriptodinar link
 - [x] airdrop - two ways, 2 free anotes
 - [x] ANOTE - Anote
+- [x] typo - wallet (anote page)

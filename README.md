@@ -5,11 +5,11 @@
 #### TODO - MVP
 
 - [ ] website work
-- [ ] hello message for robot - adding to groups
 - [ ] robot - report all errors to AnonOps group
 
 #### TODO
 
+- [ ] hello message for robot - adding to groups
 - [ ] finish white paper
 - [ ] growth hacking (anonsrobot, voting for decisions)
 - [ ] refactor and clean code on everything
