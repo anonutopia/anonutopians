@@ -4,8 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] disable emails except gmail, protonmail etc
-
 #### TODO 1.0.1 beta
 
 - [ ] show nickname
@@ -158,3 +156,4 @@
 - [x] become a citizen if 10 referred users become verified applicants
 - [x] referral anote on verifying email
 - [x] profit - show amount in euros
+- [x] disable emails except gmail, protonmail etc
