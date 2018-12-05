@@ -4,9 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] new kriptokuna deploy script
 - [ ] new kriptodinar deploy script
-- [ ] deploy kriptokuna
 - [ ] deploy kriptodinar
 - [ ] website work
 - [ ] robot - report all errors to AnonOps group
@@ -71,3 +69,5 @@
 - [x] contact cvl
 - [x] send anote to logo designer
 - [x] send 2.4 mil for anonutopia
+- [x] new kriptokuna deploy script
+- [x] deploy kriptokuna
