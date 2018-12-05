@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] new kriptodinar deploy script
-- [ ] deploy kriptodinar
 - [ ] website work
 - [ ] robot - report all errors to AnonOps group
 
@@ -71,3 +69,5 @@
 - [x] send 2.4 mil for anonutopia
 - [x] new kriptokuna deploy script
 - [x] deploy kriptokuna
+- [x] new kriptodinar deploy script
+- [x] deploy kriptodinar
