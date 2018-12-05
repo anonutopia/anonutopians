@@ -9,7 +9,7 @@
 #### TODO 1.0.1 beta
 
 - [ ] show nickname
-- [ ] apply for tag later
+- [ ] apply for tag afterwards
 - [ ] choose a different main currency
 - [ ] move asset ids to config
 - [ ] limit amount of free anotes to 10k
