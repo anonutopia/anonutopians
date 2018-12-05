@@ -4,6 +4,10 @@
 
 #### TODO - MVP
 
+- [ ] new kriptokuna deploy script
+- [ ] new kriptodinar deploy script
+- [ ] deploy kriptokuna
+- [ ] deploy kriptodinar
 - [ ] website work
 - [ ] robot - report all errors to AnonOps group
 
