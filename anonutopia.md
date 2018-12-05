@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] simple email form
+- [ ] simple email form (only major ISP domains)
 
 #### TODO
 
