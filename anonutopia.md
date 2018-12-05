@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] update anote chart
 - [ ] simple email form (only major ISP domains)
 
 #### TODO
