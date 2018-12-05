@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] update anote chart
 - [ ] simple email form (only major ISP domains)
 
 #### TODO
@@ -68,3 +67,4 @@
 - [x] ANOTE - Anote
 - [x] typo - wallet (anote page)
 - [x] anonutopia_balkan link
+- [x] update anote chart
