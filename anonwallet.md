@@ -4,11 +4,12 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] show nickname
-- [ ] apply for tag later
+- [ ] disable emails except gmail, protonmail etc
 
 #### TODO 1.0.1 beta
 
+- [ ] show nickname
+- [ ] apply for tag later
 - [ ] choose a different main currency
 - [ ] move asset ids to config
 - [ ] limit amount of free anotes to 10k

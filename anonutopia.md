@@ -4,14 +4,15 @@
 
 #### TODO - MVP
 
+- [ ] simple email form
+
+#### TODO
+
 - [ ] multiple languages
 - [ ] anonutopia_balkan link
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
 - [ ] profit - explain how for every one
-
-#### TODO
-
 - [ ] speed up anote page
 - [ ] move kriptokuna / kriptodinar to anonutopia CMS
 - [ ] check funnels and test everything
