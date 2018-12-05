@@ -9,7 +9,6 @@
 #### TODO
 
 - [ ] multiple languages
-- [ ] anonutopia_balkan link
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
 - [ ] profit - explain how for every one
@@ -67,3 +66,4 @@
 - [x] airdrop - two ways, 2 free anotes
 - [x] ANOTE - Anote
 - [x] typo - wallet (anote page)
+- [x] anonutopia_balkan link
