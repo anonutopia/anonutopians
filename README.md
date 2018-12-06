@@ -9,6 +9,7 @@
 
 #### TODO
 
+- [ ] move AnonLib out as a separate project
 - [ ] hello message for robot - adding to groups
 - [ ] finish white paper
 - [ ] growth hacking
