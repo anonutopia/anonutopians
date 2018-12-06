@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] robot - report all errors to AnonOps group
+- [ ] move AnonsRobot out as a separate project
 
 #### TODO
 
