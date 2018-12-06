@@ -7,7 +7,7 @@
 #### TODO 1.0.1 beta
 
 - [ ] show nickname
-- [ ] apply for tag afterwards
+- [ ] apply for tag afterwards / update badges on anote balance change
 - [ ] choose a different main currency
 - [ ] move asset ids to config
 - [ ] limit amount of free anotes to 10k
@@ -24,7 +24,6 @@
 - [ ] bug - load sign up form nicely
 - [ ] limit number of badges
 - [ ] send max amount button
-- [ ] update badges on anote balance change
 - [ ] buy anote for profit
 - [ ] official versioning + code
 - [ ] hardcoded fee price
