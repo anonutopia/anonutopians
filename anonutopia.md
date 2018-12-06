@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] simple email form (only major ISP domains)
+- [ ] applicants email warning - ways to get citizenship
 
 #### TODO
 
