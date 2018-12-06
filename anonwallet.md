@@ -8,6 +8,8 @@
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new founders
 - [ ] sign in logo - link to homepage
+- [ ] decrease anote holding limits according to the price
+- [ ] free citizenship - based on anotes
 
 #### TODO 1.0.1 beta
 
