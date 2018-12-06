@@ -6,6 +6,7 @@
 
 - [ ] simple email form (only major ISP domains)
 - [ ] applicants email warning - ways to get free anotes
+- [ ] check funnels and test everything
 
 #### TODO
 
@@ -14,7 +15,6 @@
 - [ ] tags explanation
 - [ ] profit - explain how for every one
 - [ ] speed up anote page
-- [ ] check funnels and test everything
 - [ ] anons portal and MVP app
 - [ ] find better photos
 - [ ] basic contract

@@ -4,22 +4,24 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] apply for tag afterwards / update badges on anote balance change
+- [ ] teasers - apply for citizenship notification
+- [ ] teasers - profit page - call new founders
+- [ ] sign in logo - link to homepage
+
 #### TODO 1.0.1 beta
 
 - [ ] show nickname
-- [ ] apply for tag afterwards / update badges on anote balance change
 - [ ] choose a different main currency
 - [ ] move asset ids to config
 - [ ] limit amount of free anotes to 10k
 - [ ] become a founder if 100 referred users become applicants
 - [ ] become a pioneer if 1000 referred users become applicants
 - [ ] profit withdrawal - check if there's something to withdraw for every currency
-- [ ] remove free anote warning
+- [ ] remove free anote warning / disable airdrop notification
 - [ ] math - wrong balance rounding
 - [ ] nicer message when sending too much
 - [ ] list referred users
-- [ ] teasers - apply for citizenship notification
-- [ ] teasers - profit page - call new founders
 - [ ] duplicated seo issue
 - [ ] bug - load sign up form nicely
 - [ ] limit number of badges
@@ -30,15 +32,11 @@
 - [ ] enable wbtc and weth
 - [ ] advanced exchange
 - [ ] anote stats page
-- [ ] tool for paying utilities
-- [ ] sign in logo - link to homepage
-- [ ] profile page
 - [ ] advanced referral system
 - [ ] address book
 - [ ] general profit balance checker (for other addresses)
 - [ ] connect all data points (kuna, euro, dollar)
-- [ ] transaction history - our own
-- [ ] disable airdrop notification
+- [ ] our own transaction history list
 
 #### DONE 1.0.0 beta
 

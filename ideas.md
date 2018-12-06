@@ -13,6 +13,7 @@
 - [ ] CMS
 - [ ] AnonATM
 - [ ] cloud miner
+- [ ] tool for paying utilities
 
 ## Growth Hacking Ideas
 
