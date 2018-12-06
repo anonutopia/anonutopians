@@ -4,17 +4,15 @@
 
 #### TODO - MVP
 
-- [ ] website work
 - [ ] robot - report all errors to AnonOps group
 
 #### TODO
 
 - [ ] hello message for robot - adding to groups
 - [ ] finish white paper
-- [ ] growth hacking (anonsrobot, voting for decisions)
+- [ ] growth hacking
 - [ ] refactor and clean code on everything
 - [ ] anon portal (CMS) MVP
-- [ ] define democratic rules for open source projects
 - [ ] buy missing domains
 - [ ] backup everything
 - [ ] secure everything

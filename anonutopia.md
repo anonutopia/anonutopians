@@ -5,16 +5,15 @@
 #### TODO - MVP
 
 - [ ] simple email form (only major ISP domains)
-- [ ] applicants email warning - ways to get citizenship
+- [ ] applicants email warning - ways to get free anotes
 
 #### TODO
 
-- [ ] multiple languages
+- [ ] multiple languages - move kriptokuna / kriptodinar to anonutopia CMS
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
 - [ ] profit - explain how for every one
 - [ ] speed up anote page
-- [ ] move kriptokuna / kriptodinar to anonutopia CMS
 - [ ] check funnels and test everything
 - [ ] anons portal and MVP app
 - [ ] find better photos
