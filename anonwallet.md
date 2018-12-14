@@ -7,7 +7,6 @@
 - [ ] apply for tag afterwards / update badges on anote balance change
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new founders
-- [ ] sign in logo - link to homepage
 - [ ] decrease anote holding limits according to the price
 - [ ] free citizenship - based on anotes
 
@@ -156,3 +155,4 @@
 - [x] referral anote on verifying email
 - [x] profit - show amount in euros
 - [x] disable emails except gmail, protonmail etc
+- [x] sign in logo - link to homepage
