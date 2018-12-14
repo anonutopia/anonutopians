@@ -68,3 +68,4 @@
 - [x] typo - wallet (anote page)
 - [x] anonutopia_balkan link
 - [x] update anote chart
+- [x] referral redirect
