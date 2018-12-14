@@ -4,10 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] move AnonsRobot out as a separate project
+
 
 #### TODO
 
+- [ ] move AnonsRobot out as a separate project
 - [ ] move AnonLib out as a separate project
 - [ ] hello message for robot - adding to groups
 - [ ] finish white paper
