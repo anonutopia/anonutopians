@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] robot - report all errors to AnonOps group
 - [ ] move AnonsRobot out as a separate project
 
 #### TODO
@@ -71,3 +70,4 @@
 - [x] deploy kriptokuna
 - [x] new kriptodinar deploy script
 - [x] deploy kriptodinar
+- [x] robot - report all errors to AnonOps group
