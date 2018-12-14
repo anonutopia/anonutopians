@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-
+- [ ] check funnels and test everything
 
 #### TODO
 

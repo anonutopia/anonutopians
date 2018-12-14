@@ -6,7 +6,6 @@
 
 - [ ] simple email form (only major ISP domains)
 - [ ] applicants email warning - ways to get free anotes
-- [ ] check funnels and test everything
 
 #### TODO
 
