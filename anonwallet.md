@@ -4,12 +4,12 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] upgrade verification / init process
 - [ ] apply for tag afterwards / update badges on anote balance change
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new founders
 - [ ] decrease anote holding limits according to the price
 - [ ] free citizenship - based on anotes
-- [ ] upgrade verification process
 
 #### TODO 1.0.1 beta
 
