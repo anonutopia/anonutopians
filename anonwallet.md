@@ -9,6 +9,7 @@
 - [ ] teasers - profit page - call new founders
 - [ ] decrease anote holding limits according to the price
 - [ ] free citizenship - based on anotes
+- [ ] upgrade verification process
 
 #### TODO 1.0.1 beta
 
