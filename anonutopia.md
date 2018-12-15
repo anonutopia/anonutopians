@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] simple email form - create user
 - [ ] simple email form - send email
 - [ ] simple email form - verify email + login to wallet
 - [ ] applicants email warning - ways to get free anotes
@@ -71,3 +70,4 @@
 - [x] update anote chart
 - [x] referral redirect
 - [x] simple email form - validation (required only major email providers, check if existing)
+- [x] simple email form - create user
