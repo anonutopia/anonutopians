@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] simple email form - redirect + login to wallet
+- [ ] simple email form - redirect
 - [ ] applicants email warning - ways to get free anotes
 
 #### TODO
