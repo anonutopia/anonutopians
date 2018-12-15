@@ -6,6 +6,7 @@
 
 - [ ] simple email form - create user
 - [ ] simple email form - send email
+- [ ] simple email form - verify email + login to wallet
 - [ ] applicants email warning - ways to get free anotes
 
 #### TODO
