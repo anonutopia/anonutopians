@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] simple email form (only major ISP domains)
+- [ ] simple email form - create user
+- [ ] simple email form - send email
 - [ ] applicants email warning - ways to get free anotes
 
 #### TODO
@@ -68,3 +69,4 @@
 - [x] anonutopia_balkan link
 - [x] update anote chart
 - [x] referral redirect
+- [x] simple email form - validation (required only major email providers, check if existing)
