@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] simple email form - redirect
 - [ ] applicants email warning - ways to get free anotes
 
 #### TODO
@@ -71,3 +70,4 @@
 - [x] simple email form - validation (required only major email providers, check if existing)
 - [x] simple email form - create user
 - [x] simple email form - send email
+- [x] simple email form - redirect
