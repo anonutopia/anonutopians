@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] upgrade verification / init process
 - [ ] apply for tag afterwards / update badges on anote balance change
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new founders
@@ -157,3 +156,4 @@
 - [x] profit - show amount in euros
 - [x] disable emails except gmail, protonmail etc
 - [x] sign in logo - link to homepage
+- [x] upgrade verification / init process
