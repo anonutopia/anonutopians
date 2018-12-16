@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] enable profile update after citizenship application
 - [ ] apply for tag afterwards / update badges on anote balance change
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new founders
