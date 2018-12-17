@@ -4,11 +4,11 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] init bug
 - [ ] enable profile update after citizenship application
 - [ ] apply for tag afterwards / update badges on anote balance change
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new founders
-- [ ] decrease anote holding limits according to the price
 - [ ] free citizenship - based on anotes
 
 #### TODO 1.0.1 beta
@@ -158,3 +158,4 @@
 - [x] disable emails except gmail, protonmail etc
 - [x] sign in logo - link to homepage
 - [x] upgrade verification / init process
+- [x] decrease anote holding limits according to the price
