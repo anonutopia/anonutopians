@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] applicants email warning - ways to get free anotes
+- [ ] applicants email warning - ways to get free anotes + how to become citizen
 
 #### TODO
 
