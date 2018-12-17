@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] init bug
 - [ ] enable profile update after citizenship application
 - [ ] apply for tag afterwards / update badges on anote balance change
 - [ ] teasers - apply for citizenship notification
@@ -159,3 +158,4 @@
 - [x] sign in logo - link to homepage
 - [x] upgrade verification / init process
 - [x] decrease anote holding limits according to the price
+- [x] init bug
