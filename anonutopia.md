@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] applicants email warning - ways to get free anotes + how to become citizen
+- [ ] follow up email - more text
 
 #### TODO
 
@@ -72,3 +72,4 @@
 - [x] simple email form - create user
 - [x] simple email form - send email
 - [x] simple email form - redirect
+- [x] applicants email warning - ways to get free anotes + how to become citizen
