@@ -8,6 +8,7 @@
 
 #### TODO
 
+- [ ] unsubscribe link in email
 - [ ] multiple languages - move kriptokuna / kriptodinar to anonutopia CMS
 - [ ] anote - price, charts, calculator
 - [ ] tags explanation
