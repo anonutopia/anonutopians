@@ -6,7 +6,7 @@
 
 - [ ] update badges on anote balance change
 - [ ] teasers
-- [ ] social network share awarding
+- [ ] social network share awards
 
 #### TODO 1.0.1 beta
 
