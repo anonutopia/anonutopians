@@ -7,7 +7,7 @@
 - [ ] update badges on anote balance change
 - [ ] teasers - apply for citizenship notification
 - [ ] teasers - profit page - call new founders
-- [ ] free citizenship - based on anotes
+- [ ] social network share awarding
 
 #### TODO 1.0.1 beta
 
