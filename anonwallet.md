@@ -5,7 +5,7 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] update badges on anote balance change
-- [ ] teasers - apply for citizenship notification
+- [ ] teasers
 - [ ] teasers - profit page - call new founders
 - [ ] social network share awarding
 
