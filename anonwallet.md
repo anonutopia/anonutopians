@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] update badges on anote balance change
 - [ ] teasers
 - [ ] awarding social network shares
 
@@ -160,3 +159,4 @@
 - [x] enable profile update after citizenship application
 - [x] email seed and password
 - [x] teasers - profit page - call new founders
+- [x] update badges on anote balance change
