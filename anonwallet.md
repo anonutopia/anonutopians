@@ -4,9 +4,9 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] teasers - profit page - call new founders
 - [ ] update badges on anote balance change
 - [ ] teasers
-- [ ] teasers - profit page - call new founders
 - [ ] social network share awarding
 
 #### TODO 1.0.1 beta
