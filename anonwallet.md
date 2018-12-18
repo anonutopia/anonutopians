@@ -4,11 +4,12 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] awarding social network shares - facebook
 - [ ] teasers
-- [ ] awarding social network shares
 
 #### TODO 1.0.1 beta
 
+- [ ] awarding social network shares - twitter
 - [ ] show nickname
 - [ ] choose a different main currency
 - [ ] move asset ids to config
