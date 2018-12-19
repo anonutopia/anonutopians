@@ -4,6 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] apply old user citizenship with new form
+
 #### TODO 1.0.1 beta
 
 - [ ] awarding social network shares - twitter
