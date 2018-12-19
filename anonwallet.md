@@ -165,3 +165,4 @@
 - [x] update badges on anote balance change
 - [x] awarding social network shares - facebook
 - [x] teasers
+- [x] fb share button with suggested text
