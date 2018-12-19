@@ -7,10 +7,10 @@
 - [ ] check if facebook shares are unique
 - [ ] upgrade old wallet form
 - [ ] apply old user citizenship with new form
-- [ ] exchange amount - use max
 
 #### TODO 1.0.1 beta
 
+- [ ] exchange amount - use max
 - [ ] awarding social network shares - twitter
 - [ ] show nickname
 - [ ] choose a different main currency
