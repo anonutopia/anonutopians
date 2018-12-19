@@ -10,6 +10,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] exchange amount - show max amount (balance)
 - [ ] exchange amount - use max
 - [ ] awarding social network shares - twitter
 - [ ] show nickname
