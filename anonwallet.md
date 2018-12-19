@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] fb share button on mobile page
 - [ ] upgrade old wallet form
 - [ ] apply old user citizenship with new form
 
