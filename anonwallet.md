@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] check if facebook shares are unique
 - [ ] upgrade old wallet form
 - [ ] apply old user citizenship with new form
 - [ ] exchange amount - use max
