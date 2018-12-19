@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] awarding social network shares - facebook
 - [ ] teasers
 
 #### TODO 1.0.1 beta
@@ -161,3 +160,4 @@
 - [x] email seed and password
 - [x] teasers - profit page - call new founders
 - [x] update badges on anote balance change
+- [x] awarding social network shares - facebook
