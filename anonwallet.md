@@ -166,3 +166,4 @@
 - [x] teasers
 - [x] fb share button with suggested text
 - [x] automatic fb awards using hashtag
+- [x] disable telegram log for development
