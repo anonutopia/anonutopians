@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] automatic fb awards using hashtag
 - [ ] upgrade old wallet form
 - [ ] apply old user citizenship with new form
 - [ ] exchange amount - use max
