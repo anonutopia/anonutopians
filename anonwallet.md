@@ -4,6 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] upgrade old wallet form
 - [ ] apply old user citizenship with new form
 
 #### TODO 1.0.1 beta
