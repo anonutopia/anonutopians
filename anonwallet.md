@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] check if facebook shares are unique
 - [ ] upgrade old wallet form
 - [ ] apply old user citizenship with new form
 
@@ -169,3 +168,4 @@
 - [x] fb share button with suggested text
 - [x] automatic fb awards using hashtag
 - [x] disable telegram log for development
+- [x] check if facebook shares are unique
