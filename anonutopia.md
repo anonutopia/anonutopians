@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] update apply buttons / links
+
 #### TODO
 
 - [ ] unsubscribe link in email
