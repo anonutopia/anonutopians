@@ -5,7 +5,7 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] new form - import
-- [ ] new form - old users
+- [ ] new form - old users (has everything, has address but no email)
 
 #### TODO 1.0.1 beta
 
