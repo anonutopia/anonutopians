@@ -172,3 +172,4 @@
 - [x] new form - sign in
 - [x] new form - import
 - [x] new form - old users (has everything, has address but no email)
+- [x] old users without a stored seed
