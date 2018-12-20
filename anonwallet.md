@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] new form - basic design
 - [ ] new form - sign up
 - [ ] new form - sign in
 - [ ] new form - import
@@ -173,3 +172,4 @@
 - [x] disable telegram log for development
 - [x] check if facebook shares are unique
 - [x] fb share button on mobile page
+- [x] new form - basic design
