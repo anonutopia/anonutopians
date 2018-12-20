@@ -4,8 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] new form - old users (has everything, has address but no email)
-
 #### TODO 1.0.1 beta
 
 - [ ] exchange amount - show max amount (balance)
@@ -173,3 +171,4 @@
 - [x] new form - sign up
 - [x] new form - sign in
 - [x] new form - import
+- [x] new form - old users (has everything, has address but no email)
