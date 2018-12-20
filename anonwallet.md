@@ -4,7 +4,6 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] new form - import
 - [ ] new form - old users (has everything, has address but no email)
 
 #### TODO 1.0.1 beta
@@ -173,3 +172,4 @@
 - [x] new form - basic design
 - [x] new form - sign up
 - [x] new form - sign in
+- [x] new form - import
