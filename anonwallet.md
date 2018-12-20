@@ -4,6 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] old users - cases without a password hash
+
 #### TODO 1.0.1 beta
 
 - [ ] exchange amount - show max amount (balance)
