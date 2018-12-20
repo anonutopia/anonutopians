@@ -4,8 +4,11 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] upgrade old wallet form
-- [ ] apply old user citizenship with new form
+- [ ] new form - basic design
+- [ ] new form - sign up
+- [ ] new form - sign in
+- [ ] new form - import
+- [ ] new form - old users
 
 #### TODO 1.0.1 beta
 
