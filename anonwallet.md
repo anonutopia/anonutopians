@@ -9,6 +9,7 @@
 
 #### TODO 1.0.1 beta
 
+- [ ] strengthen up password reset link
 - [ ] exchange amount - show max amount (balance)
 - [ ] exchange amount - use max
 - [ ] awarding social network shares - twitter
