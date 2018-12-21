@@ -4,7 +4,8 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] old users - cases without a password hash
+- [ ] password reset / forgotten password
+- [ ] test everything about sign up / sign in / import once again
 
 #### TODO 1.0.1 beta
 
