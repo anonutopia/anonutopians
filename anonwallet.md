@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] password reset / forgotten password
+- [ ] password reset
 - [ ] test everything about sign up / sign in / import once again
 
 #### TODO 1.0.1 beta
