@@ -4,7 +4,7 @@
 
 #### TODO 1.0.0 beta - MVP
 
-- [ ] password reset
+- [ ] password reset - reset password
 - [ ] test everything about sign up / sign in / import once again
 
 #### TODO 1.0.1 beta
@@ -177,3 +177,4 @@
 - [x] new form - old users (has everything, has address but no email)
 - [x] old users without a stored seed
 - [x] sign out user if there's no seed
+- [x] password reset - send email
