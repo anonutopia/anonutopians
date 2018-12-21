@@ -5,7 +5,6 @@
 #### TODO 1.0.0 beta - MVP
 
 - [ ] force password reset for users without the password hash
-- [ ] test everything about sign up / sign in / import once again
 
 #### TODO 1.0.1 beta
 
@@ -180,3 +179,4 @@
 - [x] sign out user if there's no seed
 - [x] password reset - send email
 - [x] password reset - reset password
+- [x] test everything about sign up / sign in / import once again
