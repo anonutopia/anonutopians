@@ -4,6 +4,11 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] referral over nickname
+- [ ] referral url rewrite
+- [ ] one click invitations
+- [ ] change sendgrid key
+
 #### TODO 1.0.1 beta
 
 - [ ] strengthen up password reset link

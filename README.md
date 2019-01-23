@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] Open Source - open source everywhere
+- [ ] send follow up emails
 - [ ] check funnels and test everything
 
 #### TODO
