@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] referrals check
 - [ ] Open Source - open source everywhere
 - [ ] send follow up emails
 - [ ] check funnels and test everything
@@ -74,3 +75,5 @@
 - [x] new kriptodinar deploy script
 - [x] deploy kriptodinar
 - [x] robot - report all errors to AnonOps group
+- [x] kriptokuna redirects
+- [x] kriptodinar redirects

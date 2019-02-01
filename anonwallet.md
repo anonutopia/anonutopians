@@ -7,7 +7,6 @@
 - [ ] referral over nickname
 - [ ] referral url rewrite
 - [ ] one click invitations
-- [ ] change sendgrid key
 
 #### TODO 1.0.1 beta
 
@@ -184,3 +183,4 @@
 - [x] password reset - reset password
 - [x] test everything about sign up / sign in / import once again
 - [x] force password reset for users without the password hash
+- [x] change sendgrid key
