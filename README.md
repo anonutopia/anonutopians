@@ -6,7 +6,6 @@
 
 - [ ] Open Source - open source everywhere
 - [ ] send follow up emails
-- [ ] check funnels and test everything
 
 #### TODO
 
@@ -77,3 +76,4 @@
 - [x] kriptokuna redirects
 - [x] kriptodinar redirects
 - [x] referrals check
+- [x] check funnels and test everything
