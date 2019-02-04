@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] add links on wallet sign up
 - [ ] check DMARC report
 - [ ] check all crypto addresses (remove spent ones)
 - [ ] Open Source - open source everywhere
