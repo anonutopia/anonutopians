@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] check all crypto addresses
+- [ ] check DMARC report
+- [ ] check all crypto addresses (remove spent ones)
 - [ ] Open Source - open source everywhere
 - [ ] send follow up emails
 
