@@ -35,7 +35,7 @@
 - [ ] Addiko Bank
 - [ ] AIK banka
 - [ ] API Bank
-- [x] Banca Intesa                                  - Bog
+- [ ] Banca Intesa                                  -
 - [x] Banka Poštanska Štedionica                    - Z
 - [ ] Credit Agricole Srbija
 - [ ] Direktna Banka AD
