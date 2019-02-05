@@ -81,3 +81,4 @@
 - [x] check funnels and test everything
 - [x] fb share bug
 - [x] send follow up emails
+- [x] check all crypto addresses (remove spent ones)
