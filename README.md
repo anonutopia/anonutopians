@@ -80,3 +80,4 @@
 - [x] kriptodinar redirects
 - [x] referrals check
 - [x] check funnels and test everything
+- [x] fb share bug
