@@ -6,7 +6,7 @@
 
 - [ ] add links on wallet sign up
 - [ ] check DMARC report
-- [ ] check all crypto addresses (remove spent ones)
+- [ ] check everything connected to used addresses
 - [ ] Open Source - open source everywher
 
 #### TODO
