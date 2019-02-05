@@ -7,8 +7,7 @@
 - [ ] add links on wallet sign up
 - [ ] check DMARC report
 - [ ] check all crypto addresses (remove spent ones)
-- [ ] Open Source - open source everywhere
-- [ ] send follow up emails
+- [ ] Open Source - open source everywher
 
 #### TODO
 
@@ -81,3 +80,4 @@
 - [x] referrals check
 - [x] check funnels and test everything
 - [x] fb share bug
+- [x] send follow up emails
