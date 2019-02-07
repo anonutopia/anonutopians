@@ -2,7 +2,7 @@
 
 ## World Wide
 
-- [x] Revolut                                       - Boduloman
+- [x] Revolut                                       - Boduloman, Rubeola
 - [x] Monese                                        - Boduloman
 
 ## Croatia
