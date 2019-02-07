@@ -7,7 +7,7 @@
 - [ ] add links on wallet sign up
 - [ ] check DMARC report
 - [ ] check everything connected to used addresses
-- [ ] Open Source - open source everywher
+- [ ] Open Source - open source everywhere
 
 #### TODO
 
