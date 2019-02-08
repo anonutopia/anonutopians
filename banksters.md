@@ -2,7 +2,7 @@
 
 ## World Wide
 
-- [x] Revolut                                       - Boduloman, Rubeola
+- [x] Revolut                                       - Boduloman, Rubeola, @R4274r08813
 - [x] Monese                                        - Boduloman
 
 ## Croatia
@@ -22,7 +22,7 @@
 - [ ] OTP banka Hrvatska
 - [ ] Partner banka
 - [ ] Podravska banka
-- [ ] Privredna banka Zagreb
+- [ ] Privredna banka Zagreb                        - @R4274r08813
 - [ ] Raiffeisenbank Austria
 - [ ] Samoborska banka
 - [ ] Sberbank
@@ -91,7 +91,7 @@
 
 ## Ireland
 
-- [x] Allied Irish Banks                            - Rubeola
+- [x] Allied Irish Banks                            - Rubeola, @R4274r08813
 - [ ] Bank of America Merrill Lynch International
 - [ ] Bank of Ireland
 - [ ] Bank of Montreal Ireland
@@ -110,3 +110,4 @@
 - [ ] Ulster Bank Ireland
 - [ ] UniCredit Bank Ireland
 - [ ] Wells Fargo Bank International
+- [ ] N26                                           - @R4274r08813
