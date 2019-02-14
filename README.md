@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] add links on wallet sign up
 - [ ] check DMARC report
+- [ ] add links on wallet sign up
 - [ ] check everything connected to used addresses
 - [ ] Open Source - open source everywhere
 
