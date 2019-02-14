@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] apply for waves development grant
+- [ ] create sendgrid template + unsubscribe
 - [ ] add links on wallet sign up
 - [ ] check everything connected to used addresses
 - [ ] Open Source - open source everywhere
