@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] check DMARC report
 - [ ] add links on wallet sign up
 - [ ] check everything connected to used addresses
 - [ ] Open Source - open source everywhere
@@ -82,3 +81,4 @@
 - [x] fb share bug
 - [x] send follow up emails
 - [x] check all crypto addresses (remove spent ones)
+- [x] check DMARC report
