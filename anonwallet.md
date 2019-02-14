@@ -4,9 +4,9 @@
 
 #### TODO 1.0.0 beta - MVP
 
+- [ ] one click invitations
 - [ ] referral over nickname
 - [ ] referral url rewrite
-- [ ] one click invitations
 
 #### TODO 1.0.1 beta
 
