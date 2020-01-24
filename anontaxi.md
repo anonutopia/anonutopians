@@ -4,10 +4,10 @@
 
 #### TODO - Phase 1 (website)
 
-- [ ] setup Google Analytics
 - [ ] add links to FAQ
 - [ ] contact page
-- [ ] version on English
+- [ ] publish on FB
+- [ ] version in English
 
 #### TODO - Phase 2 (token / DAO)
 
@@ -26,3 +26,4 @@
 - [x] finish FAQ page
 - [x] finish Join Us page
 - [x] open Facebook page
+- [x] setup Google Analytics
