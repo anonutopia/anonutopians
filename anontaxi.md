@@ -7,6 +7,7 @@
 - [ ] add links to FAQ
 - [ ] version in English
 - [ ] add sitemap.xml
+- [ ] add to webmasters tools
 
 #### TODO - Phase 2 (token / DAO)
 
