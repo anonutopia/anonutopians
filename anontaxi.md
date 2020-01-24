@@ -4,8 +4,9 @@
 
 #### TODO
 
-- [ ] basic smart contract / backed
-- [ ] finish MVP
+- [ ] finish FAQ page
+- [ ] finish Join Us page
+- [ ] basic smart contract / token
 
 #### DONE
 
