@@ -6,6 +6,7 @@
 
 - [ ] setup Google Analytics
 - [ ] add links to FAQ
+- [ ] contact page
 - [ ] version on English
 
 #### TODO - Phase 2 (token / DAO)
