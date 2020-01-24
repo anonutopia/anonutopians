@@ -5,7 +5,6 @@
 #### TODO - Phase 1 (website)
 
 - [ ] add links to FAQ
-- [ ] publish on FB
 - [ ] version in English
 
 #### TODO - Phase 2 (token / DAO)
@@ -26,3 +25,4 @@
 - [x] finish Join Us page
 - [x] open Facebook page
 - [x] setup Google Analytics
+- [x] publish on FB
