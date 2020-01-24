@@ -9,6 +9,7 @@
 - [ ] open Facebook page
 - [ ] setup Google Analytics
 - [ ] add links to FAQ
+- [ ] version on English
 
 #### TODO - Phase 2 (token / DAO)
 
