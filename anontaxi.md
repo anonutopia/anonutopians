@@ -4,7 +4,6 @@
 
 #### TODO - Phase 1 (website)
 
-- [ ] finish FAQ page
 - [ ] finish Join Us page
 - [ ] open Facebook page
 - [ ] setup Google Analytics
@@ -25,3 +24,4 @@
 #### DONE
 
 - [x] finish website
+- [x] finish FAQ page
