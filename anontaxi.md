@@ -5,7 +5,6 @@
 #### TODO - Phase 1 (website)
 
 - [ ] add links to FAQ
-- [ ] contact page
 - [ ] publish on FB
 - [ ] version in English
 
