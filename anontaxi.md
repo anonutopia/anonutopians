@@ -2,7 +2,7 @@
 
 ## AnonTaxi
 
-#### TODO - Phase 1
+#### TODO - Phase 1 (website)
 
 - [ ] finish FAQ page
 - [ ] finish Join Us page
@@ -10,11 +10,11 @@
 - [ ] setup Google Analytics
 - [ ] add links to FAQ
 
-#### TODO - Phase 2
+#### TODO - Phase 2 (token / DAO)
 
 - [ ] basic smart contract / token
 
-#### TODO - Phase 3
+#### TODO - Phase 3 (app)
 
 - [ ] start backend work
 - [ ] start frontend work (driver)
