@@ -2,23 +2,9 @@
 
 ## Anonutopia
 
-#### TODO - MVP
-
 #### TODO
 
-- [ ] unsubscribe link in email
-- [ ] multiple languages - move kriptokuna / kriptodinar to anonutopia CMS
-- [ ] anote - price, charts, calculator
-- [ ] tags explanation
-- [ ] profit - explain how for every one
-- [ ] speed up anote page
-- [ ] anons portal and MVP app
-- [ ] find better photos
-- [ ] basic contract
-- [ ] project / feature voting (website directory, taxi, oracle, email, exchange, portal, atm, maintenance, cloud miner)
-- [ ] team
-- [ ] blog
-- [ ] more FAQ items
+- [ ] todo
 
 #### DONE
 

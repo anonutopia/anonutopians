@@ -4,16 +4,7 @@
 
 #### TODO
 
-- [ ] wallet
-- [ ] check if there are events missing
-- [ ] spreads
-- [ ] anote price drops
-- [ ] check coding style
-- [ ] test everything
-- [ ] test if everything works ok with crypto fiats with less decimal places
-- [ ] security audit
-- [ ] calculate anote price depending on all crypto fiats
-- [ ] anonutopia
+- [ ] anote
 
 #### DONE
 
