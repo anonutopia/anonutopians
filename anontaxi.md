@@ -5,6 +5,8 @@
 #### TODO - Phase 2 (token / DAO)
 
 - [ ] basic smart contract / token
+- [ ] basic MVP UI for smart contract
+- [ ] basic AnonTaxiBot
 
 #### TODO - Phase 3 (app)
 
