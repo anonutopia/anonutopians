@@ -4,7 +4,7 @@
 
 #### TODO
 
-- [ ] todo
+- [ ] basic citizenship
 
 #### DONE
 
