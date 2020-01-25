@@ -6,7 +6,6 @@
 
 - [ ] add links to FAQ
 - [ ] version in English
-- [ ] add sitemap.xml
 
 #### TODO - Phase 2 (token / DAO)
 
@@ -28,3 +27,4 @@
 - [x] setup Google Analytics
 - [x] publish on FB
 - [x] add to webmasters tools
+- [x] add sitemap.xml
