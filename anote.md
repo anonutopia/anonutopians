@@ -4,7 +4,7 @@
 
 #### TODO
 
-- [ ] anote
+- [ ] todo
 
 #### DONE
 
