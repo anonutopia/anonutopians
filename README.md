@@ -2,38 +2,20 @@
 
 ## GENERAL
 
-#### TODO - MVP
-
-- [ ] apply for waves development grant
-- [ ] create sendgrid template + unsubscribe
-- [ ] add links on wallet sign up
-- [ ] check everything connected to used addresses
-- [ ] Open Source - open source everywhere
-
 #### TODO
 
-- [ ] move AnonsRobot out as a separate project
-- [ ] move AnonLib out as a separate project
-- [ ] hello message for robot - adding to groups
-- [ ] finish white paper
-- [ ] growth hacking
-- [ ] refactor and clean code on everything
-- [ ] anon portal (CMS) MVP
-- [ ] buy missing domains
-- [ ] backup everything
-- [ ] secure everything
-- [ ] decentralize everything
+- [ ] todo
 
 ## Other TODO Lists
 
-- [ANOTE](anote-daemon.md)
 - [Anonutopia](anonutopia.md)
-- [Anonymous](anonymous.md)
-- [Kriptokuna](kriptokuna.md)
-- [Kriptodinar](kriptodinar.md)
-- [AnonOracle](anonoracle.md)
-- [AnonWallet](anonwallet.md)
 - [AnonTaxi](anontaxi.md)
+- [Anote](anote.md)
+
+## Other
+
+- [Banksters](banksters.md)
+- [Ideas](ideas.md)
 
 #### DONE
 
