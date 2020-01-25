@@ -2,11 +2,6 @@
 
 ## AnonTaxi
 
-#### TODO - Phase 1 (website)
-
-- [ ] add links to FAQ
-- [ ] version in English
-
 #### TODO - Phase 2 (token / DAO)
 
 - [ ] basic smart contract / token
@@ -17,6 +12,11 @@
 - [ ] start frontend work (driver)
 - [ ] start frontend work (fleet)
 - [ ] start frontend work (user)
+
+#### TODO - Backlog
+
+- [ ] add links to FAQ
+- [ ] version in English
 
 #### DONE
 
