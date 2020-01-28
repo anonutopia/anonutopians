@@ -2,6 +2,10 @@
 
 ## AnonTaxi
 
+#### TODO - Phase 1 (website / social networks)
+
+- [ ] FB page auto reply
+
 #### TODO - Phase 2 (token / DAO)
 
 - [ ] basic smart contract / token
