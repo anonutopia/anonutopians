@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] FB page auto reply
+- [ ] publish command
 
 #### TODO - BACKLOG
 
