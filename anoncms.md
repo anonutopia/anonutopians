@@ -5,8 +5,12 @@
 #### TODO - MVP
 
 - [ ] publish command
+- [ ] separate content from theme
 
 #### TODO - BACKLOG
+
+- [ ] generate sitemap.xml
+- [ ] help cli
 
 #### DONE
 
