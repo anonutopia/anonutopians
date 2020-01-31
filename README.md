@@ -10,6 +10,7 @@
 
 - [Anonutopia](anonutopia.md)
 - [AnonTaxi](anontaxi.md)
+- [AnonCMS](anoncms.md)
 - [Anote](anote.md)
 
 ## Other
