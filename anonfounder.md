@@ -6,7 +6,7 @@
 
 - [ ] setup the website
 - [ ] basic token selling
-- [ ] token monitoring tool
+- [ ] token monitoring tool (Waves Keeper)
 - [ ] basic telegram bot
 
 #### TODO - BACKLOG
