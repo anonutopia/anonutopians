@@ -5,6 +5,7 @@
 #### TODO
 
 - [ ] start AnonTaxi Token crowdsale
+- [ ] move all websites to AnonCMS
 
 ## Other TODO Lists
 
