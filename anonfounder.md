@@ -11,7 +11,7 @@
 
 #### TODO - BACKLOG
 
-- [ ] develop game theory
+- [ ] develop game theory (GitHub + Telegram bots + Tokens)
 - [ ] fund your own project
 - [ ] sell tokens using DEX
 
