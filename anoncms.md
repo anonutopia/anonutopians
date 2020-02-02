@@ -4,8 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] publish command
 - [ ] separate content from theme
+- [ ] multiple languages
+- [ ] contact form
+- [ ] publish command
 
 #### TODO - BACKLOG
 
@@ -15,3 +17,4 @@
 #### DONE
 
 - [x] basic stuff - pages
+- [x] basic generate
