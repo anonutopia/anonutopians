@@ -8,9 +8,8 @@
 
 #### TODO - Phase 2 (token / DAO)
 
-- [ ] basic smart contract / token
-- [ ] basic MVP UI for smart contract
-- [ ] basic AnonTaxiBot
+- [ ] create AnonFounder MVP
+- [ ] start token crowdsale
 
 #### TODO - Phase 3 (app)
 
