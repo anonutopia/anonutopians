@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] finish price command
 - [ ] registration - free token
 - [ ] buy token with waves
 - [ ] sell token for waves
