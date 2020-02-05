@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] free token counter
 - [ ] bug - command doesn't exist on new member
 - [ ] translate messages
 - [ ] buy token with waves
