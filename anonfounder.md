@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] finish price command
-- [ ] registration - free token
+- [ ] registration - drop free token
 - [ ] buy token with waves
 - [ ] sell token for waves
 
@@ -22,3 +22,4 @@
 - [x] buy a domain
 - [x] /address command - get node / bot address
 - [x] /balance command - get node / bot waves balance
+- [x] add qr code
