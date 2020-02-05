@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] registration - drop free token
 - [ ] buy token with waves
 - [ ] sell token for waves
 
@@ -23,3 +22,4 @@
 - [x] /balance command - get node / bot waves balance
 - [x] add qr code
 - [x] finish price command
+- [x] registration - drop free token
