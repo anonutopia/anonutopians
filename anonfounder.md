@@ -16,6 +16,7 @@
 - [ ] develop game theory (GitHub + Telegram bots + Tokens)
 - [ ] fund your own project
 - [ ] sell tokens using DEX
+- [ ] translate messages
 
 #### DONE
 
