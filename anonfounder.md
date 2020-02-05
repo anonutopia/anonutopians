@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] registration - free token
-- [ ] /balance command - get node / bot waves balance
 - [ ] buy token with waves
 - [ ] sell token for waves
 
@@ -21,3 +20,4 @@
 
 - [x] buy a domain
 - [x] /address command - get node / bot address
+- [x] /balance command - get node / bot waves balance
