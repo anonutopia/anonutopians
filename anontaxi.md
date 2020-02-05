@@ -10,6 +10,7 @@
 
 - [ ] create AnonFounder MVP
 - [ ] start token crowdsale
+- [ ] website in english
 
 #### TODO - Phase 3 (app)
 
