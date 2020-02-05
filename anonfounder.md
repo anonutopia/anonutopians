@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] setup AnonTaxiBot / token
 - [ ] translate messages
 - [ ] buy token with waves
 - [ ] sell token for waves
@@ -27,3 +26,4 @@
 - [x] add qr code
 - [x] finish price command
 - [x] registration - drop free token
+- [x] setup AnonTaxiBot / token
