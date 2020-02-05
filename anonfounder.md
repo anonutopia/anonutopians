@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] free token counter
-- [ ] bug - command doesn't exist on new member
 - [ ] translate messages
 - [ ] buy token with waves
 - [ ] sell token for waves
@@ -13,7 +12,6 @@
 #### TODO - BACKLOG
 
 - [ ] help command
-- [ ] welcome new user
 - [ ] token monitoring tool (Waves Keeper)
 - [ ] setup the website
 - [ ] develop game theory (GitHub + Telegram bots + Tokens)
@@ -29,3 +27,5 @@
 - [x] finish price command
 - [x] registration - drop free token
 - [x] setup AnonTaxiBot / token
+- [x] bug - command doesn't exist on new member
+- [x] welcome new user
