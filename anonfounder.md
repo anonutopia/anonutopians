@@ -9,6 +9,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] help command
+- [ ] welcome new user
 - [ ] token monitoring tool (Waves Keeper)
 - [ ] setup the website
 - [ ] develop game theory (GitHub + Telegram bots + Tokens)
