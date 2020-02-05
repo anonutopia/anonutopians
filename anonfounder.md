@@ -4,9 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] basic token selling
+- [ ] registration - free token
+- [ ] /address command - get node / bot address
+- [ ] /balance command - get node / bot waves balance
+- [ ] buy token with waves
+- [ ] sell token for waves
 - [ ] token monitoring tool (Waves Keeper)
-- [ ] basic telegram bot
 
 #### TODO - BACKLOG
 
