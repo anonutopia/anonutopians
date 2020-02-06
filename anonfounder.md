@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] setup token growth formula
 - [ ] send part to founder
 - [ ] sell token for waves
 
