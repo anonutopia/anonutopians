@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] translate messages
 - [ ] buy token with waves
 - [ ] sell token for waves
 
 #### TODO - BACKLOG
 
+- [ ] translate messages
 - [ ] help command
 - [ ] token monitoring tool (Waves Keeper)
 - [ ] setup the website
