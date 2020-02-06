@@ -2,12 +2,9 @@
 
 ## AnonTaxi
 
-#### TODO - Phase 1 (website / social networks)
-
-- [ ] FB page auto reply
-
 #### TODO - Phase 2 (token / DAO)
 
+- [ ] FB page auto reply
 - [ ] start token crowdsale
 - [ ] website in english
 
