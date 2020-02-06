@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] send part to founder
 - [ ] sell token for waves
 
 #### TODO - BACKLOG
@@ -33,3 +32,4 @@
 - [x] free token counter
 - [x] buy token with waves
 - [x] setup token growth formula
+- [x] send part to founder
