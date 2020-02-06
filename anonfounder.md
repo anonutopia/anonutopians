@@ -4,11 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] buy token with waves
 - [ ] sell token for waves
 
 #### TODO - BACKLOG
 
+- [ ] send group messages
+- [ ] free token on adding others
 - [ ] translate messages
 - [ ] help command
 - [ ] token monitoring tool (Waves Keeper)
@@ -29,3 +30,4 @@
 - [x] bug - command doesn't exist on new member
 - [x] welcome new user
 - [x] free token counter
+- [x] buy token with waves
