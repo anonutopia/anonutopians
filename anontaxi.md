@@ -8,7 +8,6 @@
 
 #### TODO - Phase 2 (token / DAO)
 
-- [ ] create AnonFounder MVP
 - [ ] start token crowdsale
 - [ ] website in english
 
@@ -34,3 +33,4 @@
 - [x] publish on FB
 - [x] add to webmasters tools
 - [x] add sitemap.xml
+- [x] create AnonFounder MVP
