@@ -4,13 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] sell token for waves
-
-#### TODO - BACKLOG
-
 - [ ] send group messages
 - [ ] free token on adding others
 - [ ] translate messages
+
+#### TODO - BACKLOG
+
 - [ ] help command
 - [ ] token monitoring tool (Waves Keeper)
 - [ ] setup the website
@@ -33,3 +32,4 @@
 - [x] buy token with waves
 - [x] setup token growth formula
 - [x] send part to founder
+- [x] sell token for waves
