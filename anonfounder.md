@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] setup token growth formula
 - [ ] send part to founder
 - [ ] sell token for waves
 
@@ -33,3 +32,4 @@
 - [x] welcome new user
 - [x] free token counter
 - [x] buy token with waves
+- [x] setup token growth formula
