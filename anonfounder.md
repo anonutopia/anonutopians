@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] send part to founder
 - [ ] sell token for waves
 
 #### TODO - BACKLOG
