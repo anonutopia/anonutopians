@@ -18,7 +18,6 @@
 #### TODO - Backlog
 
 - [ ] add links to FAQ
-- [ ] version in English
 
 #### DONE
 
