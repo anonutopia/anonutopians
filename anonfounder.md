@@ -10,6 +10,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] limit token sell - out of tokens message
 - [ ] help command
 - [ ] token monitoring tool (Waves Keeper)
 - [ ] setup the website
