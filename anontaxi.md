@@ -4,7 +4,6 @@
 
 #### TODO - Phase 2 (token / DAO)
 
-- [ ] FB page auto reply
 - [ ] website in english
 
 #### TODO - Phase 3 (app)
@@ -29,3 +28,4 @@
 - [x] add to webmasters tools
 - [x] add sitemap.xml
 - [x] create AnonFounder MVP
+- [x] FB page auto reply
