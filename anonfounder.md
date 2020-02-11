@@ -2,9 +2,13 @@
 
 ## AnonFounder
 
+#### TODO - v1.1
+
+- [ ] fix - adding bots
+- [ ] send referral token on referred registration
+
 #### TODO - BACKLOG
 
-- [ ] send referral token on referred registration
 - [ ] update message language depending on the group
 - [ ] limit token sell - out of tokens message
 - [ ] help command
