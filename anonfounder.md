@@ -6,7 +6,6 @@
 
 - [ ] send group messages
 - [ ] free token on adding others
-- [ ] translate messages
 
 #### TODO - BACKLOG
 
@@ -34,3 +33,4 @@
 - [x] setup token growth formula
 - [x] send part to founder
 - [x] sell token for waves
+- [x] translate messages
