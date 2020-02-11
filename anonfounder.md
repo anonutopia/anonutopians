@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] send group messages
-- [ ] free token on adding others
 
 #### TODO - BACKLOG
 
@@ -35,3 +34,4 @@
 - [x] send part to founder
 - [x] sell token for waves
 - [x] translate messages
+- [x] free token on adding others
