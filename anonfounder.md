@@ -9,6 +9,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] update message language depending on the group
 - [ ] limit token sell - out of tokens message
 - [ ] help command
 - [ ] token monitoring tool (Waves Keeper)
