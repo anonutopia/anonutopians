@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] update founder's address
 - [ ] send group messages
 
 #### TODO - BACKLOG
@@ -37,3 +36,4 @@
 - [x] sell token for waves
 - [x] translate messages
 - [x] free token on adding others
+- [x] update founder's address
