@@ -14,6 +14,7 @@
 - [AnonCMS](anoncms.md)
 - [AnonFounder](anonfounder.md)
 - [Anote](anote.md)
+- [Kriptokuna](kriptokuna.md)
 
 ## Other
 
