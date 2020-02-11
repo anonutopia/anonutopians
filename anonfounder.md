@@ -4,10 +4,12 @@
 
 #### TODO - MVP
 
+- [ ] update founder's address
 - [ ] send group messages
 
 #### TODO - BACKLOG
 
+- [ ] send referral token on referred registration
 - [ ] update message language depending on the group
 - [ ] limit token sell - out of tokens message
 - [ ] help command
