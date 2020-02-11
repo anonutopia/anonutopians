@@ -13,6 +13,11 @@
 - [ ] start frontend work (fleet)
 - [ ] start frontend work (user)
 
+#### TODO - Phase 4 (launch)
+
+- [ ] testing
+- [ ] launch
+
 #### TODO - Backlog
 
 - [ ] add links to FAQ
