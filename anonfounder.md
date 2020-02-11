@@ -2,10 +2,6 @@
 
 ## AnonFounder
 
-#### TODO - MVP
-
-- [ ] send group messages
-
 #### TODO - BACKLOG
 
 - [ ] send referral token on referred registration
@@ -37,3 +33,4 @@
 - [x] translate messages
 - [x] free token on adding others
 - [x] update founder's address
+- [x] send group messages
