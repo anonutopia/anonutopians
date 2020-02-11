@@ -4,11 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] setup basic website
+- [ ] build basic daemon
 
 #### TODO - BACKLOG
 
-- [ ] todo
+- [ ] tutorials
 
 #### DONE
 
