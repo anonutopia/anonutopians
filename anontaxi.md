@@ -5,7 +5,6 @@
 #### TODO - Phase 2 (token / DAO)
 
 - [ ] FB page auto reply
-- [ ] start token crowdsale
 - [ ] website in english
 
 #### TODO - Phase 3 (app)
