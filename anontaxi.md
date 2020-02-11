@@ -4,6 +4,7 @@
 
 #### TODO - Phase 2 (token / DAO)
 
+- [ ] tutorial - how to buy token
 - [ ] website in english
 
 #### TODO - Phase 3 (app)
