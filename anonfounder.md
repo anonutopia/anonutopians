@@ -6,6 +6,7 @@
 
 - [ ] send referral token on referred registration
 - [ ] adding multiple users
+- [ ] bug - add remove then again add user
 
 #### TODO - BACKLOG
 
