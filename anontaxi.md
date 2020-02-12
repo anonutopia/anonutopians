@@ -5,10 +5,10 @@
 #### TODO - Phase 2 (token / DAO)
 
 - [ ] tutorial - how to buy token
-- [ ] website in english
 
 #### TODO - Phase 3 (app)
 
+- [ ] website in english
 - [ ] start backend work
 - [ ] start frontend work (driver)
 - [ ] start frontend work (fleet)
