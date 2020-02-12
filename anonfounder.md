@@ -4,7 +4,6 @@
 
 #### TODO - v1.1
 
-- [ ] fix - adding bots
 - [ ] send referral token on referred registration
 
 #### TODO - BACKLOG
@@ -38,3 +37,4 @@
 - [x] free token on adding others
 - [x] update founder's address
 - [x] send group messages
+- [x] fix - adding bots
