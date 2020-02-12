@@ -5,6 +5,7 @@
 #### TODO - v1.1
 
 - [ ] send referral token on referred registration
+- [ ] adding multiple users
 
 #### TODO - BACKLOG
 
