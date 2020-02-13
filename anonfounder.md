@@ -2,20 +2,19 @@
 
 ## AnonFounder
 
-#### TODO - v1.1
+#### TODO - v1.2
 
-
+- [ ] sell tokens using DEX
+- [ ] token monitoring tool (Waves Keeper)
 
 #### TODO - BACKLOG
 
 - [ ] update message language depending on the group
 - [ ] limit token sell - out of tokens message
 - [ ] help command
-- [ ] token monitoring tool (Waves Keeper)
 - [ ] setup the website
 - [ ] develop game theory (GitHub + Telegram bots + Tokens)
 - [ ] fund your own project
-- [ ] sell tokens using DEX
 
 #### DONE
 
