@@ -2,10 +2,6 @@
 
 ## AnonTaxi
 
-#### TODO - Phase 2 (token / DAO)
-
-- [ ] tutorial - how to buy token
-
 #### TODO - Phase 3 (app)
 
 - [ ] website in english
@@ -35,3 +31,4 @@
 - [x] add sitemap.xml
 - [x] create AnonFounder MVP
 - [x] FB page auto reply
+- [x] tutorial - how to buy token
