@@ -4,7 +4,7 @@
 
 #### TODO - v1.1
 
-- [ ] adding multiple users
+
 
 #### TODO - BACKLOG
 
@@ -39,3 +39,4 @@
 - [x] send group messages
 - [x] fix - adding bots
 - [x] send referral token on referred registration + bug - add remove then again add user
+- [x] adding multiple users
