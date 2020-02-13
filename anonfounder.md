@@ -4,9 +4,8 @@
 
 #### TODO - v1.1
 
-- [ ] send referral token on referred registration
+- [ ] send referral token on referred registration + bug - add remove then again add user
 - [ ] adding multiple users
-- [ ] bug - add remove then again add user
 
 #### TODO - BACKLOG
 
