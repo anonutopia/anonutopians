@@ -4,7 +4,6 @@
 
 #### TODO - v1.1
 
-- [ ] send referral token on referred registration + bug - add remove then again add user
 - [ ] adding multiple users
 
 #### TODO - BACKLOG
@@ -39,3 +38,4 @@
 - [x] update founder's address
 - [x] send group messages
 - [x] fix - adding bots
+- [x] send referral token on referred registration + bug - add remove then again add user
