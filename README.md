@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] start AnonTaxi Token crowdsale
 - [ ] move all websites to AnonCMS
 
 ## Other TODO Lists
@@ -70,3 +69,4 @@
 - [x] send follow up emails
 - [x] check all crypto addresses (remove spent ones)
 - [x] check DMARC report
+- [x] start AnonTaxi Token crowdsale
