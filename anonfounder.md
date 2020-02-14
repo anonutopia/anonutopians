@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] better bot messages
 - [ ] sell tokens using DEX
 - [ ] token monitoring tool (Waves Keeper)
 - [ ] use blockchain for database
