@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] setup basic website
 - [ ] build basic daemon
 
 #### TODO - BACKLOG
@@ -14,3 +13,4 @@
 #### DONE
 
 - [x] check domain
+- [x] setup basic website
