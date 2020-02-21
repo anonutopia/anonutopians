@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] google analytics
 - [ ] build basic daemon
 
 #### TODO - BACKLOG
@@ -16,3 +15,4 @@
 - [x] check domain
 - [x] setup basic website
 - [x] add to webmaster tools
+- [x] google analytics
