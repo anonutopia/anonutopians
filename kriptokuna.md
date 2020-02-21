@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] add to webmaster tools
 - [ ] google analytics
 - [ ] build basic daemon
 
@@ -16,3 +15,4 @@
 
 - [x] check domain
 - [x] setup basic website
+- [x] add to webmaster tools
