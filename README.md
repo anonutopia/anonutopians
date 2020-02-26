@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] kickstart Kriptokuna
 - [ ] move all websites to AnonCMS
 
 ## Other TODO Lists
