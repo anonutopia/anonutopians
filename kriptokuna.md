@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] automatic payouts when not enough waves
 - [ ] tutorials
 
 #### DONE
