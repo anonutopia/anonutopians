@@ -5,6 +5,8 @@
 #### TODO - MVP
 
 - [ ] daemon - sell Kriptokuna
+- [ ] daily payouts
+- [ ] fees in Kriptokuna
 - [ ] contact page
 - [ ] about
 - [ ] faq
