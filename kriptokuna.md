@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] mass transfer payouts
 - [ ] tutorials
 - [ ] contact page
 - [ ] faq
