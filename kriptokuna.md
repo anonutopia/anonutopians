@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] create Kriptokuna Telegram bot
+- [ ] setup node
+- [ ] daemon - buy Kriptokuna
+- [ ] daemon - sell Kriptokuna
 - [ ] contact page
 - [ ] about
 - [ ] faq
-- [ ] daemon - buy Kriptokuna
-- [ ] daemon - sell Kriptokuna
 
 #### TODO - BACKLOG
 
@@ -22,3 +22,4 @@
 - [x] add to webmaster tools
 - [x] google analytics
 - [x] create Kriptokuna Telegram group
+- [x] create Kriptokuna Telegram bot
