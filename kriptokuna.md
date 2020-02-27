@@ -4,9 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] new token - 6 decimal places
 - [ ] setup node
-- [ ] daemon - buy Kriptokuna
 - [ ] daemon - sell Kriptokuna
 - [ ] contact page
 - [ ] about
@@ -24,3 +22,4 @@
 - [x] google analytics
 - [x] create Kriptokuna Telegram group
 - [x] create Kriptokuna Telegram bot
+- [x] daemon - buy Kriptokuna
