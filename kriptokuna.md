@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] setup node
 - [ ] daemon - sell Kriptokuna
 - [ ] contact page
 - [ ] about
@@ -23,3 +22,4 @@
 - [x] create Kriptokuna Telegram group
 - [x] create Kriptokuna Telegram bot
 - [x] daemon - buy Kriptokuna
+- [x] setup node
