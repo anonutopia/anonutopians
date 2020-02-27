@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] daily payouts
 - [ ] contact page
 - [ ] about
 - [ ] faq
@@ -26,3 +25,4 @@
 - [x] setup node
 - [x] fees in Kriptokuna
 - [x] daemon - sell Kriptokuna
+- [x] daily payouts
