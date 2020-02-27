@@ -4,14 +4,14 @@
 
 #### TODO - MVP
 
+- [ ] tutorials
 - [ ] contact page
-- [ ] about
 - [ ] faq
+- [ ] about
 
 #### TODO - BACKLOG
 
 - [ ] automatic payouts when not enough waves
-- [ ] tutorials
 
 #### DONE
 
