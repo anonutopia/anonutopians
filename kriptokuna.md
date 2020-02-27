@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] new token - 6 decimal places
 - [ ] setup node
 - [ ] daemon - buy Kriptokuna
 - [ ] daemon - sell Kriptokuna
