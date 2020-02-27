@@ -6,7 +6,6 @@
 
 - [ ] daemon - sell Kriptokuna
 - [ ] daily payouts
-- [ ] fees in Kriptokuna
 - [ ] contact page
 - [ ] about
 - [ ] faq
@@ -25,3 +24,4 @@
 - [x] create Kriptokuna Telegram bot
 - [x] daemon - buy Kriptokuna
 - [x] setup node
+- [x] fees in Kriptokuna
