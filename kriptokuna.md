@@ -6,7 +6,6 @@
 
 - [ ] mass transfer payouts
 - [ ] tutorials
-- [ ] contact page
 - [ ] faq
 - [ ] about
 
@@ -27,3 +26,4 @@
 - [x] fees in Kriptokuna
 - [x] daemon - sell Kriptokuna
 - [x] daily payouts
+- [x] contact page
