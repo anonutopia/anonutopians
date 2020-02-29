@@ -5,7 +5,10 @@
 #### TODO - MVP
 
 - [ ] mass transfer payouts
+- [ ] tutorials - address + qr
 - [ ] faq
+- [ ] automatic withdrawal
+- [ ] transparency page
 
 #### TODO - BACKLOG
 
