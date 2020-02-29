@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] mass transfer payouts
-- [ ] tutorials
 - [ ] faq
 
 #### TODO - BACKLOG
@@ -27,3 +26,4 @@
 - [x] daemon - sell Kriptokuna
 - [x] daily payouts
 - [x] contact page
+- [x] tutorials
