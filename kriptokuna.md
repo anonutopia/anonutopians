@@ -7,10 +7,10 @@
 - [ ] mass transfer payouts
 - [ ] tutorials
 - [ ] faq
-- [ ] about
 
 #### TODO - BACKLOG
 
+- [ ] detailed about page
 - [ ] automatic payouts when there's not enough waves
 
 #### DONE
