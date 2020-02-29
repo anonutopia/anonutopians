@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] mass transfer payouts
-- [ ] tutorials - address + qr
 - [ ] faq
 - [ ] automatic withdrawal
 - [ ] transparency page
@@ -30,3 +29,4 @@
 - [x] daily payouts
 - [x] contact page
 - [x] tutorials
+- [x] tutorials - address + qr
