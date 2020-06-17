@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] mass transfer payouts
-- [ ] faq
+- [ ] faq - more questions
 - [ ] automatic withdrawal
 - [ ] transparency page
 
