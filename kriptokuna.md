@@ -5,14 +5,15 @@
 #### TODO - MVP
 
 - [ ] mass transfer payouts
-- [ ] faq - more questions
-- [ ] automatic withdrawal
-- [ ] transparency page
+- [ ] automatic exchange to waves
+- [ ] automatic deposit
+- [ ] card bot
 
 #### TODO - BACKLOG
 
+- [ ] transparency page
 - [ ] detailed about page
-- [ ] automatic payouts when there's not enough waves
+- [ ] faq - more questions
 
 #### DONE
 
