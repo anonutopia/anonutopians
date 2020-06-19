@@ -12,6 +12,7 @@
 ## Other TODO Lists
 
 - [Anonutopia](anonutopia.md)
+- [AnonAds](anonads.md)
 - [AnonTaxi](anontaxi.md)
 - [AnonCMS](anoncms.md)
 - [AnonFounder](anonfounder.md)
