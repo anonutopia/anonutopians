@@ -1,7 +1,6 @@
 # Anonutopia Ideas
 
-- [ ] free websites (directory)
-- [ ] taxi - like driver and make him preferred
+- [ ] todo
 
 ## Project / App Ideas
 
