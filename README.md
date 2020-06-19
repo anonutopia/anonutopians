@@ -5,6 +5,8 @@
 #### TODO
 
 - [ ] kickstart Kriptokuna
+- [ ] kickstart Anote
+- [ ] kickstart Anonutopia
 - [ ] move all websites to AnonCMS
 
 ## Other TODO Lists
