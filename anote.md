@@ -9,6 +9,7 @@
 - [ ] anonads supscription - 10 anotes
 - [ ] anonalerts supscription - 20 anotes
 - [ ] mining
+- [ ] decentralization - oracles
 
 #### DONE
 
