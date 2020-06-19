@@ -8,6 +8,7 @@
 - [ ] automatic exchange to waves
 - [ ] automatic deposit
 - [ ] card bot
+- [ ] use DEX for exchanges
 
 #### TODO - BACKLOG
 
