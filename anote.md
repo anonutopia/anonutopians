@@ -4,7 +4,11 @@
 
 #### TODO
 
-- [ ] todo
+- [ ] welcome message
+- [ ] registration - 1 anote
+- [ ] anonads supscription - 10 anotes
+- [ ] anonalerts supscription - 20 anotes
+- [ ] mining
 
 #### DONE
 
