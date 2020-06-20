@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] adding user - set referral
 - [ ] set referral manually
 - [ ] anonads supscription - 10 anotes
 - [ ] anonalerts supscription - 20 anotes
@@ -42,3 +41,4 @@
 - [x] remove owner from all calculations
 - [x] welcome message
 - [x] registration - 1 anote
+- [x] adding user - set referral
