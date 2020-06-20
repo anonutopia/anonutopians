@@ -4,8 +4,8 @@
 
 #### TODO
 
-- [ ] welcome message
-- [ ] registration - 1 anote
+- [ ] adding user - set referral
+- [ ] set referral manually
 - [ ] anonads supscription - 10 anotes
 - [ ] anonalerts supscription - 20 anotes
 - [ ] mining
@@ -39,3 +39,5 @@
 - [x] prepare contract for oracles
 - [x] price updating oracle
 - [x] remove owner from all calculations
+- [x] welcome message
+- [x] registration - 1 anote
