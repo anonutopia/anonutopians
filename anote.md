@@ -2,15 +2,18 @@
 
 ## ANT
 
-#### TODO
+#### TODO - MVP
 
-- [ ] set referral manually
-- [ ] anonads supscription - 10 anotes
-- [ ] anonalerts supscription - 20 anotes
+- [ ] anonshout supscription - 10 anotes
 - [ ] mining
-- [ ] decentralization - oracles
 - [ ] purchasing anotes
 - [ ] good user flow
+
+#### TODO - BACKLOG
+
+- [ ] set referral manually
+- [ ] decentralization - oracles
+- [ ] move database to blockchain
 
 #### DONE
 
