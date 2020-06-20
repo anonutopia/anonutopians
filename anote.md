@@ -10,6 +10,7 @@
 - [ ] anonalerts supscription - 20 anotes
 - [ ] mining
 - [ ] decentralization - oracles
+- [ ] purchasing anotes
 - [ ] good user flow
 
 #### DONE
