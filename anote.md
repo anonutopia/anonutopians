@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] anonshout supscription - 10 anotes
-- [ ] mining
+- [ ] mining / minting
 - [ ] purchasing anotes
 - [ ] good user flow
 
