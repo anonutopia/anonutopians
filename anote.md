@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] registration - save chat id
 - [ ] anonshout supscription - 10 anotes
 - [ ] mining / minting
 - [ ] purchasing anotes
@@ -46,3 +45,4 @@
 - [x] welcome message
 - [x] registration - 1 anote
 - [x] adding user - set referral
+- [x] registration - save chat id
