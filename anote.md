@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] more tasks
 - [ ] set referral manually
 - [ ] decentralization - oracles
 - [ ] move database to blockchain
