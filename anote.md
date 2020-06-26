@@ -7,6 +7,7 @@
 - [ ] anonshout supscription - 10 anotes
 - [ ] mining / minting
 - [ ] purchasing anotes
+- [ ] website
 - [ ] good user flow
 
 #### TODO - BACKLOG
