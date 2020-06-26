@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] check sending anotes
 - [ ] anonshout supscription - 10 anotes
 - [ ] mining / minting
 - [ ] purchasing anotes
@@ -50,3 +49,4 @@
 - [x] adding user - set referral
 - [x] registration - save chat id
 - [x] check address
+- [x] check sending anotes
