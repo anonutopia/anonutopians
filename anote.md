@@ -13,7 +13,7 @@
 
 - [ ] more tasks
 - [ ] set referral manually
-- [ ] decentralization - oracles
+- [ ] decentralization - nodes
 - [ ] move database to blockchain
 
 #### DONE
