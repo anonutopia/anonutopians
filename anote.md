@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] deploy script
 - [ ] anonshout supscription - 10 anotes
 - [ ] mining / minting
 - [ ] website
@@ -51,3 +50,4 @@
 - [x] check address
 - [x] check sending anotes
 - [x] purchasing anotes
+- [x] deploy script
