@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] deploy script
 - [ ] anonshout supscription - 10 anotes
 - [ ] mining / minting
 - [ ] website
