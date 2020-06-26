@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] purchasing anotes
 - [ ] anonshout supscription - 10 anotes
 - [ ] mining / minting
 - [ ] website
@@ -50,3 +49,4 @@
 - [x] registration - save chat id
 - [x] check address
 - [x] check sending anotes
+- [x] purchasing anotes
