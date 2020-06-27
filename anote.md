@@ -6,7 +6,7 @@
 
 - [ ] status command
 - [ ] mining / minting
-- [ ] anonshout supscription - 10 anotes
+- [ ] anonshout supscription
 - [ ] website
 - [ ] good user flow
 
