@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] development environment
 - [ ] status command
 - [ ] mining / minting
 - [ ] anonshout supscription - 10 anotes
