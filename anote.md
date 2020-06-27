@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] development environment
 - [ ] status command
 - [ ] mining / minting
 - [ ] anonshout supscription - 10 anotes
@@ -53,3 +52,4 @@
 - [x] check sending anotes
 - [x] purchasing anotes
 - [x] deploy script
+- [x] development environment
