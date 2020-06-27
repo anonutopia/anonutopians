@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] status command
 - [ ] mining / minting
 - [ ] anonshout supscription - 10 anotes
 - [ ] website
