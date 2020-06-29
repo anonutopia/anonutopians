@@ -15,6 +15,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] anon cells
 - [ ] more tasks
 - [ ] set referral manually
 - [ ] decentralization - nodes
