@@ -8,7 +8,6 @@
 - [ ] ping inactive miners
 - [ ] withdraw command
 - [ ] anonshout supscription
-- [ ] remove airdrop stuff
 - [ ] website
 - [ ] good user flow
 
@@ -57,3 +56,4 @@
 - [x] deploy script
 - [x] development environment
 - [x] mining warning every 24 hours
+- [x] remove airdrop stuff
