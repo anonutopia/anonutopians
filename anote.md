@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] status command
 - [ ] ping inactive miners
 - [ ] withdraw command
 - [ ] anonshout supscription
@@ -57,3 +56,4 @@
 - [x] development environment
 - [x] mining warning every 24 hours
 - [x] remove airdrop stuff
+- [x] status command
