@@ -8,6 +8,7 @@
 - [ ] mining warning every 24 hours
 - [ ] ping inactive miners
 - [ ] anonshout supscription
+- [ ] remove airdrop stuff
 - [ ] website
 - [ ] good user flow
 
