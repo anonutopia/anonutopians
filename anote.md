@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] ping inactive miners
 - [ ] withdraw command
 - [ ] anonshout supscription
 - [ ] website
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] ping inactive miners
 - [ ] anon cells
 - [ ] more tasks
 - [ ] set referral manually
