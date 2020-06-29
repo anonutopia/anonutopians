@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] anonshout supscription
 - [ ] website
 - [ ] good user flow
 
@@ -58,3 +57,4 @@
 - [x] status command
 - [x] withdraw command
 - [x] translate all messages
+- [x] anonshout supscription
