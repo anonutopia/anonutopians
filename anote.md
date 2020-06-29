@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] translate all messages
 - [ ] anonshout supscription
 - [ ] website
 - [ ] good user flow
@@ -58,3 +57,4 @@
 - [x] remove airdrop stuff
 - [x] status command
 - [x] withdraw command
+- [x] translate all messages
