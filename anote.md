@@ -7,6 +7,7 @@
 - [ ] status command
 - [ ] mining warning every 24 hours
 - [ ] ping inactive miners
+- [ ] withdraw command
 - [ ] anonshout supscription
 - [ ] remove airdrop stuff
 - [ ] website
