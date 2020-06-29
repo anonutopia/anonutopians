@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] anonshout supscription
 - [ ] translate all messages
+- [ ] anonshout supscription
 - [ ] website
 - [ ] good user flow
 
