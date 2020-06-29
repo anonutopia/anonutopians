@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] status command
-- [ ] mining warning every 24 hours
 - [ ] ping inactive miners
 - [ ] withdraw command
 - [ ] anonshout supscription
@@ -57,3 +56,4 @@
 - [x] purchasing anotes
 - [x] deploy script
 - [x] development environment
+- [x] mining warning every 24 hours
