@@ -6,6 +6,7 @@
 
 - [ ] withdraw command
 - [ ] anonshout supscription
+- [ ] translate all messages
 - [ ] website
 - [ ] good user flow
 
