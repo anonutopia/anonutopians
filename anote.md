@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] withdraw command
 - [ ] anonshout supscription
 - [ ] translate all messages
 - [ ] website
@@ -58,3 +57,4 @@
 - [x] mining warning every 24 hours
 - [x] remove airdrop stuff
 - [x] status command
+- [x] withdraw command
