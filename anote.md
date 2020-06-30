@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] clean config file
 - [ ] ad bidding for shout
 - [ ] website
 - [ ] good user flow
@@ -61,3 +60,4 @@
 - [x] translate all messages
 - [x] anonshout supscription
 - [x] sending message / ad on shout
+- [x] clean config file
