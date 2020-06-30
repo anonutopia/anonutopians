@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] status - show mined anotes
 - [ ] ad bidding for shout
 - [ ] website
 - [ ] good user flow
