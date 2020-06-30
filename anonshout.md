@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] sending message / ad
-- [ ] ad bidding
+- [ ] todos
 
 #### DONE

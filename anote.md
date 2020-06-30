@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] sending message / ad on shout
+- [ ] ad bidding for shout
 - [ ] website
 - [ ] good user flow
 
