@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] mining accumulation
 - [ ] ad bidding for shout
 - [ ] website
 - [ ] good user flow
@@ -62,3 +61,4 @@
 - [x] anonshout supscription
 - [x] sending message / ad on shout
 - [x] clean config file
+- [x] mining accumulation
