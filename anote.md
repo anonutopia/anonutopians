@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] clean config file
 - [ ] ad bidding for shout
 - [ ] website
 - [ ] good user flow
