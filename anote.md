@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] mining accumulation
 - [ ] ad bidding for shout
 - [ ] website
 - [ ] good user flow
