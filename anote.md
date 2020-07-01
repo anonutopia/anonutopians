@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] status - show mined anotes
+- [ ] referral link
 - [ ] ad bidding for shout
 - [ ] website
 - [ ] good user flow
@@ -63,3 +63,4 @@
 - [x] sending message / ad on shout
 - [x] clean config file
 - [x] mining accumulation
+- [x] status - show mined anotes
