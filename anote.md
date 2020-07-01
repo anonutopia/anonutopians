@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] production on postgresql
 - [ ] referral link
 - [ ] ad bidding for shout
 - [ ] website
