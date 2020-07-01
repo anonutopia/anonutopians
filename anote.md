@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] production on postgresql
 - [ ] referral link
 - [ ] ad bidding for shout
 - [ ] website
@@ -65,3 +64,4 @@
 - [x] clean config file
 - [x] mining accumulation
 - [x] status - show mined anotes
+- [x] production on postgresql
