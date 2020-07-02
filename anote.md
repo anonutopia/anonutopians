@@ -4,13 +4,13 @@
 
 #### TODO - MVP
 
-- [ ] referral link
-- [ ] ad bidding for shout
-- [ ] website
 - [ ] good user flow
+- [ ] referral link
+- [ ] website
 
 #### TODO - BACKLOG
 
+- [ ] ad bidding for shout
 - [ ] ping inactive miners
 - [ ] anon cells
 - [ ] more tasks
