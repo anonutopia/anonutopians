@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] status command - phases
 - [ ] referral link
 - [ ] website
 
@@ -67,3 +66,4 @@
 - [x] status - show mined anotes
 - [x] production on postgresql
 - [x] good user flow
+- [x] status command - phases
