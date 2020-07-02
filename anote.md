@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] status command - phases
 - [ ] referral link
 - [ ] website
 
