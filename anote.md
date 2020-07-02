@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] good user flow
 - [ ] referral link
 - [ ] website
 
 #### TODO - BACKLOG
 
+- [ ] good user flow - english
 - [ ] ad bidding for shout
 - [ ] ping inactive miners
 - [ ] anon cells
@@ -65,3 +65,4 @@
 - [x] mining accumulation
 - [x] status - show mined anotes
 - [x] production on postgresql
+- [x] good user flow
