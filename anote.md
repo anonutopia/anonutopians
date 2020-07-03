@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] set referral to founder if none
 - [ ] make sure to stop mining after 24 hours
 - [ ] referral link
 - [ ] website
@@ -69,3 +68,4 @@
 - [x] production on postgresql
 - [x] good user flow
 - [x] status command - phases
+- [x] set referral to founder if none
