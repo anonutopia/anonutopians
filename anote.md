@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] fix free referral anote
 - [ ] make sure to stop mining after 24 hours
 - [ ] referral link
 - [ ] website
@@ -70,3 +69,4 @@
 - [x] good user flow
 - [x] status command - phases
 - [x] set referral to founder if none
+- [x] fix free referral anote
