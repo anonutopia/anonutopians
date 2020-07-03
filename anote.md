@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] set referral to founder if none
+- [ ] make sure to stop mining after 24 hours
 - [ ] referral link
 - [ ] website
 
