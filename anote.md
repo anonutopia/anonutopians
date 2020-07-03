@@ -10,6 +10,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] change language
 - [ ] good user flow - english
 - [ ] ad bidding for shout
 - [ ] ping inactive miners
