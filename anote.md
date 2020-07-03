@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] languages per group
 - [ ] referral link
 - [ ] website
 
