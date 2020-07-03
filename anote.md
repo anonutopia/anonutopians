@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] fix free referral anote
 - [ ] make sure to stop mining after 24 hours
 - [ ] referral link
 - [ ] website
