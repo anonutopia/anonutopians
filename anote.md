@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website updates
 - [ ] referral link
 
 #### TODO - BACKLOG
@@ -73,3 +72,4 @@
 - [x] set referral to founder if none
 - [x] fix free referral anote
 - [x] make sure to stop mining after 24 hours
+- [x] website updates
