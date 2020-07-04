@@ -8,6 +8,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] add AnonsRobot to Anonutopia group and make it work
 - [ ] waves referral message
 - [ ] transparency page
 - [ ] user left group - automatically remove message
