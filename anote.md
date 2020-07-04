@@ -9,6 +9,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] user left group - automatically remove message
 - [ ] languages per group
 - [ ] change language
 - [ ] good user flow - english
