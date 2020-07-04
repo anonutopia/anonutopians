@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] referral link
-- [ ] check purchasing - waves flow
 
 #### TODO - BACKLOG
 
@@ -75,3 +74,4 @@
 - [x] fix free referral anote
 - [x] make sure to stop mining after 24 hours
 - [x] website updates
+- [x] check purchasing - waves flow
