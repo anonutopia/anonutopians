@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] referral link
-
 #### TODO - BACKLOG
 
 - [ ] add AnonsRobot to Anonutopia group and make it work
@@ -77,3 +75,4 @@
 - [x] make sure to stop mining after 24 hours
 - [x] website updates
 - [x] check purchasing - waves flow
+- [x] referral link
