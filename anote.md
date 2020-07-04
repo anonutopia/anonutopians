@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] languages per group
+- [ ] website updates
 - [ ] referral link
-- [ ] website
 
 #### TODO - BACKLOG
 
+- [ ] languages per group
 - [ ] change language
 - [ ] good user flow - english
 - [ ] ad bidding for shout
