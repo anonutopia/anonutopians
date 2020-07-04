@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] referral link
+- [ ] check purchasing - waves flow
 
 #### TODO - BACKLOG
 
