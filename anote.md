@@ -8,6 +8,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] waves referral message
 - [ ] transparency page
 - [ ] user left group - automatically remove message
 - [ ] languages per group
