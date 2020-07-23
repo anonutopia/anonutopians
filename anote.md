@@ -4,16 +4,17 @@
 
 #### TODO - MVP
 
+- [ ] add AnonsRobot to Anonutopia group and make it work
+- [ ] languages per group
+- [ ] good user flow - english
+- [ ] ad bidding for shout
+- [ ] change language
+
 #### TODO - BACKLOG
 
-- [ ] add AnonsRobot to Anonutopia group and make it work
 - [ ] waves referral message
 - [ ] transparency page
 - [ ] user left group - automatically remove message
-- [ ] languages per group
-- [ ] change language
-- [ ] good user flow - english
-- [ ] ad bidding for shout
 - [ ] ping inactive miners
 - [ ] anon cells
 - [ ] more tasks
