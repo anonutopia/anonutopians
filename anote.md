@@ -7,10 +7,10 @@
 - [ ] shout - new message in english
 - [ ] good user flow - english
 - [ ] ad bidding for shout
-- [ ] change language
 
 #### TODO - BACKLOG
 
+- [ ] change language
 - [ ] multiple shout subscriptions (by language and interest)
 - [ ] waves referral message
 - [ ] transparency page
