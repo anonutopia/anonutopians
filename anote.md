@@ -4,12 +4,14 @@
 
 #### TODO - MVP
 
+- [ ] shout - new message in english
 - [ ] good user flow - english
 - [ ] ad bidding for shout
 - [ ] change language
 
 #### TODO - BACKLOG
 
+- [ ] multiple shout subscriptions (by language and interest)
 - [ ] waves referral message
 - [ ] transparency page
 - [ ] user left group - automatically remove message
