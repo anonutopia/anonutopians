@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] shout - new message in english
+- [ ] shout - new default message in english
 - [ ] good user flow - english
 - [ ] ad bidding for shout
 
