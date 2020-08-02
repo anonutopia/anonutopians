@@ -4,8 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] add AnonsRobot to Anonutopia group and make it work
-- [ ] languages per group
+- [ ] add AnonsRobot to Anonutopia group and make it work, languages per group
 - [ ] good user flow - english
 - [ ] ad bidding for shout
 - [ ] change language
