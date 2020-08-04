@@ -4,8 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] shout - new default message in english
-- [ ] ad bidding for shout
+- [ ] ad bidding for shout + default english ad
 - [ ] bug - mining always active
 
 #### TODO - BACKLOG
