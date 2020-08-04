@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] ad bidding for shout + default english ad
-- [ ] bug - mining always active
 
 #### TODO - BACKLOG
 
@@ -79,3 +78,4 @@
 - [x] referral link
 - [x] add AnonsRobot to Anonutopia group and make it work, languages per group
 - [x] good user flow - english
+- [x] bug - mining always active
