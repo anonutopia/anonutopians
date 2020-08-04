@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] shout - new default message in english
-- [ ] good user flow - english
 - [ ] ad bidding for shout
 - [ ] bug - mining always active
 
@@ -80,3 +79,4 @@
 - [x] check purchasing - waves flow
 - [x] referral link
 - [x] add AnonsRobot to Anonutopia group and make it work, languages per group
+- [x] good user flow - english
