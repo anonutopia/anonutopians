@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] ad bidding for shout + default english ad
+- [ ] update website homepage
 
 #### TODO - BACKLOG
 
