@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] status command issue - updating mining activated time
 - [ ] ad bidding for shout + default english ad
 - [ ] update website homepage
 
