@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] status command issue - updating mining activated time
 - [ ] ad bidding for shout + default english ad
 - [ ] update website homepage
 
@@ -81,3 +80,4 @@
 - [x] add AnonsRobot to Anonutopia group and make it work, languages per group
 - [x] good user flow - english
 - [x] bug - mining always active
+- [x] status command issue - updating mining activated time
