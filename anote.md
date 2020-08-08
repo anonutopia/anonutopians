@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] update website homepage
+- [ ] website homepage
+- [ ] website - anote
 
 #### TODO - BACKLOG
 
