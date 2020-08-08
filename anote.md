@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] ad bidding for shout + default english ad
 - [ ] update website homepage
 
 #### TODO - BACKLOG
@@ -81,3 +80,4 @@
 - [x] good user flow - english
 - [x] bug - mining always active
 - [x] status command issue - updating mining activated time
+- [x] ad bidding for shout + default english ad
