@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] group messages for investments and price rising
 - [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
 
 #### TODO - BACKLOG
@@ -85,3 +84,4 @@
 - [x] mining power - at least 3 referrals
 - [x] fix website homepage
 - [x] website - anonshout
+- [x] group messages for investments and price rising
