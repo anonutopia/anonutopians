@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website homepage
 - [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
 - [ ] website - anonshout
 
@@ -84,3 +83,4 @@
 - [x] status command issue - updating mining activated time
 - [x] ad bidding for shout + default english ad
 - [x] mining power - at least 3 referrals
+- [x] fix website homepage
