@@ -6,6 +6,7 @@
 
 - [ ] shoutinfo command
 - [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
+- [ ] status - mining cycle ends in
 
 #### TODO - BACKLOG
 
