@@ -4,9 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] shoutinfo command
 - [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
-- [ ] status - mining cycle ends in
 
 #### TODO - BACKLOG
 
@@ -88,3 +86,5 @@
 - [x] fix website homepage
 - [x] website - anonshout
 - [x] group messages for investments and price rising
+- [x] status - mining cycle ends in
+- [x] shoutinfo command
