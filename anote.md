@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] shoutstats command
+- [ ] shoutaddress command
 - [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
 
 #### TODO - BACKLOG
