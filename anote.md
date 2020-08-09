@@ -4,9 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] mining power - at least 3 referrals
 - [ ] website homepage
-- [ ] website - anote
+- [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
 - [ ] website - anonshout
 
 #### TODO - BACKLOG
@@ -84,3 +83,4 @@
 - [x] bug - mining always active
 - [x] status command issue - updating mining activated time
 - [x] ad bidding for shout + default english ad
+- [x] mining power - at least 3 referrals
