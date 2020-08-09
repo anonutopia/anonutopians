@@ -4,8 +4,10 @@
 
 #### TODO - MVP
 
+- [ ] mining power - at least 3 referrals
 - [ ] website homepage
 - [ ] website - anote
+- [ ] website - anonshout
 
 #### TODO - BACKLOG
 
