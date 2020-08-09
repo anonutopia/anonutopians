@@ -8,6 +8,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] anonshout image
 - [ ] ping inactive every day
 - [ ] change language
 - [ ] multiple shout subscriptions (by language and interest)
