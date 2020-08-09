@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
-- [ ] website - anonshout
 
 #### TODO - BACKLOG
 
@@ -84,3 +83,4 @@
 - [x] ad bidding for shout + default english ad
 - [x] mining power - at least 3 referrals
 - [x] fix website homepage
+- [x] website - anonshout
