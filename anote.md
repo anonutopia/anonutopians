@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] group messages for investments and price rising
 - [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
 
 #### TODO - BACKLOG
