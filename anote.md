@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - projects - AnonTaxi
-- [ ] website - projects - KriptoKuna
 - [ ] website - projects general page
 - [ ] website - anote - fix generale page (pi / no pi)
 - [ ] website - anote - how to mine
@@ -98,3 +96,5 @@
 - [x] group messages for investments and price rising
 - [x] status - mining cycle ends in
 - [x] shoutinfo command
+- [x] website - projects - AnonTaxi
+- [x] website - projects - KriptoKuna
