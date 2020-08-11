@@ -5,8 +5,9 @@
 #### TODO - MVP
 
 - [ ] website - anote - fix general page (pi / no pi)
-- [ ] website - anote - AnonsRobot tutorial
-- [ ] website - anote - AnonShout tutorial
+- [ ] website - mining power
+- [ ] website - AnonsRobot tutorial
+- [ ] website - AnonShout tutorial
 - [ ] AnonsRobot - precise funneling
 - [ ] AnonsRobot - purchase incentives
 - [ ] website - purchase incentives
