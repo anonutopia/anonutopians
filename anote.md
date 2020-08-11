@@ -6,11 +6,11 @@
 
 - [ ] AnonsRobot - precise funneling
 - [ ] AnonsRobot - purchase incentives
-- [ ] website - purchase incentives
 - [ ] instagram post
 
 #### TODO - BACKLOG
 
+- [ ] website - purchase incentives
 - [ ] purchasing - how to buy waves
 - [ ] purchasing - bitcoin, ethereum, neutrino, kriptokuna
 - [ ] anonshout image
