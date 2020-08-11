@@ -9,7 +9,6 @@
 
 #### TODO - BACKLOG
 
-- [ ] links for easier mining
 - [ ] website - purchase incentives
 - [ ] purchasing - how to buy waves
 - [ ] purchasing - bitcoin, ethereum, neutrino, kriptokuna
@@ -103,3 +102,4 @@
 - [x] website - anote - fix page - pi / no pi, status tags
 - [x] website - AnonShout tutorial
 - [x] website - AnonsRobot tutorial
+- [x] links for easier mining
