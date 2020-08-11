@@ -14,6 +14,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] purchasing - how to buy waves
+- [ ] purchasing - bitcoin, ethereum, neutrino, kriptokuna
 - [ ] anonshout image
 - [ ] ping inactive every day
 - [ ] change language
