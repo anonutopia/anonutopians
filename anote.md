@@ -6,7 +6,6 @@
 
 - [ ] website - anote - fix general page (pi / no pi)
 - [ ] website - anote - mining tutorial
-- [ ] website - anote - purchasing tutorial
 - [ ] website - anote - AnonsRobot tutorial
 - [ ] website - anote - AnonShout tutorial
 - [ ] AnonsRobot - precise funneling
@@ -99,3 +98,4 @@
 - [x] website - projects - KriptoKuna
 - [x] website - update sitemap.xml
 - [x] website - projects general page
+- [x] website - anote - purchasing tutorial
