@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - projects general page
 - [ ] website - anote - fix generale page (pi / no pi)
 - [ ] website - anote - mining tutorial
 - [ ] website - anote - purchasing tutorial
@@ -99,3 +98,4 @@
 - [x] website - projects - AnonTaxi
 - [x] website - projects - KriptoKuna
 - [x] website - update sitemap.xml
+- [x] website - projects general page
