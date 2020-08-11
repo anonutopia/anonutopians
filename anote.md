@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - AnonShout tutorial
 - [ ] website - AnonsRobot tutorial
 - [ ] AnonsRobot - precise funneling
 - [ ] AnonsRobot - purchase incentives
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] instagram post
 - [ ] purchasing - how to buy waves
 - [ ] purchasing - bitcoin, ethereum, neutrino, kriptokuna
 - [ ] anonshout image
@@ -102,3 +102,4 @@
 - [x] website - anote - mining tutorial
 - [x] website - mining power
 - [x] website - anote - fix page - pi / no pi, status tags
+- [x] website - AnonShout tutorial
