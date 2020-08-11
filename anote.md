@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] website - anote - fix generale page (pi / no pi)
+- [ ] website - anote - fix general page (pi / no pi)
 - [ ] website - anote - mining tutorial
 - [ ] website - anote - purchasing tutorial
 - [ ] website - anote - AnonShout tutorial
