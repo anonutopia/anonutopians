@@ -4,8 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] AnonsRobot - precise funneling
-- [ ] AnonsRobot - incentivize purchasing
+- [ ] AnonsRobot - precise funneling + incentivize purchasing
 - [ ] instagram post
 
 #### TODO - BACKLOG
