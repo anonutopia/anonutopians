@@ -4,13 +4,14 @@
 
 #### TODO - MVP
 
+- [ ] website - projects - AnonTaxi
+- [ ] website - projects - KriptoKuna
+- [ ] website - projects general page
 - [ ] website - anote - fix generale page (pi / no pi)
 - [ ] website - anote - how to mine
 - [ ] website - anote - how to purchase
 - [ ] website - anote - how to use AnonShout
 - [ ] website - anote - how to use AnonsRobot
-- [ ] website - projects - AnonTaxi
-- [ ] website - projects - KriptoKuna
 - [ ] AnonsRobot - precise funneling
 
 #### TODO - BACKLOG
