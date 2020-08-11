@@ -10,6 +10,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] links for easier mining
 - [ ] website - purchase incentives
 - [ ] purchasing - how to buy waves
 - [ ] purchasing - bitcoin, ethereum, neutrino, kriptokuna
