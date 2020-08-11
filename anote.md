@@ -6,10 +6,10 @@
 
 - [ ] website - projects general page
 - [ ] website - anote - fix generale page (pi / no pi)
-- [ ] website - anote - how to mine
-- [ ] website - anote - how to purchase
-- [ ] website - anote - how to use AnonShout
-- [ ] website - anote - how to use AnonsRobot
+- [ ] website - anote - mining tutorial
+- [ ] website - anote - purchasing tutorial
+- [ ] website - anote - AnonShout tutorial
+- [ ] website - anote - AnonsRobot tutorial
 - [ ] AnonsRobot - precise funneling
 - [ ] AnonsRobot - purchase incentives
 - [ ] website - purchase incentives
