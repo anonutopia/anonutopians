@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] website - anote (pi knowledge / no pi knowledge, status tags / mining)
+- [ ] website - anote - pi knowledge / no pi knowledge
+- [ ] website - anote - status tags / mining
 
 #### TODO - BACKLOG
 
