@@ -13,6 +13,8 @@
 - [ ] website - anote - how to use AnonShout
 - [ ] website - anote - how to use AnonsRobot
 - [ ] AnonsRobot - precise funneling
+- [ ] AnonsRobot - purchase incentives
+- [ ] website - purchase incentives
 
 #### TODO - BACKLOG
 
