@@ -10,7 +10,6 @@
 - [ ] website - anote - how to purchase
 - [ ] website - anote - how to use AnonShout
 - [ ] website - anote - how to use AnonsRobot
-- [ ] website - update sitemap.xml
 - [ ] AnonsRobot - precise funneling
 - [ ] AnonsRobot - purchase incentives
 - [ ] website - purchase incentives
@@ -99,3 +98,4 @@
 - [x] shoutinfo command
 - [x] website - projects - AnonTaxi
 - [x] website - projects - KriptoKuna
+- [x] website - update sitemap.xml
