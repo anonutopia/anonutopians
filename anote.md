@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] AnonsRobot - precise funneling
 - [ ] website - anote - pi knowledge / no pi knowledge
 - [ ] website - anote - status tags / mining
 
