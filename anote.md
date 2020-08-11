@@ -7,8 +7,8 @@
 - [ ] website - anote - fix general page (pi / no pi)
 - [ ] website - anote - mining tutorial
 - [ ] website - anote - purchasing tutorial
-- [ ] website - anote - AnonShout tutorial
 - [ ] website - anote - AnonsRobot tutorial
+- [ ] website - anote - AnonShout tutorial
 - [ ] AnonsRobot - precise funneling
 - [ ] AnonsRobot - purchase incentives
 - [ ] website - purchase incentives
