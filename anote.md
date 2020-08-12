@@ -9,7 +9,7 @@
 #### TODO - BACKLOG
 
 - [ ] instagram post
-- [ ] website - purchase incentives
+- [ ] website - incentivize purchasing
 - [ ] purchasing - how to buy waves
 - [ ] purchasing - bitcoin, ether, neutrino, kriptokuna
 - [ ] anonshout image
