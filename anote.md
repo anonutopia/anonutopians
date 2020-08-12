@@ -5,10 +5,10 @@
 #### TODO - MVP
 
 - [ ] AnonsRobot - precise funneling + incentivize purchasing
-- [ ] instagram post
 
 #### TODO - BACKLOG
 
+- [ ] instagram post
 - [ ] website - purchase incentives
 - [ ] purchasing - how to buy waves
 - [ ] purchasing - bitcoin, ethereum, neutrino, kriptokuna
