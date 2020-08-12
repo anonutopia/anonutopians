@@ -11,7 +11,7 @@
 - [ ] instagram post
 - [ ] website - purchase incentives
 - [ ] purchasing - how to buy waves
-- [ ] purchasing - bitcoin, ethereum, neutrino, kriptokuna
+- [ ] purchasing - bitcoin, ether, neutrino, kriptokuna
 - [ ] anonshout image
 - [ ] ping inactive every day
 - [ ] change language
