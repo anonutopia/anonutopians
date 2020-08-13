@@ -6,7 +6,7 @@
 
 - [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - incentivize purchasing (on purchase, on mine)
-- [ ] growth hack - pi exchange
+- [ ] growth hack - comparison to PI
 
 #### TODO - BACKLOG
 
