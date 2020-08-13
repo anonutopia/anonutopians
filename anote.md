@@ -6,6 +6,7 @@
 
 - [ ] AnonsRobot - limit group messages
 - [ ] AnonsRobot - precise funneling + incentivize purchasing
+- [ ] growth hack - pi exchange
 
 #### TODO - BACKLOG
 
