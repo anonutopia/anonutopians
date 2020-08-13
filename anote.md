@@ -5,7 +5,8 @@
 #### TODO - MVP
 
 - [ ] AnonsRobot - limit group messages
-- [ ] AnonsRobot - precise funneling + incentivize purchasing
+- [ ] AnonsRobot - precise funneling (check everything)
+- [ ] AnonsRobot - incentivize purchasing (on purchase, on mine)
 - [ ] growth hack - pi exchange
 
 #### TODO - BACKLOG
