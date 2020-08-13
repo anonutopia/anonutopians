@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] AnonsRobot - limit group messages
 - [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - incentivize purchasing (on purchase, on mine)
 - [ ] growth hack - pi exchange
@@ -106,3 +105,4 @@
 - [x] website - AnonShout tutorial
 - [x] website - AnonsRobot tutorial
 - [x] links for easier mining
+- [x] AnonsRobot - limit group messages
