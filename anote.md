@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] AnonsRobot - limit group messages
 - [ ] AnonsRobot - precise funneling + incentivize purchasing
 
 #### TODO - BACKLOG
