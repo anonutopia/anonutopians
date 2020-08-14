@@ -7,7 +7,8 @@
 - [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - incentivize purchasing (on purchase, on mine)
 - [ ] AnonsRobot - additional messages (become miner, purchase, regiser and withdraw, extra mine)
-- [ ] growth hack - comparison to PI
+- [ ] website - beginner
+- [ ] website - comparison to PI
 
 #### TODO - BACKLOG
 
