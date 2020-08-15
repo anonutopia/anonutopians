@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] AnonsRobot - incentivize purchasing (on purchase, on mine)
 - [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - additional messages (become miner, purchase, regiser and withdraw, extra mine)
 - [ ] website - beginner tutorial
@@ -109,3 +108,4 @@
 - [x] links for easier mining
 - [x] AnonsRobot - limit group messages
 - [x] AnonsRobot - mined anotes bug
+- [x] AnonsRobot - incentivize purchasing (on purchase, on mine)
