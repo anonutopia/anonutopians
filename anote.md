@@ -6,12 +6,12 @@
 
 - [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - additional messages (become miner, purchase, regiser and withdraw, extra mine)
-- [ ] AnonsRobot - calculator
 - [ ] website - beginner tutorial
 - [ ] website - comparison to PI
 
 #### TODO - BACKLOG
 
+- [ ] AnonsRobot - calculator
 - [ ] instagram post
 - [ ] website - incentivize purchasing
 - [ ] purchasing - how to buy waves
