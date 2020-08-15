@@ -6,6 +6,7 @@
 
 - [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - additional messages (become miner, purchase, regiser and withdraw, extra mine)
+- [ ] AnonsRobot - calculator
 - [ ] website - beginner tutorial
 - [ ] website - comparison to PI
 
