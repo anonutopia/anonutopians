@@ -4,13 +4,13 @@
 
 #### TODO - MVP
 
-- [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - additional messages (become miner, purchase, regiser and withdraw, extra mine)
 - [ ] website - beginner tutorial
 - [ ] website - comparison to PI
 
 #### TODO - BACKLOG
 
+- [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - calculator
 - [ ] instagram post
 - [ ] website - incentivize purchasing
