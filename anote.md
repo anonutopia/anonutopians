@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] AnonsRobot - refactoring
+- [ ] AnonsRobot - more error logging to AnonOps
 - [ ] AnonsRobot - precise funneling (check everything)
 - [ ] AnonsRobot - calculator
 - [ ] AnonsRobot - additional messages (become miner, purchase, regiser and withdraw, extra mine)
