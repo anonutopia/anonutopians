@@ -4,15 +4,15 @@
 
 #### TODO - MVP
 
+- [ ] AnonsRobot - precise funneling (check everything)
+- [ ] AnonsRobot - calculator
 - [ ] AnonsRobot - additional messages (become miner, purchase, regiser and withdraw, extra mine)
 - [ ] website - beginner tutorial
 - [ ] website - comparison to PI
 
 #### TODO - BACKLOG
 
-- [ ] AnonsRobot - precise funneling (check everything)
-- [ ] AnonsRobot - calculator
-- [ ] instagram post
+- [ ] growth hacking
 - [ ] website - incentivize purchasing
 - [ ] purchasing - how to buy waves
 - [ ] purchasing - bitcoin, ether, neutrino, kriptokuna
