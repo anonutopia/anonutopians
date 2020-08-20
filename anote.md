@@ -6,6 +6,7 @@
 
 - [ ] AnonsRobot - additional messages - mine every day
 - [ ] AnonsRobot - additional messages - become a miner
+- [ ] website - referral redirect
 - [ ] website - beginner's tutorial
 - [ ] website - comparison to PI
 
