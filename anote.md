@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - beginner's tutorial
 - [ ] website - comparison to PI
 
 #### TODO - BACKLOG
@@ -116,3 +115,4 @@
 - [x] bug - referral code fix
 - [x] AnonsRobot - additional messages - mine every day
 - [x] AnonsRobot - additional messages - become a miner
+- [x] website - beginner's tutorial
