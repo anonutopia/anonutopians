@@ -4,12 +4,14 @@
 
 #### TODO - MVP
 
-- [ ] AnonsRobot - additional messages (become miner, register and withdraw, extra mine)
+- [ ] AnonsRobot - additional messages - become a miner
+- [ ] AnonsRobot - additional messages - mine every day
 - [ ] website - beginner's tutorial
 - [ ] website - comparison to PI
 
 #### TODO - BACKLOG
 
+- [ ] AnonsRobot - additional messages - register and withdraw
 - [ ] calculate - new price
 - [ ] growth hacking
 - [ ] website - incentivize purchasing
