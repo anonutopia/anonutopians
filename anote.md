@@ -11,9 +11,9 @@
 
 #### TODO - BACKLOG
 
+- [ ] growth hacking
 - [ ] AnonsRobot - additional messages - register and withdraw
 - [ ] calculate - new price
-- [ ] growth hacking
 - [ ] website - incentivize purchasing
 - [ ] purchasing - how to buy waves
 - [ ] purchasing - bitcoin, ether, neutrino, kriptokuna
