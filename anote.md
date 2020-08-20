@@ -7,7 +7,6 @@
 - [ ] bug - referral code fix
 - [ ] AnonsRobot - additional messages - mine every day
 - [ ] AnonsRobot - additional messages - become a miner
-- [ ] website - referral redirect
 - [ ] website - beginner's tutorial
 - [ ] website - comparison to PI
 
@@ -116,3 +115,4 @@
 - [x] AnonsRobot - more error logging to AnonOps
 - [x] AnonsRobot - refactoring + precise funneling (check everything)
 - [x] AnonsRobot - calculator
+- [x] website - referral redirect
