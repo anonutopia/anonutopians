@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] bug - referral code fix
 - [ ] AnonsRobot - additional messages - mine every day
 - [ ] AnonsRobot - additional messages - become a miner
 - [ ] website - beginner's tutorial
@@ -116,3 +115,4 @@
 - [x] AnonsRobot - refactoring + precise funneling (check everything)
 - [x] AnonsRobot - calculator
 - [x] website - referral redirect
+- [x] bug - referral code fix
