@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] AnonsRobot - additional messages - become a miner
 - [ ] AnonsRobot - additional messages - mine every day
+- [ ] AnonsRobot - additional messages - become a miner
 - [ ] website - beginner's tutorial
 - [ ] website - comparison to PI
 
