@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] AnonsRobot - additional messages - mine every day
 - [ ] AnonsRobot - additional messages - become a miner
 - [ ] website - beginner's tutorial
 - [ ] website - comparison to PI
@@ -116,3 +115,4 @@
 - [x] AnonsRobot - calculator
 - [x] website - referral redirect
 - [x] bug - referral code fix
+- [x] AnonsRobot - additional messages - mine every day
