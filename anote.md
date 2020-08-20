@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] AnonsRobot - calculator
 - [ ] AnonsRobot - additional messages (become miner, register and withdraw, extra mine)
 - [ ] website - beginner's tutorial
 - [ ] website - comparison to PI
@@ -111,3 +110,4 @@
 - [x] AnonsRobot - incentivize purchasing (on purchase, on mine)
 - [x] AnonsRobot - more error logging to AnonOps
 - [x] AnonsRobot - refactoring + precise funneling (check everything)
+- [x] AnonsRobot - calculator
