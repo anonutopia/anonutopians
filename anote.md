@@ -10,6 +10,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] calculate - new price
 - [ ] growth hacking
 - [ ] website - incentivize purchasing
 - [ ] purchasing - how to buy waves
