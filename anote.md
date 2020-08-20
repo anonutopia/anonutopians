@@ -6,7 +6,7 @@
 
 - [ ] AnonsRobot - calculator
 - [ ] AnonsRobot - additional messages (become miner, register and withdraw, extra mine)
-- [ ] website - beginner tutorial
+- [ ] website - beginner's tutorial
 - [ ] website - comparison to PI
 
 #### TODO - BACKLOG
