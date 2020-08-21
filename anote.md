@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - comparison to PI
-
 #### TODO - BACKLOG
 
 - [ ] growth hacking
@@ -116,3 +114,4 @@
 - [x] AnonsRobot - additional messages - mine every day
 - [x] AnonsRobot - additional messages - become a miner
 - [x] website - beginner's tutorial
+- [x] website - comparison to PI
