@@ -6,6 +6,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] change the ad
 - [ ] update about submenu
 - [ ] website - update facebook link
 - [ ] growth hacking
