@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] bug - early mining message
 - [ ] fix referral system
 - [ ] help command
 - [ ] better error logging output
@@ -125,3 +124,4 @@
 - [x] AnonsRobot - additional messages - become a miner
 - [x] website - beginner's tutorial
 - [x] website - comparison to PI
+- [x] bug - mining warning to wrong user
