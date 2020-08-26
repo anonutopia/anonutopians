@@ -4,7 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] fix referral system
+- [ ] fix referral system - nickname
+- [ ] fix referral system - team command
+- [ ] fix referral system - start command hack
+- [ ] fix referral system - set referral manually
 - [ ] help command
 - [ ] prepare ad
 - [ ] run ad
