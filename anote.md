@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] fix referral system - nickname
-- [ ] fix referral system - team command
-- [ ] fix referral system - start command hack
-- [ ] fix referral system - set referral manually
-- [ ] fix referral system - remove extra link click
+- [ ] referral - /nick command
+- [ ] referral - /team command
+- [ ] referral - start hack
+- [ ] referral - /ref command
+- [ ] referral - remove link click
 - [ ] help command
 - [ ] bug - ad gets republished
 - [ ] website - fix tutorials
