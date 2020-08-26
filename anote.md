@@ -13,8 +13,8 @@
 
 #### TODO - BACKLOG
 
-- [ ] prepare ad
-- [ ] run ad
+- [ ] prepare telegram ad
+- [ ] run telegram ad
 - [ ] help command
 - [ ] welcome message - send to website
 - [ ] update about submenu
