@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] better error logging output
 - [ ] fix referral system
 - [ ] help command
 - [ ] prepare ad
@@ -125,3 +124,4 @@
 - [x] website - beginner's tutorial
 - [x] website - comparison to PI
 - [x] bug - mining warning to wrong user
+- [x] better error logging output
