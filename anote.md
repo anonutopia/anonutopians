@@ -10,12 +10,12 @@
 - [ ] fix referral system - set referral manually
 - [ ] fix referral system - remove extra link click
 - [ ] help command
-- [ ] prepare ad
-- [ ] run ad
+- [ ] bug - ad gets republished
 
 #### TODO - BACKLOG
 
-- [ ] bug - ad gets republished
+- [ ] prepare ad
+- [ ] run ad
 - [ ] change the ad
 - [ ] update about submenu
 - [ ] website - update facebook link
