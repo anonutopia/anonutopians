@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] bug - ad gets republished
 - [ ] change the ad
 - [ ] update about submenu
 - [ ] website - update facebook link
