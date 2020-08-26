@@ -9,7 +9,6 @@
 - [ ] referral - start hack
 - [ ] referral - /ref command
 - [ ] referral - remove link click
-- [ ] bug - ad gets republished
 - [ ] website - fix tutorials
 
 #### TODO - BACKLOG
@@ -131,3 +130,4 @@
 - [x] website - comparison to PI
 - [x] bug - mining warning to wrong user
 - [x] better error logging output
+- [x] bug - ad gets republished
