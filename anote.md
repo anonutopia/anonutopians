@@ -4,6 +4,13 @@
 
 #### TODO - MVP
 
+- [ ] bug - early mining message
+- [ ] fix referral system
+- [ ] help command
+- [ ] better error logging output
+- [ ] prepare ad
+- [ ] run ad
+
 #### TODO - BACKLOG
 
 - [ ] change the ad
