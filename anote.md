@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] referral - /nick command
 - [ ] referral - /team command
 - [ ] referral - start hack
 - [ ] referral - /ref command
@@ -132,3 +131,4 @@
 - [x] bug - ad gets republished
 - [x] change the ad
 - [x] referral - remove link click
+- [x] referral - /nick command
