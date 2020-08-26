@@ -9,7 +9,6 @@
 - [ ] referral - start hack
 - [ ] referral - /ref command
 - [ ] referral - remove link click
-- [ ] help command
 - [ ] bug - ad gets republished
 - [ ] website - fix tutorials
 
@@ -17,6 +16,7 @@
 
 - [ ] prepare ad
 - [ ] run ad
+- [ ] help command
 - [ ] change the ad
 - [ ] update about submenu
 - [ ] website - update facebook link
