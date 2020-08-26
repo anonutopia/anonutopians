@@ -8,7 +8,6 @@
 - [ ] referral - /team command
 - [ ] referral - start hack
 - [ ] referral - /ref command
-- [ ] referral - remove link click
 - [ ] website - fix tutorials
 
 #### TODO - BACKLOG
@@ -132,3 +131,4 @@
 - [x] better error logging output
 - [x] bug - ad gets republished
 - [x] change the ad
+- [x] referral - remove link click
