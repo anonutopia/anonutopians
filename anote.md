@@ -16,7 +16,7 @@
 - [ ] prepare ad
 - [ ] run ad
 - [ ] help command
-- [ ] change the ad
+- [ ] welcome message - send to website
 - [ ] update about submenu
 - [ ] website - update facebook link
 - [ ] growth hacking
@@ -131,3 +131,4 @@
 - [x] bug - mining warning to wrong user
 - [x] better error logging output
 - [x] bug - ad gets republished
+- [x] change the ad
