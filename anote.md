@@ -4,9 +4,9 @@
 
 #### TODO - MVP
 
+- [ ] better error logging output
 - [ ] fix referral system
 - [ ] help command
-- [ ] better error logging output
 - [ ] prepare ad
 - [ ] run ad
 
