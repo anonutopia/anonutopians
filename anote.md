@@ -11,6 +11,7 @@
 - [ ] fix referral system - remove extra link click
 - [ ] help command
 - [ ] bug - ad gets republished
+- [ ] website - fix tutorials
 
 #### TODO - BACKLOG
 
