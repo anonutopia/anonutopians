@@ -8,6 +8,7 @@
 - [ ] fix referral system - team command
 - [ ] fix referral system - start command hack
 - [ ] fix referral system - set referral manually
+- [ ] fix referral system - remove extra link click
 - [ ] help command
 - [ ] prepare ad
 - [ ] run ad
