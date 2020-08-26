@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] referral - start hack
 - [ ] referral - /ref command
+- [ ] referral - start hack
 - [ ] website - fix tutorials
 
 #### TODO - BACKLOG
