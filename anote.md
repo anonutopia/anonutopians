@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] update anonsrobot pages
 - [ ] purchasing - bitcoin, ether
 - [ ] website - fix tutorials
 - [ ] purchasing - how to buy waves
