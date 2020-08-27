@@ -6,6 +6,7 @@
 
 - [ ] purchasing - bitcoin, ether
 - [ ] website - fix tutorials
+- [ ] purchasing - how to buy waves
 - [ ] help command
 - [ ] welcome message - send to website
 - [ ] calculate - new price
@@ -18,7 +19,6 @@
 - [ ] growth hacking
 - [ ] AnonsRobot - additional messages - register and withdraw
 - [ ] website - incentivize purchasing
-- [ ] purchasing - how to buy waves
 - [ ] anonshout image
 - [ ] change language
 - [ ] multiple shout subscriptions (by language and interest)
