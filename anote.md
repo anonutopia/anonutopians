@@ -8,7 +8,6 @@
 - [ ] website - fix tutorials
 - [ ] help command
 - [ ] welcome message - send to website
-- [ ] update about submenu
 - [ ] calculate - new price
 - [ ] prepare telegram ad
 - [ ] run telegram ad
@@ -130,3 +129,4 @@
 - [x] referral - /team command
 - [x] referral - /ref command
 - [x] referral - start hack
+- [x] update about submenu
