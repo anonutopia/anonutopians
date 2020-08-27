@@ -4,23 +4,22 @@
 
 #### TODO - MVP
 
-- [ ] referral - start hack
+- [ ] purchasing - bitcoin, ether
 - [ ] website - fix tutorials
-
-#### TODO - BACKLOG
-
-- [ ] prepare telegram ad
-- [ ] run telegram ad
 - [ ] help command
 - [ ] welcome message - send to website
 - [ ] update about submenu
+- [ ] calculate - new price
+- [ ] prepare telegram ad
+- [ ] run telegram ad
+
+#### TODO - BACKLOG
+
 - [ ] website - update facebook link
 - [ ] growth hacking
 - [ ] AnonsRobot - additional messages - register and withdraw
-- [ ] calculate - new price
 - [ ] website - incentivize purchasing
 - [ ] purchasing - how to buy waves
-- [ ] purchasing - bitcoin, ether, neutrino, kriptokuna
 - [ ] anonshout image
 - [ ] ping inactive every day
 - [ ] change language
@@ -132,3 +131,4 @@
 - [x] referral - /nick command
 - [x] referral - /team command
 - [x] referral - /ref command
+- [x] referral - start hack
