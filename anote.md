@@ -21,7 +21,6 @@
 - [ ] website - incentivize purchasing
 - [ ] purchasing - how to buy waves
 - [ ] anonshout image
-- [ ] ping inactive every day
 - [ ] change language
 - [ ] multiple shout subscriptions (by language and interest)
 - [ ] waves referral message
@@ -30,7 +29,6 @@
 - [ ] ping inactive miners
 - [ ] anon cells
 - [ ] more tasks
-- [ ] set referral manually
 - [ ] decentralization - nodes
 - [ ] move database to blockchain
 
