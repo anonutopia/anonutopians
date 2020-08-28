@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] website - fix tutorials
-- [ ] purchasing - how to buy waves
 - [ ] help command
 - [ ] migrate to telebot
 
@@ -134,3 +133,4 @@
 - [x] welcome message - send to website
 - [x] calculate - new price
 - [x] purchasing - bitcoin, ether
+- [x] purchasing - how to buy waves
