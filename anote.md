@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] calculate - new price
 - [ ] purchasing - bitcoin, ether
 - [ ] website - fix tutorials
 - [ ] purchasing - how to buy waves
@@ -132,3 +131,4 @@
 - [x] update about submenu
 - [x] update anonsrobot page
 - [x] welcome message - send to website
+- [x] calculate - new price
