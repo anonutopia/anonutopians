@@ -9,12 +9,12 @@
 - [ ] website - fix tutorials
 - [ ] purchasing - how to buy waves
 - [ ] help command
-- [ ] prepare telegram ad
-- [ ] run telegram ad
+- [ ] migrate to telebot
 
 #### TODO - BACKLOG
 
-- [ ] migrate to telebot
+- [ ] prepare telegram ad
+- [ ] run telegram ad
 - [ ] website - update facebook link
 - [ ] growth hacking
 - [ ] AnonsRobot - additional messages - register and withdraw
