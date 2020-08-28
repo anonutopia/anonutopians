@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
+- [ ] calculate - new price
 - [ ] purchasing - bitcoin, ether
 - [ ] website - fix tutorials
 - [ ] purchasing - how to buy waves
 - [ ] help command
-- [ ] calculate - new price
 - [ ] prepare telegram ad
 - [ ] run telegram ad
 
