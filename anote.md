@@ -4,12 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] update anonsrobot page
 - [ ] purchasing - bitcoin, ether
 - [ ] website - fix tutorials
 - [ ] purchasing - how to buy waves
 - [ ] help command
-- [ ] welcome message - send to website
 - [ ] calculate - new price
 - [ ] prepare telegram ad
 - [ ] run telegram ad
@@ -132,3 +130,5 @@
 - [x] referral - /ref command
 - [x] referral - start hack
 - [x] update about submenu
+- [x] update anonsrobot page
+- [x] welcome message - send to website
