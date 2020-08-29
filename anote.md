@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] fix referral system
 - [ ] website - fix tutorials
 - [ ] help command
 - [ ] migrate to telebot
