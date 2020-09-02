@@ -135,3 +135,4 @@
 - [x] calculate - new price
 - [x] purchasing - bitcoin, ether
 - [x] purchasing - how to buy waves
+- [x] clean exceptions
