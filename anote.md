@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] fix referral system
+- [ ] handle taken nickname
 - [ ] website - fix tutorials
 - [ ] help command
 - [ ] migrate to telebot
@@ -136,3 +136,4 @@
 - [x] purchasing - bitcoin, ether
 - [x] purchasing - how to buy waves
 - [x] clean exceptions
+- [x] fix referral system
