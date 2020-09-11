@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] handle bot.send exceptions
 - [ ] handle taken nickname
 - [ ] website - fix tutorials
 - [ ] help command
