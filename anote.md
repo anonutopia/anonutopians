@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] fix anonshout
 - [ ] handle bot.send exceptions
 - [ ] handle taken nickname
 - [ ] website - fix tutorials
@@ -138,3 +139,4 @@
 - [x] purchasing - how to buy waves
 - [x] clean exceptions
 - [x] fix referral system
+- [x] limit withdrawals
