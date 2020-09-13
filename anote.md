@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] fix anonshout
 - [ ] handle bot.send exceptions
 - [ ] handle taken nickname
 - [ ] website - fix tutorials
@@ -140,3 +139,4 @@
 - [x] clean exceptions
 - [x] fix referral system
 - [x] limit withdrawals
+- [x] fix anonshout
