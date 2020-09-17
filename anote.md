@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] handle bot.send exceptions
+- [ ] handle bot.Send exceptions
 - [ ] handle taken nickname
 - [ ] website - update to last state
 - [ ] help command
