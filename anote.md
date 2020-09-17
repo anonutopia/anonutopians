@@ -6,10 +6,11 @@
 
 - [ ] handle taken nickname
 - [ ] website - update to last state
-- [ ] help command
+- [ ] website - incentivize purchases
 
 #### TODO - BACKLOG
 
+- [ ] help command
 - [ ] migrate to telebot
 - [ ] prepare telegram ad
 - [ ] run telegram ad
