@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] handle bot.Send exceptions
 - [ ] handle taken nickname
 - [ ] website - update to last state
 - [ ] help command
@@ -140,3 +139,4 @@
 - [x] fix referral system
 - [x] limit withdrawals
 - [x] fix anonshout
+- [x] handle bot.Send exceptions
