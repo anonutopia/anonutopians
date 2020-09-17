@@ -6,12 +6,12 @@
 
 - [ ] handle bot.send exceptions
 - [ ] handle taken nickname
-- [ ] website - fix tutorials
+- [ ] website - update to last state
 - [ ] help command
-- [ ] migrate to telebot
 
 #### TODO - BACKLOG
 
+- [ ] migrate to telebot
 - [ ] prepare telegram ad
 - [ ] run telegram ad
 - [ ] fix anote formula
