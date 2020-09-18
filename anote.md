@@ -4,8 +4,12 @@
 
 #### TODO - MVP
 
+- [ ] fix anote formula
+- [ ] anonshout - edit ad
+- [ ] anonshout - list more info (list of bids)
 - [ ] website - update to the latest state
 - [ ] website - incentivize purchases
+- [ ] mining power token / infrastructure token
 
 #### TODO - BACKLOG
 
@@ -13,7 +17,6 @@
 - [ ] migrate to telebot
 - [ ] prepare telegram ad
 - [ ] run telegram ad
-- [ ] fix anote formula
 - [ ] limit calculator
 - [ ] website - update facebook link
 - [ ] growth hacking
