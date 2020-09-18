@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] handle taken nickname
 - [ ] website - update to last state
 - [ ] website - incentivize purchases
 
@@ -141,3 +140,4 @@
 - [x] limit withdrawals
 - [x] fix anonshout
 - [x] handle bot.Send exceptions
+- [x] handle taken nickname
