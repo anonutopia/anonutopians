@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] website - update to last state
+- [ ] website - update to the latest state
 - [ ] website - incentivize purchases
 
 #### TODO - BACKLOG
