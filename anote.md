@@ -10,13 +10,13 @@
 - [ ] website - update to the latest state
 - [ ] website - incentivize purchases
 - [ ] mining power token / infrastructure token
+- [ ] ping inactive miners
+- [ ] connect dex
 
 #### TODO - BACKLOG
 
 - [ ] help command
 - [ ] migrate to telebot
-- [ ] prepare telegram ad
-- [ ] run telegram ad
 - [ ] limit calculator
 - [ ] website - update facebook link
 - [ ] growth hacking
@@ -28,7 +28,6 @@
 - [ ] waves referral message
 - [ ] transparency page
 - [ ] user left group - automatically remove message
-- [ ] ping inactive miners
 - [ ] anon cells
 - [ ] more tasks
 - [ ] decentralization - nodes
