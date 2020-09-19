@@ -7,11 +7,11 @@
 - [ ] fix anote formula
 - [ ] anonshout - edit ad
 - [ ] anonshout - list more info (list of bids)
-- [ ] website - update to the latest state
-- [ ] website - incentivize purchases
 - [ ] mining power token / infrastructure token
 - [ ] ping inactive miners
 - [ ] connect dex
+- [ ] website - update to the latest state
+- [ ] website - incentivize purchases
 
 #### TODO - BACKLOG
 
