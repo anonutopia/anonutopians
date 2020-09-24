@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] restore backup
 - [ ] unregistered user status
 - [ ] fix anote formula
 - [ ] anonshout - edit ad
@@ -17,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] restore backup
 - [ ] ping inactive miners
 - [ ] withdraw bug
 - [ ] help command
