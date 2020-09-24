@@ -13,7 +13,7 @@
 - [ ] mining power token
 - [ ] ping inactive miners
 - [ ] connect dex
-- [ ] website - update to the latest state
+- [ ] website - update to the latest
 - [ ] website - incentivize purchases
 
 #### TODO - BACKLOG
