@@ -8,9 +8,9 @@
 - [ ] unregistered user status
 - [ ] fix anote formula
 - [ ] anonshout - edit ad
-- [ ] anonshout - list more info (list of bids)
+- [ ] anonshout - more info
 - [ ] anonshout - preview ad
-- [ ] mining power token / infrastructure token
+- [ ] mining power token
 - [ ] ping inactive miners
 - [ ] connect dex
 - [ ] website - update to the latest state
