@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] unregistered user status
 - [ ] fix anote formula
 - [ ] anonshout - edit ad
 - [ ] anonshout - list more info (list of bids)
@@ -143,3 +144,4 @@
 - [x] fix anonshout
 - [x] handle bot.Send exceptions
 - [x] handle taken nickname
+- [x] automatic database backup
