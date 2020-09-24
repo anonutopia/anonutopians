@@ -11,13 +11,13 @@
 - [ ] anonshout - more info
 - [ ] anonshout - preview ad
 - [ ] mining power token
-- [ ] ping inactive miners
 - [ ] connect dex
 - [ ] website - update to the latest
 - [ ] website - incentivize purchases
 
 #### TODO - BACKLOG
 
+- [ ] ping inactive miners
 - [ ] withdraw bug
 - [ ] help command
 - [ ] migrate to telebot
