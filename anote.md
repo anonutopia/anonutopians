@@ -18,6 +18,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] withdraw bug
 - [ ] help command
 - [ ] migrate to telebot
 - [ ] limit calculator
