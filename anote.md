@@ -8,6 +8,7 @@
 - [ ] fix anote formula
 - [ ] anonshout - edit ad
 - [ ] anonshout - list more info (list of bids)
+- [ ] anonshout - preview ad
 - [ ] mining power token / infrastructure token
 - [ ] ping inactive miners
 - [ ] connect dex
