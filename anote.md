@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] anonshout - preview ad
 - [ ] anonshout - more info
 - [ ] anonshout - edit ad
 - [ ] fix anote formula
@@ -148,4 +149,3 @@
 - [x] automatic database backup
 - [x] withdraw bug
 - [x] unregistered user status
-- [x] anonshout - preview ad
