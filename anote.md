@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] unregistered user status
 - [ ] fix anote formula
 - [ ] anonshout - edit ad
 - [ ] anonshout - more info
@@ -18,7 +17,6 @@
 
 - [ ] restore backup
 - [ ] ping inactive miners
-- [ ] withdraw bug
 - [ ] help command
 - [ ] migrate to telebot
 - [ ] limit calculator
@@ -148,3 +146,5 @@
 - [x] handle bot.Send exceptions
 - [x] handle taken nickname
 - [x] automatic database backup
+- [x] withdraw bug
+- [x] unregistered user status
