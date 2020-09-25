@@ -7,7 +7,6 @@
 - [ ] fix anote formula
 - [ ] anonshout - edit ad
 - [ ] anonshout - more info
-- [ ] anonshout - preview ad
 - [ ] mining power token
 - [ ] connect dex
 - [ ] website - update to the latest
@@ -148,3 +147,4 @@
 - [x] automatic database backup
 - [x] withdraw bug
 - [x] unregistered user status
+- [x] anonshout - preview ad
