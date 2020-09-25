@@ -4,9 +4,9 @@
 
 #### TODO - MVP
 
-- [ ] fix anote formula
-- [ ] anonshout - edit ad
 - [ ] anonshout - more info
+- [ ] anonshout - edit ad
+- [ ] fix anote formula
 - [ ] mining power token
 - [ ] connect dex
 - [ ] website - update to the latest
