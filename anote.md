@@ -14,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] /team - big teams
 - [ ] restore backup
 - [ ] ping inactive miners
 - [ ] help command
