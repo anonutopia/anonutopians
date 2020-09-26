@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] anonshout - preview ad
-- [ ] anonshout - more info
 - [ ] anonshout - edit ad
 - [ ] fix anote formula
 - [ ] mining power token
@@ -149,3 +147,5 @@
 - [x] automatic database backup
 - [x] withdraw bug
 - [x] unregistered user status
+- [x] anonshout - preview ad
+- [x] anonshout - more info
