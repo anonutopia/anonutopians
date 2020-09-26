@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] anonshout - edit ad
 - [ ] fix anote formula
 - [ ] mining power token
 - [ ] connect dex
@@ -149,3 +148,4 @@
 - [x] unregistered user status
 - [x] anonshout - preview ad
 - [x] anonshout - more info
+- [x] anonshout - edit ad
