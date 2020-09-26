@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] anonshout - refill anotes
 - [ ] fix anote formula
 - [ ] mining power token
 - [ ] connect dex
