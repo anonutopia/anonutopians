@@ -5,9 +5,10 @@
 #### TODO - MVP
 
 - [ ] anonshout - refill anotes
+- [ ] anonshout - bug - reusing
 - [ ] fix anote formula
-- [ ] mining power token
 - [ ] connect dex
+- [ ] mining power token
 - [ ] website - update to the latest
 - [ ] website - incentivize purchases
 
