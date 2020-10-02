@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] dex - buy anote
-- [ ] dex - keep it at buy
+- [ ] dex - keep at buy
 - [ ] anote - price record notification
 - [ ] anote stats
 - [ ] mining power token
