@@ -10,6 +10,7 @@
 - [ ] dex - sell anote
 - [ ] anote - price record notification
 - [ ] anote - automatic refill for withdrawal
+- [ ] anote stats
 - [ ] mining power token
 - [ ] website - update to the latest
 - [ ] website - incentivize purchases
