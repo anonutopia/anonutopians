@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] anonshout - bug - reusing
 - [ ] dex - buy anote
 - [ ] dex - sell anote
 - [ ] anote - price record notification
@@ -16,7 +15,6 @@
 
 #### TODO - BACKLOG
 
-- [ ] anonshout - refill anotes
 - [ ] /team - big teams
 - [ ] restore backup
 - [ ] ping inactive miners
@@ -154,3 +152,5 @@
 - [x] anonshout - preview ad
 - [x] anonshout - more info
 - [x] anonshout - edit ad
+- [x] anonshout - bug - reusing
+- [x] anonshout - refill anotes
