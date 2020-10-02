@@ -7,7 +7,6 @@
 - [ ] dex - buy anote
 - [ ] dex - sell anote
 - [ ] anote - price record notification
-- [ ] anote - automatic refill for withdrawal
 - [ ] anote stats
 - [ ] mining power token
 - [ ] website - update to the latest
@@ -15,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] anote - automatic refill for withdrawal
 - [ ] /team - big teams
 - [ ] restore backup
 - [ ] ping inactive miners
