@@ -8,7 +8,7 @@
 - [ ] anonshout - bug - reusing
 - [ ] dex - buy anote
 - [ ] dex - sell anote
-- [ ] anote - price record
+- [ ] anote - price record notification
 - [ ] anote - automatic refill for withdrawal
 - [ ] mining power token
 - [ ] website - update to the latest
