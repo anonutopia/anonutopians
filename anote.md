@@ -6,8 +6,10 @@
 
 - [ ] anonshout - refill anotes
 - [ ] anonshout - bug - reusing
-- [ ] fix anote formula
-- [ ] connect dex
+- [ ] dex - buy anote
+- [ ] dex - sell anote
+- [ ] anote - price record
+- [ ] anote - automatic refill for withdrawal
 - [ ] mining power token
 - [ ] website - update to the latest
 - [ ] website - incentivize purchases
