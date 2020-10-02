@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] dex - buy anote
-- [ ] dex - sell anote
 - [ ] anote - price record notification
 - [ ] anote stats
 - [ ] mining power token
@@ -14,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] dex - sell anote
 - [ ] anote - automatic refill for withdrawal
 - [ ] /team - big teams
 - [ ] restore backup
