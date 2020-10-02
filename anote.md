@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] anonshout - refill anotes
 - [ ] anonshout - bug - reusing
 - [ ] dex - buy anote
 - [ ] dex - sell anote
@@ -17,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] anonshout - refill anotes
 - [ ] /team - big teams
 - [ ] restore backup
 - [ ] ping inactive miners
