@@ -4,9 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] dex - buy anote
 - [ ] dex - keep at buy
-- [ ] anote - price record notification
+- [ ] dex - calculator
 - [ ] anote stats
 - [ ] mining power token
 - [ ] website - update to the latest
@@ -14,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] dex - buy anote
 - [ ] dex - sell anote
 - [ ] anote - automatic refill for withdrawal
 - [ ] /team - big teams
@@ -155,3 +155,4 @@
 - [x] anonshout - edit ad
 - [x] anonshout - bug - reusing
 - [x] anonshout - refill anotes
+- [x] anote - price record notification
