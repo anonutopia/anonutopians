@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] dex - calculator
 - [ ] anote stats
+- [ ] dex - calculator
 - [ ] mining power token
 - [ ] website - update to the latest
 - [ ] website - incentivize purchases
