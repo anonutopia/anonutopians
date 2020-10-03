@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] dex - keep at buy
 - [ ] dex - calculator
 - [ ] anote stats
 - [ ] mining power token
@@ -156,3 +155,4 @@
 - [x] anonshout - bug - reusing
 - [x] anonshout - refill anotes
 - [x] anote - price record notification
+- [x] dex - keep at buy
