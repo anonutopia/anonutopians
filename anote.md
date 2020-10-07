@@ -7,7 +7,6 @@
 - [ ] dex - calculator
 - [ ] resell anotes and aints
 - [ ] website - update to the latest
-- [ ] website - incentivize purchases
 
 #### TODO - BACKLOG
 
