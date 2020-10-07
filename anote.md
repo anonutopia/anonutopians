@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] anote formula
 - [ ] dex - calculator
 - [ ] resell anotes and aints
 - [ ] website - update to the latest
