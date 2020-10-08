@@ -157,3 +157,4 @@
 - [x] anote stats
 - [x] mining power token
 - [x] dex - calculator
+- [x] shout - how to advertise here
