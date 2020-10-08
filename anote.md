@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] anote formula
 - [ ] resell anotes and aints
 - [ ] website - update to the latest
 
 #### TODO - BACKLOG
 
+- [ ] anote stable formula
 - [ ] dex - buy anote
 - [ ] dex - sell anote
 - [ ] anote - automatic refill for withdrawal
