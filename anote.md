@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] dex - calculator
 - [ ] anote formula
 - [ ] resell anotes and aints
 - [ ] website - update to the latest
@@ -157,3 +156,4 @@
 - [x] dex - keep at buy
 - [x] anote stats
 - [x] mining power token
+- [x] dex - calculator
