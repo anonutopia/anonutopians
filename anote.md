@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] website - update to the latest
+- [ ] AINT security
 - [ ] remove price command
 
 #### TODO - BACKLOG
