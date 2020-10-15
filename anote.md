@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] website - update to the latest
+- [ ] website - aint links
+- [ ] website - fix homepage
 - [ ] remove price command
 
 #### TODO - BACKLOG
