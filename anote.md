@@ -5,11 +5,12 @@
 #### TODO - MVP
 
 - [ ] website - update to the latest
-- [ ] AINT security
 - [ ] remove price command
 
 #### TODO - BACKLOG
 
+- [ ] shout bug - existing user?
+- [ ] AINT security
 - [ ] resell anotes and aints
 - [ ] anote stable formula
 - [ ] dex - buy anote
