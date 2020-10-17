@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - aint links
 - [ ] website - fix homepage
 - [ ] remove price command
 
@@ -162,3 +161,4 @@
 - [x] mining power token
 - [x] dex - calculator
 - [x] shout - how to advertise here
+- [x] website - aint links
