@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] matcher - cancel order
 - [ ] anote - automatic refill for withdrawal
 
 #### TODO - BACKLOG
