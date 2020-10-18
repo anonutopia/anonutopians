@@ -4,8 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] website - fix homepage
-- [ ] remove price command
+
 
 #### TODO - BACKLOG
 
@@ -162,3 +161,5 @@
 - [x] dex - calculator
 - [x] shout - how to advertise here
 - [x] website - aint links
+- [x] remove price command
+- [x] website - update everything
