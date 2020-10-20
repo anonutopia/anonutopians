@@ -4,6 +4,9 @@
 
 #### TODO - MVP
 
+- [ ] black paper
+- [ ] facebook share
+- [ ] twitter share
 - [ ] matcher - cancel order
 - [ ] anote - automatic refill for withdrawal
 
