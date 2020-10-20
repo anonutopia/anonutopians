@@ -4,14 +4,14 @@
 
 #### TODO - MVP
 
+- [ ] anote - automatic refill for withdrawal
 - [ ] black paper
 - [ ] facebook share
-- [ ] twitter share
-- [ ] matcher - cancel order
-- [ ] anote - automatic refill for withdrawal
 
 #### TODO - BACKLOG
 
+- [ ] twitter share
+- [ ] matcher - cancel order
 - [ ] shout bug - existing user?
 - [ ] AINT security
 - [ ] resell anotes and aints
