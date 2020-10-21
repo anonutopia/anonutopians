@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] anote - automatic refill for withdrawal
 - [ ] black paper
 - [ ] facebook share
 
@@ -166,3 +165,4 @@
 - [x] website - aint links
 - [x] remove price command
 - [x] website - update everything
+- [x] anote - automatic refill for withdrawal
