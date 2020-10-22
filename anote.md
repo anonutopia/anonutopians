@@ -5,7 +5,9 @@
 #### TODO - MVP
 
 - [ ] last refill issue
-- [ ] facebook share
+- [ ] facebook share - page
+- [ ] facebook share - notification
+- [ ] facebook share - bot command
 - [ ] transparency page
 - [ ] team page
 
