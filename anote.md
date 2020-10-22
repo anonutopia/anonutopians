@@ -4,13 +4,17 @@
 
 #### TODO - MVP
 
-- [ ] facebook share - bot command
-- [ ] facebook share - page
-- [ ] facebook share - notification
-- [ ] shout bug
+- [ ] facebook bot - check facebook status
+- [ ] facebook bot - create quest
+- [ ] facebook bot - send first reward
+- [ ] facebook bot - send second reward + message
+- [ ] facebook bot - testing
 
 #### TODO - BACKLOG
 
+- [ ] facebook bot - page
+- [ ] facebook bot - notification
+- [ ] shout bug
 - [ ] transparency page
 - [ ] team page
 - [ ] twitter share
