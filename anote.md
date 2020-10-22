@@ -4,9 +4,9 @@
 
 #### TODO - MVP
 
-- [ ] facebook share - page
 - [ ] facebook share - notification
 - [ ] facebook share - bot command
+- [ ] facebook share - page
 
 #### TODO - BACKLOG
 
