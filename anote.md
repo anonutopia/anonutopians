@@ -7,6 +7,7 @@
 - [ ] facebook share - bot command
 - [ ] facebook share - page
 - [ ] facebook share - notification
+- [ ] shout bug
 
 #### TODO - BACKLOG
 
@@ -14,7 +15,6 @@
 - [ ] team page
 - [ ] twitter share
 - [ ] matcher - cancel order
-- [ ] shout bug - existing user?
 - [ ] AINT security
 - [ ] resell anotes and aints
 - [ ] anote stable formula
