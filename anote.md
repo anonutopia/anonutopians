@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] facebook bot - check facebook status
 - [ ] facebook bot - create quest
 - [ ] facebook bot - send first reward
 - [ ] facebook bot - send second reward + message
@@ -174,3 +173,4 @@
 - [x] anote - automatic refill for withdrawal
 - [x] black paper
 - [x] last refill issue
+- [x] facebook bot - check facebook status
