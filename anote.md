@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] black paper
 - [ ] facebook share
 
 #### TODO - BACKLOG
@@ -166,3 +165,4 @@
 - [x] remove price command
 - [x] website - update everything
 - [x] anote - automatic refill for withdrawal
+- [x] black paper
