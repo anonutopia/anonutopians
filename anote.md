@@ -5,6 +5,8 @@
 #### TODO - MVP
 
 - [ ] facebook share
+- [ ] transparency page
+- [ ] team page
 
 #### TODO - BACKLOG
 
@@ -30,7 +32,6 @@
 - [ ] change language
 - [ ] multiple shout subscriptions (by language and interest)
 - [ ] waves referral message
-- [ ] transparency page
 - [ ] user left group - automatically remove message
 - [ ] anon cells
 - [ ] more tasks
