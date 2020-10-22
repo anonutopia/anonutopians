@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] last refill issue
 - [ ] facebook share - page
 - [ ] facebook share - notification
 - [ ] facebook share - bot command
@@ -170,3 +169,4 @@
 - [x] website - update everything
 - [x] anote - automatic refill for withdrawal
 - [x] black paper
+- [x] last refill issue
