@@ -7,11 +7,11 @@
 - [ ] facebook share - page
 - [ ] facebook share - notification
 - [ ] facebook share - bot command
-- [ ] transparency page
-- [ ] team page
 
 #### TODO - BACKLOG
 
+- [ ] transparency page
+- [ ] team page
 - [ ] twitter share
 - [ ] matcher - cancel order
 - [ ] shout bug - existing user?
