@@ -4,12 +4,11 @@
 
 #### TODO - MVP
 
-
+- [ ] facebook bot - page
+- [ ] facebook bot - notification
 
 #### TODO - BACKLOG
 
-- [ ] facebook bot - page
-- [ ] facebook bot - notification
 - [ ] shout bug
 - [ ] transparency page
 - [ ] team page
