@@ -4,10 +4,9 @@
 
 #### TODO - MVP
 
-- [ ] facebook bot - create quest
 - [ ] facebook bot - send first reward
 - [ ] facebook bot - send second reward + message
-- [ ] facebook bot - testing
+- [ ] facebook bot - deploy + testing
 
 #### TODO - BACKLOG
 
@@ -174,3 +173,4 @@
 - [x] black paper
 - [x] last refill issue
 - [x] facebook bot - check facebook status
+- [x] facebook bot - create quest
