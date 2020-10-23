@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] facebook bot - deploy + testing
+
 
 #### TODO - BACKLOG
 
@@ -173,3 +173,4 @@
 - [x] facebook bot - check facebook status
 - [x] facebook bot - create quest
 - [x] facebook bot - send rewards + message
+- [x] facebook bot - deploy + testing
