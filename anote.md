@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] facebook bot - warning when no address
 - [ ] facebook bot - notification
 
 #### TODO - BACKLOG
 
+- [ ] facebook bot - warning when no address
 - [ ] shout bug
 - [ ] transparency page
 - [ ] team page
