@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] facebook bot - warning when no address
 - [ ] facebook bot - notification
 
 #### TODO - BACKLOG
