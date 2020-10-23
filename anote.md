@@ -4,8 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] facebook bot - send first reward
-- [ ] facebook bot - send second reward + message
+- [ ] facebook bot - send rewards + message
 - [ ] facebook bot - deploy + testing
 
 #### TODO - BACKLOG
