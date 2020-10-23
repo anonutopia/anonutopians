@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] facebook bot - page
 - [ ] facebook bot - notification
 
 #### TODO - BACKLOG
@@ -173,3 +172,4 @@
 - [x] facebook bot - create quest
 - [x] facebook bot - send rewards + message
 - [x] facebook bot - deploy + testing
+- [x] facebook bot - page
