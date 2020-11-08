@@ -4,12 +4,13 @@
 
 #### TODO - MVP
 
-- [ ] facebook bot - warning when no address
-- [ ] shout bug
+- [ ] about page
 - [ ] twitter share
+- [ ] shout bug
 
 #### TODO - BACKLOG
 
+- [ ] facebook bot - warning when no address
 - [ ] transparency page
 - [ ] team page
 - [ ] matcher - cancel order
