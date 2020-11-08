@@ -4,15 +4,14 @@
 
 #### TODO - MVP
 
-- [ ] facebook bot - notification
+- [ ] facebook bot - warning when no address
+- [ ] shout bug
+- [ ] twitter share
 
 #### TODO - BACKLOG
 
-- [ ] facebook bot - warning when no address
-- [ ] shout bug
 - [ ] transparency page
 - [ ] team page
-- [ ] twitter share
 - [ ] matcher - cancel order
 - [ ] AINT security
 - [ ] resell anotes and aints
