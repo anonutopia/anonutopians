@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] about page
 - [ ] twitter share
 - [ ] shout bug
 
@@ -176,3 +175,4 @@
 - [x] facebook bot - send rewards + message
 - [x] facebook bot - deploy + testing
 - [x] facebook bot - page
+- [x] about page
