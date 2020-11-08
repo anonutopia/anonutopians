@@ -10,6 +10,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] mine fix
 - [ ] quests notification
 - [ ] facebook bot - warning when no address
 - [ ] transparency page
