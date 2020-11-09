@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] twitter share
 - [ ] shout bug
 
 #### TODO - BACKLOG
@@ -176,3 +175,4 @@
 - [x] facebook bot - deploy + testing
 - [x] facebook bot - page
 - [x] about page
+- [x] twitter share
