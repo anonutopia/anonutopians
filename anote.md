@@ -5,12 +5,13 @@
 #### TODO - MVP
 
 - [ ] shout bug
-
-#### TODO - BACKLOG
-
+- [ ] fix aint formula
 - [ ] mine fix
 - [ ] quests notification
 - [ ] facebook bot - warning when no address
+
+#### TODO - BACKLOG
+
 - [ ] transparency page
 - [ ] team page
 - [ ] matcher - cancel order
