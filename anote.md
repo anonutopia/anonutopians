@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] shout bug
 - [ ] fix aint formula
 - [ ] mine fix
 - [ ] quests notification
@@ -177,3 +176,4 @@
 - [x] facebook bot - page
 - [x] about page
 - [x] twitter share
+- [x] shout bug
