@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] fix aint formula
 - [ ] mine fix
 - [ ] quests notification
 - [ ] facebook bot - warning when no address
@@ -177,3 +176,4 @@
 - [x] about page
 - [x] twitter share
 - [x] shout bug
+- [x] fix aint formula
