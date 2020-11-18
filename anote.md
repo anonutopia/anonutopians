@@ -6,7 +6,7 @@
 
 - [ ] mine fix
 - [ ] quests notification
-- [ ] facebook bot - warning when no address
+- [ ] quests - no address warning
 
 #### TODO - BACKLOG
 
