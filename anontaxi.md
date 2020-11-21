@@ -2,6 +2,10 @@
 
 ## AnonTaxi
 
+#### TODO - Phase 1 (app)
+
+#### TODO - Phase 2 (app)
+
 #### TODO - Phase 3 (app)
 
 - [ ] website in english
