@@ -8,12 +8,12 @@
 - [ ] mine fix
 - [ ] quests notification
 - [ ] quests - no address warning
+- [ ] matcher - cancel order
 
 #### TODO - BACKLOG
 
 - [ ] transparency page
 - [ ] team page
-- [ ] matcher - cancel order
 - [ ] AINT security
 - [ ] resell anotes and aints
 - [ ] anote stable formula
