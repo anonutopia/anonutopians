@@ -4,10 +4,10 @@
 
 #### TODO - MVP
 
+- [ ] fb call to action
 - [ ] mine fix
 - [ ] quests notification
 - [ ] quests - no address warning
-- [ ] fb call to action
 
 #### TODO - BACKLOG
 
