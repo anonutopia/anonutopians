@@ -9,6 +9,7 @@
 - [ ] quests notification
 - [ ] quests - no address warning
 - [ ] matcher - cancel order
+- [ ] move shout commands to shoutrobot
 
 #### TODO - BACKLOG
 
