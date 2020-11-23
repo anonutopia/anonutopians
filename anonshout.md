@@ -8,6 +8,7 @@
 - [ ] put link on anonutopia website
 - [ ] shoutedit command
 - [ ] shoutinfo command
+- [ ] shout referral system
 
 #### TODO - BACKLOG
 
