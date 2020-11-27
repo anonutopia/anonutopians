@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] fb / tw - make link unique
 - [ ] mine fix
 - [ ] quests notification
 - [ ] quests - no address warning
