@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] fb call to action
 - [ ] mine fix
 - [ ] quests notification
 - [ ] quests - no address warning
@@ -179,3 +178,4 @@
 - [x] twitter share
 - [x] shout bug
 - [x] fix aint formula
+- [x] fb call to action
