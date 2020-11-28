@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
+- [ ] matcher - cancel order
 - [ ] fb / tw - make link unique
 - [ ] mine fix
 - [ ] quests notification
 - [ ] quests - no address warning
-- [ ] matcher - cancel order
 - [ ] move shout commands to shoutrobot
 
 #### TODO - BACKLOG
