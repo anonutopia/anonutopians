@@ -6,6 +6,8 @@
 
 - [ ] webmasters tools
 - [ ] google analytics
+- [ ] Facebook page
+- [ ] Instagram page
 
 #### TODO - BACKLOG
 
