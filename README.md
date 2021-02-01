@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] kickstart CrowdCaffe
 - [ ] kickstart Kriptokuna
 - [ ] kickstart Anote
 - [ ] kickstart Anonutopia
