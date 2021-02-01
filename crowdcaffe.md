@@ -8,6 +8,7 @@
 - [ ] google analytics
 - [ ] Facebook page
 - [ ] Instagram page
+- [ ] Twitter page
 
 #### TODO - BACKLOG
 
