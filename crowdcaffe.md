@@ -9,6 +9,9 @@
 - [ ] Facebook page
 - [ ] Instagram page
 - [ ] Twitter page
+- [ ] FAQ page
+- [ ] tutorials page
+- [ ] crowdfunding page
 
 #### TODO - BACKLOG
 
