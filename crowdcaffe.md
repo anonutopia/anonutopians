@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] webmasters tools
 - [ ] google analytics
 - [ ] Facebook page
 - [ ] Instagram page
@@ -21,3 +20,4 @@
 
 - [x] setup basic website
 - [x] create bot
+- [x] webmasters tools
