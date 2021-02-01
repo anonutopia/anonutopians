@@ -4,15 +4,16 @@
 
 #### TODO - MVP
 
-- [ ] matcher - cancel order
-- [ ] fb / tw - make link unique
-- [ ] mine fix
 - [ ] quests notification
 - [ ] quests - no address warning
 - [ ] move shout commands to shoutrobot
 
 #### TODO - BACKLOG
 
+- [ ] mine fix - captcha
+- [ ] mine fix - 24 hours
+- [ ] fb / tw - make link unique
+- [ ] matcher - cancel order
 - [ ] transparency page
 - [ ] team page
 - [ ] AINT security
