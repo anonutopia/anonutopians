@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] homepage work
 - [ ] Facebook page
 - [ ] Instagram page
 - [ ] Twitter page
