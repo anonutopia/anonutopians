@@ -5,8 +5,6 @@
 #### TODO - MVP
 
 - [ ] homepage work
-- [ ] Instagram page
-- [ ] Twitter page
 - [ ] FAQ page
 - [ ] tutorials page
 - [ ] crowdfunding page
@@ -14,6 +12,8 @@
 #### TODO - BACKLOG
 
 - [ ] build bot
+- [ ] Instagram page
+- [ ] Twitter page
 
 #### DONE
 
