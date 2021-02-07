@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] homepage work
-- [ ] contact page
 - [ ] sign up page
 - [ ] FAQ page
 - [ ] crowdfunding page
@@ -24,3 +23,4 @@
 - [x] webmasters tools
 - [x] google analytics
 - [x] Facebook page
+- [x] contact page
