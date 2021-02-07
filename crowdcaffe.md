@@ -7,7 +7,10 @@
 - [ ] homepage work
 - [ ] FAQ page
 - [ ] crowdfunding page
-- [ ] build bot
+- [ ] bot - welcome message
+- [ ] bot - referral program
+- [ ] bot - free token
+- [ ] bot - save payment
 
 #### TODO - BACKLOG
 
