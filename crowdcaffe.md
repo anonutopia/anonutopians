@@ -7,12 +7,12 @@
 - [ ] homepage work
 - [ ] contact page
 - [ ] FAQ page
-- [ ] tutorials page
 - [ ] crowdfunding page
 - [ ] build bot
 
 #### TODO - BACKLOG
 
+- [ ] tutorials page
 - [ ] Instagram page
 - [ ] Twitter page
 
