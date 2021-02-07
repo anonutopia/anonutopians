@@ -9,10 +9,10 @@
 - [ ] FAQ page
 - [ ] tutorials page
 - [ ] crowdfunding page
+- [ ] build bot
 
 #### TODO - BACKLOG
 
-- [ ] build bot
 - [ ] Instagram page
 - [ ] Twitter page
 
