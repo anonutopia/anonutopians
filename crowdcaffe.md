@@ -6,6 +6,7 @@
 
 - [ ] homepage work
 - [ ] contact page
+- [ ] sign up page
 - [ ] FAQ page
 - [ ] crowdfunding page
 - [ ] build bot
