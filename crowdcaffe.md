@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] homepage work
-- [ ] Facebook page
 - [ ] Instagram page
 - [ ] Twitter page
 - [ ] FAQ page
@@ -22,3 +21,4 @@
 - [x] create bot
 - [x] webmasters tools
 - [x] google analytics
+- [x] Facebook page
