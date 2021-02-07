@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] homepage work
+- [ ] contact page
 - [ ] FAQ page
 - [ ] tutorials page
 - [ ] crowdfunding page
