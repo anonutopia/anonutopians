@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] homepage work
 - [ ] FAQ page
 - [ ] about page
 - [ ] crowdfunding page
@@ -29,3 +28,4 @@
 - [x] Facebook page
 - [x] contact page
 - [x] sign up page
+- [x] homepage work
