@@ -6,11 +6,13 @@
 
 - [ ] homepage work
 - [ ] FAQ page
+- [ ] about page
 - [ ] crowdfunding page
 - [ ] bot - welcome message
 - [ ] bot - referral program
 - [ ] bot - free token
 - [ ] bot - save payment
+- [ ] press release
 
 #### TODO - BACKLOG
 
