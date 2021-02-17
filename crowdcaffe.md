@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] FAQ page
 - [ ] about page
 - [ ] crowdfunding page
 - [ ] bot - welcome message
@@ -15,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] FAQ page
 - [ ] tutorials page
 - [ ] Instagram page
 - [ ] Twitter page
