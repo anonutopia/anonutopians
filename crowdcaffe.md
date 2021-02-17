@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] add all pages and menus
 - [ ] about page
 - [ ] crowdfunding page
 - [ ] bot - welcome message
