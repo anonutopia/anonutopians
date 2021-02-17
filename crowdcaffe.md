@@ -30,3 +30,4 @@
 - [x] sign up page
 - [x] homepage work
 - [x] add all pages and menus
+- [x] remove token page
