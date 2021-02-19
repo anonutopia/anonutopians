@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] about page
 - [ ] crowdfunding page
 - [ ] bot - welcome message
 - [ ] bot - referral program
@@ -31,3 +30,4 @@
 - [x] homepage work
 - [x] add all pages and menus
 - [x] remove token page
+- [x] about page
