@@ -7,6 +7,7 @@
 - [ ] v2 - db
 - [ ] v2 - waves
 - [ ] v2 - commands
+- [ ] v2 - language stuff
 - [ ] v2 - prices "oracle"
 - [ ] v2 - token monitor
 - [ ] v2 - miner monitor
