@@ -4,7 +4,7 @@
 
 #### TODO - V2
 
-- [ ] v2 - db
+- [ ] v2 - install waves node
 - [ ] v2 - waves
 - [ ] v2 - commands
 - [ ] v2 - language stuff
@@ -193,3 +193,4 @@
 - [x] fix aint formula
 - [x] fb call to action
 - [x] v2 - telegram + config
+- [x] v2 - db
