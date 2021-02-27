@@ -2,7 +2,7 @@
 
 ## Anote
 
-#### TODO - MVP
+#### TODO - V2
 
 - [ ] quests notification
 - [ ] quests - no address warning
