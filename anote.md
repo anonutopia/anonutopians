@@ -4,12 +4,22 @@
 
 #### TODO - V2
 
-- [ ] quests notification
-- [ ] quests - no address warning
-- [ ] move shout commands to shoutrobot
+- [ ] v2 - db
+- [ ] v2 - waves
+- [ ] v2 - commands
+- [ ] v2 - prices "oracle"
+- [ ] v2 - token monitor
+- [ ] v2 - miner monitor
+- [ ] v2 - shout service - shout robot
+- [ ] v2 - sustaining
+- [ ] v2 - quests
+- [ ] v2 - waves monitor
 
 #### TODO - BACKLOG
 
+- [ ] mvp - quests notification
+- [ ] mvp - quests - no address warning
+- [ ] mvp - move shout commands to shoutrobot
 - [ ] mine fix - captcha
 - [ ] mine fix - 24 hours
 - [ ] fb / tw - make link unique
@@ -181,3 +191,4 @@
 - [x] shout bug
 - [x] fix aint formula
 - [x] fb call to action
+- [x] v2 - telegram + config
