@@ -4,7 +4,6 @@
 
 #### TODO - V2
 
-- [ ] v2 - commands
 - [ ] v2 - token monitor
 - [ ] v2 - miner monitor
 - [ ] v2 - sustaining
@@ -196,3 +195,4 @@
 - [x] v2 - prices "oracle"
 - [x] v2 - install waves node
 - [x] v2 - language stuff
+- [x] v2 - commands
