@@ -4,7 +4,6 @@
 
 #### TODO - V2
 
-- [ ] v2 - install waves node
 - [ ] v2 - commands
 - [ ] v2 - language stuff
 - [ ] v2 - token monitor
@@ -196,3 +195,4 @@
 - [x] v2 - db
 - [x] v2 - waves
 - [x] v2 - prices "oracle"
+- [x] v2 - install waves node
