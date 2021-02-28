@@ -5,7 +5,6 @@
 #### TODO - V2
 
 - [ ] v2 - install waves node
-- [ ] v2 - waves
 - [ ] v2 - commands
 - [ ] v2 - language stuff
 - [ ] v2 - prices "oracle"
@@ -194,3 +193,4 @@
 - [x] fb call to action
 - [x] v2 - telegram + config
 - [x] v2 - db
+- [x] v2 - waves
