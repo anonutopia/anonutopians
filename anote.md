@@ -7,7 +7,6 @@
 - [ ] v2 - install waves node
 - [ ] v2 - commands
 - [ ] v2 - language stuff
-- [ ] v2 - prices "oracle"
 - [ ] v2 - token monitor
 - [ ] v2 - miner monitor
 - [ ] v2 - sustaining
@@ -49,12 +48,6 @@
 - [ ] more tasks
 - [ ] decentralization - nodes
 - [ ] move database to blockchain
-
-#### DONE - V2
-
-- [x] v2 - telegram + config
-- [x] v2 - db
-- [x] v2 - waves
 
 #### DONE
 
@@ -196,3 +189,10 @@
 - [x] shout bug
 - [x] fix aint formula
 - [x] fb call to action
+
+#### DONE - V2
+
+- [x] v2 - telegram + config
+- [x] v2 - db
+- [x] v2 - waves
+- [x] v2 - prices "oracle"
