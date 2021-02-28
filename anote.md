@@ -51,6 +51,12 @@
 - [ ] decentralization - nodes
 - [ ] move database to blockchain
 
+#### DONE - V2
+
+- [x] v2 - telegram + config
+- [x] v2 - db
+- [x] v2 - waves
+
 #### DONE
 
 - [x] basic design for anote
@@ -191,6 +197,3 @@
 - [x] shout bug
 - [x] fix aint formula
 - [x] fb call to action
-- [x] v2 - telegram + config
-- [x] v2 - db
-- [x] v2 - waves
