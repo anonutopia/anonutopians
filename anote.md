@@ -10,7 +10,6 @@
 - [ ] v2 - prices "oracle"
 - [ ] v2 - token monitor
 - [ ] v2 - miner monitor
-- [ ] v2 - shout service - shout robot
 - [ ] v2 - sustaining
 - [ ] v2 - quests
 - [ ] v2 - waves monitor
