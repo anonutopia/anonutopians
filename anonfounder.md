@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] welcome message
+- [ ] help command
 - [ ] new purchase message
 - [ ] purchase monitor
 - [ ] status command
