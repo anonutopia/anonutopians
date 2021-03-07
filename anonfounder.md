@@ -21,3 +21,4 @@
 - [x] config
 - [x] database
 - [x] models
+- [x] start command
