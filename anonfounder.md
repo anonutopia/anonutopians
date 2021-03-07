@@ -4,9 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] config
-- [ ] database
-- [ ] models
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -35,3 +33,6 @@
 - [x] fix - adding bots
 - [x] send referral token on referred registration + bug - add remove then again add user
 - [x] adding multiple users
+- [x] config
+- [x] database
+- [x] models
