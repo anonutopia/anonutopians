@@ -12,6 +12,8 @@
 #### TODO - BACKLOG
 
 - [ ] buy a domain
+- [ ] fund your own project
+- [ ] funds voting
 
 #### DONE
 
