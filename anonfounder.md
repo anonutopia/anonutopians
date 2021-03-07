@@ -8,7 +8,6 @@
 - [ ] transaction monitor
 - [ ] status command
 - [ ] withdraw command
-- [ ] referrals
 
 #### TODO - BACKLOG
 
@@ -22,3 +21,4 @@
 - [x] database
 - [x] models
 - [x] start command
+- [x] referrals
