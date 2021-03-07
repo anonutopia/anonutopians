@@ -2,21 +2,15 @@
 
 ## AnonFounder
 
-#### TODO - v1.2
+#### TODO - MVP
 
-- [ ] better bot messages
-- [ ] sell tokens using DEX
-- [ ] token monitoring tool (Waves Keeper)
-- [ ] use blockchain for database
+- [ ] config
+- [ ] database
+- [ ] models
 
 #### TODO - BACKLOG
 
-- [ ] update message language depending on the group
-- [ ] limit token sell - out of tokens message
-- [ ] help command
-- [ ] setup the website
-- [ ] develop game theory (GitHub + Telegram bots + Tokens)
-- [ ] fund your own project
+- [ ] buy a domain
 
 #### DONE
 
