@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] new purchase message
-- [ ] transaction monitor
+- [ ] purchase monitor
 - [ ] status command
 - [ ] withdraw command
 
