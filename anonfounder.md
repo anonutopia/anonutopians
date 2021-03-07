@@ -24,3 +24,4 @@
 - [x] models
 - [x] start command
 - [x] referrals
+- [x] unknown command
