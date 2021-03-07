@@ -4,7 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] transaction monitor
+- [ ] status command
+- [ ] withdraw command
+- [ ] referrals
 
 #### TODO - BACKLOG
 
