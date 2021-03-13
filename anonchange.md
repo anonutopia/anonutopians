@@ -13,6 +13,9 @@
 
 - [ ] bank exchange
 - [ ] decentralization
+- [ ] website
+- [ ] telegram bot
+- [ ] waves keeper
 
 #### DONE
 
