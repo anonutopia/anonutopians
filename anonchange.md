@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] multiple tokens
 - [ ] bank exchange
 - [ ] decentralization
 - [ ] website
