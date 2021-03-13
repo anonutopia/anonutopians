@@ -12,6 +12,7 @@
 #### TODO - BACKLOG
 
 - [ ] bank exchange
+- [ ] decentralization
 
 #### DONE
 
