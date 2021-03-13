@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] basic structure
+- [ ] exchange orders
 - [ ] buy token
 - [ ] sell token
 - [ ] fee
