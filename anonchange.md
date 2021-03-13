@@ -11,7 +11,7 @@
 
 #### TODO - BACKLOG
 
-- [ ] backlog
+- [ ] bank exchange
 
 #### DONE
 
