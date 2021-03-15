@@ -4,7 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] initial issues
+- [ ] new account
+- [ ] logo
+- [ ] send
+- [ ] receive
+- [ ] favicon
 
 #### TODO - BACKLOG
 
