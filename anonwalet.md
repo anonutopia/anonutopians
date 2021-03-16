@@ -8,7 +8,6 @@
 - [ ] receive - copy address
 - [ ] ui - interest
 - [ ] ui - settings
-- [ ] ui - send
 - [ ] ui - cards
 - [ ] new account
 - [ ] send
@@ -35,3 +34,4 @@
 - [x] deploy
 - [x] ui - receive
 - [x] responsive buttons
+- [x] ui - send
