@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] qr code scanner
 - [ ] receive - copy address
 - [ ] ui - interest
 - [ ] ui - settings
