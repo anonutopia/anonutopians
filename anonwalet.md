@@ -17,6 +17,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] loader gif
+- [ ] button tooltips
 - [ ] other crypto
 - [ ] responsive buttons
 - [ ] session duration config
