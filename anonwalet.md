@@ -19,6 +19,7 @@
 
 - [ ] other crypto
 - [ ] responsive buttons
+- [ ] session duration config
 
 #### DONE
 
