@@ -4,9 +4,16 @@
 
 #### TODO - MVP
 
+- [ ] ui - interest
+- [ ] ui - settings
+- [ ] ui - receive
+- [ ] ui - send
+- [ ] ui - cards
 - [ ] new account
 - [ ] send
 - [ ] receive
+- [ ] login
+- [ ] logout
 
 #### TODO - BACKLOG
 
