@@ -17,6 +17,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] google font
 - [ ] loader gif
 - [ ] button tooltips
 - [ ] other crypto
