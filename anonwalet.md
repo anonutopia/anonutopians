@@ -7,7 +7,6 @@
 - [ ] new account
 - [ ] send
 - [ ] receive
-- [ ] deploy
 
 #### TODO - BACKLOG
 
@@ -22,3 +21,4 @@
 - [x] favicon
 - [x] settings button
 - [x] help button
+- [x] deploy
