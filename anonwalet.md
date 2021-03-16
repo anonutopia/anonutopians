@@ -4,11 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] qr code scanner
-- [ ] receive - copy address
-- [ ] ui - interest
 - [ ] ui - settings
 - [ ] ui - cards
+- [ ] qr code scanner
+- [ ] receive - copy address
 - [ ] new account
 - [ ] send
 - [ ] receive
@@ -17,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] ui - interest
 - [ ] google font
 - [ ] loader gif
 - [ ] button tooltips
