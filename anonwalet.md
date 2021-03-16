@@ -12,6 +12,7 @@
 #### TODO - BACKLOG
 
 - [ ] other crypto
+- [ ] responsive buttons
 
 #### DONE
 
