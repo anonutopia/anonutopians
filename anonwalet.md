@@ -21,7 +21,6 @@
 - [ ] loader gif
 - [ ] button tooltips
 - [ ] other crypto
-- [ ] responsive buttons
 - [ ] session duration config
 
 #### DONE
@@ -34,3 +33,4 @@
 - [x] help button
 - [x] deploy
 - [x] ui - receive
+- [x] responsive buttons
