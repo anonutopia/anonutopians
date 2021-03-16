@@ -6,7 +6,6 @@
 
 - [ ] ui - interest
 - [ ] ui - settings
-- [ ] ui - receive
 - [ ] ui - send
 - [ ] ui - cards
 - [ ] new account
@@ -32,3 +31,4 @@
 - [x] settings button
 - [x] help button
 - [x] deploy
+- [x] ui - receive
