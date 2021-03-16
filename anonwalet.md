@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] settings button
+- [ ] help button
 - [ ] new account
 - [ ] send
 - [ ] receive
