@@ -5,16 +5,17 @@
 #### TODO - MVP
 
 - [ ] new account
-- [ ] logo
 - [ ] send
 - [ ] receive
 - [ ] favicon
+- [ ] deploy
 
 #### TODO - BACKLOG
 
-- [ ] backlog
+- [ ] other crypto
 
 #### DONE
 
 - [x] done
 - [x] initial issues
+- [x] logo
