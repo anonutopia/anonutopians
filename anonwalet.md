@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] receive - copy address
 - [ ] ui - interest
 - [ ] ui - settings
 - [ ] ui - send
