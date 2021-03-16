@@ -7,7 +7,6 @@
 - [ ] new account
 - [ ] send
 - [ ] receive
-- [ ] favicon
 - [ ] deploy
 
 #### TODO - BACKLOG
@@ -19,3 +18,4 @@
 - [x] done
 - [x] initial issues
 - [x] logo
+- [x] favicon
