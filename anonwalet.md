@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] ui - settings
 - [ ] qr code scanner
 - [ ] receive - copy address
 - [ ] new account
@@ -35,3 +34,4 @@
 - [x] responsive buttons
 - [x] ui - send
 - [x] ui - cards
+- [x] ui - settings
