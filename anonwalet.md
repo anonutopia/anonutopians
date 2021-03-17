@@ -11,9 +11,11 @@
 - [ ] logout
 - [ ] qr code scanner
 - [ ] receive - copy address
+- [ ] crowdfunding
 
 #### TODO - BACKLOG
 
+- [ ] settings - ask password on start
 - [ ] ui - interest
 - [ ] google font
 - [ ] button tooltips
