@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] password modal
 - [ ] qr code scanner
 - [ ] receive - copy address
 - [ ] new account
@@ -36,3 +35,4 @@
 - [x] ui - send
 - [x] ui - cards
 - [x] ui - settings
+- [x] password modal
