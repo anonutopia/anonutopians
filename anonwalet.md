@@ -16,7 +16,6 @@
 
 - [ ] ui - interest
 - [ ] google font
-- [ ] loader gif
 - [ ] button tooltips
 - [ ] other crypto
 - [ ] session duration config
@@ -36,3 +35,4 @@
 - [x] ui - cards
 - [x] ui - settings
 - [x] password modal
+- [x] loader gif
