@@ -15,6 +15,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] description tag
+- [ ] social preview tags
 - [ ] settings - ask password on start
 - [ ] ui - interest
 - [ ] google font
