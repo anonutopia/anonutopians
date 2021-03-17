@@ -4,13 +4,13 @@
 
 #### TODO - MVP
 
-- [ ] qr code scanner
-- [ ] receive - copy address
 - [ ] new account
 - [ ] send
 - [ ] receive
 - [ ] login
 - [ ] logout
+- [ ] qr code scanner
+- [ ] receive - copy address
 
 #### TODO - BACKLOG
 
