@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
+- [ ] logout
+- [ ] receive - copy address
+- [ ] qr code scanner
 - [ ] settings - show seed
 - [ ] settings - change pass
 - [ ] send
-- [ ] logout
-- [ ] qr code scanner
-- [ ] receive - copy address
 - [ ] crowdfunding
 
 #### TODO - BACKLOG
