@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] import existing seed
 - [ ] send
 - [ ] receive
 - [ ] login
@@ -45,3 +44,4 @@
 - [x] ui - new account
 - [x] new account
 - [x] generate real qr code
+- [x] import existing seed
