@@ -5,10 +5,10 @@
 #### TODO - MVP
 
 - [ ] receive - copy address
+- [ ] send
 - [ ] qr code scanner
 - [ ] settings - show seed
 - [ ] settings - change pass
-- [ ] send
 - [ ] crowdfunding
 
 #### TODO - BACKLOG
