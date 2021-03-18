@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] settings - show seed
+- [ ] settings - change pass
 - [ ] send
 - [ ] login
 - [ ] logout
