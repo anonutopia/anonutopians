@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] show balance
 - [ ] send
 - [ ] receive
 - [ ] login
@@ -46,3 +45,4 @@
 - [x] new account
 - [x] generate real qr code
 - [x] import existing seed
+- [x] show balance
