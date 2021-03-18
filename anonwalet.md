@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] ui - new account
+- [ ] ui - login
 - [ ] new account
 - [ ] send
 - [ ] receive
