@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] ui - new account
-- [ ] ui - login
 - [ ] new account
 - [ ] send
 - [ ] receive
@@ -43,3 +42,4 @@
 - [x] ui - settings
 - [x] password modal
 - [x] loader gif
+- [x] ui - login
