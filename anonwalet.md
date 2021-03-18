@@ -17,6 +17,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] favicon background
 - [ ] description tag
 - [ ] social preview tags
 - [ ] settings - ask password on start
