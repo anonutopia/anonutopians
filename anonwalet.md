@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] send
-- [ ] receive
 - [ ] login
 - [ ] logout
 - [ ] qr code scanner
@@ -46,3 +45,4 @@
 - [x] generate real qr code
 - [x] import existing seed
 - [x] show balance
+- [x] receive
