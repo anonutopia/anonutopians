@@ -7,7 +7,6 @@
 - [ ] settings - show seed
 - [ ] settings - change pass
 - [ ] send
-- [ ] login
 - [ ] logout
 - [ ] qr code scanner
 - [ ] receive - copy address
@@ -48,3 +47,4 @@
 - [x] import existing seed
 - [x] show balance
 - [x] receive
+- [x] login
