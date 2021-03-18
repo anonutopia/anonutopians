@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] new account
+- [ ] import existing seed
 - [ ] send
 - [ ] receive
 - [ ] login
@@ -43,3 +43,4 @@
 - [x] loader gif
 - [x] ui - login
 - [x] ui - new account
+- [x] new account
