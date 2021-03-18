@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] show balance
 - [ ] send
 - [ ] receive
 - [ ] login
