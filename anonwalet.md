@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] logout
 - [ ] receive - copy address
 - [ ] qr code scanner
 - [ ] settings - show seed
@@ -48,3 +47,4 @@
 - [x] show balance
 - [x] receive
 - [x] login
+- [x] logout
