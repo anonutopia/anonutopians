@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] generic password check
 - [ ] settings - show seed
+- [ ] settings - copy seed
 - [ ] settings - change pass
 - [ ] qr code scanner
 - [ ] crowdfunding
@@ -49,3 +49,4 @@
 - [x] logout
 - [x] receive - copy address
 - [x] send
+- [x] generic password check
