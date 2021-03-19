@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] clean forms on submit
 - [ ] settings - change pass
 - [ ] ask password where needed
 - [ ] qr code scanner
