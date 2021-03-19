@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] social preview tags
 - [ ] backup warning
 - [ ] favicon background
 - [ ] ui - interest
@@ -60,3 +59,4 @@
 - [x] fee info
 - [x] qr scanner info
 - [x] description tag
+- [x] social preview tags
