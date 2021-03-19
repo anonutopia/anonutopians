@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] ask password where needed
 - [ ] qr code scanner
 - [ ] crowdfunding
 
@@ -54,3 +53,4 @@
 - [x] parcel - deploy to github
 - [x] clean forms on submit
 - [x] settings - change pass
+- [x] ask password where needed
