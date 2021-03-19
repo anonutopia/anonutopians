@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] clean forms on submit
 - [ ] settings - change pass
 - [ ] ask password where needed
 - [ ] qr code scanner
@@ -54,3 +53,4 @@
 - [x] settings - show seed
 - [x] settings - copy seed
 - [x] parcel - deploy to github
+- [x] clean forms on submit
