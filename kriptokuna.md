@@ -6,11 +6,11 @@
 
 - [ ] interest payout
 - [ ] top up wallet
-- [ ] wirex card
 - [ ] crowdfunding
 
 #### TODO - BACKLOG
 
+- [ ] wirex card
 - [ ] mass transfer payouts
 - [ ] transparency page
 - [ ] detailed about page
