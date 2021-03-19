@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] backup warning
 - [ ] favicon background
 - [ ] description tag
 - [ ] social preview tags
