@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] cookie prolongation
 - [ ] decentralization
 - [ ] decentralized exchange
 - [ ] settings - ask password for send
