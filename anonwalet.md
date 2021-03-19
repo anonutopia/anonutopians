@@ -7,6 +7,7 @@
 - [ ] ui - top up using exchange
 - [ ] ui - interest
 - [ ] ui - crowdfunding
+- [ ] logout when session expires
 
 #### TODO - BACKLOG
 
