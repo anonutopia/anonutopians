@@ -4,21 +4,27 @@
 
 #### TODO - MVP
 
-- [ ] qr code scanner
-- [ ] crowdfunding
-
-#### TODO - BACKLOG
-
+- [ ] qr scanner info
 - [ ] backup warning
 - [ ] favicon background
 - [ ] description tag
 - [ ] social preview tags
-- [ ] settings - ask password on start
 - [ ] ui - interest
+- [ ] top up from exchange
+- [ ] wirex card
+- [ ] crowdfunding
+- [ ] node (interest, top up, wirex, crowdfunding)
+
+#### TODO - BACKLOG
+
+- [ ] decentralization
+- [ ] decentralized exchange
+- [ ] settings - ask password for send
 - [ ] google font
 - [ ] button tooltips
 - [ ] other crypto
 - [ ] session duration config
+- [ ] qr code scanner
 
 #### DONE
 
