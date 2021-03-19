@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] description tag
 - [ ] social preview tags
 - [ ] backup warning
 - [ ] favicon background
@@ -60,3 +59,4 @@
 - [x] ask password where needed
 - [x] fee info
 - [x] qr scanner info
+- [x] description tag
