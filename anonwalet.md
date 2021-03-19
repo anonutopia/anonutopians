@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] ui - interest
 - [ ] ui - top up from exchange
+- [ ] ui - interest
 - [ ] ui - crowdfunding
 
 #### TODO - BACKLOG
