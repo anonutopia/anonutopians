@@ -4,9 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] qr code scanner
+- [ ] generic password check
 - [ ] settings - show seed
 - [ ] settings - change pass
+- [ ] qr code scanner
 - [ ] crowdfunding
 
 #### TODO - BACKLOG
