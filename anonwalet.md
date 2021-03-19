@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] parcel - deploy to github
 - [ ] settings - change pass
 - [ ] ask password where needed
 - [ ] qr code scanner
@@ -52,3 +51,4 @@
 - [x] generic password check
 - [x] settings - show seed
 - [x] settings - copy seed
+- [x] parcel - deploy to github
