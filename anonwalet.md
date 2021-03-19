@@ -7,6 +7,7 @@
 - [ ] settings - show seed
 - [ ] settings - copy seed
 - [ ] settings - change pass
+- [ ] ask password where needed
 - [ ] qr code scanner
 - [ ] crowdfunding
 
