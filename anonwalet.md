@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] qr scanner info
 - [ ] backup warning
 - [ ] favicon background
 - [ ] description tag
@@ -60,3 +59,4 @@
 - [x] settings - change pass
 - [x] ask password where needed
 - [x] fee info
+- [x] qr scanner info
