@@ -4,10 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] backup warning
-- [ ] favicon background
 - [ ] description tag
 - [ ] social preview tags
+- [ ] backup warning
+- [ ] favicon background
 - [ ] ui - interest
 - [ ] ui - top up from exchange
 - [ ] ui - wirex card
