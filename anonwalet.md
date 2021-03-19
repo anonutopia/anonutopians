@@ -9,6 +9,7 @@
 - [ ] favicon background
 - [ ] description tag
 - [ ] social preview tags
+- [ ] fee info
 - [ ] ui - interest
 - [ ] ui - top up from exchange
 - [ ] ui - wirex card
