@@ -6,11 +6,11 @@
 
 - [ ] ui - interest
 - [ ] ui - top up from exchange
-- [ ] ui - wirex card
 - [ ] ui - crowdfunding
 
 #### TODO - BACKLOG
 
+- [ ] ui - wirex card
 - [ ] cookie prolongation
 - [ ] decentralization
 - [ ] decentralized exchange
