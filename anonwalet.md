@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] ui - top up from exchange
+- [ ] ui - top up using exchange
 - [ ] ui - interest
 - [ ] ui - crowdfunding
 
