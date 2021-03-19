@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] favicon background
 - [ ] backup warning
 - [ ] ui - interest
 - [ ] ui - top up from exchange
@@ -60,3 +59,4 @@
 - [x] qr scanner info
 - [x] description tag
 - [x] social preview tags
+- [x] favicon background
