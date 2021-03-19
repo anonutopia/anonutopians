@@ -10,9 +10,9 @@
 - [ ] description tag
 - [ ] social preview tags
 - [ ] ui - interest
-- [ ] top up from exchange
-- [ ] wirex card
-- [ ] crowdfunding
+- [ ] ui - top up from exchange
+- [ ] ui - wirex card
+- [ ] ui - crowdfunding
 - [ ] node (interest, top up, wirex, crowdfunding)
 
 #### TODO - BACKLOG
