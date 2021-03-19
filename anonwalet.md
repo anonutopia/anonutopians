@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] backup warning
 - [ ] favicon background
+- [ ] backup warning
 - [ ] ui - interest
 - [ ] ui - top up from exchange
 - [ ] ui - wirex card
