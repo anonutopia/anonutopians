@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] settings - change pass
 - [ ] ask password where needed
 - [ ] qr code scanner
 - [ ] crowdfunding
@@ -54,3 +53,4 @@
 - [x] settings - copy seed
 - [x] parcel - deploy to github
 - [x] clean forms on submit
+- [x] settings - change pass
