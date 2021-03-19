@@ -13,7 +13,6 @@
 - [ ] ui - top up from exchange
 - [ ] ui - wirex card
 - [ ] ui - crowdfunding
-- [ ] node (interest, top up, wirex, crowdfunding)
 
 #### TODO - BACKLOG
 

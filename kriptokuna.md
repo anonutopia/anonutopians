@@ -4,14 +4,14 @@
 
 #### TODO - MVP
 
-- [ ] card bot
-- [ ] mass transfer payouts
-- [ ] automatic exchange to waves
-- [ ] automatic deposit
-- [ ] use DEX for exchanges
+- [ ] interest payout
+- [ ] top up wallet
+- [ ] wirex card
+- [ ] crowdfunding
 
 #### TODO - BACKLOG
 
+- [ ] mass transfer payouts
 - [ ] transparency page
 - [ ] detailed about page
 - [ ] faq - more questions
