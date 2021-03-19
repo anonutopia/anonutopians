@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] parcel - deploy to github
 - [ ] settings - change pass
 - [ ] ask password where needed
 - [ ] qr code scanner
