@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] settings - show seed
-- [ ] settings - copy seed
 - [ ] settings - change pass
 - [ ] ask password where needed
 - [ ] qr code scanner
@@ -51,3 +49,5 @@
 - [x] receive - copy address
 - [x] send
 - [x] generic password check
+- [x] settings - show seed
+- [x] settings - copy seed
