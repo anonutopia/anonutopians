@@ -7,6 +7,7 @@
 - [ ] ui - interest
 - [ ] ui - crowdfunding
 - [ ] check all messages once again
+- [ ] attachment security
 
 #### TODO - BACKLOG
 
