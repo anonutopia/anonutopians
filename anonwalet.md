@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] ui - top up using exchange
 - [ ] ui - interest
 - [ ] ui - crowdfunding
 - [ ] check all messages once again
@@ -66,3 +65,4 @@
 - [x] social preview tags
 - [x] favicon background
 - [x] backup warning
+- [x] ui - top up using exchange
