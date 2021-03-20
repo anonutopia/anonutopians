@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] top up wallet
 - [ ] interest payout
 - [ ] crowdfunding
 - [ ] website work
@@ -33,3 +32,4 @@
 - [x] contact page
 - [x] tutorials
 - [x] tutorials - address + qr
+- [x] top up wallet
