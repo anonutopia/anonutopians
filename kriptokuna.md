@@ -4,9 +4,10 @@
 
 #### TODO - MVP
 
-- [ ] interest payout
 - [ ] top up wallet
+- [ ] interest payout
 - [ ] crowdfunding
+- [ ] website work
 
 #### TODO - BACKLOG
 

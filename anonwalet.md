@@ -7,6 +7,7 @@
 - [ ] ui - top up using exchange
 - [ ] ui - interest
 - [ ] ui - crowdfunding
+- [ ] check all messages once again
 
 #### TODO - BACKLOG
 
