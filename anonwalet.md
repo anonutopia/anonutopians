@@ -7,10 +7,11 @@
 - [ ] ui - top up using exchange
 - [ ] ui - interest
 - [ ] ui - crowdfunding
-- [ ] logout when session expires
 
 #### TODO - BACKLOG
 
+- [ ] handle back event
+- [ ] logout when session expires
 - [ ] ui - wirex card
 - [ ] cookie prolongation
 - [ ] decentralization
