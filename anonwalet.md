@@ -11,6 +11,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] google analytics
+- [ ] interest charts
 - [ ] handle back event
 - [ ] logout when session expires
 - [ ] ui - wirex card
