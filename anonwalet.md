@@ -6,7 +6,6 @@
 
 - [ ] ui - interest
 - [ ] ui - crowdfunding
-- [ ] attachment security
 
 #### TODO - BACKLOG
 
@@ -69,3 +68,4 @@
 - [x] backup warning
 - [x] ui - top up using exchange
 - [x] check all messages once again
+- [x] attachment security
