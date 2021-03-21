@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] interest payout
 - [ ] crowdfunding
 - [ ] website work
 
