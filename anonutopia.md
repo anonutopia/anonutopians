@@ -4,7 +4,7 @@
 
 #### TODO
 
-- [ ] basic citizenship
+- [ ] crowdfunding
 
 #### DONE
 
