@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] interest manual process
 - [ ] crowdfunding
 - [ ] website work
 
@@ -34,3 +33,4 @@
 - [x] tutorials
 - [x] tutorials - address + qr
 - [x] top up wallet
+- [x] interest manual process
