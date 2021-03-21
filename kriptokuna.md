@@ -4,12 +4,13 @@
 
 #### TODO - MVP
 
-- [ ] interest payout
+- [ ] interest manual process
 - [ ] crowdfunding
 - [ ] website work
 
 #### TODO - BACKLOG
 
+- [ ] interest automatic processs
 - [ ] wirex card
 - [ ] mass transfer payouts
 - [ ] transparency page
