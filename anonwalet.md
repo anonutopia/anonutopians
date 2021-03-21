@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] tab toggle fix
 - [ ] exchange address link
 - [ ] google analytics
 - [ ] interest charts
