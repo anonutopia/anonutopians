@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] exchange address link
 - [ ] google analytics
 - [ ] interest charts
 - [ ] handle back event
