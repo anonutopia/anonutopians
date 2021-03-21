@@ -4,11 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] ui - interest
+- [ ] interest manual process
 - [ ] ui - crowdfunding
 
 #### TODO - BACKLOG
 
+- [ ] interest automatic processs
 - [ ] tab toggle fix
 - [ ] exchange address link
 - [ ] google analytics
