@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] interest manual process
 - [ ] ui - crowdfunding
 
 #### TODO - BACKLOG
@@ -70,3 +69,4 @@
 - [x] ui - top up using exchange
 - [x] check all messages once again
 - [x] attachment security
+- [x] interest manual process
