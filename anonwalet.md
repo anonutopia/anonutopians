@@ -8,7 +8,7 @@
 
 #### TODO - BACKLOG
 
-- [ ] interest automatic processs
+- [ ] interest automatic process
 - [ ] tab toggle fix
 - [ ] exchange address link
 - [ ] google analytics
