@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] stake notification
+- [ ] undo stake notification
 - [ ] crowdfunding
 - [ ] website work
 
