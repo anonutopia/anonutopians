@@ -37,3 +37,4 @@
 - [x] top up wallet
 - [x] interest manual process
 - [x] interest payout
+- [x] deploy server
