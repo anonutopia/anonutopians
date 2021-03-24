@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] site - change favicon
 - [ ] site - update home
 - [ ] site - update faq
 - [ ] site - update exchange
