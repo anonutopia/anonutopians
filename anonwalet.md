@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] ui - crowdfunding
+- [ ] ui - crowdfunding / banker
 
 #### TODO - BACKLOG
 

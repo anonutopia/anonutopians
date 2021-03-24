@@ -4,10 +4,12 @@
 
 #### TODO - MVP
 
+- [ ] site - update home
+- [ ] site - update faq
+- [ ] site - update exchange
 - [ ] stake notification
 - [ ] undo stake notification
 - [ ] crowdfunding
-- [ ] website work
 
 #### TODO - BACKLOG
 
