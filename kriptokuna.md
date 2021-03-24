@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] site - update meta
 - [ ] site - update home
 - [ ] site - update faq
 - [ ] site - update exchange
@@ -42,3 +41,4 @@
 - [x] interest payout
 - [x] deploy server
 - [x] site - change favicon
+- [x] site - update meta
