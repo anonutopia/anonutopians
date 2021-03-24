@@ -23,7 +23,6 @@
 
 ## Other
 
-- [Banksters](banksters.md)
 - [Ideas](ideas.md)
 
 #### DONE
