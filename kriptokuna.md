@@ -7,8 +7,6 @@
 - [ ] site - update home
 - [ ] site - update faq
 - [ ] site - update exchange
-- [ ] stake notification
-- [ ] undo stake notification
 - [ ] crowdfunding
 
 #### TODO - BACKLOG
@@ -42,3 +40,5 @@
 - [x] deploy server
 - [x] site - change favicon
 - [x] site - update meta
+- [x] stake notification
+- [x] undo stake notification
