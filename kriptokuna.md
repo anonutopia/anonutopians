@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] site - update home
-- [ ] site - update faq
 - [ ] site - update exchange
 - [ ] crowdfunding
 
@@ -42,3 +41,4 @@
 - [x] site - update meta
 - [x] stake notification
 - [x] undo stake notification
+- [x] site - update faq
