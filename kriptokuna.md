@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] site - update home
-- [ ] site - update exchange
 - [ ] crowdfunding
 
 #### TODO - BACKLOG
@@ -42,3 +41,4 @@
 - [x] stake notification
 - [x] undo stake notification
 - [x] site - update faq
+- [x] site - update exchange
