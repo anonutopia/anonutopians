@@ -9,7 +9,7 @@
 
 #### TODO - BACKLOG
 
-- [ ] interest automatic processs
+- [ ] interest automatic process
 - [ ] wirex card
 - [ ] mass transfer payouts
 - [ ] transparency page
