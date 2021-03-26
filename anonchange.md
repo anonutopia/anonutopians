@@ -7,10 +7,10 @@
 - [ ] exchange orders
 - [ ] buy token
 - [ ] sell token
-- [ ] fee
 
 #### TODO - BACKLOG
 
+- [ ] fee
 - [ ] multiple tokens
 - [ ] bank exchange
 - [ ] decentralization
