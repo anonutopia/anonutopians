@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] nick command
 - [ ] register command
 - [ ] user manager
 - [ ] mine command
@@ -203,3 +202,4 @@
 - [x] v2 - commands
 - [x] handle signals
 - [x] info command
+- [x] nick command
