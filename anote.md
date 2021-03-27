@@ -4,14 +4,14 @@
 
 #### TODO - v1.0.0
 
+- [ ] ref command
+- [ ] referral system
 - [ ] user manager
 - [ ] mine command
 - [ ] withdraw command
 - [ ] status command
-- [ ] ref command
 - [ ] mine and withdraw check
 - [ ] notifications
-- [ ] referral system
 
 #### TODO - BACKLOG
 
