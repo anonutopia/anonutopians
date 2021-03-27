@@ -6,7 +6,6 @@
 
 - [ ] user manager
 - [ ] mine command
-- [ ] withdraw command
 - [ ] mine and withdraw check
 - [ ] notifications
 
@@ -198,3 +197,4 @@
 - [x] ref command
 - [x] referral system
 - [x] status command
+- [x] withdraw command
