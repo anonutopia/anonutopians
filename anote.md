@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] automatic telegram nick
 - [ ] register command
 - [ ] user manager
 - [ ] mine command
