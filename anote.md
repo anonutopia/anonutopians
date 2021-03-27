@@ -4,12 +4,12 @@
 
 #### TODO - v1.0.0
 
+- [ ] nick command
+- [ ] register command
 - [ ] user manager
 - [ ] mine command
 - [ ] withdraw command
 - [ ] status command
-- [ ] register command
-- [ ] nick command
 - [ ] ref command
 - [ ] mine and withdraw check
 - [ ] notifications
