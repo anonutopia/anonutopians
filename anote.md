@@ -12,12 +12,6 @@
 
 #### TODO - BACKLOG
 
-- [ ] mvp - quests notification
-- [ ] mvp - quests - no address warning
-- [ ] mvp - move shout commands to shoutrobot
-- [ ] mine fix - captcha
-- [ ] mine fix - 24 hours
-- [ ] fb / tw - make link unique
 - [ ] matcher - cancel order
 - [ ] transparency page
 - [ ] team page
