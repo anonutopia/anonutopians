@@ -4,8 +4,9 @@
 
 #### TODO - v1.0.0
 
+- [ ] withdraw check
 - [ ] user manager
-- [ ] mine and withdraw check
+- [ ] mine check
 - [ ] notifications
 
 #### TODO - BACKLOG
