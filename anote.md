@@ -15,6 +15,7 @@
 - [ ] mine and withdraw check
 - [ ] notifications
 - [ ] referral system
+- [ ] handle signals
 
 #### TODO - BACKLOG
 
