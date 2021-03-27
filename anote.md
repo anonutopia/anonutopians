@@ -12,6 +12,7 @@
 - [ ] nick command
 - [ ] ref command
 - [ ] mine and withdraw check
+- [ ] notifications
 
 #### TODO - BACKLOG
 
