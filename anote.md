@@ -2,13 +2,16 @@
 
 ## Anote
 
-#### TODO - V2
+#### TODO - v1.0.0
 
-- [ ] v2 - token monitor
-- [ ] v2 - miner monitor
-- [ ] v2 - sustaining
-- [ ] v2 - quests
-- [ ] v2 - waves monitor
+- [ ] mine command
+- [ ] withdraw command
+- [ ] status command
+- [ ] info command
+- [ ] register command
+- [ ] nick command
+- [ ] ref command
+- [ ] mine and withdraw check
 
 #### TODO - BACKLOG
 
