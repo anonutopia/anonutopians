@@ -15,7 +15,6 @@
 - [ ] mine and withdraw check
 - [ ] notifications
 - [ ] referral system
-- [ ] handle signals
 
 #### TODO - BACKLOG
 
@@ -194,7 +193,7 @@
 - [x] fix aint formula
 - [x] fb call to action
 
-#### DONE - V2
+#### DONE - V1.0.0
 
 - [x] v2 - telegram + config
 - [x] v2 - db
@@ -203,3 +202,4 @@
 - [x] v2 - install waves node
 - [x] v2 - language stuff
 - [x] v2 - commands
+- [x] handle signals
