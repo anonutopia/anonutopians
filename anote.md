@@ -8,7 +8,6 @@
 - [ ] mine command
 - [ ] withdraw command
 - [ ] status command
-- [ ] info command
 - [ ] register command
 - [ ] nick command
 - [ ] ref command
@@ -203,3 +202,4 @@
 - [x] v2 - language stuff
 - [x] v2 - commands
 - [x] handle signals
+- [x] info command
