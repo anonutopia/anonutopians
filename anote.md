@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] mine command
 - [ ] user manager
 - [ ] mine and withdraw check
 - [ ] notifications
@@ -198,3 +197,4 @@
 - [x] referral system
 - [x] status command
 - [x] withdraw command
+- [x] mine command
