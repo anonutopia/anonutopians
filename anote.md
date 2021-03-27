@@ -4,8 +4,8 @@
 
 #### TODO - v1.0.0
 
-- [ ] user manager
 - [ ] mine command
+- [ ] user manager
 - [ ] mine and withdraw check
 - [ ] notifications
 
