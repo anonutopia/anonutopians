@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] status command
 - [ ] user manager
 - [ ] mine command
 - [ ] withdraw command
@@ -204,3 +203,4 @@
 - [x] register command
 - [x] ref command
 - [x] referral system
+- [x] status command
