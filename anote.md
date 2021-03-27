@@ -4,10 +4,10 @@
 
 #### TODO - v1.0.0
 
+- [ ] status command
 - [ ] user manager
 - [ ] mine command
 - [ ] withdraw command
-- [ ] status command
 - [ ] mine and withdraw check
 - [ ] notifications
 
