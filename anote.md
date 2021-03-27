@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] ref command
 - [ ] referral system
 - [ ] user manager
 - [ ] mine command
@@ -204,3 +203,4 @@
 - [x] nick command
 - [x] automatic telegram nick
 - [x] register command
+- [x] ref command
