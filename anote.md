@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] update logo
 - [ ] user - mine
 - [ ] user - withdraw
 - [ ] IP check
@@ -202,3 +201,4 @@
 - [x] mine command
 - [x] withdraw check
 - [x] mine check
+- [x] update logo
