@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] deploy
 - [ ] deploy script
 - [ ] import db
 - [ ] user - mine
@@ -206,3 +205,4 @@
 - [x] mine check
 - [x] update logo
 - [x] user - withdraw
+- [x] deploy
