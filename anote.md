@@ -6,6 +6,7 @@
 
 - [ ] deploy
 - [ ] deploy script
+- [ ] import db
 - [ ] user - mine
 - [ ] mining monitor
 - [ ] notifications
