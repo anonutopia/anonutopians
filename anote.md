@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] mining monitor
 - [ ] notifications
 
 #### TODO - BACKLOG
@@ -210,3 +209,4 @@
 - [x] import db
 - [x] create dev bot
 - [x] user - mine
+- [x] mining monitor
