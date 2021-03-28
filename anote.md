@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] deploy nginx
 - [ ] import db
 - [ ] user - mine
 - [ ] mining monitor
