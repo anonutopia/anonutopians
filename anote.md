@@ -5,11 +5,11 @@
 #### TODO - v1.0.0
 
 - [ ] user - mine
-- [ ] IP logger
 - [ ] notifications
 
 #### TODO - BACKLOG
 
+- [ ] IP logger
 - [ ] bot favicon
 - [ ] matcher - cancel order
 - [ ] transparency page
