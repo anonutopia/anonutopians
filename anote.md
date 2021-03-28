@@ -5,6 +5,7 @@
 #### TODO - v1.0.0
 
 - [ ] user - mine
+- [ ] mining monitor
 - [ ] notifications
 
 #### TODO - BACKLOG
