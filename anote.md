@@ -4,13 +4,13 @@
 
 #### TODO - v1.0.0
 
-- [ ] clean old addresses
 - [ ] user - mine
 - [ ] mining monitor
 - [ ] notifications
 
 #### TODO - BACKLOG
 
+- [ ] clean old addresses
 - [ ] autopostgresqlbackup
 - [ ] IP logger
 - [ ] bot favicon
