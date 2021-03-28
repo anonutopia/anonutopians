@@ -209,3 +209,4 @@
 - [x] deploy script
 - [x] deploy nginx
 - [x] import db
+- [x] create dev bot
