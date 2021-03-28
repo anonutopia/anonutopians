@@ -24,7 +24,6 @@
 - [ ] restore backup
 - [ ] ping inactive miners
 - [ ] help command
-- [ ] migrate to telebot
 - [ ] limit calculator
 - [ ] website - update facebook link
 - [ ] growth hacking
