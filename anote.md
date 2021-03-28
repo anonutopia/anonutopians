@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] user - mine
 - [ ] mining monitor
 - [ ] notifications
 
@@ -210,3 +209,4 @@
 - [x] deploy nginx
 - [x] import db
 - [x] create dev bot
+- [x] user - mine
