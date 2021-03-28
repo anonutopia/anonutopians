@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] mass withdrawals
 - [ ] check math strictly
 - [ ] notifications
 
