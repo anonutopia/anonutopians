@@ -6,7 +6,7 @@
 
 - [ ] user - mine
 - [ ] user - withdraw
-- [ ] IP check
+- [ ] IP logger
 - [ ] notifications
 
 #### TODO - BACKLOG
