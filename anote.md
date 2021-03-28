@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] autopostgresqlbackup
 - [ ] IP logger
 - [ ] bot favicon
 - [ ] matcher - cancel order
