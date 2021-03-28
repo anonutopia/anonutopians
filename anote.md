@@ -5,6 +5,7 @@
 #### TODO - v1.0.0
 
 - [ ] import db
+- [ ] clean old addresses
 - [ ] user - mine
 - [ ] mining monitor
 - [ ] notifications
