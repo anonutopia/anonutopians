@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] bot favicon
 - [ ] matcher - cancel order
 - [ ] transparency page
 - [ ] team page
