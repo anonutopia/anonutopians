@@ -5,7 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] user - mine
-- [ ] user - withdraw
 - [ ] IP logger
 - [ ] notifications
 
@@ -202,3 +201,4 @@
 - [x] withdraw check
 - [x] mine check
 - [x] update logo
+- [x] user - withdraw
