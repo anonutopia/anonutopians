@@ -4,6 +4,8 @@
 
 #### TODO - v1.0.0
 
+- [ ] deploy
+- [ ] deploy script
 - [ ] user - mine
 - [ ] mining monitor
 - [ ] notifications
