@@ -4,8 +4,10 @@
 
 #### TODO - v1.0.0
 
-- [ ] user manager
-- [ ] mine check
+- [ ] update logo
+- [ ] user - mine
+- [ ] user - withdraw
+- [ ] IP check
 - [ ] notifications
 
 #### TODO - BACKLOG
@@ -199,3 +201,4 @@
 - [x] withdraw command
 - [x] mine command
 - [x] withdraw check
+- [x] mine check
