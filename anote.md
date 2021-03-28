@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] import db
 - [ ] clean old addresses
 - [ ] user - mine
 - [ ] mining monitor
@@ -208,3 +207,4 @@
 - [x] deploy
 - [x] deploy script
 - [x] deploy nginx
+- [x] import db
