@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] ui - crowdfunding / banker
+- [ ] create english version
 
 #### TODO - BACKLOG
 
