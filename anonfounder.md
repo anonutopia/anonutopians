@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] basic service
+- [ ] transaction monitoring
 - [ ] purchase token
 - [ ] sell token
 - [ ] status command
