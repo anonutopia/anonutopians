@@ -4,12 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] welcome message
-- [ ] help command
-- [ ] new purchase message
-- [ ] purchase monitor
+- [ ] purchase token
+- [ ] sell token
 - [ ] status command
 - [ ] withdraw command
+- [ ] register command
 
 #### TODO - BACKLOG
 
