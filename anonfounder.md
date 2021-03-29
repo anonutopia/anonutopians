@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] basic service
 - [ ] transaction monitoring
 - [ ] purchase token
 - [ ] sell token
@@ -26,3 +25,6 @@
 - [x] start command
 - [x] referrals
 - [x] unknown command
+- [x] basic service
+- [x] deploy
+- [x] deploy script
