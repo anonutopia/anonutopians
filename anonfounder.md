@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] transaction monitoring
 - [ ] purchase token
 - [ ] sell token
 - [ ] status command
@@ -28,3 +27,4 @@
 - [x] basic service
 - [x] deploy
 - [x] deploy script
+- [x] transaction monitoring
