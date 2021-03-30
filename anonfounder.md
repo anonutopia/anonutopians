@@ -5,13 +5,13 @@
 #### TODO - MVP
 
 - [ ] purchase token
-- [ ] sell token
 - [ ] status command
 - [ ] withdraw command
 - [ ] register command
 
 #### TODO - BACKLOG
 
+- [ ] sell token
 - [ ] libanon
 - [ ] buy a domain
 - [ ] fund your own project
