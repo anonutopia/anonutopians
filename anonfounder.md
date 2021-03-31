@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] withdraw
 - [ ] register command
 
 #### TODO - BACKLOG
 
+- [ ] withdraw bot command
 - [ ] sell token
 - [ ] anonlib
 - [ ] buy a domain
@@ -30,3 +30,4 @@
 - [x] status command
 - [x] purchase token
 - [x] connect to anonwallet
+- [x] withdraw
