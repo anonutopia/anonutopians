@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] withdraw command
+- [ ] withdraw
 - [ ] register command
 
 #### TODO - BACKLOG
