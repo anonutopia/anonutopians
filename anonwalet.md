@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] deploy english version
+- [ ] deploy script for english version
 - [ ] create english version
 
 #### TODO - BACKLOG
