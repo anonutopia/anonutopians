@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] ui - crowdfunding / banker
 - [ ] create english version
 
 #### TODO - BACKLOG
@@ -72,3 +71,4 @@
 - [x] attachment security
 - [x] interest manual process
 - [x] connect to aint
+- [x] ui - crowdfunding / banker
