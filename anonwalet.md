@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] deploy english version
 - [ ] deploy script for english version
 - [ ] create english version
 
@@ -74,3 +73,4 @@
 - [x] interest manual process
 - [x] connect to aint
 - [x] ui - crowdfunding / banker
+- [x] deploy english version
