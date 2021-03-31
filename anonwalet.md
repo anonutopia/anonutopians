@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] connect to aint
 - [ ] ui - crowdfunding / banker
 - [ ] create english version
 
