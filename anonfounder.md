@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] purchase token
 - [ ] withdraw command
 - [ ] register command
 
@@ -29,3 +28,4 @@
 - [x] deploy script
 - [x] transaction monitoring
 - [x] status command
+- [x] purchase token
