@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] connect to anonwallet
 - [ ] withdraw command
 - [ ] register command
 
@@ -30,3 +29,4 @@
 - [x] transaction monitoring
 - [x] status command
 - [x] purchase token
+- [x] connect to anonwallet
