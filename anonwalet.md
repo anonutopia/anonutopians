@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] translate html
 - [ ] translate html to english
 - [ ] translate app
 - [ ] translate app to english
@@ -77,3 +76,4 @@
 - [x] connect to aint
 - [x] ui - crowdfunding / banker
 - [x] deploy english version
+- [x] translate html
