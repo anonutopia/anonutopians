@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] telegram notifications
 - [ ] register bot command
 
 #### TODO - BACKLOG
