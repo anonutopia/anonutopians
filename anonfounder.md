@@ -10,7 +10,7 @@
 #### TODO - BACKLOG
 
 - [ ] sell token
-- [ ] libanon
+- [ ] anonlib
 - [ ] buy a domain
 - [ ] fund your own project
 - [ ] funds voting
