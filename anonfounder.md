@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] register command
+- [ ] register bot command
 
 #### TODO - BACKLOG
 
