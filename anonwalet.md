@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] connect to aint
 - [ ] ui - crowdfunding / banker
 - [ ] create english version
 
@@ -72,3 +71,4 @@
 - [x] check all messages once again
 - [x] attachment security
 - [x] interest manual process
+- [x] connect to aint
