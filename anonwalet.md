@@ -4,8 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] create english version
-- [ ] deploy script for english version
+- [ ] translate html
+- [ ] translate html to english
+- [ ] translate app
+- [ ] translate app to english
+- [ ] deploy script update
 
 #### TODO - BACKLOG
 
