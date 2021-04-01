@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] adress book
+- [ ] address book
 - [ ] remove exchange
 - [ ] send - choose currency
 - [ ] amount - translation fix
