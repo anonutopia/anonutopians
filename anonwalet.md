@@ -4,11 +4,12 @@
 
 #### TODO - MVP
 
+- [ ] adress book
+- [ ] remove exchange
+- [ ] send - choose currency
 - [ ] aeur for english
 - [ ] mining tab
 - [ ] waves tab
-- [ ] remove exchange
-- [ ] adress book
 
 #### TODO - BACKLOG
 
