@@ -7,7 +7,6 @@
 - [ ] address book
 - [ ] remove exchange
 - [ ] send - choose currency
-- [ ] amount - translation fix
 - [ ] send - auto amount
 - [ ] aeur for english
 - [ ] mining tab
@@ -85,3 +84,4 @@
 - [x] translate app
 - [x] deploy script update
 - [x] translate to english
+- [x] amount - translation fix
