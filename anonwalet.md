@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] address book
 - [ ] remove exchange
 - [ ] send - choose currency
 - [ ] send - auto amount
@@ -85,3 +84,4 @@
 - [x] deploy script update
 - [x] translate to english
 - [x] amount - translation fix
+- [x] address book
