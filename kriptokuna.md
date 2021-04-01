@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] connect to anote db
-- [ ] crowdfunding
 
 #### TODO - BACKLOG
 
