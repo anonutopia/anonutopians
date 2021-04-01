@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] send - choose currency
 - [ ] send - auto amount
+- [ ] send - choose currency
 - [ ] aeur for english
 - [ ] mining tab
 - [ ] waves tab
