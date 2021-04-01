@@ -5,10 +5,12 @@
 #### TODO - MVP
 
 - [ ] telegram notifications
-- [ ] register bot command
 
 #### TODO - BACKLOG
 
+- [ ] info bot command
+- [ ] status bot command
+- [ ] register bot command
 - [ ] withdraw bot command
 - [ ] sell token
 - [ ] anonlib
