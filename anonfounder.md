@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] purchase with AHRK
 - [ ] telegram notifications
 - [ ] register bot command
 
