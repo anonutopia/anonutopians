@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] deploy script update
 - [ ] translate to english
 
 #### TODO - BACKLOG
@@ -76,3 +75,4 @@
 - [x] deploy english version
 - [x] translate html
 - [x] translate app
+- [x] deploy script update
