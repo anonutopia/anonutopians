@@ -5,7 +5,9 @@
 #### TODO - MVP
 
 - [ ] translate to english
-- [ ] add aeur
+- [ ] auer for english
+- [ ] mining tab
+- [ ] waves tab
 
 #### TODO - BACKLOG
 
