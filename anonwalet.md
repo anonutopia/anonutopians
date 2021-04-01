@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] auer for english
+- [ ] aeur for english
 - [ ] mining tab
 - [ ] waves tab
 
