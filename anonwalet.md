@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] translate to english
 - [ ] auer for english
 - [ ] mining tab
 - [ ] waves tab
@@ -79,3 +78,4 @@
 - [x] translate html
 - [x] translate app
 - [x] deploy script update
+- [x] translate to english
