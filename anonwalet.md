@@ -7,9 +7,12 @@
 - [ ] aeur for english
 - [ ] mining tab
 - [ ] waves tab
+- [ ] remove exchange
+- [ ] adress book
 
 #### TODO - BACKLOG
 
+- [ ] adress book
 - [ ] interest automatic process
 - [ ] tab toggle fix
 - [ ] exchange address link
