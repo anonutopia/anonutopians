@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] telegram notifications
 - [ ] connect to anote db
 
 #### TODO - BACKLOG
@@ -37,3 +36,4 @@
 - [x] withdraw
 - [x] purchase with AHRK
 - [x] inspect errors
+- [x] telegram notifications
