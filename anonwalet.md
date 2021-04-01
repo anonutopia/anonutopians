@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] translate app
 - [ ] translate to english
 - [ ] deploy script update
 
@@ -76,3 +75,4 @@
 - [x] ui - crowdfunding / banker
 - [x] deploy english version
 - [x] translate html
+- [x] translate app
