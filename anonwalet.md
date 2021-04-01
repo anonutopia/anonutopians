@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] translate to english
 - [ ] deploy script update
+- [ ] translate to english
 
 #### TODO - BACKLOG
 
