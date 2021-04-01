@@ -8,6 +8,7 @@
 - [ ] remove exchange
 - [ ] send - choose currency
 - [ ] amount - translation fix
+- [ ] send - auto amount
 - [ ] aeur for english
 - [ ] mining tab
 - [ ] waves tab
