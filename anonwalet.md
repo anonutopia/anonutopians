@@ -7,6 +7,7 @@
 - [ ] adress book
 - [ ] remove exchange
 - [ ] send - choose currency
+- [ ] amount - translation fix
 - [ ] aeur for english
 - [ ] mining tab
 - [ ] waves tab
