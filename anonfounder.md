@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] telegram notifications
+- [ ] connect to anote db
 
 #### TODO - BACKLOG
 
