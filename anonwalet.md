@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] translate to english
+- [ ] add aeur
 
 #### TODO - BACKLOG
 
