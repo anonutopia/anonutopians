@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] inspect errors
 - [ ] telegram notifications
 - [ ] register bot command
 
@@ -34,3 +33,4 @@
 - [x] connect to anonwallet
 - [x] withdraw
 - [x] purchase with AHRK
+- [x] inspect errors
