@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] include AINT in payouts
 - [ ] connect to anote db
 
 #### TODO - BACKLOG
