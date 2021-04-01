@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] remove exchange
 - [ ] send - choose currency
 - [ ] send - auto amount
 - [ ] aeur for english
@@ -85,3 +84,4 @@
 - [x] translate to english
 - [x] amount - translation fix
 - [x] address book
+- [x] remove exchange
