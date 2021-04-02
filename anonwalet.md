@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] fix loading balances
 - [ ] check withdraw
 - [ ] fix loading earnings
 
@@ -90,3 +89,4 @@
 - [x] auto amount - take fee
 - [x] deploy hr
 - [x] send - update fee message
+- [x] fix loading balances
