@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] include AINT in payouts
 - [ ] connect to anote db
 
 #### TODO - BACKLOG
 
+- [ ] include AINT in payouts
 - [ ] interest automatic process
 - [ ] wirex card
 - [ ] mass transfer payouts
