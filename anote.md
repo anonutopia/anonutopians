@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] notifications
 - [ ] 1 free anote
 - [ ] check referral system
 - [ ] check math strictly
@@ -215,3 +214,4 @@
 - [x] user - mine
 - [x] mining monitor
 - [x] fix issue with "hackers"
+- [x] notifications
