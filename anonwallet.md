@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] check withdraw
+
 
 #### TODO - BACKLOG
 
@@ -91,3 +91,4 @@
 - [x] send - update fee message
 - [x] fix loading balances
 - [x] earnings - load main
+- [x] check withdraw
