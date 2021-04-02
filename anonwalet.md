@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] auto amount - take fee
 - [ ] check withdraw
 - [ ] fix loading balances
 
