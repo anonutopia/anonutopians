@@ -87,3 +87,4 @@
 - [x] mining tab
 - [x] send - auto amount
 - [x] auto amount - take fee
+- [x] deploy hr
