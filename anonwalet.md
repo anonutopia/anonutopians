@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] send - update fee message
 - [ ] check withdraw
 - [ ] fix loading balances
 
@@ -89,3 +88,4 @@
 - [x] send - auto amount
 - [x] auto amount - take fee
 - [x] deploy hr
+- [x] send - update fee message
