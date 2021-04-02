@@ -5,12 +5,12 @@
 #### TODO - v1.0.0
 
 - [ ] fix issue with "hackers"
-- [ ] mass withdrawals
 - [ ] check math strictly
 - [ ] notifications
 
 #### TODO - BACKLOG
 
+- [ ] mass withdrawals
 - [ ] clean old addresses
 - [ ] autopostgresqlbackup
 - [ ] IP logger
