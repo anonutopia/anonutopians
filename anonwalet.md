@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] waves tab
 - [ ] fix loading balances
 - [ ] send - auto amount
 - [ ] mining tab
@@ -85,3 +84,4 @@
 - [x] address book
 - [x] remove exchange
 - [x] send - choose currency
+- [x] waves tab
