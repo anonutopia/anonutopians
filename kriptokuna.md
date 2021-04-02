@@ -43,3 +43,4 @@
 - [x] site - update faq
 - [x] site - update exchange
 - [x] site - update home
+- [x] check extra value
