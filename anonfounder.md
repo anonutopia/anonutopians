@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] connect to anote db
+- [ ] ahrk purchase split
 
 #### TODO - BACKLOG
 
