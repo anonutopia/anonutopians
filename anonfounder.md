@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] connect to anote db
 - [ ] ahrk purchase split
 
 #### TODO - BACKLOG
@@ -38,3 +37,4 @@
 - [x] purchase with AHRK
 - [x] inspect errors
 - [x] telegram notifications
+- [x] connect to anote db
