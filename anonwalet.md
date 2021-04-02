@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] check withdraw
 - [ ] fix loading balances
 - [ ] send - auto amount
 - [ ] mining tab
