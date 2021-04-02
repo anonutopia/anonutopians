@@ -4,10 +4,10 @@
 
 #### TODO - MVP
 
+- [ ] waves tab
 - [ ] fix loading balances
 - [ ] send - auto amount
 - [ ] mining tab
-- [ ] waves tab
 
 #### TODO - BACKLOG
 
