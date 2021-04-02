@@ -4,10 +4,10 @@
 
 #### TODO - MVP
 
+- [ ] mining tab
+- [ ] send - auto amount
 - [ ] check withdraw
 - [ ] fix loading balances
-- [ ] send - auto amount
-- [ ] mining tab
 
 #### TODO - BACKLOG
 
