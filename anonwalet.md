@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] send - auto amount
 - [ ] check withdraw
 - [ ] fix loading balances
 
@@ -86,3 +85,4 @@
 - [x] send - choose currency
 - [x] waves tab
 - [x] mining tab
+- [x] send - auto amount
