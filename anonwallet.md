@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] earnings - load main
 - [ ] check withdraw
 
 #### TODO - BACKLOG
@@ -91,3 +90,4 @@
 - [x] deploy hr
 - [x] send - update fee message
 - [x] fix loading balances
+- [x] earnings - load main
