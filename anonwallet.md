@@ -4,8 +4,9 @@
 
 #### TODO - MVP
 
+- [ ] earnings - load main
+- [ ] earnings - load others
 - [ ] check withdraw
-- [ ] fix loading earnings
 
 #### TODO - BACKLOG
 
