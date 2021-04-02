@@ -4,11 +4,10 @@
 
 #### TODO - MVP
 
-
+- [ ] ahrk purchase split
 
 #### TODO - BACKLOG
 
-- [ ] ahrk purchase split
 - [ ] info bot command
 - [ ] status bot command
 - [ ] register bot command
