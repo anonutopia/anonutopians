@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] send - choose currency
 - [ ] send - auto amount
 - [ ] aeur for english
 - [ ] mining tab
@@ -85,3 +84,4 @@
 - [x] amount - translation fix
 - [x] address book
 - [x] remove exchange
+- [x] send - choose currency
