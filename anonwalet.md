@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] send - update fee message
 - [ ] check withdraw
 - [ ] fix loading balances
 
