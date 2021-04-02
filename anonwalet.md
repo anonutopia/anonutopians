@@ -6,7 +6,6 @@
 
 - [ ] fix loading balances
 - [ ] send - auto amount
-- [ ] aeur for english
 - [ ] mining tab
 - [ ] waves tab
 
