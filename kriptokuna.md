@@ -4,11 +4,10 @@
 
 #### TODO - MVP
 
-
+- [ ] include AINT in payouts
 
 #### TODO - BACKLOG
 
-- [ ] include AINT in payouts
 - [ ] interest automatic process
 - [ ] wirex card
 - [ ] mass transfer payouts
