@@ -4,8 +4,8 @@
 
 #### TODO - v1.0.0
 
-- [ ] check math strictly
 - [ ] notifications
+- [ ] check math strictly
 
 #### TODO - BACKLOG
 
