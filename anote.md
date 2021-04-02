@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] fix issue with "hackers"
 - [ ] check math strictly
 - [ ] notifications
 
@@ -213,3 +212,4 @@
 - [x] create dev bot
 - [x] user - mine
 - [x] mining monitor
+- [x] fix issue with "hackers"
