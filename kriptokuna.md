@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] connect to anote db
+
 
 #### TODO - BACKLOG
 
@@ -44,3 +44,4 @@
 - [x] site - update exchange
 - [x] site - update home
 - [x] check extra value
+- [x] connect to anote db
