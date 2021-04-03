@@ -5,11 +5,11 @@
 #### TODO - v1.0.0
 
 - [ ] connect wallet with bot
-- [ ] test existing users
 - [ ] bot started
 - [ ] 1 free anote
 - [ ] check referral system
 - [ ] check math strictly
+- [ ] test everything
 
 #### TODO - BACKLOG
 
