@@ -220,3 +220,4 @@
 - [x] bot started
 - [x] withdraw - fix formula
 - [x] configure notifications
+- [x] nil pointers on models
