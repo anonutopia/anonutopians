@@ -4,8 +4,7 @@
 
 #### TODO - MVP
 
-- connect anoterobot
-- connect funderbot
+- todo
 
 #### TODO - BACKLOG
 
@@ -93,3 +92,5 @@
 - [x] fix loading balances
 - [x] earnings - load main
 - [x] check withdraw
+- [x] connect anoterobot
+- [x] connect funderbot
