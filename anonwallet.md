@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- todo
+- [ ] todo
 
 #### TODO - BACKLOG
 
