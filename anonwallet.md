@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] new translations
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -94,3 +94,4 @@
 - [x] check withdraw
 - [x] connect anoterobot
 - [x] connect funderbot
+- [x] new translations
