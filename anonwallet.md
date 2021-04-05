@@ -4,10 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] earnings - load others
+
 
 #### TODO - BACKLOG
 
+- [ ] earnings - load others
 - [ ] adress book
 - [ ] interest automatic process
 - [ ] tab toggle fix
