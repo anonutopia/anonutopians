@@ -6,7 +6,6 @@
 
 - [ ] connect wallet with bot
 - [ ] bot started
-- [ ] 1 free anote
 - [ ] check referral system
 - [ ] check math strictly
 - [ ] test everything
@@ -218,3 +217,4 @@
 - [x] mining monitor
 - [x] fix issue with "hackers"
 - [x] notifications
+- [x] 1 free anote
