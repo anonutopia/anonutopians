@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-
+- show connect wallet
+- connect wallet
 
 #### TODO - BACKLOG
 

@@ -4,10 +4,10 @@
 
 #### TODO - v1.0.0
 
+- [ ] connect wallet
 - [ ] check referral system
 - [ ] check math strictly
 - [ ] test everything
-- [ ] connect wallet to bots
 
 #### TODO - BACKLOG
 

@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-
+- connect anoterobot
+- connect funderbot
 
 #### TODO - BACKLOG
 
