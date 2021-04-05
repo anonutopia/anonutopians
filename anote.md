@@ -5,7 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] connect wallet with bot
-- [ ] bot started
 - [ ] check referral system
 - [ ] check math strictly
 - [ ] test everything
@@ -218,3 +217,4 @@
 - [x] fix issue with "hackers"
 - [x] notifications
 - [x] 1 free anote
+- [x] bot started
