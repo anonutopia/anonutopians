@@ -4,7 +4,8 @@
 
 #### TODO
 
-- [ ] crowdfunding
+- [ ] bot - welcome message
+- [ ] bot - mining message
 
 #### DONE
 
