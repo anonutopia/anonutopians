@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] configure notifications
 - [ ] connect wallet with bot
 - [ ] check referral system
 - [ ] check math strictly
@@ -220,3 +219,4 @@
 - [x] 1 free anote
 - [x] bot started
 - [x] withdraw - fix formula
+- [x] configure notifications
