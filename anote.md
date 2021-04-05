@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] connect wallet
 - [ ] check referral system
 - [ ] check math strictly
 - [ ] test everything
@@ -221,3 +220,4 @@
 - [x] withdraw - fix formula
 - [x] configure notifications
 - [x] nil pointers on models
+- [x] connect wallet
