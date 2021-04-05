@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- show connect wallet
 - connect wallet
 
 #### TODO - BACKLOG
@@ -40,3 +39,4 @@
 - [x] inspect errors
 - [x] telegram notifications
 - [x] connect to anote db
+- [x] show connect wallet
