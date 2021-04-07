@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] connect issue
 - [ ] check referral system
 - [ ] check math strictly
 - [ ] test everything
