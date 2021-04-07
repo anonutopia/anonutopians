@@ -13,7 +13,6 @@
 
 - [ ] mass withdrawals
 - [ ] clean old addresses
-- [ ] autopostgresqlbackup
 - [ ] IP logger
 - [ ] bot favicon
 - [ ] matcher - cancel order
@@ -223,3 +222,4 @@
 - [x] nil pointers on models
 - [x] connect wallet
 - [x] connect issue
+- [x] autopostgresqlbackup
