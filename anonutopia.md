@@ -4,6 +4,8 @@
 
 #### TODO
 
+- [ ] deploy
+- [ ] deploy script
 - [ ] bot - language
 - [ ] bot - welcome message
 
