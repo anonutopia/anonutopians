@@ -4,8 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] clean creating user
-- [ ] check referral system
 - [ ] check math strictly
 - [ ] test everything
 
@@ -223,3 +221,5 @@
 - [x] connect wallet
 - [x] connect issue
 - [x] autopostgresqlbackup
+- [x] clean creating user
+- [x] check referral system
