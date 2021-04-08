@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] bot - language
 - [ ] bot - welcome message
 - [ ] bot - mining message
 
@@ -63,3 +62,4 @@
 - [x] update apply buttons / links
 - [x] deploy script
 - [x] deploy
+- [x] bot - language
