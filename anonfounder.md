@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] referral command
 
 #### TODO - BACKLOG
 
