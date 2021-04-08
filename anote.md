@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] show real aint price
 - [ ] force private commands
 - [ ] check math strictly
 - [ ] test everything
