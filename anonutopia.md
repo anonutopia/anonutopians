@@ -5,7 +5,6 @@
 #### TODO
 
 - [ ] deploy
-- [ ] deploy script
 - [ ] bot - language
 - [ ] bot - welcome message
 
@@ -62,3 +61,4 @@
 - [x] applicants email warning - ways to get free anotes + how to become citizen
 - [x] follow up email - more text
 - [x] update apply buttons / links
+- [x] deploy script
