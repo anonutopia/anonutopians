@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] deploy
 - [ ] bot - language
 - [ ] bot - welcome message
 
@@ -62,3 +61,4 @@
 - [x] follow up email - more text
 - [x] update apply buttons / links
 - [x] deploy script
+- [x] deploy
