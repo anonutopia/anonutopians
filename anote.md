@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] force private commands
 - [ ] check math strictly
 - [ ] test everything
 
