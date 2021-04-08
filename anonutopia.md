@@ -4,8 +4,8 @@
 
 #### TODO
 
+- [ ] bot - language
 - [ ] bot - welcome message
-- [ ] bot - mining message
 
 #### DONE
 
