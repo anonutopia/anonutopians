@@ -5,11 +5,11 @@
 #### TODO - MVP
 
 - [ ] include AINT in payouts
+- [ ] interest automatic process
 
 #### TODO - BACKLOG
 
-- [ ] interest automatic process
-- [ ] wirex card
+- [ ] cards
 - [ ] mass transfer payouts
 - [ ] transparency page
 - [ ] detailed about page
