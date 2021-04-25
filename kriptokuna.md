@@ -6,6 +6,7 @@
 
 - [ ] include AINT in payouts
 - [ ] interest automatic process
+- [ ] website stuff
 
 #### TODO - BACKLOG
 
