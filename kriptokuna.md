@@ -6,11 +6,11 @@
 
 - [ ] include AINT in payouts
 - [ ] interest automatic process
-- [ ] website stuff
+- [ ] website - cards
+- [ ] website - baker
 
 #### TODO - BACKLOG
 
-- [ ] cards
 - [ ] mass transfer payouts
 - [ ] transparency page
 - [ ] detailed about page
