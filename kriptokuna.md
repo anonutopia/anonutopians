@@ -8,6 +8,7 @@
 - [ ] interest automatic process
 - [ ] website - cards
 - [ ] website - baker
+- [ ] website - blokirani
 
 #### TODO - BACKLOG
 
