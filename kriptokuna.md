@@ -6,7 +6,7 @@
 
 - [ ] include AINT in payouts
 - [ ] website - cards
-- [ ] website - baker
+- [ ] website - banker
 - [ ] website - blokirani
 - [ ] referral system
 
