@@ -6,6 +6,7 @@
 
 - [ ] referral system
 - [ ] include AINT in payouts
+- [ ] all manual processes
 - [ ] website - cards
 - [ ] website - banker
 - [ ] website - blokirani
