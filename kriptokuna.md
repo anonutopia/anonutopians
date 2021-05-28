@@ -13,6 +13,7 @@
 - [ ] website - tutorials (cards, exchange, banker)
 - [ ] website - crowdfunding
 - [ ] press release
+- [ ] telegram bot
 
 #### TODO - BACKLOG
 
