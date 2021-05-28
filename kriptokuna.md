@@ -11,7 +11,7 @@
 - [ ] website - blokirani
 - [ ] website - about page
 - [ ] website - tutorials (cards, exchange, banker)
-- [ ] website - crowdfunding
+- [ ] website - crowdfunding (decentralization, exchange, bankers)
 - [ ] press release
 - [ ] telegram bot
 
