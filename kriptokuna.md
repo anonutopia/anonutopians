@@ -9,13 +9,13 @@
 - [ ] website - cards
 - [ ] website - banker
 - [ ] website - blokirani
+- [ ] website - about page
 
 #### TODO - BACKLOG
 
 - [ ] interest automatic process
 - [ ] mass transfer payouts
 - [ ] transparency page
-- [ ] detailed about page
 - [ ] faq - more questions
 
 #### DONE
