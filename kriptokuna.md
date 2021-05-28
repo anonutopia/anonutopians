@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
+- [ ] referral system
 - [ ] include AINT in payouts
 - [ ] website - cards
 - [ ] website - banker
 - [ ] website - blokirani
-- [ ] referral system
 
 #### TODO - BACKLOG
 
