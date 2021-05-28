@@ -11,6 +11,7 @@
 - [ ] website - blokirani
 - [ ] website - about page
 - [ ] website - tutorials (cards, exchange, banker)
+- [ ] website - crowdfunding
 - [ ] press release
 
 #### TODO - BACKLOG
