@@ -10,6 +10,7 @@
 - [ ] website - banker
 - [ ] website - blokirani
 - [ ] website - about page
+- [ ] website - tutorials (cards, exchange, banker)
 
 #### TODO - BACKLOG
 
