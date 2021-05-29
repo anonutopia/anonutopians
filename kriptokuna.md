@@ -9,7 +9,6 @@
 - [ ] all manual processes
 - [ ] website - cards
 - [ ] website - banker + crowdfunding (decentralization, exchange, bankers)
-- [ ] website - blokirani
 - [ ] website - about page
 - [ ] website - tutorials (cards, exchange, banker)
 - [ ] press release
@@ -17,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] website - blokirani
 - [ ] interest automatic process
 - [ ] mass transfer payouts
 - [ ] transparency page
