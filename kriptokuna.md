@@ -8,11 +8,10 @@
 - [ ] include AINT in payouts
 - [ ] all manual processes
 - [ ] website - cards
-- [ ] website - banker
+- [ ] website - banker + crowdfunding (decentralization, exchange, bankers)
 - [ ] website - blokirani
 - [ ] website - about page
 - [ ] website - tutorials (cards, exchange, banker)
-- [ ] website - crowdfunding (decentralization, exchange, bankers)
 - [ ] press release
 - [ ] telegram bot
 
