@@ -7,7 +7,6 @@
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
-- [ ] website - tutorials
 - [ ] website - about
 - [ ] website - cards tutorial
 - [ ] website - banker + crowdfunding (decentralization, exchange, bankers)
@@ -53,3 +52,4 @@
 - [x] connect to anote db
 - [x] create all pages
 - [x] website - banker tutorial
+- [x] website - tutorials
