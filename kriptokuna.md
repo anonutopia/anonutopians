@@ -10,7 +10,6 @@
 - [ ] website - tutorials
 - [ ] website - about
 - [ ] website - cards tutorial
-- [ ] website - banker tutorial
 - [ ] website - banker + crowdfunding (decentralization, exchange, bankers)
 - [ ] press release
 - [ ] telegram bot
@@ -53,3 +52,4 @@
 - [x] check extra value
 - [x] connect to anote db
 - [x] create all pages
+- [x] website - banker tutorial
