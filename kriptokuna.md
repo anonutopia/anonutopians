@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] create all pages
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
