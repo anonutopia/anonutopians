@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] create all pages
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
@@ -52,3 +51,4 @@
 - [x] site - update home
 - [x] check extra value
 - [x] connect to anote db
+- [x] create all pages
