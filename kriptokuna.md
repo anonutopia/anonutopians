@@ -7,10 +7,11 @@
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
-- [ ] website - cards
+- [ ] website - tutorials
+- [ ] website - about
+- [ ] website - cards tutorial
+- [ ] website - banker tutorial
 - [ ] website - banker + crowdfunding (decentralization, exchange, bankers)
-- [ ] website - about page
-- [ ] website - tutorials (cards, exchange, banker)
 - [ ] press release
 - [ ] telegram bot
 
