@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] website - about
-- [ ] website - cards tutorial
 - [ ] website - banker + crowdfunding (decentralization, exchange, bankers)
 - [ ] referral system
 - [ ] include AINT in payouts
@@ -53,3 +52,4 @@
 - [x] create all pages
 - [x] website - banker tutorial
 - [x] website - tutorials
+- [x] website - cards tutorial
