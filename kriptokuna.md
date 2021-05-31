@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] referral system
-- [ ] include AINT in payouts
-- [ ] all manual processes
 - [ ] website - about
 - [ ] website - cards tutorial
 - [ ] website - banker + crowdfunding (decentralization, exchange, bankers)
+- [ ] referral system
+- [ ] include AINT in payouts
+- [ ] all manual processes
 - [ ] press release
 - [ ] telegram bot
 
