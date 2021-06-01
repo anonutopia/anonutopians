@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] website - banker + crowdfunding (decentralization, exchange, bankers)
+- [ ] website - banker
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
