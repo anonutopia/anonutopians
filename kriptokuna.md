@@ -8,7 +8,6 @@
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
-- [ ] press release
 - [ ] telegram bot
 
 #### TODO - BACKLOG
@@ -53,3 +52,4 @@
 - [x] website - tutorials
 - [x] website - cards tutorial
 - [x] website - about
+- [x] press release
