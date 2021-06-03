@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] website - exchange fix
-- [ ] website - seed warning
 - [ ] website - contact warning
 - [ ] website - short AINT explanation
 - [ ] website - homepage funnels
@@ -13,6 +12,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] website - seed warning
 - [ ] include AINT in payouts
 - [ ] referral system
 - [ ] check all manual processes
