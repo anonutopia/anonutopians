@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - exchange fix
 - [ ] website - contact warning
 - [ ] website - short AINT explanation
 - [ ] website - homepage funnels
@@ -61,3 +60,4 @@
 - [x] press release
 - [x] website - news
 - [x] website - banker
+- [x] website - exchange fix
