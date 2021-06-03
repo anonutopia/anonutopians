@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - news
 - [ ] website - banker
 - [ ] referral system
 - [ ] include AINT in payouts
@@ -55,3 +54,4 @@
 - [x] website - cards tutorial
 - [x] website - about
 - [x] press release
+- [x] website - news
