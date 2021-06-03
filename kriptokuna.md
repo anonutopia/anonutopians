@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] website - banker
 - [ ] website - news
+- [ ] website - banker
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
