@@ -5,6 +5,8 @@
 #### TODO - MVP
 
 - [ ] website - exchange fix
+- [ ] website - seed warning
+- [ ] website - contact warning
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] AINT calculator
