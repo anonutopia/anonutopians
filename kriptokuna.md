@@ -7,11 +7,11 @@
 - [ ] website - contact warning
 - [ ] website - short AINT explanation
 - [ ] website - homepage funnels
-- [ ] website - transparency
-- [ ] AINT calculator
 
 #### TODO - BACKLOG
 
+- [ ] website - transparency
+- [ ] AINT calculator
 - [ ] website - seed warning
 - [ ] include AINT in payouts
 - [ ] referral system
