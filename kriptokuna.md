@@ -9,12 +9,12 @@
 - [ ] website - contact warning
 - [ ] website - short AINT explanation
 - [ ] website - homepage funnels
-- [ ] referral system
 - [ ] include AINT in payouts
 - [ ] AINT calculator
 
 #### TODO - BACKLOG
 
+- [ ] referral system
 - [ ] check all manual processes
 - [ ] telegram bot
 - [ ] website - blokirani
