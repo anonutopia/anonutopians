@@ -5,10 +5,12 @@
 #### TODO - MVP
 
 - [ ] website - banker
+- [ ] website - news
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
 - [ ] telegram bot
+- [ ] AINT calculator
 
 #### TODO - BACKLOG
 
