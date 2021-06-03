@@ -4,9 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] website - contact warning
 - [ ] website - short AINT explanation
-- [ ] website - homepage funnels
 
 #### TODO - BACKLOG
 
@@ -61,3 +59,5 @@
 - [x] website - news
 - [x] website - banker
 - [x] website - exchange fix
+- [x] website - contact warning
+- [x] website - homepage funnels
