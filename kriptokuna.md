@@ -7,6 +7,8 @@
 - [ ] website - exchange fix
 - [ ] website - seed warning
 - [ ] website - contact warning
+- [ ] website - short AINT explanation
+- [ ] website - homepage funnels
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] AINT calculator
