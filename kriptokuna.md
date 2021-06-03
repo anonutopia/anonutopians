@@ -7,11 +7,11 @@
 - [ ] website - banker
 - [ ] referral system
 - [ ] include AINT in payouts
-- [ ] all manual processes
 - [ ] AINT calculator
 
 #### TODO - BACKLOG
 
+- [ ] check all manual processes
 - [ ] telegram bot
 - [ ] website - blokirani
 - [ ] interest automatic process
