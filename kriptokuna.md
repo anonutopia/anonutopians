@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] website - banker
+- [ ] website - exchange fix
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] AINT calculator
@@ -55,3 +55,4 @@
 - [x] website - about
 - [x] press release
 - [x] website - news
+- [x] website - banker
