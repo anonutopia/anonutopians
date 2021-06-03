@@ -9,11 +9,11 @@
 - [ ] referral system
 - [ ] include AINT in payouts
 - [ ] all manual processes
-- [ ] telegram bot
 - [ ] AINT calculator
 
 #### TODO - BACKLOG
 
+- [ ] telegram bot
 - [ ] website - blokirani
 - [ ] interest automatic process
 - [ ] mass transfer payouts
