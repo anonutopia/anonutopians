@@ -8,6 +8,7 @@
 - [ ] website - contact warning
 - [ ] website - short AINT explanation
 - [ ] website - homepage funnels
+- [ ] website - transparency
 - [ ] AINT calculator
 
 #### TODO - BACKLOG
