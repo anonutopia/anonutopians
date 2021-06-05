@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - transparency
 - [ ] press release 2
 - [ ] website - short AINT explanation
 - [ ] AINT calculator
@@ -61,3 +60,4 @@
 - [x] website - contact warning
 - [x] website - homepage funnels
 - [x] website - seed warning
+- [x] website - transparency
