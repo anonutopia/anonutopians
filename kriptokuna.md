@@ -8,7 +8,6 @@
 - [ ] website - short AINT explanation
 - [ ] website - transparency
 - [ ] AINT calculator
-- [ ] website - seed warning
 - [ ] referral system
 - [ ] telegram bot
 
@@ -61,3 +60,4 @@
 - [x] website - exchange fix
 - [x] website - contact warning
 - [x] website - homepage funnels
+- [x] website - seed warning
