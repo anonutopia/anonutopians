@@ -4,14 +4,15 @@
 
 #### TODO - MVP
 
-- [ ] press release 2
 - [ ] website - short AINT explanation
+- [ ] interest calculator
 - [ ] AINT calculator
 - [ ] referral system
 - [ ] telegram bot
 
 #### TODO - BACKLOG
 
+- [ ] press release 2
 - [ ] include AINT in payouts
 - [ ] check all manual processes
 - [ ] website - blokirani
