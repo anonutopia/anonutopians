@@ -5,20 +5,19 @@
 #### TODO - MVP
 
 - [ ] website - short AINT explanation
-
-#### TODO - BACKLOG
-
 - [ ] website - transparency
 - [ ] AINT calculator
 - [ ] website - seed warning
-- [ ] include AINT in payouts
 - [ ] referral system
-- [ ] check all manual processes
 - [ ] telegram bot
+
+#### TODO - BACKLOG
+
+- [ ] include AINT in payouts
+- [ ] check all manual processes
 - [ ] website - blokirani
 - [ ] interest automatic process
 - [ ] mass transfer payouts
-- [ ] transparency page
 - [ ] faq - more questions
 
 #### DONE
