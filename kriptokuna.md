@@ -4,9 +4,9 @@
 
 #### TODO - MVP
 
+- [ ] website - transparency
 - [ ] press release 2
 - [ ] website - short AINT explanation
-- [ ] website - transparency
 - [ ] AINT calculator
 - [ ] referral system
 - [ ] telegram bot
