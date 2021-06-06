@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] setup AINT orders
 - [ ] website - short AINT explanation
 - [ ] interest calculator
 - [ ] AINT calculator
