@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] website - short AINT explanation
+- [ ] send first press release
 
 #### TODO - BACKLOG
 
