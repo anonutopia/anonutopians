@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - short AINT explanation
-
 #### TODO - BACKLOG
 
 - [ ] AINT calculator
@@ -65,3 +63,5 @@
 - [x] setup AINT orders
 - [x] new database
 - [x] send first press release
+- [x] website - short AINT explanation
+- [x] website - AINT distribution
