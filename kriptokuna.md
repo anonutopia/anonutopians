@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] new database
-- [ ] setup AINT orders
 - [ ] website - short AINT explanation
 - [ ] interest calculator
 - [ ] AINT calculator
@@ -64,3 +63,4 @@
 - [x] website - homepage funnels
 - [x] website - seed warning
 - [x] website - transparency
+- [x] setup AINT orders
