@@ -5,11 +5,11 @@
 #### TODO - MVP
 
 - [ ] website - short AINT explanation
-- [ ] interest calculator
 - [ ] AINT calculator
 
 #### TODO - BACKLOG
 
+- [ ] interest calculator
 - [ ] referral system
 - [ ] telegram bot
 - [ ] press release 2
