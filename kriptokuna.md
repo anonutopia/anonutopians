@@ -8,11 +8,11 @@
 - [ ] website - short AINT explanation
 - [ ] interest calculator
 - [ ] AINT calculator
-- [ ] referral system
-- [ ] telegram bot
 
 #### TODO - BACKLOG
 
+- [ ] referral system
+- [ ] telegram bot
 - [ ] press release 2
 - [ ] include AINT in payouts
 - [ ] check all manual processes
