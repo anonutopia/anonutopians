@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] website - short AINT explanation
-- [ ] send first press release
 
 #### TODO - BACKLOG
 
@@ -65,3 +64,4 @@
 - [x] website - transparency
 - [x] setup AINT orders
 - [x] new database
+- [x] send first press release
