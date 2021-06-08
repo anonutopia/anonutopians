@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] new database
 - [ ] setup AINT orders
 - [ ] website - short AINT explanation
 - [ ] interest calculator
