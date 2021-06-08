@@ -4,11 +4,12 @@
 
 #### TODO - MVP
 
-#### TODO - BACKLOG
-
 - [ ] AINT calculator
 - [ ] interest calculator
 - [ ] referral system
+
+#### TODO - BACKLOG
+
 - [ ] telegram bot
 - [ ] press release 2
 - [ ] include AINT in payouts
