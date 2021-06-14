@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] check earnings system
 - [ ] referral system
 
 #### TODO - BACKLOG
