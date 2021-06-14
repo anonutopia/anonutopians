@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] fix interest mechanism
 - [ ] AINT calculator
 - [ ] interest calculator
 - [ ] referral system
