@@ -6,6 +6,7 @@
 
 - [ ] fix ahrk to waves calculation
 - [ ] fix interest mechanism
+- [ ] setup telegram reporting for everything
 
 #### TODO - BACKLOG
 
