@@ -5,7 +5,8 @@
 #### TODO - MVP
 
 - [ ] fix interest mechanism
-- [ ] setup telegram reporting for everything
+- [ ] telegram logging
+- [ ] telegram notifications
 
 #### TODO - BACKLOG
 
