@@ -4,13 +4,14 @@
 
 #### TODO - MVP
 
+- [ ] fix ahrk to waves calculation
 - [ ] fix interest mechanism
-- [ ] AINT calculator
-- [ ] interest calculator
-- [ ] referral system
 
 #### TODO - BACKLOG
 
+- [ ] AINT calculator
+- [ ] interest calculator
+- [ ] referral system
 - [ ] telegram bot
 - [ ] press release 2
 - [ ] include AINT in payouts
