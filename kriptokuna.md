@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] fix ahrk to waves calculation
 - [ ] fix interest mechanism
 - [ ] setup telegram reporting for everything
 
@@ -69,3 +68,4 @@
 - [x] send first press release
 - [x] website - short AINT explanation
 - [x] website - AINT distribution
+- [x] fix ahrk to waves calculation
