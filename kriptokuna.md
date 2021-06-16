@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] move all from old addresses
 - [ ] fix interest mechanism
 - [ ] setup telegram reporting for everything
 
