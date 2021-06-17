@@ -6,6 +6,7 @@
 
 - [ ] check earnings system
 - [ ] referral system
+- [ ] telegram notify - price change
 
 #### TODO - BACKLOG
 
