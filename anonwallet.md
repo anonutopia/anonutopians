@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] connect to telegram
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -96,3 +96,4 @@
 - [x] connect funderbot
 - [x] new translations
 - [x] lang issue
+- [x] connect to telegram
