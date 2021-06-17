@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] connect to telegram
-- [ ] lang issue
 
 #### TODO - BACKLOG
 
@@ -96,3 +95,4 @@
 - [x] connect anoterobot
 - [x] connect funderbot
 - [x] new translations
+- [x] lang issue
