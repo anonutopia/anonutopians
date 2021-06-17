@@ -5,12 +5,12 @@
 #### TODO - MVP
 
 - [ ] fix interest mechanism
+- [ ] referral system
+- [ ] AINT calculator
+- [ ] interest calculator
 
 #### TODO - BACKLOG
 
-- [ ] AINT calculator
-- [ ] interest calculator
-- [ ] referral system
 - [ ] telegram bot
 - [ ] press release 2
 - [ ] include AINT in payouts
