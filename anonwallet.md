@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] connect to telegram
+- [ ] lang issue
 
 #### TODO - BACKLOG
 
