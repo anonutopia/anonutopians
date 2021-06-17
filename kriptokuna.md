@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] telegram notifications
 - [ ] fix interest mechanism
 
 #### TODO - BACKLOG
@@ -71,3 +70,4 @@
 - [x] fix ahrk to waves calculation
 - [x] move all from old addresses
 - [x] telegram logging
+- [x] telegram notifications
