@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] fix interest mechanism
 - [ ] telegram notifications
+- [ ] fix interest mechanism
 
 #### TODO - BACKLOG
 
