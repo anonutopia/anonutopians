@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] connect to telegram
 
 #### TODO - BACKLOG
 
