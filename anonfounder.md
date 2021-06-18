@@ -42,3 +42,4 @@
 - [x] connect to anote db
 - [x] show connect wallet
 - [x] connect wallet
+- [x] check earnings system
