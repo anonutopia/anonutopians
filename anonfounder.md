@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] check earnings system
 - [ ] telegram notify - price change
+- [ ] exchange purchase - don't add if not aint
 
 #### TODO - BACKLOG
 
