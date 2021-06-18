@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] telegram notify - price change
 - [ ] exchange purchase - don't add if not aint
 
 #### TODO - BACKLOG
@@ -43,3 +42,4 @@
 - [x] show connect wallet
 - [x] connect wallet
 - [x] check earnings system
+- [x] telegram notify - price change
