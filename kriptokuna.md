@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] fix interest mechanism
 - [ ] referral system
 - [ ] AINT calculator
 - [ ] interest calculator
@@ -71,3 +70,4 @@
 - [x] move all from old addresses
 - [x] telegram logging
 - [x] telegram notifications
+- [x] fix interest mechanism
