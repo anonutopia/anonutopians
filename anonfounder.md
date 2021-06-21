@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] purchase - price change
 - [ ] exchange purchase - don't add if not aint
 
 #### TODO - BACKLOG
@@ -44,3 +43,4 @@
 - [x] connect wallet
 - [x] check earnings system
 - [x] telegram notify - price change
+- [x] purchase - price change
