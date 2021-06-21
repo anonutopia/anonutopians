@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] purchase - price change
 - [ ] exchange purchase - don't add if not aint
 
 #### TODO - BACKLOG
