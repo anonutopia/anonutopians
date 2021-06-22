@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] exchange purchase - don't add if not aint
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -45,3 +45,4 @@
 - [x] telegram notify - price change
 - [x] purchase - price change
 - [x] purchase - ping
+- [x] exchange purchase - don't add if not aint
