@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] initial distribution
 - [ ] referral system
 - [ ] AINT calculator
 - [ ] interest calculator
