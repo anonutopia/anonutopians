@@ -44,3 +44,4 @@
 - [x] check earnings system
 - [x] telegram notify - price change
 - [x] purchase - price change
+- [x] purchase - ping
