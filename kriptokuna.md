@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] AINT calculator
 - [ ] referral system
 
 #### TODO - BACKLOG
@@ -72,3 +71,4 @@
 - [x] telegram notifications
 - [x] fix interest mechanism
 - [x] interest calculator
+- [x] AINT calculator
