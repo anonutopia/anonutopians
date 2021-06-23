@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] english version
+- [ ] english version - check all
 
 #### TODO - BACKLOG
 
