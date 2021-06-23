@@ -4,9 +4,9 @@
 
 #### TODO - MVP
 
+- [ ] interest calculator
 - [ ] referral system
 - [ ] AINT calculator
-- [ ] interest calculator
 
 #### TODO - BACKLOG
 
