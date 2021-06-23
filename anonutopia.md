@@ -4,8 +4,8 @@
 
 #### TODO
 
-- [ ] bot - welcome message
-- [ ] bot - mining message
+- [ ] bot - welcome message fix
+- [ ] bot - welcome message cro
 
 #### DONE
 
