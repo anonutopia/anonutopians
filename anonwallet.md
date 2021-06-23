@@ -97,3 +97,4 @@
 - [x] new translations
 - [x] lang issue
 - [x] connect to telegram
+- [x] english version
