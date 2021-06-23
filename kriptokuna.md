@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] referral system
 - [ ] AINT calculator
+- [ ] referral system
 
 #### TODO - BACKLOG
 
