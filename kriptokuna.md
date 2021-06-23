@@ -4,13 +4,13 @@
 
 #### TODO - MVP
 
-- [ ] initial distribution
 - [ ] referral system
 - [ ] AINT calculator
 - [ ] interest calculator
 
 #### TODO - BACKLOG
 
+- [ ] initial distribution
 - [ ] telegram bot
 - [ ] press release 2
 - [ ] include AINT in payouts
