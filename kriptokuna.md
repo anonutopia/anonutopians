@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] calculators - errors
 - [ ] referral system
 
 #### TODO - BACKLOG
