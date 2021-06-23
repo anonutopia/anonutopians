@@ -4,8 +4,7 @@
 
 #### TODO
 
-- [ ] bot - welcome message fix
-- [ ] bot - welcome message cro
+- [ ] todo
 
 #### DONE
 
@@ -63,3 +62,5 @@
 - [x] deploy script
 - [x] deploy
 - [x] bot - language
+- [x] bot - welcome message fix
+- [x] bot - welcome message cro
