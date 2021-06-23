@@ -4,10 +4,10 @@
 
 #### TODO
 
-- [ ] kickstart CrowdCaffe
 - [ ] kickstart Kriptokuna
 - [ ] kickstart Anote
 - [ ] kickstart Anonutopia
+- [ ] kickstart CrowdCaffe
 - [ ] move all websites to AnonCMS
 
 ## Other TODO Lists
