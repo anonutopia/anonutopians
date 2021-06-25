@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] calculators - errors
 - [ ] referral system
 
 #### TODO - BACKLOG
@@ -73,3 +72,4 @@
 - [x] fix interest mechanism
 - [x] interest calculator
 - [x] AINT calculator
+- [x] calculators - errors
