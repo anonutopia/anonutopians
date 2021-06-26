@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] bug - creating user
 - [ ] bug - buy from 3rd party
 
 #### TODO - BACKLOG
@@ -47,3 +46,4 @@
 - [x] purchase - price change
 - [x] purchase - ping
 - [x] exchange purchase - don't add if not aint
+- [x] bug - creating user
