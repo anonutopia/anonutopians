@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] bug - creating user
 - [ ] bug - buy from 3rd party
 
 #### TODO - BACKLOG
