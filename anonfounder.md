@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] bug - buy from 3rd party
 
 #### TODO - BACKLOG
 
