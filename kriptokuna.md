@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] interest calculator - explanation
 
 #### TODO - BACKLOG
 
