@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] interest calculator - explanation
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -74,3 +74,4 @@
 - [x] AINT calculator
 - [x] calculators - errors
 - [x] referral system
+- [x] interest calculator - explanation
