@@ -4,7 +4,9 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] website - more on aint mechanics
+- [ ] website - more on kriptokuna interest
+- [ ] website - funnels
 
 #### TODO - BACKLOG
 
