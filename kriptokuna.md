@@ -7,6 +7,9 @@
 - [ ] website - more on aint mechanics
 - [ ] website - more on kriptokuna interest
 - [ ] website - funnels
+- [ ] limit ahrk amount
+- [ ] purchase AINT with ahrk
+- [ ] purchase AINT with usdn
 
 #### TODO - BACKLOG
 
