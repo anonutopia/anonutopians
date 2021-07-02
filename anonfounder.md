@@ -5,6 +5,8 @@
 #### TODO - MVP
 
 - [ ] bug - usdt exchange (manual)
+- [ ] purchase AINT with ahrk
+- [ ] purchase AINT with usdn
 
 #### TODO - BACKLOG
 
