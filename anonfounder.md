@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] bug - usdt exchange (manual)
 
 #### TODO - BACKLOG
 
