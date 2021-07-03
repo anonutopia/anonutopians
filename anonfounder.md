@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] HRK price issue
-- [ ] purchase AINT with ahrk
 - [ ] purchase AINT with usdn
 
 #### TODO - BACKLOG
@@ -54,3 +52,5 @@
 - [x] bug - creating user
 - [x] bug - buy from 3rd party
 - [x] bug - usdt exchange (manual)
+- [x] purchase AINT with ahrk
+- [x] HRK price issue
