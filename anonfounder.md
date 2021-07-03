@@ -9,6 +9,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] purchase with btc
+- [ ] purchase with eth  
 - [ ] ahrk purchase split
 - [ ] info bot command
 - [ ] status bot command
