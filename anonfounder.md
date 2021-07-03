@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] HRK price issue
 - [ ] purchase AINT with ahrk
 - [ ] purchase AINT with usdn
 
