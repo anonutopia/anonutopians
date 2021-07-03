@@ -10,6 +10,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] automatic USD to HRK 
 - [ ] purchase with btc
 - [ ] purchase with eth  
 - [ ] ahrk purchase split
