@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] purchase AINT with usdn
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -54,3 +54,4 @@
 - [x] bug - usdt exchange (manual)
 - [x] purchase AINT with ahrk
 - [x] HRK price issue
+- [x] purchase AINT with usdn
