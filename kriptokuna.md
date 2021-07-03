@@ -11,6 +11,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] purchase with btc
+- [ ] purchase with eth
 - [ ] over limit - send back
 - [ ] initial distribution
 - [ ] telegram bot
