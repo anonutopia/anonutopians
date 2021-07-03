@@ -81,3 +81,4 @@
 - [x] calculators - errors
 - [x] referral system
 - [x] interest calculator - explanation
+- [x] limit ahrk amount
