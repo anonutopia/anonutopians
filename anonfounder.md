@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] bug - usdt exchange (manual)
 - [ ] purchase AINT with ahrk
 - [ ] purchase AINT with usdn
 
@@ -50,3 +49,4 @@
 - [x] exchange purchase - don't add if not aint
 - [x] bug - creating user
 - [x] bug - buy from 3rd party
+- [x] bug - usdt exchange (manual)
