@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
-- [ ] website - funnels
 - [ ] website - team page
 
 #### TODO - BACKLOG
 
+- [ ] website - funnels
 - [ ] automatic USD to HRK
 - [ ] purchase with btc
 - [ ] purchase with eth
