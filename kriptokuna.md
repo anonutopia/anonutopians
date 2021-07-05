@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - more on aint mechanics
 - [ ] website - funnels
 - [ ] website - team page
 
@@ -88,3 +87,4 @@
 - [x] website - more faq
 - [x] crowdfunding limits
 - [x] website - more on kriptokuna interest
+- [x] website - more on aint mechanics
