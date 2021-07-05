@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] website - team page links
+- [ ] website - team page basic
 - [ ] website - team page
 
 #### TODO - BACKLOG
