@@ -8,7 +8,6 @@
 - [ ] website - more on kriptokuna interest
 - [ ] website - funnels
 - [ ] website - show limits
-- [ ] website - limits news
 
 #### TODO - BACKLOG
 
@@ -84,3 +83,4 @@
 - [x] referral system
 - [x] interest calculator - explanation
 - [x] limit ahrk amount
+- [x] website - limits news
