@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] website - more faq
 - [ ] crowdfunding limits
 - [ ] website - more on aint mechanics
 - [ ] website - more on kriptokuna interest
