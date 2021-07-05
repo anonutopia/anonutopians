@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] website - team page
-- [ ] fix all og:url
 
 #### TODO - BACKLOG
 
@@ -91,3 +90,4 @@
 - [x] website - more on aint mechanics
 - [x] website - team page links
 - [x] website - team page basic
+- [x] fix all og:url
