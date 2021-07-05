@@ -4,10 +4,10 @@
 
 #### TODO - MVP
 
+- [ ] website - show limits
 - [ ] website - more on aint mechanics
 - [ ] website - more on kriptokuna interest
 - [ ] website - funnels
-- [ ] website - show limits
 
 #### TODO - BACKLOG
 
