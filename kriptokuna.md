@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - more faq
 - [ ] crowdfunding limits
 - [ ] website - more on aint mechanics
 - [ ] website - more on kriptokuna interest
@@ -87,3 +86,4 @@
 - [x] website - limits news
 - [x] website - show limits - UI
 - [x] website - show limits - backend
+- [x] website - more faq
