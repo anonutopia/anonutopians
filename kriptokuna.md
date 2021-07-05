@@ -4,9 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] website - team page links
-- [ ] website - team page basic
 - [ ] website - team page
+- [ ] fix all og:url
 
 #### TODO - BACKLOG
 
@@ -90,3 +89,5 @@
 - [x] crowdfunding limits
 - [x] website - more on kriptokuna interest
 - [x] website - more on aint mechanics
+- [x] website - team page links
+- [x] website - team page basic
