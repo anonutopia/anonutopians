@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] website - show limits
+- [ ] website - show limits - UI
+- [ ] website - show limits - backend
 - [ ] website - more on aint mechanics
 - [ ] website - more on kriptokuna interest
 - [ ] website - funnels
