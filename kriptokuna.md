@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - show limits - backend
 - [ ] website - more on aint mechanics
 - [ ] website - more on kriptokuna interest
 - [ ] website - funnels
@@ -85,3 +84,4 @@
 - [x] limit ahrk amount
 - [x] website - limits news
 - [x] website - show limits - UI
+- [x] website - show limits - backend
