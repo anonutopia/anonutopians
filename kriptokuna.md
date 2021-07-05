@@ -7,6 +7,7 @@
 - [ ] website - more on aint mechanics
 - [ ] website - more on kriptokuna interest
 - [ ] website - funnels
+- [ ] website - team page
 
 #### TODO - BACKLOG
 
