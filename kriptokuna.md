@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - show limits - UI
 - [ ] website - show limits - backend
 - [ ] website - more on aint mechanics
 - [ ] website - more on kriptokuna interest
@@ -85,3 +84,4 @@
 - [x] interest calculator - explanation
 - [x] limit ahrk amount
 - [x] website - limits news
+- [x] website - show limits - UI
