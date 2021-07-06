@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] website - fix transparency page
 
 #### TODO - BACKLOG
 
