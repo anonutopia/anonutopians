@@ -98,3 +98,4 @@
 - [x] lang issue
 - [x] connect to telegram
 - [x] english version
+- [x] add google analytics
