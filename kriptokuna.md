@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] aint calculator - from hrk
 - [ ] website - fix transparency page
 
 #### TODO - BACKLOG
