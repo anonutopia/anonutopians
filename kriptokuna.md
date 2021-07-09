@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] website - fix pr page
 - [ ] website - fix transparency page
 
 #### TODO - BACKLOG
@@ -15,7 +16,6 @@
 - [ ] over limit - send back
 - [ ] initial distribution
 - [ ] telegram bot
-- [ ] press release 2
 - [ ] include AINT in payouts
 - [ ] check all manual processes
 - [ ] website - blokirani
@@ -92,3 +92,4 @@
 - [x] website - team page basic
 - [x] fix all og:url
 - [x] website - team page
+- [x] press release 2
