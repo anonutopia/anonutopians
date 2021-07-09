@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - fix pr page
 - [ ] website - fix transparency page
 
 #### TODO - BACKLOG
@@ -93,3 +92,4 @@
 - [x] fix all og:url
 - [x] website - team page
 - [x] press release 2
+- [x] website - fix pr page
