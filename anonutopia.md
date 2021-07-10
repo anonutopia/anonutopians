@@ -4,7 +4,7 @@
 
 #### TODO
 
-- [ ] todo
+- [ ] adjust for stable coins
 
 #### DONE
 
