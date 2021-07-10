@@ -5,7 +5,8 @@
 #### TODO - MVP
 
 - [ ] website - savings
-- [ ] aint calculator - from hrk
+- [ ] aint calc - from hrk
+- [ ] update earnings calc
 
 #### TODO - BACKLOG
 
