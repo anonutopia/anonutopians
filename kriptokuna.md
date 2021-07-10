@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] website - get involved
+- [ ] website - bankers plan
 - [ ] aint calculator - from hrk
 - [ ] website - fix transparency page
 - [ ] send press release
