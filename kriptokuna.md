@@ -7,7 +7,6 @@
 - [ ] website - get involved
 - [ ] website - bankers plan
 - [ ] aint calculator - from hrk
-- [ ] website - fix transparency page
 
 #### TODO - BACKLOG
 
@@ -96,3 +95,4 @@
 - [x] website - team page
 - [x] press release 2
 - [x] website - fix pr page
+- [x] website - fix transparency page
