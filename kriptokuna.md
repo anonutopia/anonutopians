@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - savings - menu
 - [ ] website - savings
 - [ ] aint calculator - from hrk
 
@@ -99,3 +98,4 @@
 - [x] website - fix transparency page
 - [x] remove extra limit
 - [x] website - savings - basic page
+- [x] website - savings - menu
