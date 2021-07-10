@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] remove extra limit
 - [ ] website - savings - menu
 - [ ] website - savings - basic page
 - [ ] website - savings
@@ -99,3 +98,4 @@
 - [x] press release 2
 - [x] website - fix pr page
 - [x] website - fix transparency page
+- [x] remove extra limit
