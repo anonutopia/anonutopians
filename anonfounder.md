@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] aint calculator - from hrk
 
 #### TODO - BACKLOG
 
