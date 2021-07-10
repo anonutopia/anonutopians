@@ -9,7 +9,7 @@
 #### TODO - BACKLOG
 
 - [ ] earnings - load others
-- [ ] adress book
+- [ ] address book
 - [ ] interest automatic process
 - [ ] tab toggle fix
 - [ ] exchange address link
