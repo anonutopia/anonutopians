@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] website - get involved
 - [ ] aint calculator - from hrk
 - [ ] website - fix transparency page
 - [ ] send press release
