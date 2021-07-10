@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] website - savings
+- [ ] website - referrals
 - [ ] aint calc - from hrk
 - [ ] update earnings calc
 - [ ] ahrk referral
