@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] send press release
 - [ ] kickstart Kriptokuna
 - [ ] kickstart Anote
 - [ ] kickstart Anonutopia

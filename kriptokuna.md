@@ -8,7 +8,6 @@
 - [ ] website - bankers plan
 - [ ] aint calculator - from hrk
 - [ ] website - fix transparency page
-- [ ] send press release
 
 #### TODO - BACKLOG
 
