@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] move aint calc
 - [ ] website - savings
 - [ ] aint calc - from hrk
 - [ ] update earnings calc
@@ -102,3 +101,4 @@
 - [x] website - savings - basic page
 - [x] website - savings - menu
 - [x] website - update tutorials
+- [x] move aint calc
