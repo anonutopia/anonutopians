@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] website - savings
+- [ ] website - start saving
 - [ ] website - referrals
 - [ ] website - phases
 - [ ] update earnings calc
