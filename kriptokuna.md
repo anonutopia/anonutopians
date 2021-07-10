@@ -6,7 +6,6 @@
 
 - [ ] website - savings
 - [ ] website - referrals
-- [ ] aint calc - from hrk
 - [ ] update earnings calc
 - [ ] ahrk referral
 
@@ -104,3 +103,4 @@
 - [x] website - savings - menu
 - [x] website - update tutorials
 - [x] move aint calc
+- [x] aint calc - from hrk
