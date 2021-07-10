@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] aint calculator - from hrk
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -55,3 +55,4 @@
 - [x] purchase AINT with ahrk
 - [x] HRK price issue
 - [x] purchase AINT with usdn
+- [x] aint calculator - from hrk
