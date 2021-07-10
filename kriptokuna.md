@@ -4,12 +4,14 @@
 
 #### TODO - MVP
 
-- [ ] website - get involved
-- [ ] website - bankers plan
+- [ ] website - savings - menu
+- [ ] website - savings - basic page
+- [ ] website - savings
 - [ ] aint calculator - from hrk
 
 #### TODO - BACKLOG
 
+- [ ] website - bankers plan
 - [ ] website - funnels
 - [ ] automatic USD to HRK
 - [ ] purchase with btc
