@@ -6,6 +6,7 @@
 
 - [ ] website - referrals
 - [ ] website - phases
+- [ ] website - home update
 
 #### TODO - BACKLOG
 
