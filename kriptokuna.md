@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] ahrk referral
 - [ ] website - referrals
 - [ ] website - phases
 
@@ -105,3 +104,4 @@
 - [x] aint calc - from hrk
 - [x] update earnings calc
 - [x] website - start saving
+- [x] ahrk referral
