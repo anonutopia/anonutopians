@@ -11,7 +11,7 @@
 #### TODO - BACKLOG
 
 - [ ] website - bankers plan
-- [ ] website - funnels
+- [ ] website - funnels / homepage
 - [ ] automatic USD to HRK
 - [ ] purchase with btc
 - [ ] purchase with eth
