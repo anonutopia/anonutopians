@@ -6,7 +6,6 @@
 
 - [ ] website - referrals
 - [ ] website - phases
-- [ ] website - home update
 
 #### TODO - BACKLOG
 
@@ -106,3 +105,4 @@
 - [x] update earnings calc
 - [x] website - start saving
 - [x] ahrk referral
+- [x] website - home update
