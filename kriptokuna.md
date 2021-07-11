@@ -7,7 +7,6 @@
 - [ ] website - start saving
 - [ ] website - referrals
 - [ ] website - phases
-- [ ] update earnings calc
 - [ ] ahrk referral
 
 #### TODO - BACKLOG
@@ -105,3 +104,4 @@
 - [x] website - update tutorials
 - [x] move aint calc
 - [x] aint calc - from hrk
+- [x] update earnings calc
