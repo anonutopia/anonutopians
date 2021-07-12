@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] website - phases
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -106,3 +106,4 @@
 - [x] ahrk referral
 - [x] website - home update
 - [x] website - referrals
+- [x] website - phases
