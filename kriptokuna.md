@@ -4,7 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] update FAQ
+- [ ] fix press release
 
 #### TODO - BACKLOG
 
