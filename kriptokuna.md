@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] fix press release
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -108,3 +108,4 @@
 - [x] website - referrals
 - [x] website - phases
 - [x] update FAQ
+- [x] fix press release
