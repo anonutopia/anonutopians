@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] integrate HNB
 
 #### TODO - BACKLOG
 
