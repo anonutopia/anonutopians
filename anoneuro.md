@@ -6,8 +6,8 @@
 
 - [ ] update logos
 - [ ] translate links
-- [ ] basic website
-- [ ] basic wallet
+- [ ] translate website
+- [ ] setup wallet
 
 #### TODO - BACKLOG
 
