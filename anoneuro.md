@@ -4,8 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] setup cloudflare
-- [ ] setup github
 - [ ] basic website
 - [ ] basic wallet
 
@@ -17,3 +15,5 @@
 
 - [x] done
 - [x] purchase domain
+- [x] setup cloudflare
+- [x] setup github
