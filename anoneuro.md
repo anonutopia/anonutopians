@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] update logos
+- [ ] translate links
 - [ ] basic website
 - [ ] basic wallet
 
