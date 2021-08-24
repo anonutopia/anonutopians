@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] AINT earnings in AHRK
 
 #### TODO - BACKLOG
 
