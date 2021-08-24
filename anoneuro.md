@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] purchase domain
 - [ ] basic website
 - [ ] basic wallet
 
@@ -15,3 +14,4 @@
 #### DONE
 
 - [x] done
+- [x] purchase domain
