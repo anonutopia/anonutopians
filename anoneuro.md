@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] setup cloudflare
+- [ ] setup github
 - [ ] basic website
 - [ ] basic wallet
 
