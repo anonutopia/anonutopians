@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] integrate HNB
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -109,3 +109,4 @@
 - [x] website - phases
 - [x] update FAQ
 - [x] fix press release
+- [x] integrate HNB
