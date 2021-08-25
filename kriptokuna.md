@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] website - telegram link (contact)
 - [ ] AINT earnings in AHRK
 
 #### TODO - BACKLOG
@@ -111,3 +110,4 @@
 - [x] update FAQ
 - [x] fix press release
 - [x] integrate HNB
+- [x] website - telegram link (contact)
