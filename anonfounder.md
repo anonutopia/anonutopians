@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] AINT purchase message in English
 
 #### TODO - BACKLOG
 
