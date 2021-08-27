@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] update logos
 - [ ] translate links
 - [ ] translate website
 - [ ] setup wallet
@@ -19,3 +18,4 @@
 - [x] purchase domain
 - [x] setup cloudflare
 - [x] setup github
+- [x] update logos
