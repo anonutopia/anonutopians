@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] AINT purchase message in English
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -56,3 +56,4 @@
 - [x] HRK price issue
 - [x] purchase AINT with usdn
 - [x] aint calculator - from hrk
+- [x] AINT purchase message in English
