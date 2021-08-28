@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] translate meta
 - [ ] translate website
 - [ ] setup wallet
 
