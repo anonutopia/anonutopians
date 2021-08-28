@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] translate menus
+- [ ] translate breadcrumbs
 - [ ] translate meta
 - [ ] translate website
 - [ ] setup wallet
