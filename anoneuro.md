@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] remove news
 - [ ] translate menus
 - [ ] translate breadcrumbs
 - [ ] translate meta
