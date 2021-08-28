@@ -8,6 +8,7 @@
 - [ ] translate menus
 - [ ] translate breadcrumbs
 - [ ] translate meta
+- [ ] check all images
 - [ ] translate website
 - [ ] setup wallet
 
