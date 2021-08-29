@@ -24,3 +24,4 @@
 - [x] translate links
 - [x] remove extra news
 - [x] check all images
+- [x] update URLs
