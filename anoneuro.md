@@ -5,7 +5,6 @@
 #### TODO - MVP
 
 - [ ] translate menus
-- [ ] translate breadcrumbs
 - [ ] translate meta
 - [ ] translate website
 - [ ] setup wallet
@@ -25,3 +24,4 @@
 - [x] remove extra news
 - [x] check all images
 - [x] update URLs
+- [x] translate breadcrumbs
