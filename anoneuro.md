@@ -7,7 +7,6 @@
 - [ ] translate menus
 - [ ] translate breadcrumbs
 - [ ] translate meta
-- [ ] check all images
 - [ ] translate website
 - [ ] setup wallet
 
@@ -24,3 +23,4 @@
 - [x] update logos
 - [x] translate links
 - [x] remove extra news
+- [x] check all images
