@@ -25,4 +25,4 @@
 - [x] check all images
 - [x] update URLs
 - [x] translate breadcrumbs
-- [x] c
+- [x] translate title
