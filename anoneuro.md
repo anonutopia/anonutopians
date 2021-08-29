@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] remove extra news
 - [ ] translate menus
 - [ ] translate breadcrumbs
 - [ ] translate meta
@@ -24,3 +23,4 @@
 - [x] setup github
 - [x] update logos
 - [x] translate links
+- [x] remove extra news
