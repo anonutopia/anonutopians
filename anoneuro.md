@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] google sites
 - [ ] google analytics
 - [ ] translate meta
 - [ ] translate website
@@ -28,3 +27,4 @@
 - [x] translate breadcrumbs
 - [x] translate title
 - [x] translate menus
+- [x] google sites
