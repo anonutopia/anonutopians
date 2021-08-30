@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] google sites
+- [ ] google analytics
 - [ ] translate meta
 - [ ] translate website
 - [ ] setup wallet
