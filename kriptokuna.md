@@ -112,3 +112,4 @@
 - [x] integrate HNB
 - [x] website - telegram link (contact)
 - [x] AINT earnings in AHRK
+- [x] HNB prices bugfix
