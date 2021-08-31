@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] update wallet link
 - [ ] translate website
 - [ ] setup wallet
 
@@ -29,3 +28,4 @@
 - [x] google sites
 - [x] google analytics
 - [x] translate meta
+- [x] update wallet link
