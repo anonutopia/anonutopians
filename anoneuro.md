@@ -4,6 +4,9 @@
 
 #### TODO - MVP
 
+- [ ] translate footer link
+- [ ] translate footer social
+- [ ] translate footer warning
 - [ ] translate home
 - [ ] translate about
 - [ ] translate news
