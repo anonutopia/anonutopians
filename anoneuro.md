@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] update wallet link
 - [ ] translate website
 - [ ] setup wallet
 
