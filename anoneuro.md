@@ -4,7 +4,21 @@
 
 #### TODO - MVP
 
-- [ ] translate website
+- [ ] translate home
+- [ ] translate about
+- [ ] translate news
+- [ ] translate transparency
+- [ ] translate FAQ
+- [ ] translate contact
+- [ ] translate team
+- [ ] translate tutorials
+- [ ] translate cryptocurrency basics
+- [ ] translate exchange
+- [ ] translate cards
+- [ ] translate bankers
+- [ ] translate start saving
+- [ ] translate become a banker
+- [ ] translate limit news
 - [ ] setup wallet
 
 #### TODO - BACKLOG
