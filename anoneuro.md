@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] translate meta
 - [ ] translate website
 - [ ] setup wallet
 
@@ -28,3 +27,4 @@
 - [x] translate menus
 - [x] google sites
 - [x] google analytics
+- [x] translate meta
