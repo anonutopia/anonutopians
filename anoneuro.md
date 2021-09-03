@@ -10,7 +10,6 @@
 - [ ] translate transparency
 - [ ] translate FAQ
 - [ ] translate contact
-- [ ] translate team
 - [ ] translate cryptocurrency basics
 - [ ] translate exchange
 - [ ] translate cards
@@ -46,3 +45,4 @@
 - [x] translate footer warning
 - [x] translate tutorials
 - [x] translate bankers
+- [x] translate team
