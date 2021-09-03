@@ -14,7 +14,6 @@
 - [ ] translate cryptocurrency basics
 - [ ] translate exchange
 - [ ] translate cards
-- [ ] translate bankers
 - [ ] translate start saving
 - [ ] translate become a banker
 - [ ] translate limit news
@@ -46,3 +45,4 @@
 - [x] translate footer social
 - [x] translate footer warning
 - [x] translate tutorials
+- [x] translate bankers
