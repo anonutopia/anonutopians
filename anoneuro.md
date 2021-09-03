@@ -11,7 +11,6 @@
 - [ ] translate FAQ
 - [ ] translate contact
 - [ ] translate team
-- [ ] translate tutorials
 - [ ] translate cryptocurrency basics
 - [ ] translate exchange
 - [ ] translate cards
@@ -46,3 +45,4 @@
 - [x] translate footer link
 - [x] translate footer social
 - [x] translate footer warning
+- [x] translate tutorials
