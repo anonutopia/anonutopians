@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] translate footer warning
 - [ ] translate home
 - [ ] translate about
 - [ ] translate news
@@ -46,3 +45,4 @@
 - [x] update wallet link
 - [x] translate footer link
 - [x] translate footer social
+- [x] translate footer warning
