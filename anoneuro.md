@@ -4,11 +4,11 @@
 
 #### TODO - MVP
 
+- [ ] translate transparency
 - [ ] translate cryptocurrency basics
 - [ ] translate home
 - [ ] translate about
 - [ ] translate news
-- [ ] translate transparency
 - [ ] translate FAQ
 - [ ] translate exchange
 - [ ] translate cards
