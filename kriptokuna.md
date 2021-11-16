@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] todo
+- [ ] monitor infrastructure
 
 #### TODO - BACKLOG
 
