@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] monitor infrastructure
+- [ ] test
 
 #### TODO - BACKLOG
 
