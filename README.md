@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] new workstation - setup go
 - [ ] send press release
 - [ ] kickstart Kriptokuna
 - [ ] kickstart Anote
@@ -76,3 +77,4 @@
 - [x] check all crypto addresses (remove spent ones)
 - [x] check DMARC report
 - [x] start AnonTaxi Token crowdsale
+- [x] new workstation - setup git
