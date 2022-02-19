@@ -4,19 +4,24 @@
 
 #### TODO - MVP
 
-- [ ] monitor infrastructure
-- [ ] test
+- [ ] monitor fee sponsorship
+- [ ] monitor AINT crowdfunding offers
+- [ ] savings options
+- [ ] fix HNB issue and secure it
+- [ ] fix "airdrop" issue and secure it
+- [ ] delete wallet from device
+- [ ] add AINT earnings
+- [ ] button exchange (remove address)
+- [ ] register with telegram
+- [ ] update website
+- [ ] anoneuro
+- [ ] change server
+- [ ] manual transaction processing
 
 #### TODO - BACKLOG
 
-- [ ] website - bankers plan
-- [ ] website - funnels / homepage
-- [ ] automatic USD to HRK
 - [ ] purchase with btc
 - [ ] purchase with eth
-- [ ] over limit - send back
-- [ ] initial distribution
-- [ ] telegram bot
 - [ ] include AINT in payouts
 - [ ] check all manual processes
 - [ ] website - blokirani
