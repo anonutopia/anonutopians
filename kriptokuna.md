@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] total sum - use exclude
 - [ ] monitor fee sponsorship
 - [ ] monitor AINT crowdfunding offers
 - [ ] savings options
