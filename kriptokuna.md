@@ -4,6 +4,8 @@
 
 #### TODO - MVP
 
+- [ ] monitor AHRK balance on AINT address
+- [ ] monitor AHRK balance on AHRK address
 - [ ] total sum - use exclude
 - [ ] transaction history link
 - [ ] monitor fee sponsorship
