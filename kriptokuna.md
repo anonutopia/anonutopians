@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] total sum - use exclude
+- [ ] transaction history link
 - [ ] monitor fee sponsorship
 - [ ] monitor AINT crowdfunding offers
 - [ ] savings options
