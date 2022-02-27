@@ -12,7 +12,6 @@
 - [ ] monitor AINT crowdfunding offers
 - [ ] savings options
 - [ ] fix HNB issue and secure it
-- [ ] fix "airdrop" issue and secure it
 - [ ] delete wallet from device
 - [ ] add AINT earnings
 - [ ] button exchange (remove address)
@@ -21,6 +20,7 @@
 - [ ] anoneuro
 - [ ] change server
 - [ ] manual transaction processing
+- [ ] fix "airdrop" issue and secure it
 
 #### TODO - BACKLOG
 
