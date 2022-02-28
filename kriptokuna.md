@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] setup mining node
 - [ ] monitor AHRK balance on AINT address
 - [ ] monitor AHRK balance on AHRK address
 - [ ] total sum - use exclude
