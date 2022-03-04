@@ -14,7 +14,6 @@
 - [ ] fix HNB issue and secure it
 - [ ] delete wallet from device
 - [ ] button exchange (remove address)
-- [ ] register with telegram
 - [ ] update website
 - [ ] anoneuro
 - [ ] change server
@@ -22,6 +21,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] register with telegram
 - [ ] purchase with btc
 - [ ] purchase with eth
 - [ ] include AINT in payouts
