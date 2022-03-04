@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] monitor AHRK balance on AINT address
-- [ ] monitor AHRK balance on AHRK address
+- [ ] monitor - AHRK balance on AINT address
+- [ ] monitor - AHRK balance on AHRK address
+- [ ] monitor - fee sponsorship
+- [ ] monitor - AINT crowdfunding offers
 - [ ] total sum - use exclude
 - [ ] transaction history link
-- [ ] monitor fee sponsorship
-- [ ] monitor AINT crowdfunding offers
 - [ ] savings options
 - [ ] fix HNB issue and secure it
 - [ ] delete wallet from device
