@@ -13,7 +13,6 @@
 - [ ] savings options
 - [ ] fix HNB issue and secure it
 - [ ] delete wallet from device
-- [ ] add AINT earnings
 - [ ] button exchange (remove address)
 - [ ] register with telegram
 - [ ] update website
