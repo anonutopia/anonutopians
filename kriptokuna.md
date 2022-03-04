@@ -20,7 +20,6 @@
 - [ ] anoneuro
 - [ ] change server
 - [ ] manual transaction processing
-- [ ] fix "airdrop" issue and secure it
 
 #### TODO - BACKLOG
 
@@ -124,3 +123,4 @@
 - [x] AINT earnings in AHRK
 - [x] HNB prices bugfix
 - [x] setup mining node
+- [x] fix "airdrop" issue and secure it
