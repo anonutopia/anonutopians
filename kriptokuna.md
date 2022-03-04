@@ -15,12 +15,12 @@
 - [ ] delete wallet from device
 - [ ] button exchange (remove address)
 - [ ] update website
-- [ ] anoneuro
-- [ ] change server
-- [ ] manual transaction processing
 
 #### TODO - BACKLOG
 
+- [ ] anoneuro
+- [ ] change server
+- [ ] manual transaction processing
 - [ ] register with telegram
 - [ ] purchase with btc
 - [ ] purchase with eth
