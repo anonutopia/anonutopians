@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] setup mining node
 - [ ] monitor AHRK balance on AINT address
 - [ ] monitor AHRK balance on AHRK address
 - [ ] total sum - use exclude
@@ -124,3 +123,4 @@
 - [x] website - telegram link (contact)
 - [x] AINT earnings in AHRK
 - [x] HNB prices bugfix
+- [x] setup mining node
