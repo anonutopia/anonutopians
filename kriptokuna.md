@@ -8,12 +8,12 @@
 - [ ] monitor - AHRK balance on AHRK address
 - [ ] monitor - fee sponsorship
 - [ ] monitor - AINT crowdfunding offers
-- [ ] total sum - use exclude
 - [ ] transaction history link
-- [ ] savings options
-- [ ] fix HNB issue and secure it
 - [ ] delete wallet from device
+- [ ] total sum - use exclude
+- [ ] fix HNB issue and secure it
 - [ ] button exchange (remove address)
+- [ ] savings options
 - [ ] update website
 
 #### TODO - BACKLOG
