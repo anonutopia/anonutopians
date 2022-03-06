@@ -6,7 +6,6 @@
 
 - [ ] monitor - AHRK balance on AHRK address
 - [ ] monitor - AHRK balance on AINT address
-- [ ] monitor - fee sponsorship
 - [ ] monitor - AINT crowdfunding offers
 - [ ] transaction history link
 - [ ] delete wallet from device
@@ -123,3 +122,4 @@
 - [x] HNB prices bugfix
 - [x] setup mining node
 - [x] fix "airdrop" issue and secure it
+- [x] monitor - fee sponsorship
