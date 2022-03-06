@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] total sum - exclude
 - [ ] monitor - AINT crowdfunding offers
 - [ ] transaction history link
 - [ ] delete wallet from device
@@ -123,3 +122,4 @@
 - [x] monitor - fee sponsorship
 - [x] monitor - AHRK balance on AHRK address
 - [x] monitor - AHRK balance on AINT address
+- [x] total sum - exclude
