@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] delete wallet from device
 - [ ] exchange with button (remove address)
 - [ ] update website
 
@@ -123,3 +122,4 @@
 - [x] total sum - exclude
 - [x] monitor - AINT crowdfunding offers
 - [x] transaction history link
+- [x] delete wallet from device
