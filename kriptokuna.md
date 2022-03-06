@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] monitor - AINT crowdfunding offers
 - [ ] transaction history link
 - [ ] delete wallet from device
 - [ ] fix HNB issue and secure it
@@ -123,3 +122,4 @@
 - [x] monitor - AHRK balance on AHRK address
 - [x] monitor - AHRK balance on AINT address
 - [x] total sum - exclude
+- [x] monitor - AINT crowdfunding offers
