@@ -20,8 +20,7 @@
 - [ ] include AINT in payouts
 - [ ] check all manual processes
 - [ ] website - blokirani
-- [ ] interest automatic process
-- [ ] mass transfer payouts
+- [ ] mass transfer payouts?
 - [ ] faq - more questions
 
 #### DONE
