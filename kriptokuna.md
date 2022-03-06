@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] monitor - AHRK balance on AHRK address
 - [ ] monitor - AHRK balance on AINT address
 - [ ] monitor - AINT crowdfunding offers
 - [ ] transaction history link
@@ -123,3 +122,4 @@
 - [x] setup mining node
 - [x] fix "airdrop" issue and secure it
 - [x] monitor - fee sponsorship
+- [x] monitor - AHRK balance on AHRK address
