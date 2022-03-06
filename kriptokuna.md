@@ -10,9 +10,9 @@
 
 #### TODO - BACKLOG
 
+- [ ] anoneuro
 - [ ] savings options
 - [ ] fix HNB issue and secure it
-- [ ] anoneuro
 - [ ] change server
 - [ ] manual transaction processing
 - [ ] register with telegram
