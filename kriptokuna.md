@@ -4,8 +4,8 @@
 
 #### TODO - MVP
 
-- [ ] monitor - AHRK balance on AINT address
 - [ ] monitor - AHRK balance on AHRK address
+- [ ] monitor - AHRK balance on AINT address
 - [ ] monitor - fee sponsorship
 - [ ] monitor - AINT crowdfunding offers
 - [ ] transaction history link
