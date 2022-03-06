@@ -6,13 +6,13 @@
 
 - [ ] transaction history link
 - [ ] delete wallet from device
-- [ ] fix HNB issue and secure it
 - [ ] button exchange (remove address)
 - [ ] savings options
 - [ ] update website
 
 #### TODO - BACKLOG
 
+- [ ] fix HNB issue and secure it
 - [ ] anoneuro
 - [ ] change server
 - [ ] manual transaction processing
