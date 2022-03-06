@@ -7,11 +7,11 @@
 - [ ] transaction history link
 - [ ] delete wallet from device
 - [ ] exchange with button (remove address)
-- [ ] savings options
 - [ ] update website
 
 #### TODO - BACKLOG
 
+- [ ] savings options
 - [ ] fix HNB issue and secure it
 - [ ] anoneuro
 - [ ] change server
