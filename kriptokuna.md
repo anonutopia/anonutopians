@@ -5,10 +5,10 @@
 #### TODO - MVP
 
 - [ ] monitor - AHRK balance on AINT address
+- [ ] total sum - exclude
 - [ ] monitor - AINT crowdfunding offers
 - [ ] transaction history link
 - [ ] delete wallet from device
-- [ ] total sum - use exclude
 - [ ] fix HNB issue and secure it
 - [ ] button exchange (remove address)
 - [ ] savings options
