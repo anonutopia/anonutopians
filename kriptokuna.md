@@ -6,7 +6,7 @@
 
 - [ ] transaction history link
 - [ ] delete wallet from device
-- [ ] button exchange (remove address)
+- [ ] exchange with button (remove address)
 - [ ] savings options
 - [ ] update website
 
