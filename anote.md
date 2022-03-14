@@ -4,13 +4,18 @@
 
 #### TODO - v1.0.0
 
+- [ ] todo
+
+#### TODO - BACKLOG
+
+- [ ] todo
+
+#### TODO - BACKLOG OLD
+
 - [ ] show real aint price
 - [ ] force private commands
 - [ ] check math strictly
 - [ ] test everything
-
-#### TODO - BACKLOG
-
 - [ ] mass withdrawals
 - [ ] clean old addresses
 - [ ] IP logger
