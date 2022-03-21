@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] exchange with button (remove address)
 - [ ] update website
 
 #### TODO - BACKLOG
@@ -122,3 +121,4 @@
 - [x] monitor - AINT crowdfunding offers
 - [x] transaction history link
 - [x] delete wallet from device
+- [x] exchange with button (remove address)
