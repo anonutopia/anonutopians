@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] exchange calculator
 - [ ] update website
 
 #### TODO - BACKLOG
