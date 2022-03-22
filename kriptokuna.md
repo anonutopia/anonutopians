@@ -4,12 +4,12 @@
 
 #### TODO - MVP
 
-- [ ] exchange calculator
 - [ ] update website
 
 #### TODO - BACKLOG
 
 - [ ] anoneuro
+- [ ] exchange calculator
 - [ ] savings options
 - [ ] fix HNB issue and secure it
 - [ ] change server
