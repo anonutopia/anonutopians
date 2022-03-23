@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] deploy wallet
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
 - [ ] translate home
