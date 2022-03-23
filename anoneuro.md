@@ -46,3 +46,4 @@
 - [x] translate bankers
 - [x] translate team
 - [x] translate contact
+- [x] create token
