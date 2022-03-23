@@ -4,7 +4,7 @@
 
 #### TODO - MVP
 
-- [ ] update website
+- [ ] todo
 
 #### TODO - BACKLOG
 
@@ -123,3 +123,4 @@
 - [x] transaction history link
 - [x] delete wallet from device
 - [x] exchange with button (remove address)
+- [x] update website
