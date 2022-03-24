@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] setup wallet and token
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
 - [ ] translate home
@@ -15,7 +16,6 @@
 - [ ] translate start saving
 - [ ] translate become a banker
 - [ ] translate limit news
-- [ ] setup wallet
 
 #### TODO - BACKLOG
 
