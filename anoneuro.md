@@ -5,6 +5,7 @@
 #### TODO - MVP
 
 - [ ] setup wallet and token
+- [ ] setup server side
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
 - [ ] translate home
