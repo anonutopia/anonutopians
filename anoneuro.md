@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] create telegram bot
 - [ ] dev server side
 - [ ] setup wallet and token
 - [ ] translate transparency
