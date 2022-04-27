@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] setup node address
 - [ ] setup wallet and token
 - [ ] setup server side
 - [ ] translate transparency
