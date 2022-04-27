@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] setup server side
 - [ ] dev server side
 - [ ] setup wallet and token
 - [ ] translate transparency
@@ -52,3 +51,4 @@
 - [x] deploy wallet
 - [x] new branch
 - [x] setup node address
+- [x] setup server side
