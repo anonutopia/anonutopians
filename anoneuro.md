@@ -5,7 +5,7 @@
 #### TODO - MVP
 
 - [ ] dev server side
-- [ ] setup wallet and token
+- [ ] setup wallet
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
 - [ ] translate home
@@ -53,3 +53,4 @@
 - [x] setup node address
 - [x] setup server side
 - [x] create telegram bot
+- [x] setup token
