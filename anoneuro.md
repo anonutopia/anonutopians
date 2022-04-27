@@ -49,3 +49,4 @@
 - [x] translate contact
 - [x] create token
 - [x] deploy wallet
+- [x] new branch
