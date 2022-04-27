@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] create telegram bot
 - [ ] dev server side
 - [ ] setup wallet and token
 - [ ] translate transparency
@@ -53,3 +52,4 @@
 - [x] new branch
 - [x] setup node address
 - [x] setup server side
+- [x] create telegram bot
