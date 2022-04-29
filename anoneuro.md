@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] set sponsored fee for euro
 - [ ] dev server side
 - [ ] setup wallet
 - [ ] translate transparency
