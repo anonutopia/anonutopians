@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] set sponsored fee for euro
 - [ ] dev server side
 - [ ] setup wallet
 - [ ] translate transparency
@@ -55,3 +54,4 @@
 - [x] setup server side
 - [x] create telegram bot
 - [x] setup token
+- [x] set sponsored fee for euro
