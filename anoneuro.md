@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] dev server side
 - [ ] setup wallet
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
@@ -55,3 +54,4 @@
 - [x] create telegram bot
 - [x] setup token
 - [x] set sponsored fee for euro
+- [x] dev server side
