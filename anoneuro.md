@@ -7,6 +7,7 @@
 - [ ] wallet - change logo
 - [ ] wallet - check all translations
 - [ ] wallet - update fees
+- [ ] wallet - change help link
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
 - [ ] translate home
