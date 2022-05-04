@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] home - fix limits
 - [ ] setup wallet
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
