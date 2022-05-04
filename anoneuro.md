@@ -4,7 +4,9 @@
 
 #### TODO - MVP
 
-- [ ] setup wallet
+- [ ] wallet - change logo
+- [ ] wallet - check all translations
+- [ ] wallet - check all translations
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
 - [ ] translate home
