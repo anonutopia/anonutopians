@@ -4,6 +4,7 @@
 
 #### TODO - MVP
 
+- [ ] fix calculator defaults
 - [ ] home - fix limits
 - [ ] setup wallet
 - [ ] translate transparency
