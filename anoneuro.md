@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] home - fix limits
 - [ ] setup wallet
 - [ ] translate transparency
 - [ ] translate cryptocurrency basics
@@ -57,3 +56,4 @@
 - [x] set sponsored fee for euro
 - [x] dev server side
 - [x] fix calculator defaults
+- [x] home - fix limits
