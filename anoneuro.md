@@ -4,7 +4,6 @@
 
 #### TODO - MVP
 
-- [ ] fix calculator defaults
 - [ ] home - fix limits
 - [ ] setup wallet
 - [ ] translate transparency
@@ -57,3 +56,4 @@
 - [x] setup token
 - [x] set sponsored fee for euro
 - [x] dev server side
+- [x] fix calculator defaults
