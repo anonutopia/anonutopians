@@ -4,7 +4,10 @@
 
 #### TODO - v1.0.0
 
-- [ ] todo
+- [ ] wallet - fix button popups
+- [ ] wallet - fix send
+- [ ] wallet - settings 
+- [ ] community address
 
 #### TODO - BACKLOG
 
