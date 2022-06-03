@@ -4,7 +4,8 @@
 
 #### TODO - v1.0.0
 
-- [ ] wallet - settings 
+- [ ] wallet - settings
+- [ ] wallet - lease
 - [ ] community address
 
 #### TODO - BACKLOG
