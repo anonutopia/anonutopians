@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] wallet - fix button popups
 - [ ] wallet - fix send
 - [ ] wallet - settings 
 - [ ] community address
@@ -15,4 +14,4 @@
 
 #### DONE
 
-- [x] done
+- [x] wallet - fix button popups
