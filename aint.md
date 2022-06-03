@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] wallet - settings
 - [ ] wallet - lease
 - [ ] community address
 
@@ -16,3 +15,4 @@
 
 - [x] wallet - fix button popups
 - [x] wallet - fix send
+- [x] wallet - settings
