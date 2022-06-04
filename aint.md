@@ -16,6 +16,7 @@
 
 - [ ] wallet - multiple accounts
 - [ ] wallet - dark mode
+- [ ] wallet - send max on button
 
 #### DONE
 
