@@ -8,6 +8,8 @@
 - [ ] wallet - multiple accounts
 - [ ] community address
 - [ ] start aint.wiki
+- [ ] node - send to community address
+- [ ] node - send to node owner
 
 #### TODO - BACKLOG
 
