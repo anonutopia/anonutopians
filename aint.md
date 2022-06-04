@@ -15,6 +15,7 @@
 #### TODO - BACKLOG
 
 - [ ] wallet - multiple accounts
+- [ ] wallet - dark mode
 
 #### DONE
 
