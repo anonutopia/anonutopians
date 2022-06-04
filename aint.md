@@ -7,6 +7,7 @@
 - [ ] wallet - lease
 - [ ] wallet - multiple accounts
 - [ ] community address
+- [ ] lease address
 - [ ] start aint.wiki
 - [ ] node - send to lease address
 - [ ] node - send to community address
