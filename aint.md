@@ -7,6 +7,7 @@
 - [ ] wallet - lease
 - [ ] wallet - multiple accounts
 - [ ] community address
+- [ ] start aint.wiki
 
 #### TODO - BACKLOG
 
