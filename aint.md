@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] wallet - link to live
 - [ ] wallet - lease
 - [ ] community address
 
