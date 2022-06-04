@@ -5,6 +5,7 @@
 #### TODO - v1.0.0
 
 - [ ] wallet - lease
+- [ ] wallet - multiple accounts
 - [ ] community address
 
 #### TODO - BACKLOG
