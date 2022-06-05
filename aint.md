@@ -15,6 +15,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] add load balancer for nodes
+- [ ] include other nodes in rest
 - [ ] wallet - multiple accounts
 - [ ] wallet - dark mode
 - [ ] wallet - send max on button
