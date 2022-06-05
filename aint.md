@@ -10,6 +10,8 @@
 - [ ] node - send to community address
 - [ ] node - send to node owner
 - [ ] node - docker image
+- [ ] mobile mining
+- [ ] desktop mining
 
 #### TODO - BACKLOG
 
