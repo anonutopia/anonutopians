@@ -5,8 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] wallet - lease
-- [ ] community address
-- [ ] lease address
 - [ ] start aint.wiki
 - [ ] node - send to lease address
 - [ ] node - send to community address
@@ -24,3 +22,5 @@
 - [x] wallet - fix send
 - [x] wallet - settings
 - [x] wallet - link to live
+- [x] community address
+- [x] lease address
