@@ -12,6 +12,7 @@
 - [ ] node - docker image
 - [ ] mobile mining
 - [ ] desktop mining
+- [ ] secure the network
 
 #### TODO - BACKLOG
 
