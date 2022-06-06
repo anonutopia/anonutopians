@@ -13,6 +13,7 @@
 - [ ] mobile mining
 - [ ] desktop mining
 - [ ] secure the network
+- [ ] telegram verification
 
 #### TODO - BACKLOG
 
