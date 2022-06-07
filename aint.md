@@ -4,6 +4,8 @@
 
 #### TODO - v1.0.0
 
+- [ ] node - setup
+- [ ] node - update script
 - [ ] wallet - lease
 - [ ] start aint.wiki
 - [ ] node - docker image
