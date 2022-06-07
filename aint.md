@@ -17,6 +17,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] desktop wallet 
 - [ ] add load balancer for nodes
 - [ ] include other nodes in rest
 - [ ] wallet - multiple accounts
