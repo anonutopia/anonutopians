@@ -6,8 +6,6 @@
 
 - [ ] wallet - lease
 - [ ] start aint.wiki
-- [ ] node - send to lease address
-- [ ] node - send to community address
 - [ ] node - docker image
 - [ ] mobile mining
 - [ ] desktop mining
@@ -31,3 +29,4 @@
 - [x] wallet - link to live
 - [x] community address
 - [x] lease address
+- [x] node - send to community address
