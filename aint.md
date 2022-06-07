@@ -4,7 +4,7 @@
 
 #### TODO - v1.0.0
 
-- [ ] node - setup
+- [ ] node - setup supervisor
 - [ ] node - update script
 - [ ] wallet - lease
 - [ ] start aint.wiki
