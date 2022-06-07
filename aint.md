@@ -8,7 +8,6 @@
 - [ ] start aint.wiki
 - [ ] node - send to lease address
 - [ ] node - send to community address
-- [ ] node - send to node owner
 - [ ] node - docker image
 - [ ] mobile mining
 - [ ] desktop mining
