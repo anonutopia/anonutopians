@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] explorer - fix mobile logo
 - [ ] node - setup supervisor
 - [ ] node - update script
 - [ ] wallet - lease
@@ -253,3 +252,4 @@
 - [x] node - send to community address
 - [x] wallet - rebranding
 - [x] explorer - rebranding
+- [x] explorer - fix mobile logo
