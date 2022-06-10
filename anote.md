@@ -11,7 +11,8 @@
 - [ ] node - docker image
 - [ ] mobile mining
 - [ ] desktop mining
-- [ ] secure the network
+- [ ] secure the nodes
+- [ ] monitor nodes
 - [ ] telegram bot verification
 
 #### TODO - BACKLOG
