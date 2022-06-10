@@ -4,6 +4,8 @@
 
 #### TODO - v1.0.0
 
+- [ ] wallet - rebranding
+- [ ] explorer - rebranding
 - [ ] node - setup supervisor
 - [ ] node - update script
 - [ ] wallet - lease
