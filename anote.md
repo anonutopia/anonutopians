@@ -9,6 +9,7 @@
 - [ ] node - update script
 - [ ] wallet - lease
 - [ ] start anote.wiki
+- [ ] anote.pro tool
 - [ ] node - docker image
 - [ ] mobile mining
 - [ ] desktop mining
