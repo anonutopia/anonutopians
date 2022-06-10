@@ -4,7 +4,7 @@
 
 #### TODO - v1.0.0
 
-- [ ] node - fix issue with sending
+- [ ] node - fix issue with sending reward
 - [ ] node - setup supervisor
 - [ ] node - update script
 - [ ] wallet - lease
