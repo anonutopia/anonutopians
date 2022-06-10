@@ -256,3 +256,4 @@
 - [x] wallet - rebranding
 - [x] explorer - rebranding
 - [x] explorer - fix mobile logo
+- [x] node - fix connect issue
