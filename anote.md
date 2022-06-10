@@ -4,11 +4,24 @@
 
 #### TODO - v1.0.0
 
-- [ ] todo
+- [ ] node - setup supervisor
+- [ ] node - update script
+- [ ] wallet - lease
+- [ ] start aint.wiki
+- [ ] node - docker image
+- [ ] mobile mining
+- [ ] desktop mining
+- [ ] secure the network
+- [ ] telegram bot verification
 
 #### TODO - BACKLOG
 
-- [ ] todo
+- [ ] desktop wallet 
+- [ ] add load balancer for nodes
+- [ ] include other nodes in rest
+- [ ] wallet - multiple accounts
+- [ ] wallet - dark mode
+- [ ] wallet - send max on button
 
 #### TODO - BACKLOG OLD
 
@@ -230,3 +243,10 @@
 - [x] autopostgresqlbackup
 - [x] clean creating user
 - [x] check referral system
+- [x] wallet - fix button popups
+- [x] wallet - fix send
+- [x] wallet - settings
+- [x] wallet - link to live
+- [x] community address
+- [x] lease address
+- [x] node - send to community address
