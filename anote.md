@@ -8,7 +8,7 @@
 - [ ] node - setup supervisor
 - [ ] node - update script
 - [ ] wallet - lease
-- [ ] start aint.wiki
+- [ ] start anote.wiki
 - [ ] node - docker image
 - [ ] mobile mining
 - [ ] desktop mining
