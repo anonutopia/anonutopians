@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] explorer - fix mobile logo
 - [ ] node - setup supervisor
 - [ ] node - update script
 - [ ] wallet - lease
