@@ -5,7 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] node - fix issue with sending reward
-- [ ] node - setup supervisor
 - [ ] node - update script
 - [ ] wallet - lease
 - [ ] start anote.wiki
@@ -257,3 +256,4 @@
 - [x] explorer - rebranding
 - [x] explorer - fix mobile logo
 - [x] node - fix connect issue
+- [x] node - setup supervisor
