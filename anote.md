@@ -5,7 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] node - fix issue with sending reward
-- [ ] node - update script
 - [ ] wallet - lease
 - [ ] start anote.wiki
 - [ ] anote.pro tool
