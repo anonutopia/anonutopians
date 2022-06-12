@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] read percentage from the network
 - [ ] node - fix issue with sending reward
 - [ ] wallet - lease
 - [ ] start anote.wiki
