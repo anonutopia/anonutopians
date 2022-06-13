@@ -7,13 +7,13 @@
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
 - [ ] start anote.wiki
-- [ ] anote.pro tool
 - [ ] mobile mining
 - [ ] monitor nodes
 - [ ] telegram bot verification
 
 #### TODO - BACKLOG
 
+- [ ] anote.pro tool
 - [ ] secure the nodes
 - [ ] node - docker image
 - [ ] desktop mining
