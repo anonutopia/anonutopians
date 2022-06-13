@@ -10,6 +10,7 @@
 - [ ] mobile mining
 - [ ] monitor nodes / leases
 - [ ] telegram bot verification
+- [ ] include AINT in mining
 
 #### TODO - BACKLOG
 
