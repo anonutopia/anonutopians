@@ -10,12 +10,12 @@
 - [ ] start anote.wiki
 - [ ] anote.pro tool
 - [ ] mobile mining
-- [ ] secure the nodes
 - [ ] monitor nodes
 - [ ] telegram bot verification
 
 #### TODO - BACKLOG
 
+- [ ] secure the nodes
 - [ ] node - docker image
 - [ ] desktop mining
 - [ ] desktop wallet 
