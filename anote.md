@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] node - install
 - [ ] read percentage from the network
 - [ ] node - fix issue with sending reward
 - [ ] wallet - lease
@@ -258,3 +257,4 @@
 - [x] explorer - fix mobile logo
 - [x] node - fix connect issue
 - [x] node - setup supervisor
+- [x] node - install
