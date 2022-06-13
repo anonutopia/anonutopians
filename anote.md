@@ -7,13 +7,13 @@
 - [ ] update nodes.aint.digital
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
-- [ ] mobile mining
 - [ ] monitor nodes / leases
 - [ ] telegram bot verification
 - [ ] include AINT in mining
 
 #### TODO - BACKLOG
 
+- [ ] mobile mining
 - [ ] start anote.wiki
 - [ ] anote.pro tool
 - [ ] secure the nodes
