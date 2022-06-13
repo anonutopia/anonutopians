@@ -11,13 +11,13 @@
 - [ ] anote.pro tool
 - [ ] node - docker image
 - [ ] mobile mining
-- [ ] desktop mining
 - [ ] secure the nodes
 - [ ] monitor nodes
 - [ ] telegram bot verification
 
 #### TODO - BACKLOG
 
+- [ ] desktop mining
 - [ ] desktop wallet 
 - [ ] add load balancer for nodes
 - [ ] include other nodes in rest
