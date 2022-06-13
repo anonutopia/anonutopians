@@ -9,7 +9,6 @@
 - [ ] wallet - lease and stake
 - [ ] start anote.wiki
 - [ ] anote.pro tool
-- [ ] node - docker image
 - [ ] mobile mining
 - [ ] secure the nodes
 - [ ] monitor nodes
@@ -17,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] node - docker image
 - [ ] desktop mining
 - [ ] desktop wallet 
 - [ ] add load balancer for nodes
