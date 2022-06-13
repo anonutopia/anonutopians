@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] update nodes.aint.digital
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
 - [ ] mobile mining
