@@ -6,7 +6,7 @@
 
 - [ ] read percentage from the network
 - [ ] automatic lease to new nodes
-- [ ] wallet - lease
+- [ ] wallet - lease and stake
 - [ ] start anote.wiki
 - [ ] anote.pro tool
 - [ ] node - docker image
