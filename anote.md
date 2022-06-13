@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] fix node - send reward
 - [ ] update nodes.aint.digital
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
@@ -263,3 +262,4 @@
 - [x] node - new payment model
 - [x] read percentage from the network
 - [x] add first root nodes
+- [x] fix node - send reward
