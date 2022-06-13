@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] add first root nodes
 - [ ] read percentage from the network
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
