@@ -264,3 +264,4 @@
 - [x] add first root nodes
 - [x] fix node - send reward
 - [x] check node installation
+- [x] change number of confirmations needed
