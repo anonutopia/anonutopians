@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] check node installation
 - [ ] update nodes.aint.digital
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
@@ -264,3 +263,4 @@
 - [x] read percentage from the network
 - [x] add first root nodes
 - [x] fix node - send reward
+- [x] check node installation
