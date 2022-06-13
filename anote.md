@@ -6,6 +6,7 @@
 
 - [ ] read percentage from the network
 - [ ] node - fix issue with sending reward
+- [ ] automatic lease to new nodes
 - [ ] wallet - lease
 - [ ] start anote.wiki
 - [ ] anote.pro tool
