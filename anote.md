@@ -7,7 +7,7 @@
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
 - [ ] mobile mining
-- [ ] monitor nodes
+- [ ] monitor nodes / leases
 - [ ] telegram bot verification
 
 #### TODO - BACKLOG
