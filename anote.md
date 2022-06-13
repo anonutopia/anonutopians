@@ -5,7 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] read percentage from the network
-- [ ] node - new payment model
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease
 - [ ] start anote.wiki
@@ -260,3 +259,4 @@
 - [x] node - setup supervisor
 - [x] node - install
 - [x] node - fix issue with sending reward
+- [x] node - new payment model
