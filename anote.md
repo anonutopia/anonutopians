@@ -5,7 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] read percentage from the network
-- [ ] node - fix issue with sending reward
 - [ ] node - new payment model
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease
@@ -260,3 +259,4 @@
 - [x] node - fix connect issue
 - [x] node - setup supervisor
 - [x] node - install
+- [x] node - fix issue with sending reward
