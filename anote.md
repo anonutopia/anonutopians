@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] update nodes.aint.digital
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
 - [ ] monitor nodes / leases
@@ -13,6 +12,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] update nodes.aint.digital
 - [ ] mobile mining
 - [ ] start anote.wiki
 - [ ] anote.pro tool
