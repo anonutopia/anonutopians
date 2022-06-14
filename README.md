@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] prepare neutrino node
 - [ ] kickstart Kriptokuna
 - [ ] kickstart Anote
 - [ ] kickstart Anonutopia
