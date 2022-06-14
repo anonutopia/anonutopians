@@ -9,6 +9,7 @@
 - [ ] monitor nodes / leases
 - [ ] telegram bot verification
 - [ ] include AINT in mining
+- [ ] aint gateway
 
 #### TODO - BACKLOG
 
