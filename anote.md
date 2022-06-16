@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] supervisor anote log
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
 - [ ] monitor nodes / leases
@@ -268,3 +267,4 @@
 - [x] check node installation
 - [x] change number of confirmations needed
 - [x] aint gateway
+- [x] supervisor anote log
