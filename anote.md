@@ -10,7 +10,6 @@
 - [ ] monitor nodes / leases
 - [ ] telegram bot verification
 - [ ] include AINT in mining
-- [ ] aint gateway
 
 #### TODO - BACKLOG
 
@@ -268,3 +267,4 @@
 - [x] fix node - send reward
 - [x] check node installation
 - [x] change number of confirmations needed
+- [x] aint gateway
