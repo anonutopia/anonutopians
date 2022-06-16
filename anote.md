@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] gateway - old holders
 - [ ] gateway - put done in memory
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
@@ -14,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] gateway - old holders
 - [ ] update nodes.aint.digital
 - [ ] mobile mining
 - [ ] start anote.wiki
