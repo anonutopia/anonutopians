@@ -12,6 +12,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] send rewards through smart contract
 - [ ] gateway - put done in memory
 - [ ] gateway - old holders
 - [ ] update nodes.aint.digital
