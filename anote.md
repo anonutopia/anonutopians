@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] gateway - put done in memory
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
 - [ ] monitor nodes / leases
@@ -13,6 +12,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] gateway - put done in memory
 - [ ] gateway - old holders
 - [ ] update nodes.aint.digital
 - [ ] mobile mining
