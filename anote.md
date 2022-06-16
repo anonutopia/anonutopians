@@ -5,6 +5,7 @@
 #### TODO - v1.0.0
 
 - [ ] gateway - old holders
+- [ ] gateway - put done in memory
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
 - [ ] monitor nodes / leases
