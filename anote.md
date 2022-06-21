@@ -274,3 +274,4 @@
 - [x] change number of confirmations needed
 - [x] aint gateway
 - [x] supervisor anote log
+- [x] update node and explorer
