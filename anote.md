@@ -15,6 +15,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] install - don't start waves node
 - [ ] send rewards through smart contract
 - [ ] gateway - put done in memory
 - [ ] gateway - old holders
