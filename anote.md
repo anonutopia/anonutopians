@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] rewards distribution smart contract
 - [ ] fix situation with anonfunder
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
@@ -277,3 +276,4 @@
 - [x] supervisor anote log
 - [x] update node and explorer
 - [x] update waves node
+- [x] rewards distribution smart contract
