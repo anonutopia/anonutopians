@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] update waves node
 - [ ] rewards distribution smart contract
 - [ ] fix situation with anonfunder
 - [ ] automatic lease to new nodes
@@ -276,3 +275,4 @@
 - [x] aint gateway
 - [x] supervisor anote log
 - [x] update node and explorer
+- [x] update waves node
