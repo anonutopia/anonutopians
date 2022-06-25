@@ -4,8 +4,10 @@
 
 #### TODO - v1.0.0
 
-- [ ] monitor nodes / leases
-- [ ] automatic lease to new nodes
+- [ ] monitor - master ping
+- [ ] monitor - lease
+- [ ] monitor - slave ping
+- [ ] monitor - check slaves
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
 - [ ] include AINT in mining
