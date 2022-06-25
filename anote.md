@@ -6,6 +6,7 @@
 
 - [ ] monitor - master ping
 - [ ] monitor - slave ping
+- [ ] monitor - slave health check
 - [ ] monitor - lease
 - [ ] monitor - check slaves
 - [ ] wallet - lease and stake
