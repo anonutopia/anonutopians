@@ -5,8 +5,8 @@
 #### TODO - v1.0.0
 
 - [ ] monitor - master ping
-- [ ] monitor - lease
 - [ ] monitor - slave ping
+- [ ] monitor - lease
 - [ ] monitor - check slaves
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
