@@ -4,9 +4,9 @@
 
 #### TODO - v1.0.0
 
+- [ ] monitor nodes / leases
 - [ ] automatic lease to new nodes
 - [ ] wallet - lease and stake
-- [ ] monitor nodes / leases
 - [ ] telegram bot verification
 - [ ] include AINT in mining
 - [ ] gateway - AINT
