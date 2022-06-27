@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] monitor - node ping
 - [ ] monitor - master check nodes
 - [ ] monitor - node health check
 - [ ] wallet - lease and stake
@@ -95,3 +94,4 @@
 - [x] rewards distribution smart contract
 - [x] monitor - master ping
 - [x] monitor - master lease
+- [x] monitor - node ping
