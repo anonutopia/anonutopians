@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] node update
 - [ ] monitor - master check nodes
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
@@ -14,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] node update
 - [ ] monitor - node health check
 - [ ] install - don't start waves node
 - [ ] send rewards through smart contract
