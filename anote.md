@@ -5,10 +5,10 @@
 #### TODO - v1.0.0
 
 - [ ] monitor - master ping
+- [ ] monitor - master lease
+- [ ] monitor - master check slaves
 - [ ] monitor - slave ping
 - [ ] monitor - slave health check
-- [ ] monitor - lease
-- [ ] monitor - check slaves
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
 - [ ] include AINT in mining
