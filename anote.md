@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] monitor - master lease
 - [ ] monitor - master check slaves
 - [ ] monitor - slave ping
 - [ ] monitor - slave health check
@@ -95,3 +94,4 @@
 - [x] update waves node
 - [x] rewards distribution smart contract
 - [x] monitor - master ping
+- [x] monitor - master lease
