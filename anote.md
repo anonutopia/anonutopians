@@ -5,7 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] monitor - master check nodes
-- [ ] monitor - node health check
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
 - [ ] include AINT in mining
@@ -14,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] monitor - node health check
 - [ ] install - don't start waves node
 - [ ] send rewards through smart contract
 - [ ] gateway - put done in memory
