@@ -4,8 +4,8 @@
 
 #### TODO - v1.0.0
 
-- [ ] monitor - master check nodes
 - [ ] monitor - node ping
+- [ ] monitor - master check nodes
 - [ ] monitor - node health check
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
