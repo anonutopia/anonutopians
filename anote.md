@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] secure the node
 - [ ] monitor - master check nodes
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
@@ -96,3 +95,4 @@
 - [x] monitor - master ping
 - [x] monitor - master lease
 - [x] monitor - node ping
+- [x] secure the node
