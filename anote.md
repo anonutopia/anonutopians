@@ -13,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] restore node from seed file
 - [ ] node update
 - [ ] monitor - node health check
 - [ ] install - don't start waves node
