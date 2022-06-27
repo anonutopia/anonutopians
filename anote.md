@@ -17,7 +17,6 @@
 - [ ] node update
 - [ ] monitor - node health check
 - [ ] install - don't start waves node
-- [ ] send rewards through smart contract
 - [ ] gateway - put done in memory
 - [ ] gateway - old holders
 - [ ] update nodes.aint.digital
