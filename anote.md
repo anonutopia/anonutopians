@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] node update
 - [ ] monitor - master check nodes
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
