@@ -13,6 +13,9 @@
 
 #### TODO - BACKLOG
 
+- [ ] mobile mining
+- [ ] start anote.wiki
+- [ ] desktop mining
 - [ ] restore node from seed file
 - [ ] node update
 - [ ] monitor - node health check
@@ -20,12 +23,9 @@
 - [ ] gateway - put done in memory
 - [ ] gateway - old holders
 - [ ] update nodes.aint.digital
-- [ ] mobile mining
-- [ ] start anote.wiki
 - [ ] anote.pro tool
 - [ ] secure the nodes
 - [ ] node - docker image
-- [ ] desktop mining
 - [ ] desktop wallet 
 - [ ] add load balancer for nodes
 - [ ] include other nodes in rest
