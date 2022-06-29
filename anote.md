@@ -97,3 +97,4 @@
 - [x] monitor - master lease
 - [x] monitor - node ping
 - [x] secure the node
+- [x] white paper
