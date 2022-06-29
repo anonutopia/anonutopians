@@ -9,7 +9,7 @@
 - [ ] telegram bot verification
 - [ ] include AINT in mining
 - [ ] gateway - AINT
-- [ ] fix situation with anonfunder
+- [ ] fix situation with anonfunder / kk
 
 #### TODO - BACKLOG
 
