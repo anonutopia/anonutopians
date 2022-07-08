@@ -19,7 +19,6 @@
 - [ ] restore node from seed file
 - [ ] node update
 - [ ] monitor - node health check
-- [ ] install - don't start waves node
 - [ ] gateway - put done in memory
 - [ ] gateway - old holders
 - [ ] update nodes.aint.digital
@@ -98,3 +97,4 @@
 - [x] monitor - node ping
 - [x] secure the node
 - [x] white paper
+- [x] install - don't start waves node
