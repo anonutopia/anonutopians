@@ -10,15 +10,17 @@
 - [ ] include AINT in mining
 - [ ] gateway - AINT
 - [ ] fix situation with anonfunder / kk
+- [ ] start anote.wiki
+
+#### TODO - v1.1.0
+
+- [ ] mobile mining
+- [ ] desktop mining
 
 #### TODO - BACKLOG
 
-- [ ] mobile mining
-- [ ] start anote.wiki
-- [ ] desktop mining
 - [ ] restore node from seed file
 - [ ] node update
-- [ ] monitor - node health check
 - [ ] gateway - put done in memory
 - [ ] gateway - old holders
 - [ ] update nodes.aint.digital
@@ -31,6 +33,7 @@
 - [ ] wallet - multiple accounts
 - [ ] wallet - dark mode
 - [ ] wallet - send max on button
+- [ ] wallet - qr scanner
 
 #### TODO - BACKLOG OLD
 
