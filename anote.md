@@ -4,10 +4,9 @@
 
 #### TODO - v1.0.0
 
+- [ ] include AINT in mining
 - [ ] monitor - master check nodes
 - [ ] wallet - lease and stake
-- [ ] telegram bot verification
-- [ ] include AINT in mining
 - [ ] fix situation with anonfunder / kk
 - [ ] start anote.wiki
 
@@ -18,6 +17,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] telegram bot verification
 - [ ] generator script
 - [ ] restore node from seed file
 - [ ] node update
