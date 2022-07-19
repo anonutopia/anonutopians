@@ -9,7 +9,6 @@
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
 - [ ] include AINT in mining
-- [ ] gateway - AINT
 - [ ] fix situation with anonfunder / kk
 - [ ] start anote.wiki
 
@@ -102,3 +101,4 @@
 - [x] secure the node
 - [x] white paper
 - [x] install - don't start waves node
+- [x] gateway - AINT
