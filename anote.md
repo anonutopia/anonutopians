@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] generator script
 - [ ] monitor - master check nodes
 - [ ] wallet - lease and stake
 - [ ] telegram bot verification
@@ -19,6 +18,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] generator script
 - [ ] restore node from seed file
 - [ ] node update
 - [ ] gateway - put done in memory
