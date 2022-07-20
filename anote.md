@@ -104,3 +104,4 @@
 - [x] gateway - AINT
 - [x] show AINT balance
 - [x] update dependencies
+- [x] fixed login
