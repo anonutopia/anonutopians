@@ -4,10 +4,11 @@
 
 #### TODO - v1.0.0
 
+- [ ] generator script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
-- [ ] fix situation with anonfunder / kk
 - [ ] start anote.wiki
+- [ ] fix situation with anonfunder / kk
 
 #### TODO - v1.1.0
 
@@ -18,7 +19,6 @@
 
 - [ ] monitor - master check nodes
 - [ ] telegram bot verification
-- [ ] generator script
 - [ ] restore node from seed file
 - [ ] node update
 - [ ] gateway - put done in memory
