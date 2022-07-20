@@ -103,3 +103,4 @@
 - [x] install - don't start waves node
 - [x] gateway - AINT
 - [x] show AINT balance
+- [x] update dependencies
