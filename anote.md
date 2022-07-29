@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] init website
 - [ ] basic website
 - [ ] anon redirect
 - [ ] generator script
@@ -109,3 +108,4 @@
 - [x] update dependencies
 - [x] fixed login
 - [x] new wallet domain
+- [x] init website
