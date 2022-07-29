@@ -4,6 +4,8 @@
 
 #### TODO - v1.0.0
 
+- [ ] init website
+- [ ] basic website
 - [ ] generator script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
