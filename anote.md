@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] basic website
 - [ ] anon redirect
 - [ ] generator script
 - [ ] include AINT in mining
@@ -109,3 +108,4 @@
 - [x] fixed login
 - [x] new wallet domain
 - [x] init website
+- [x] basic website
