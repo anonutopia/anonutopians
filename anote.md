@@ -105,3 +105,4 @@
 - [x] show AINT balance
 - [x] update dependencies
 - [x] fixed login
+- [x] new wallet domain
