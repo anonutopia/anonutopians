@@ -6,6 +6,7 @@
 
 - [ ] site - logo
 - [ ] site - meta data
+- [ ] site - finish home
 - [ ] anon redirect
 - [ ] generator script
 - [ ] include AINT in mining
