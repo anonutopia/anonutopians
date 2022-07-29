@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] site - logo
 - [ ] anon redirect
 - [ ] generator script
 - [ ] include AINT in mining
