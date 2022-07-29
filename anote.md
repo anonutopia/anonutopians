@@ -6,6 +6,7 @@
 
 - [ ] init website
 - [ ] basic website
+- [ ] anon redirect
 - [ ] generator script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
