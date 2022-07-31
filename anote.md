@@ -4,6 +4,7 @@
 
 #### TODO - v1.0.0
 
+- [ ] site - update facebook preview
 - [ ] site - finish home
 - [ ] generator script
 - [ ] include AINT in mining
