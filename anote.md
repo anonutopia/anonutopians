@@ -9,7 +9,6 @@
 - [ ] generator script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
-- [ ] start anote.wiki
 - [ ] fix situation with anonfunder / kk
 
 #### TODO - v1.1.0
