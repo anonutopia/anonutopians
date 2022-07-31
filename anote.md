@@ -5,7 +5,6 @@
 #### TODO - v1.0.0
 
 - [ ] site - finish home
-- [ ] anon redirect
 - [ ] generator script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
@@ -112,3 +111,4 @@
 - [x] site - logo
 - [x] site - meta data
 - [x] create SVG icon
+- [x] anon redirect
