@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] site - finish home
 - [ ] generator script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
@@ -113,3 +112,5 @@
 - [x] create SVG icon
 - [x] anon redirect
 - [x] site - update facebook preview
+- [x] site - finish home
+- [x] submit for verification on wx
