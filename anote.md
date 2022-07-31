@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] site - meta data
 - [ ] site - finish home
 - [ ] anon redirect
 - [ ] generator script
@@ -112,3 +111,4 @@
 - [x] init website
 - [x] basic website
 - [x] site - logo
+- [x] site - meta data
