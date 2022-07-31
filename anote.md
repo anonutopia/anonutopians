@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] site - update facebook preview
 - [ ] site - finish home
 - [ ] generator script
 - [ ] include AINT in mining
@@ -113,3 +112,4 @@
 - [x] site - meta data
 - [x] create SVG icon
 - [x] anon redirect
+- [x] site - update facebook preview
