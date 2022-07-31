@@ -8,7 +8,6 @@
 - [ ] generator script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
-- [ ] fix situation with anonfunder / kk
 
 #### TODO - v1.1.0
 
@@ -17,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] fix situation with anonfunder / kk
 - [ ] monitor - master check nodes
 - [ ] telegram bot verification
 - [ ] restore node from seed file
