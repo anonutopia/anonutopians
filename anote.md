@@ -112,3 +112,4 @@
 - [x] basic website
 - [x] site - logo
 - [x] site - meta data
+- [x] create SVG icon
