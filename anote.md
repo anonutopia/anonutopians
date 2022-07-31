@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] site - logo
 - [ ] site - meta data
 - [ ] site - finish home
 - [ ] anon redirect
@@ -112,3 +111,4 @@
 - [x] new wallet domain
 - [x] init website
 - [x] basic website
+- [x] site - logo
