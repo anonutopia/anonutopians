@@ -4,7 +4,7 @@
 
 #### TODO - v1.0.0
 
-- [ ] generator script
+- [ ] new installation script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
 
@@ -114,3 +114,4 @@
 - [x] site - update facebook preview
 - [x] site - finish home
 - [x] submit for verification on wx
+- [x] generator script
