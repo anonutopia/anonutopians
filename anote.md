@@ -4,6 +4,10 @@
 
 #### TODO - v1.0.0
 
+- [ ] node - basic refactoring
+- [ ] node - ping for payment
+- [ ] node - wait for payment
+- [ ] node - generator script setup
 - [ ] new installation script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
