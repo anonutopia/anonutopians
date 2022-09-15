@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] node - generator script setup
 - [ ] mater - ping payment
 - [ ] new installation script
 
@@ -122,3 +121,4 @@
 - [x] generator script
 - [x] node - basic refactoring
 - [x] node - wait for payment
+- [x] node - generator script setup
