@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] node - wait for payment
 - [ ] node - generator script setup
 - [ ] mater - ping payment
 - [ ] new installation script
@@ -119,3 +118,4 @@
 - [x] submit for verification on wx
 - [x] generator script
 - [x] node - basic refactoring
+- [x] node - wait for payment
