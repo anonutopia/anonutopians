@@ -4,7 +4,6 @@
 
 #### TODO - v1.0.0
 
-- [ ] node - basic refactoring
 - [ ] node - ping for payment
 - [ ] node - wait for payment
 - [ ] node - generator script setup
@@ -119,3 +118,4 @@
 - [x] site - finish home
 - [x] submit for verification on wx
 - [x] generator script
+- [x] node - basic refactoring
