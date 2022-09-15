@@ -4,9 +4,9 @@
 
 #### TODO - v1.2
 
-- [ ] node - ping for payment
 - [ ] node - wait for payment
 - [ ] node - generator script setup
+- [ ] mater - ping payment
 - [ ] new installation script
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
