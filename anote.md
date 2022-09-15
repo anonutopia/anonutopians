@@ -7,10 +7,13 @@
 - [ ] node - generator script setup
 - [ ] mater - ping payment
 - [ ] new installation script
+
+#### TODO - v1.3
+
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
 
-#### TODO - v1.3
+#### TODO - v1.4
 
 - [ ] mobile mining
 - [ ] desktop mining
