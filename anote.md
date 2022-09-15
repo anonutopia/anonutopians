@@ -2,7 +2,7 @@
 
 ## Anote
 
-#### TODO - v1.0.0
+#### TODO - v1.2
 
 - [ ] node - ping for payment
 - [ ] node - wait for payment
@@ -11,7 +11,7 @@
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
 
-#### TODO - v1.1.0
+#### TODO - v1.3
 
 - [ ] mobile mining
 - [ ] desktop mining
