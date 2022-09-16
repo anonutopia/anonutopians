@@ -7,6 +7,7 @@
 - [ ] master - lease after script installation
 - [ ] new installation script
 - [ ] update script and procedure
+- [ ] master - payouts
 
 #### TODO - v1.3
 
