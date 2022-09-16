@@ -4,8 +4,8 @@
 
 #### TODO - v1.2
 
-- [ ] update script and procedure
 - [ ] master - payouts
+- [ ] update script and procedure
 
 #### TODO - v1.3
 
