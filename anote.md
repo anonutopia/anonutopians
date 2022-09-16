@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] master - check ip
 - [ ] new installation script
 
 #### TODO - v1.3
@@ -124,3 +123,4 @@
 - [x] node - wait for payment
 - [x] node - generator script setup
 - [x] mater - ping payment
+- [x] master - check ip
