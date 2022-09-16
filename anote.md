@@ -4,6 +4,7 @@
 
 #### TODO - v1.2
 
+- [ ] master - lease after script installation
 - [ ] new installation script
 
 #### TODO - v1.3
