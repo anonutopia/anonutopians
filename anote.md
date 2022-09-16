@@ -5,7 +5,6 @@
 #### TODO - v1.2
 
 - [ ] master - lease after script installation
-- [ ] new installation script
 - [ ] update script and procedure
 - [ ] master - payouts
 
@@ -127,3 +126,4 @@
 - [x] node - generator script setup
 - [x] mater - ping payment
 - [x] master - check ip
+- [x] new installation script
