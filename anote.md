@@ -16,6 +16,7 @@
 
 - [ ] mobile mining
 - [ ] desktop mining
+- [ ] node - blockchain download
 
 #### TODO - BACKLOG
 
