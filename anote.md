@@ -6,6 +6,7 @@
 
 - [ ] master - lease after script installation
 - [ ] new installation script
+- [ ] update script and procedure
 
 #### TODO - v1.3
 
