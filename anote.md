@@ -4,7 +4,6 @@
 
 #### TODO - v1.2
 
-- [ ] master - payouts
 - [ ] update script and procedure
 
 #### TODO - v1.3
@@ -127,3 +126,4 @@
 - [x] master - check ip
 - [x] new installation script
 - [x] master - lease after script installation
+- [x] master - payouts
