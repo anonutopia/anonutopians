@@ -11,6 +11,7 @@
 
 - [ ] mobile mining
 - [ ] desktop mining
+- [ ] lock AINT for mining
 
 #### TODO - BACKLOG
 
