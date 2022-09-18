@@ -10,6 +10,7 @@
 
 - [ ] include AINT in mining
 - [ ] wallet - lease and stake
+- [ ] wallet - send AINT
 
 #### TODO - v1.4
 
