@@ -4,8 +4,8 @@
 
 #### TODO - v1.3
 
-- [ ] wallet - lease and stake
 - [ ] wallet - send AINT
+- [ ] wallet - lease and stake
 
 #### TODO - v1.4
 
