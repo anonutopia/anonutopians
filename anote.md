@@ -4,7 +4,7 @@
 
 #### TODO - v1.2
 
-- [ ] update script and procedure
+
 
 #### TODO - v1.3
 
@@ -128,3 +128,4 @@
 - [x] new installation script
 - [x] master - lease after script installation
 - [x] master - payouts
+- [x] update script and procedure
