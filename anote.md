@@ -4,7 +4,6 @@
 
 #### TODO - v1.3
 
-- [ ] wallet - send AINT
 - [ ] wallet - lease and stake
 
 #### TODO - v1.4
@@ -126,3 +125,4 @@
 - [x] master - payouts
 - [x] update script and procedure
 - [x] include AINT in mining
+- [x] wallet - send AINT
