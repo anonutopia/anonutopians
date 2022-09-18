@@ -2,10 +2,6 @@
 
 ## Anote
 
-#### TODO - v1.2
-
-
-
 #### TODO - v1.3
 
 - [ ] include AINT in mining
