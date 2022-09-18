@@ -12,10 +12,10 @@
 
 - [ ] mobile mining
 - [ ] desktop mining
-- [ ] node - blockchain download
 
 #### TODO - BACKLOG
 
+- [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
 - [ ] monitor - master check nodes
 - [ ] telegram bot verification
