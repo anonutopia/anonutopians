@@ -5,9 +5,6 @@
 #### TODO - v1.3
 
 - [ ] wallet - lease and stake
-
-#### TODO - v1.4
-
 - [ ] mobile mining
 - [ ] desktop mining
 - [ ] lock AINT for mining
