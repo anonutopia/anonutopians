@@ -8,6 +8,7 @@
 - [ ] mobile mining
 - [ ] desktop mining
 - [ ] lock AINT for mining
+- [ ] master - disable inactive leases
 
 #### TODO - BACKLOG
 
