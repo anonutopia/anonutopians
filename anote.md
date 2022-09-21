@@ -6,12 +6,12 @@
 
 - [ ] wallet - lease and stake
 - [ ] mobile mining
-- [ ] desktop mining
 - [ ] lock AINT for mining
 - [ ] master - disable inactive leases
 
 #### TODO - BACKLOG
 
+- [ ] desktop mining
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
 - [ ] monitor - master check nodes
