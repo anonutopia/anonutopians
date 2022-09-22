@@ -124,3 +124,4 @@
 - [x] update script and procedure
 - [x] include AINT in mining
 - [x] wallet - send AINT
+- [x] setup mobile mining server
