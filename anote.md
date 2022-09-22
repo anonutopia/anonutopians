@@ -17,7 +17,6 @@
 - [ ] desktop mining
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
-- [ ] monitor - master check nodes
 - [ ] telegram bot verification
 - [ ] restore node from seed file
 - [ ] node update
@@ -26,7 +25,7 @@
 - [ ] anote.pro tool
 - [ ] secure the nodes
 - [ ] node - docker image
-- [ ] desktop wallet 
+- [ ] desktop wallet
 - [ ] add load balancer for nodes
 - [ ] include other nodes in rest
 - [ ] wallet - multiple accounts
