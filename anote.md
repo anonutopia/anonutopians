@@ -4,7 +4,6 @@
 
 #### TODO - v1.3
 
-- [ ] mm - captcha
 - [ ] mm - code
 - [ ] mm - mine and withdraw
 - [ ] wallet - lease and stake
@@ -128,3 +127,4 @@
 - [x] wallet - send AINT
 - [x] setup mobile mining server
 - [x] update nodes.aint.digital
+- [x] mm - captcha
