@@ -4,8 +4,10 @@
 
 #### TODO - v1.3
 
+- [ ] mm - captcha
+- [ ] mm - code
+- [ ] mm - mine and withdraw
 - [ ] wallet - lease and stake
-- [ ] mobile mining
 - [ ] lock AINT for mining
 - [ ] master - disable inactive leases
 
