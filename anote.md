@@ -13,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] mobile mining - ip protection
 - [ ] desktop mining
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
