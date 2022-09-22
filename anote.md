@@ -6,6 +6,7 @@
 
 - [ ] mm - code
 - [ ] mm - mine and withdraw
+- [ ] referral system
 - [ ] wallet - lease and stake
 - [ ] lock AINT for mining
 - [ ] master - disable inactive leases
