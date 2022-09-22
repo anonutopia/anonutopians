@@ -20,7 +20,6 @@
 - [ ] node update
 - [ ] gateway - put done in memory
 - [ ] gateway - old holders
-- [ ] update nodes.aint.digital
 - [ ] anote.pro tool
 - [ ] secure the nodes
 - [ ] node - docker image
@@ -125,3 +124,4 @@
 - [x] include AINT in mining
 - [x] wallet - send AINT
 - [x] setup mobile mining server
+- [x] update nodes.aint.digital
