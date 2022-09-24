@@ -4,7 +4,6 @@
 
 #### TODO - v1.3
 
-- [ ] show right mining screen
 - [ ] connect to telegram bot
 - [ ] mm - withdraw
 - [ ] referral system
@@ -130,3 +129,4 @@
 - [x] update nodes.aint.digital
 - [x] mm - captcha
 - [x] mm - code & mine
+- [x] show right mining screen
