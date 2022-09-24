@@ -5,6 +5,7 @@
 #### TODO - v1.3
 
 - [ ] show right mining screen
+- [ ] connect to telegram bot
 - [ ] mm - withdraw
 - [ ] referral system
 - [ ] wallet - lease and stake
