@@ -4,6 +4,7 @@
 
 #### TODO - v1.3
 
+- [ ] show right mining screen
 - [ ] mm - withdraw
 - [ ] referral system
 - [ ] wallet - lease and stake
