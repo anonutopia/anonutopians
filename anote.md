@@ -4,8 +4,7 @@
 
 #### TODO - v1.3
 
-- [ ] mm - code
-- [ ] mm - mine and withdraw
+- [ ] mm - withdraw
 - [ ] referral system
 - [ ] wallet - lease and stake
 - [ ] lock AINT for mining
@@ -128,3 +127,4 @@
 - [x] setup mobile mining server
 - [x] update nodes.aint.digital
 - [x] mm - captcha
+- [x] mm - code & mine
