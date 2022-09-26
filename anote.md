@@ -6,6 +6,7 @@
 
 - [ ] telegram notifications
 - [ ] referral system
+- [ ] referral landing page
 - [ ] lock AINT for mining
 - [ ] mobile mining - ads
 
