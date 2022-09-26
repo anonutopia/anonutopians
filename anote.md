@@ -4,7 +4,6 @@
 
 #### TODO - v1.3
 
-- [ ] connect to telegram bot
 - [ ] telegram notifications
 - [ ] referral system
 - [ ] wallet - lease and stake
@@ -131,3 +130,4 @@
 - [x] mm - code & mine
 - [x] show right mining screen
 - [x] mm - withdraw
+- [x] connect to telegram bot
