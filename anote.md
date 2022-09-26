@@ -9,6 +9,7 @@
 - [ ] wallet - lease and stake
 - [ ] lock AINT for mining
 - [ ] master - disable inactive leases
+- [ ] mobile mining - ads
 
 #### TODO - BACKLOG
 
