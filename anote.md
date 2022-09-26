@@ -8,11 +8,11 @@
 - [ ] referral system
 - [ ] wallet - lease and stake
 - [ ] lock AINT for mining
-- [ ] master - disable inactive leases
 - [ ] mobile mining - ads
 
 #### TODO - BACKLOG
 
+- [ ] master - disable inactive leases
 - [ ] mobile - count active 2880
 - [ ] mobile mining - ip protection
 - [ ] desktop mining
