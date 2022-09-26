@@ -4,8 +4,8 @@
 
 #### TODO - v1.3
 
-- [ ] referral system
 - [ ] telegram notifications
+- [ ] referral system
 - [ ] wallet - lease and stake
 - [ ] lock AINT for mining
 - [ ] master - disable inactive leases
