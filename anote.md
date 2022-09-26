@@ -5,7 +5,6 @@
 #### TODO - v1.3
 
 - [ ] connect to telegram bot
-- [ ] mm - withdraw
 - [ ] referral system
 - [ ] wallet - lease and stake
 - [ ] lock AINT for mining
@@ -130,3 +129,4 @@
 - [x] mm - captcha
 - [x] mm - code & mine
 - [x] show right mining screen
+- [x] mm - withdraw
