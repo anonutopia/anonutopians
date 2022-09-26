@@ -5,6 +5,7 @@
 #### TODO - v1.3
 
 - [ ] connect to telegram bot
+- [ ] telegram notifications
 - [ ] referral system
 - [ ] wallet - lease and stake
 - [ ] lock AINT for mining
