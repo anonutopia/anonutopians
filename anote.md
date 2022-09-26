@@ -12,6 +12,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] mobile - count active 2880
 - [ ] mobile mining - ip protection
 - [ ] desktop mining
 - [ ] node - blockchain download
