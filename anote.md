@@ -6,12 +6,12 @@
 
 - [ ] telegram notifications
 - [ ] referral system
-- [ ] wallet - lease and stake
 - [ ] lock AINT for mining
 - [ ] mobile mining - ads
 
 #### TODO - BACKLOG
 
+- [ ] wallet - lease and stake
 - [ ] master - disable inactive leases
 - [ ] mobile - count active 2880
 - [ ] mobile mining - ip protection
