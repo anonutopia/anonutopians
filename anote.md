@@ -142,3 +142,4 @@
 - [x] mm - withdraw
 - [x] connect to telegram bot
 - [x] telegram notifications
+- [x] referral - invitation link
