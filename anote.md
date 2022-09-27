@@ -9,13 +9,20 @@
 - [ ] lock AINT for mining
 - [ ] anote.today
 
-#### TODO - BACKLOG
+#### TODO - v1.4
 
+- [ ] site - tutorials
+- [ ] site - contact
 - [ ] more telegram notifications
-- [ ] wallet - lease and stake
-- [ ] master - disable inactive leases
 - [ ] mobile - count active 2880
 - [ ] mobile mining - ip protection
+- [ ] mobile mining - telegram protection
+- [ ] AINT smart contract
+
+#### TODO - BACKLOG
+
+- [ ] wallet - lease and stake
+- [ ] master - disable inactive leases
 - [ ] desktop mining
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
