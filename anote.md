@@ -4,7 +4,6 @@
 
 #### TODO - v1.3
 
-- [ ] telegram notifications
 - [ ] referral system
 - [ ] referral landing page
 - [ ] lock AINT for mining
@@ -135,3 +134,4 @@
 - [x] show right mining screen
 - [x] mm - withdraw
 - [x] connect to telegram bot
+- [x] telegram notifications
