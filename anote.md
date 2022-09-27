@@ -4,8 +4,8 @@
 
 #### TODO - v1.3
 
-- [ ] referral system
-- [ ] referral landing page
+- [ ] referral - saving
+- [ ] referral - landing page
 - [ ] lock AINT for mining
 - [ ] anote.today
 
