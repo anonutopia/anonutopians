@@ -4,7 +4,6 @@
 
 #### TODO - v1.3
 
-- [ ] referral - saving
 - [ ] referral - landing page
 - [ ] referral - include in mining power
 - [ ] lock AINT for mining
@@ -144,3 +143,4 @@
 - [x] connect to telegram bot
 - [x] telegram notifications
 - [x] referral - invitation link
+- [x] referral - saving
