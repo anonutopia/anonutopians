@@ -12,6 +12,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] more telegram notifications
 - [ ] wallet - lease and stake
 - [ ] master - disable inactive leases
 - [ ] mobile - count active 2880
