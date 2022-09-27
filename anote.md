@@ -6,6 +6,7 @@
 
 - [ ] referral - saving
 - [ ] referral - landing page
+- [ ] referral - include in mining power
 - [ ] lock AINT for mining
 - [ ] anote.today
 
