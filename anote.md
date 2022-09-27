@@ -7,7 +7,7 @@
 - [ ] referral system
 - [ ] referral landing page
 - [ ] lock AINT for mining
-- [ ] mobile mining - ads
+- [ ] anote.today
 
 #### TODO - BACKLOG
 
