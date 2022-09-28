@@ -6,6 +6,7 @@
 
 - [ ] anote.today - cloudflare
 - [ ] anote.today - github pages
+- [ ] anote.today - github repo
 - [ ] anote.today - basic app
 - [ ] anote.today - daily code
 - [ ] anote.today - dev channel
