@@ -4,7 +4,13 @@
 
 #### TODO - v1.3
 
-- [ ] anote.today
+- [ ] anote.today - cloudflare
+- [ ] anote.today - github pages
+- [ ] anote.today - basic app
+- [ ] anote.today - daily code
+- [ ] anote.today - dev channel
+- [ ] anote.today - default ad
+- [ ] anote.today - auctions
 - [ ] lock AINT for mining
 
 #### TODO - v1.4
