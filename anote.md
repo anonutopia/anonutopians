@@ -6,7 +6,6 @@
 
 - [ ] anote.today
 - [ ] lock AINT for mining
-- [ ] check if referred users are active miners
 
 #### TODO - v1.4
 
@@ -145,3 +144,4 @@
 - [x] referral - landing page
 - [x] mobile - count active 2880
 - [x] referral - include in mining power
+- [x] check if referred users are active miners
