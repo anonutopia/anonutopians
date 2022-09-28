@@ -4,7 +4,6 @@
 
 #### TODO - v1.3
 
-- [ ] anote.today - cloudflare
 - [ ] anote.today - github pages
 - [ ] anote.today - github repo
 - [ ] anote.today - basic app
@@ -152,3 +151,4 @@
 - [x] mobile - count active 2880
 - [x] referral - include in mining power
 - [x] check if referred users are active miners
+- [x] anote.today - cloudflare
