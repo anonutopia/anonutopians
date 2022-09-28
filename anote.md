@@ -4,6 +4,7 @@
 
 #### TODO - v1.3
 
+- [ ] mobile - count active 2880
 - [ ] referral - include in mining power
 - [ ] anote.today
 - [ ] lock AINT for mining
@@ -13,7 +14,6 @@
 - [ ] site - tutorials
 - [ ] site - contact
 - [ ] more telegram notifications
-- [ ] mobile - count active 2880
 - [ ] mobile mining - ip protection
 - [ ] mobile mining - telegram protection
 - [ ] AINT smart contract
