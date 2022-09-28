@@ -6,7 +6,6 @@
 
 - [ ] anote.today - daily code
 - [ ] anote.today - basic app
-- [ ] anote.today - default ad
 - [ ] anote.today - auctions
 - [ ] lock AINT for mining
 
@@ -152,3 +151,4 @@
 - [x] anote.today - github repo
 - [x] anote.today - github pages
 - [x] anote.today - dev channel
+- [x] anote.today - default ad
