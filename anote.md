@@ -5,7 +5,6 @@
 #### TODO - v1.3
 
 - [ ] anote.today - github pages
-- [ ] anote.today - github repo
 - [ ] anote.today - basic app
 - [ ] anote.today - daily code
 - [ ] anote.today - dev channel
@@ -152,3 +151,4 @@
 - [x] referral - include in mining power
 - [x] check if referred users are active miners
 - [x] anote.today - cloudflare
+- [x] anote.today - github repo
