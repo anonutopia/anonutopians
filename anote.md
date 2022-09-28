@@ -6,6 +6,7 @@
 
 - [ ] anote.today
 - [ ] lock AINT for mining
+- [ ] check if referred users are active miners
 
 #### TODO - v1.4
 
