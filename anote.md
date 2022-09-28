@@ -4,10 +4,9 @@
 
 #### TODO - v1.3
 
-- [ ] referral - landing page
 - [ ] referral - include in mining power
-- [ ] lock AINT for mining
 - [ ] anote.today
+- [ ] lock AINT for mining
 
 #### TODO - v1.4
 
@@ -144,3 +143,4 @@
 - [x] telegram notifications
 - [x] referral - invitation link
 - [x] referral - saving
+- [x] referral - landing page
