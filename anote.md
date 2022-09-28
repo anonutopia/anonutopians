@@ -4,7 +4,6 @@
 
 #### TODO - v1.3
 
-- [ ] mobile - count active 2880
 - [ ] referral - include in mining power
 - [ ] anote.today
 - [ ] lock AINT for mining
@@ -144,3 +143,4 @@
 - [x] referral - invitation link
 - [x] referral - saving
 - [x] referral - landing page
+- [x] mobile - count active 2880
