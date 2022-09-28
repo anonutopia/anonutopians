@@ -4,8 +4,8 @@
 
 #### TODO - v1.3
 
-- [ ] anote.today - basic app
 - [ ] anote.today - daily code
+- [ ] anote.today - basic app
 - [ ] anote.today - default ad
 - [ ] anote.today - auctions
 - [ ] lock AINT for mining
