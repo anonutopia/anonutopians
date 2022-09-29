@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mobile mining - telegram protection
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
@@ -151,3 +150,4 @@
 - [x] site - contact
 - [x] website - webmaster tools & sitemap
 - [x] website - about page
+- [x] mobile mining - telegram protection
