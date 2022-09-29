@@ -150,3 +150,4 @@
 - [x] anote.today - basic app
 - [x] site - contact
 - [x] website - webmaster tools & sitemap
+- [x] website - about page
