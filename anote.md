@@ -6,7 +6,6 @@
 
 - [ ] anote.today - auctions
 - [ ] lock AINT for mining
-- [ ] site - tutorials
 - [ ] more telegram notifications
 - [ ] mobile mining - ip protection
 - [ ] mobile mining - telegram protection
@@ -14,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] site - tutorials
 - [ ] wallet - lease and stake
 - [ ] master - disable inactive leases
 - [ ] desktop mining
