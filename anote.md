@@ -2,13 +2,10 @@
 
 ## Anote
 
-#### TODO - v1.3
+#### TODO - v2.0
 
 - [ ] anote.today - auctions
 - [ ] lock AINT for mining
-
-#### TODO - v1.4
-
 - [ ] site - tutorials
 - [ ] site - contact
 - [ ] more telegram notifications
