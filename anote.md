@@ -7,11 +7,11 @@
 - [ ] mobile mining - telegram protection
 - [ ] anote.today - auctions
 - [ ] lock AINT for mining
-- [ ] mobile mining - ip protection
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
+- [ ] mobile mining - ip protection
 - [ ] more telegram notifications
 - [ ] site - tutorials
 - [ ] wallet - lease and stake
