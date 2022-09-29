@@ -5,12 +5,12 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] mobile mining - telegram protection
-- [ ] anote.today - auctions
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
+- [ ] anote.today - auctions
 - [ ] mobile mining - ip protection
 - [ ] more telegram notifications
 - [ ] site - tutorials
