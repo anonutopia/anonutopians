@@ -2,7 +2,7 @@
 
 ## Anote
 
-#### TODO - v2.0
+#### TODO - v2.0 MVP
 
 - [ ] mobile mining - telegram protection
 - [ ] anote.today - auctions
