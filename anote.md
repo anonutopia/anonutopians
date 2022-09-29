@@ -4,10 +4,10 @@
 
 #### TODO - v2.0
 
+- [ ] mobile mining - telegram protection
 - [ ] anote.today - auctions
 - [ ] lock AINT for mining
 - [ ] mobile mining - ip protection
-- [ ] mobile mining - telegram protection
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
