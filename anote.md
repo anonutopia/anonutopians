@@ -7,7 +7,6 @@
 - [ ] anote.today - auctions
 - [ ] lock AINT for mining
 - [ ] site - tutorials
-- [ ] site - contact
 - [ ] more telegram notifications
 - [ ] mobile mining - ip protection
 - [ ] mobile mining - telegram protection
@@ -149,3 +148,4 @@
 - [x] anote.today - default ad
 - [x] anote.today - daily code
 - [x] anote.today - basic app
+- [x] site - contact
