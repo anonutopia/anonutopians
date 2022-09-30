@@ -4,13 +4,13 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] check telegram duplicates
 - [ ] join Telegram group
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
+- [ ] check telegram duplicates
 - [ ] anote.today - auctions
 - [ ] mobile mining - ip protection
 - [ ] more telegram notifications
