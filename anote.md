@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] set alias
+- [ ] alias in referral
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
