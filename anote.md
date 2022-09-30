@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] website - mark active link
 - [ ] sync blockchain to db
 - [ ] replace AINT
 - [ ] check meta data
