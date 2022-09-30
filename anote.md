@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] bot - basic tutorial
+- [ ] join Telegram group
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
