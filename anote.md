@@ -11,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] wallet - back button
 - [ ] send using alias
 - [ ] data service
 - [ ] check telegram duplicates
