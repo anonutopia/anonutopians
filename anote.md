@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] set alias
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
