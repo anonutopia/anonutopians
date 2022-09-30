@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] check telegram duplicates
 - [ ] join Telegram group
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
