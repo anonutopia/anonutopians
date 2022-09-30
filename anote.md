@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] check telegram existing
 - [ ] join Telegram group
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
@@ -156,3 +155,4 @@
 - [x] check and tune up flow
 - [x] bot - basic tutorial
 - [x] fix anote stats
+- [x] check telegram existing
