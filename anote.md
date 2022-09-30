@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] website - mark active link
 - [ ] sync blockchain to db
 - [ ] replace AINT
 - [ ] check meta data
@@ -166,3 +165,4 @@
 - [x] set alias
 - [x] alias in referral
 - [x] site - tutorials
+- [x] website - mark active link
