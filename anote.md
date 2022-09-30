@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] bot - basic tutorial
 - [ ] join Telegram group
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
@@ -154,3 +153,4 @@
 - [x] website - about page
 - [x] mobile mining - telegram protection
 - [x] check and tune up flow
+- [x] bot - basic tutorial
