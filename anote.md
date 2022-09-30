@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] check meta data
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
