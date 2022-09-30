@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] check and tune up flow
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
@@ -152,3 +151,4 @@
 - [x] website - webmaster tools & sitemap
 - [x] website - about page
 - [x] mobile mining - telegram protection
+- [x] check and tune up flow
