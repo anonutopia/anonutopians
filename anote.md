@@ -20,7 +20,6 @@
 - [ ] anote.today - auctions
 - [ ] mobile mining - ip protection
 - [ ] more telegram notifications
-- [ ] site - tutorials
 - [ ] wallet - lease and stake
 - [ ] master - disable inactive leases
 - [ ] desktop mining
@@ -166,3 +165,4 @@
 - [x] join Telegram group
 - [x] set alias
 - [x] alias in referral
+- [x] site - tutorials
