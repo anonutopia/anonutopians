@@ -9,6 +9,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] send using alias
+- [ ] data service
 - [ ] check telegram duplicates
 - [ ] anote.today - auctions
 - [ ] mobile mining - ip protection
