@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] set alias
-- [ ] alias in referral
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 
@@ -159,3 +157,5 @@
 - [x] fix anote stats
 - [x] check telegram existing
 - [x] join Telegram group
+- [x] set alias
+- [x] alias in referral
