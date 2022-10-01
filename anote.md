@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote-data - migrate services
 - [ ] replace AINT
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
@@ -171,3 +170,4 @@
 - [x] data service
 - [x] telegram error logging
 - [x] check meta data
+- [x] anote-data - migrate services
