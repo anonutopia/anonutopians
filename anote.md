@@ -5,18 +5,19 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] telegram error logging
+- [ ] check meta data
 - [ ] anote-data - migrate services
 - [ ] replace AINT
-- [ ] check meta data
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
+- [ ] anote.today - auctions
+- [ ] anote.exchange
 
 #### TODO - BACKLOG
 
 - [ ] wallet - back button
 - [ ] send using alias
 - [ ] check telegram duplicates
-- [ ] anote.today - auctions
 - [ ] mobile mining - ip protection
 - [ ] more telegram notifications
 - [ ] wallet - lease and stake
