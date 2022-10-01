@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] bug - mining section after telegram connect
 - [ ] replace AINT
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
@@ -172,3 +171,4 @@
 - [x] telegram error logging
 - [x] check meta data
 - [x] anote-data - migrate services
+- [x] bug - mining section after telegram connect
