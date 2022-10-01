@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote-data - deploy
 - [ ] anote-data - views
 - [ ] anote-data - migrate services
 - [ ] replace AINT
@@ -169,3 +168,4 @@
 - [x] site - tutorials
 - [x] website - mark active link
 - [x] sync blockchain to db
+- [x] anote-data - deploy
