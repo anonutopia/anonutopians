@@ -4,7 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] sync blockchain to db
+- [ ] anote-data - views
+- [ ] anote-data - migrate services
 - [ ] replace AINT
 - [ ] check meta data
 - [ ] lock AINT for mining
@@ -166,3 +167,4 @@
 - [x] alias in referral
 - [x] site - tutorials
 - [x] website - mark active link
+- [x] sync blockchain to db
