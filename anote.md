@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] telegram error logging
 - [ ] check meta data
 - [ ] anote-data - migrate services
 - [ ] replace AINT
@@ -171,3 +170,4 @@
 - [x] anote-data - deploy
 - [x] anote-data - views
 - [x] data service
+- [x] telegram error logging
