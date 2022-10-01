@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] telegram error logging
 - [ ] anote-data - migrate services
 - [ ] replace AINT
 - [ ] check meta data
