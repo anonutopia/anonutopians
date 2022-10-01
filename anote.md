@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] replace AINT
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 - [ ] anote.today - auctions
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] replace AINT
 - [ ] wallet - back button
 - [ ] send using alias
 - [ ] check telegram duplicates
