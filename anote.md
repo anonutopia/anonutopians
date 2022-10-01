@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote-data - views
 - [ ] anote-data - migrate services
 - [ ] replace AINT
 - [ ] check meta data
@@ -169,3 +168,4 @@
 - [x] website - mark active link
 - [x] sync blockchain to db
 - [x] anote-data - deploy
+- [x] anote-data - views
