@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] check meta data
 - [ ] anote-data - migrate services
 - [ ] replace AINT
 - [ ] lock AINT for mining
@@ -171,3 +170,4 @@
 - [x] anote-data - views
 - [x] data service
 - [x] telegram error logging
+- [x] check meta data
