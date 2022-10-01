@@ -14,7 +14,6 @@
 
 - [ ] wallet - back button
 - [ ] send using alias
-- [ ] data service
 - [ ] check telegram duplicates
 - [ ] anote.today - auctions
 - [ ] mobile mining - ip protection
@@ -169,3 +168,4 @@
 - [x] sync blockchain to db
 - [x] anote-data - deploy
 - [x] anote-data - views
+- [x] data service
