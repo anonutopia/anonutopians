@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] move all data to one address
+- [ ] referral issue
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 - [ ] anote.today - auctions
