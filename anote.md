@@ -10,6 +10,7 @@
 - [ ] AINT smart contract
 - [ ] anote.today - auctions
 - [ ] anote.exchange
+- [ ] welcome message for the group
 
 #### TODO - BACKLOG
 
