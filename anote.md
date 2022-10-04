@@ -8,7 +8,6 @@
 - [ ] AINT smart contract
 - [ ] anote.today - auctions
 - [ ] anote.exchange
-- [ ] welcome message for the group
 
 #### TODO - BACKLOG
 
@@ -175,3 +174,4 @@
 - [x] bug - mining section after telegram connect
 - [x] move all data to one address
 - [x] referral issue
+- [x] welcome message for the group
