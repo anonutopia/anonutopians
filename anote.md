@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] move all data to one address
-- [ ] referral issue
 - [ ] lock AINT for mining
 - [ ] AINT smart contract
 - [ ] anote.today - auctions
@@ -175,3 +173,5 @@
 - [x] check meta data
 - [x] anote-data - migrate services
 - [x] bug - mining section after telegram connect
+- [x] move all data to one address
+- [x] referral issue
