@@ -10,6 +10,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] anote.today - min 1 anote
+- [ ] anote.today - allow only anote
 - [ ] replace AINT
 - [ ] wallet - back button
 - [ ] send using alias
