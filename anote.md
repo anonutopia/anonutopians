@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.today - balance + send
 - [ ] lock AINT for mining
 - [ ] anote.exchange
 - [ ] AINT smart contract
@@ -181,3 +180,4 @@
 - [x] anote.today - settings
 - [x] anote.today - existing bids
 - [x] anote.today - place a bid
+- [x] anote.today - balance + send
