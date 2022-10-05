@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] anote.today - make a bid
-- [ ] anote.today - existing bids
 - [ ] anote.today - balance + send
 - [ ] lock AINT for mining
 - [ ] anote.exchange
@@ -181,3 +180,4 @@
 - [x] anote.today - robot - get ad
 - [x] anote.today - delete bid after sending
 - [x] anote.today - settings
+- [x] anote.today - existing bids
