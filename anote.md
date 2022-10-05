@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.today - make a bid
+- [ ] anote.today - place a bid
 - [ ] anote.today - balance + send
 - [ ] lock AINT for mining
 - [ ] anote.exchange
