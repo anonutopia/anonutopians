@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.today - delete bid after sending
 - [ ] anote.today - make a bid
 - [ ] anote.today - existing bids
 - [ ] anote.today - settings
@@ -181,3 +180,4 @@
 - [x] welcome message for the group
 - [x] anote.today - save ad
 - [x] anote.today - robot - get ad
+- [x] anote.today - delete bid after sending
