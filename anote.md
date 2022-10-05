@@ -6,7 +6,6 @@
 
 - [ ] anote.today - make a bid
 - [ ] anote.today - existing bids
-- [ ] anote.today - settings
 - [ ] anote.today - balance + send
 - [ ] lock AINT for mining
 - [ ] anote.exchange
@@ -181,3 +180,4 @@
 - [x] anote.today - save ad
 - [x] anote.today - robot - get ad
 - [x] anote.today - delete bid after sending
+- [x] anote.today - settings
