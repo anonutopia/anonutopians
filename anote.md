@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.today - save ad
 - [ ] anote.today - make a bid
 - [ ] anote.today - existing bids
 - [ ] anote.today - robot - get ad
@@ -180,3 +179,4 @@
 - [x] move all data to one address
 - [x] referral issue
 - [x] welcome message for the group
+- [x] anote.today - save ad
