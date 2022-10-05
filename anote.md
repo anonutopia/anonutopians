@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] anote.today - delete bit after sending
 - [ ] anote.today - make a bid
 - [ ] anote.today - existing bids
 - [ ] anote.today - robot - get ad
