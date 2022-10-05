@@ -5,9 +5,9 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] lock AINT for mining
-- [ ] AINT smart contract
 - [ ] anote.today - auctions
 - [ ] anote.exchange
+- [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
