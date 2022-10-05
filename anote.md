@@ -7,7 +7,6 @@
 - [ ] anote.today - delete bit after sending
 - [ ] anote.today - make a bid
 - [ ] anote.today - existing bids
-- [ ] anote.today - robot - get ad
 - [ ] anote.today - settings
 - [ ] anote.today - balance + send
 - [ ] lock AINT for mining
@@ -181,3 +180,4 @@
 - [x] referral issue
 - [x] welcome message for the group
 - [x] anote.today - save ad
+- [x] anote.today - robot - get ad
