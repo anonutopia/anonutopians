@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.today - copy message
 - [ ] lock AINT for mining
 - [ ] anote.exchange
 - [ ] AINT smart contract
@@ -183,3 +182,4 @@
 - [x] anote.today - place a bid
 - [x] anote.today - balance + send
 - [x] anote.today - leak
+- [x] anote.today - copy address
