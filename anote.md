@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] anote.today - leak
 - [ ] lock AINT for mining
 - [ ] anote.exchange
 - [ ] AINT smart contract
