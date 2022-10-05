@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] anote.today - copy message
 - [ ] anote.today - leak
 - [ ] lock AINT for mining
 - [ ] anote.exchange
