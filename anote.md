@@ -23,7 +23,6 @@
 - [ ] desktop mining
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
-- [ ] telegram bot verification
 - [ ] restore node from seed file
 - [ ] node update
 - [ ] gateway - put done in memory
