@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] lock AINT for mining
+- [ ] delete account through bot
 - [ ] master - disable inactive leases
 - [ ] anote.exchange
 - [ ] AINT smart contract
@@ -16,7 +17,6 @@
 - [ ] replace AINT
 - [ ] wallet - back button
 - [ ] send using alias
-- [ ] check telegram duplicates
 - [ ] mobile mining - ip protection
 - [ ] more telegram notifications
 - [ ] wallet - lease and stake
