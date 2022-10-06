@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] lock AINT for mining
+- [ ] master - disable inactive leases
 - [ ] anote.exchange
 - [ ] AINT smart contract
 
@@ -19,7 +20,6 @@
 - [ ] mobile mining - ip protection
 - [ ] more telegram notifications
 - [ ] wallet - lease and stake
-- [ ] master - disable inactive leases
 - [ ] desktop mining
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
