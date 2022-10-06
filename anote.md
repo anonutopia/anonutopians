@@ -185,3 +185,4 @@
 - [x] anote.today - balance + send
 - [x] anote.today - leak
 - [x] anote.today - copy address
+- [x] anote.one - https redirect
