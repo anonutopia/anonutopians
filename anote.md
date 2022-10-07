@@ -10,6 +10,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] mobile stake - time lock
 - [ ] anote.today - min 1 anote
 - [ ] anote.today - allow only anote
 - [ ] replace AINT
