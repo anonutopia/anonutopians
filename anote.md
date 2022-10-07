@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] lock AINT for mining
 - [ ] delete account through bot
 - [ ] master - disable inactive leases
 - [ ] anote.exchange
@@ -185,3 +184,4 @@
 - [x] anote.today - leak
 - [x] anote.today - copy address
 - [x] anote.one - https redirect
+- [x] lock AINT for mining
