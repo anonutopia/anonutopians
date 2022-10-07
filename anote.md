@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] master - disable inactive leases
 - [ ] anote.exchange
 - [ ] AINT smart contract
 
@@ -187,3 +186,4 @@
 - [x] anote.one - https redirect
 - [x] lock AINT for mining
 - [x] delete account through bot
+- [x] master - disable inactive leases
