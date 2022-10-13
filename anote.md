@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] node - install message
 - [ ] anote.exchange
 - [ ] AINT smart contract
 
