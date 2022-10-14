@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] node - install message
 - [ ] anote.exchange
 - [ ] AINT smart contract
 
@@ -188,3 +187,4 @@
 - [x] lock AINT for mining
 - [x] delete account through bot
 - [x] master - disable inactive leases
+- [x] node - install message
