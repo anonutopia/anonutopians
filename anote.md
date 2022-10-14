@@ -4,7 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.exchange
+- [ ] anote.exchange - github pages
+- [ ] anote.exchange - cloudflare
+- [ ] anote.exchange - basic app
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
@@ -188,3 +190,4 @@
 - [x] delete account through bot
 - [x] master - disable inactive leases
 - [x] node - install message
+- [x] anote.exchange - github repos
