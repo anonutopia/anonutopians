@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new servers
 - [ ] price in bot stats
 - [ ] auto buy up
 - [ ] anote.exchange - basic app
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] new servers
 - [ ] mobile stake - time lock
 - [ ] smart contracts - extra security audit
 - [ ] anote.today - min 1 anote
