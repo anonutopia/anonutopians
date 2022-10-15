@@ -4,7 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new server
+- [ ] new servers
+- [ ] price in bot stats
+- [ ] auto buy up
 - [ ] anote.exchange - basic app
 - [ ] AINT smart contract
 
