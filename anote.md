@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.exchange - github pages
-- [ ] anote.exchange - cloudflare
 - [ ] anote.exchange - basic app
 - [ ] AINT smart contract
 
@@ -191,3 +189,5 @@
 - [x] master - disable inactive leases
 - [x] node - install message
 - [x] anote.exchange - github repos
+- [x] anote.exchange - github pages
+- [x] anote.exchange - cloudflare
