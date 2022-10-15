@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] new server
 - [ ] anote.exchange - basic app
 - [ ] AINT smart contract
 
