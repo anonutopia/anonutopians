@@ -9,7 +9,6 @@
 
 #### TODO - BACKLOG
 
-- [ ] price in bot stats
 - [ ] auto buy up
 - [ ] new servers
 - [ ] mobile stake - time lock
@@ -194,3 +193,4 @@
 - [x] anote.exchange - github repos
 - [x] anote.exchange - github pages
 - [x] anote.exchange - cloudflare
+- [x] price in bot stats
