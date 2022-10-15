@@ -4,13 +4,13 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] price in bot stats
-- [ ] auto buy up
 - [ ] anote.exchange - basic app
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
+- [ ] price in bot stats
+- [ ] auto buy up
 - [ ] new servers
 - [ ] mobile stake - time lock
 - [ ] smart contracts - extra security audit
