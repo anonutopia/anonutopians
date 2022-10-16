@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] exchange - validation 1
-- [ ] exchange - validation 2
 - [ ] exchange - calculate (server)
 - [ ] exchange - generate address (server)
 - [ ] exchange - monitoring (server)
@@ -203,3 +201,5 @@
 - [x] exchange - step 3
 - [x] exchange - copy 1
 - [x] exchange - copy 2
+- [x] exchange - validation 1
+- [x] exchange - validation 2
