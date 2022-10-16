@@ -4,7 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.exchange - basic app
+- [ ] anote.exchange - step 2
+- [ ] anote.exchange - calculate (server)
+- [ ] anote.exchange - generate address (server)
+- [ ] anote.exchange - monitoring (server)
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
