@@ -4,9 +4,14 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] exchange - copy 1
+- [ ] exchange - copy 2
+- [ ] exchange - validation 1
+- [ ] exchange - validation 2
 - [ ] exchange - calculate (server)
 - [ ] exchange - generate address (server)
 - [ ] exchange - monitoring (server)
+- [ ] exchange - finish UI
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
