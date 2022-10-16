@@ -4,10 +4,11 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.exchange - step 2
-- [ ] anote.exchange - calculate (server)
-- [ ] anote.exchange - generate address (server)
-- [ ] anote.exchange - monitoring (server)
+- [ ] exchange - step 2
+- [ ] exchange - step 3
+- [ ] exchange - calculate (server)
+- [ ] exchange - generate address (server)
+- [ ] exchange - monitoring (server)
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
