@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] exchange - step 2
-- [ ] exchange - step 3
 - [ ] exchange - calculate (server)
 - [ ] exchange - generate address (server)
 - [ ] exchange - monitoring (server)
@@ -198,3 +196,5 @@
 - [x] anote.exchange - github pages
 - [x] anote.exchange - cloudflare
 - [x] price in bot stats
+- [x] exchange - step 2
+- [x] exchange - step 3
