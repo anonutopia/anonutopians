@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] exchange - copy 1
 - [ ] exchange - copy 2
 - [ ] exchange - validation 1
 - [ ] exchange - validation 2
@@ -203,3 +202,4 @@
 - [x] price in bot stats
 - [x] exchange - step 2
 - [x] exchange - step 3
+- [x] exchange - copy 1
