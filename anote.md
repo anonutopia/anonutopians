@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] exchange - copy 2
 - [ ] exchange - validation 1
 - [ ] exchange - validation 2
 - [ ] exchange - calculate (server)
@@ -203,3 +202,4 @@
 - [x] exchange - step 2
 - [x] exchange - step 3
 - [x] exchange - copy 1
+- [x] exchange - copy 2
