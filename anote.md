@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] UI - button toggle
 - [ ] exchange - calculate (server)
 - [ ] exchange - generate address (server)
 - [ ] exchange - monitoring (server)
@@ -205,3 +204,4 @@
 - [x] exchange - validation 1
 - [x] exchange - validation 2
 - [x] deploy exchange.anote.digital
+- [x] UI - button toggle
