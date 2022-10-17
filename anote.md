@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] UI - button toggle
 - [ ] exchange - calculate (server)
 - [ ] exchange - generate address (server)
 - [ ] exchange - monitoring (server)
