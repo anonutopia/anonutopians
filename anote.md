@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] exchange - generate address
 - [ ] exchange - monitoring
 - [ ] exchange - finish UI
 - [ ] AINT smart contract
@@ -205,3 +204,4 @@
 - [x] deploy exchange.anote.digital
 - [x] UI - button toggle
 - [x] exchange - calculate (server)
+- [x] exchange - generate address
