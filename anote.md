@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] deploy exchange.anote.digital
 - [ ] exchange - calculate (server)
 - [ ] exchange - generate address (server)
 - [ ] exchange - monitoring (server)
