@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] exchange - finish UI
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
@@ -205,3 +204,4 @@
 - [x] exchange - calculate (server)
 - [x] exchange - generate address
 - [x] exchange - monitoring
+- [x] exchange - finish UI
