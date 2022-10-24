@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] master - bring down number of requests
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
