@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] master - bring down number of requests
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
@@ -206,3 +205,4 @@
 - [x] exchange - generate address
 - [x] exchange - monitoring
 - [x] exchange - finish UI
+- [x] master - bring down number of requests
