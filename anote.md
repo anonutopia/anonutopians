@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] hide euro wallet
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
