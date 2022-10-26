@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] gateway issue
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
 - [ ] anote.today - allow only anote
@@ -208,3 +207,4 @@
 - [x] master - bring down number of requests
 - [x] hide euro wallet
 - [x] gateway - put done in memory
+- [x] gateway issue
