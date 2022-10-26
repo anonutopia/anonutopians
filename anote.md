@@ -5,14 +5,14 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] gateway issue
+- [ ] smart contracts - extra security audit
+- [ ] mobile stake - time lock
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
 - [ ] auto buy up
 - [ ] new servers
-- [ ] mobile stake - time lock
-- [ ] smart contracts - extra security audit
 - [ ] anote.today - min 1 anote
 - [ ] anote.today - allow only anote
 - [ ] replace AINT
