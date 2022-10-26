@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] gateway issue
-- [ ] hide euro wallet
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
@@ -208,3 +207,4 @@
 - [x] exchange - monitoring
 - [x] exchange - finish UI
 - [x] master - bring down number of requests
+- [x] hide euro wallet
