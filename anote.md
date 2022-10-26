@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] referrals - more details
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
 - [ ] AINT smart contract
