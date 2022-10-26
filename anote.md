@@ -6,11 +6,11 @@
 
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
-- [ ] anote.today - allow only anote
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
+- [ ] anote.today - allow only anote
 - [ ] auto buy up
 - [ ] new servers
 - [ ] anote.today - min 1 anote
