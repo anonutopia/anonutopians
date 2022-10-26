@@ -7,6 +7,7 @@
 - [ ] gateway issue
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
+- [ ] anote.today - allow only anote
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
@@ -14,7 +15,6 @@
 - [ ] auto buy up
 - [ ] new servers
 - [ ] anote.today - min 1 anote
-- [ ] anote.today - allow only anote
 - [ ] replace AINT
 - [ ] wallet - back button
 - [ ] send using alias
