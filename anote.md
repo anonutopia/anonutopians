@@ -26,7 +26,6 @@
 - [ ] fix situation with anonfunder / kk
 - [ ] restore node from seed file
 - [ ] node update
-- [ ] gateway - put done in memory
 - [ ] gateway - old holders
 - [ ] anote.pro tool
 - [ ] secure the nodes
@@ -208,3 +207,4 @@
 - [x] exchange - finish UI
 - [x] master - bring down number of requests
 - [x] hide euro wallet
+- [x] gateway - put done in memory
