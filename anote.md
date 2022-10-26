@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] gateway issue
 - [ ] hide euro wallet
 - [ ] AINT smart contract
 
