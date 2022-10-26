@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] anote.today - allow only anote
 - [ ] referrals - more details
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
@@ -11,7 +12,6 @@
 
 #### TODO - BACKLOG
 
-- [ ] anote.today - allow only anote
 - [ ] auto buy up
 - [ ] new servers
 - [ ] anote.today - min 1 anote
