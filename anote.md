@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.today - allow only anote
 - [ ] referrals - more details
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
@@ -209,3 +208,4 @@
 - [x] hide euro wallet
 - [x] gateway - put done in memory
 - [x] gateway issue
+- [x] anote.today - allow only anote
