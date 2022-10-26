@@ -7,6 +7,8 @@
 - [ ] referrals - more details
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
+- [ ] mobile mining - ip protection
+- [ ] more telegram notifications
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
@@ -17,8 +19,6 @@
 - [ ] replace AINT
 - [ ] wallet - back button
 - [ ] send using alias
-- [ ] mobile mining - ip protection
-- [ ] more telegram notifications
 - [ ] wallet - lease and stake
 - [ ] desktop mining
 - [ ] node - blockchain download
