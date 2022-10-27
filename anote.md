@@ -5,7 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] mobile mining - ip protection
-- [ ] mining - more data
+- [ ] mining - show more data
 - [ ] referrals - more details
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
