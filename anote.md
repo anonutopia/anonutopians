@@ -4,9 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] exchange - check math again
 - [ ] mining - show more data
 - [ ] referrals - more details
+- [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
 - [ ] more telegram notifications
