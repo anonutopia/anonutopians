@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mobile mining - ip protection
 - [ ] exchange - check math again
 - [ ] mining - show more data
 - [ ] referrals - more details
@@ -211,3 +210,4 @@
 - [x] gateway - put done in memory
 - [x] gateway issue
 - [x] anote.today - allow only anote
+- [x] mobile mining - ip protection
