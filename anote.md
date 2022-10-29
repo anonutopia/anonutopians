@@ -10,13 +10,13 @@
 - [ ] mobile stake - time lock
 - [ ] more telegram notifications
 - [ ] AINT smart contract
+- [ ] replace AINT
 
 #### TODO - BACKLOG
 
 - [ ] auto buy up
 - [ ] new servers
 - [ ] anote.today - min 1 anote
-- [ ] replace AINT
 - [ ] wallet - back button
 - [ ] send using alias
 - [ ] wallet - lease and stake
