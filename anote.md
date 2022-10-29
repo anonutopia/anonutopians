@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mining - show more data
+- [ ] blocked bot issue
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
@@ -211,3 +211,4 @@
 - [x] gateway issue
 - [x] anote.today - allow only anote
 - [x] mobile mining - ip protection
+- [x] mining - show more data
