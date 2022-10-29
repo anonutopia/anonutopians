@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] separate timer
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
@@ -213,3 +212,4 @@
 - [x] mobile mining - ip protection
 - [x] mining - show more data
 - [x] blocked bot issue
+- [x] separate timer
