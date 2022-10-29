@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] exchange - check math again
 - [ ] mobile mining - ip protection
+- [ ] exchange - check math again
 - [ ] mining - show more data
 - [ ] referrals - more details
 - [ ] smart contracts - extra security audit
