@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] wallet - load mining data once
 - [ ] expose data.anote.digital
 - [ ] referrals - more details
 - [ ] exchange - check math again
@@ -215,3 +214,4 @@
 - [x] mining - show more data
 - [x] blocked bot issue
 - [x] separate timer
+- [x] wallet - load mining data once
