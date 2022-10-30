@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix number of referred users
 - [ ] expose data.anote.digital
 - [ ] referrals - more details
 - [ ] exchange - check math again
