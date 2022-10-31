@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] issues with referral system
 - [ ] anote report
 - [ ] referrals - more details
 - [ ] exchange - check math again
