@@ -6,7 +6,6 @@
 
 - [ ] referrals - confirmed
 - [ ] referrals - more details
-- [ ] referrals - remind inactive
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
@@ -16,6 +15,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] referrals - remind inactive
 - [ ] expose data.anote.digital
 - [ ] auto buy up
 - [ ] new servers
