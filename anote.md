@@ -224,3 +224,4 @@
 - [x] set referral manually
 - [x] issues with referral system
 - [x] click here
+- [x] anote report
