@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] referrals - confirmed
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
@@ -220,3 +219,4 @@
 - [x] fix number of referred users
 - [x] separate stats in data
 - [x] stats - more info
+- [x] referrals - confirmed
