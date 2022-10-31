@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] separate stats in data
 - [ ] expose data.anote.digital
 - [ ] referrals - more details
 - [ ] exchange - check math again
