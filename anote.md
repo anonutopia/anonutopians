@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] expose data.anote.digital
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
@@ -15,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] expose data.anote.digital
 - [ ] auto buy up
 - [ ] new servers
 - [ ] anote.today - min 1 anote
