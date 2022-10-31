@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] click here
 - [ ] anote report
 - [ ] referrals - more details
 - [ ] exchange - check math again
@@ -224,3 +223,4 @@
 - [x] referrals - confirmed
 - [x] set referral manually
 - [x] issues with referral system
+- [x] click here
