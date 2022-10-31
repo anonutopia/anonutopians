@@ -6,6 +6,7 @@
 
 - [ ] referrals - confirmed
 - [ ] referrals - more details
+- [ ] referrals - remind inactive
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
 - [ ] mobile stake - time lock
