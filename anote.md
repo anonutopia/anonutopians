@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] separate stats in data
 - [ ] expose data.anote.digital
 - [ ] referrals - more details
 - [ ] exchange - check math again
@@ -217,3 +216,4 @@
 - [x] separate timer
 - [x] wallet - load mining data once
 - [x] fix number of referred users
+- [x] separate stats in data
