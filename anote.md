@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] stats - more info
 - [ ] referrals - confirmed
 - [ ] referrals - more details
 - [ ] exchange - check math again
