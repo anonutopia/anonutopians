@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] aint miner - basic app
 - [ ] aint.digital animation
 - [ ] referrals - more details
 - [ ] exchange - check math again
