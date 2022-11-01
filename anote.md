@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote report - deploy
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
@@ -226,3 +225,4 @@
 - [x] issues with referral system
 - [x] click here
 - [x] anote report
+- [x] anote report - deploy
