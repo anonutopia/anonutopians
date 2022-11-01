@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] aint.digital animation
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
@@ -226,3 +227,5 @@
 - [x] click here
 - [x] anote report
 - [x] anote report - deploy
+- [x] aint.digital cloudflare
+- [x] aint.digital github
