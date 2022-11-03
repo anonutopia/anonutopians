@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] aint miner - basic app
-- [ ] aint.digital animation
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
@@ -230,3 +229,4 @@
 - [x] aint.digital cloudflare
 - [x] aint.digital github
 - [x] replace AINT
+- [x] aint.digital animation
