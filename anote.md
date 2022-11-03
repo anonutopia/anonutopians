@@ -12,7 +12,6 @@
 - [ ] mobile stake - time lock
 - [ ] more telegram notifications
 - [ ] AINT smart contract
-- [ ] replace AINT
 
 #### TODO - BACKLOG
 
@@ -230,3 +229,4 @@
 - [x] anote report - deploy
 - [x] aint.digital cloudflare
 - [x] aint.digital github
+- [x] replace AINT
