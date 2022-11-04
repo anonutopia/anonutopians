@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] local storage
 - [ ] 2880 rule fix
 - [ ] aint miner - basic app
 - [ ] referrals - more details
@@ -234,3 +233,4 @@
 - [x] aint.digital animation
 - [x] get the code button
 - [x] undefined referral issue
+- [x] local storage
