@@ -4,6 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] get the code button
+- [ ] 2880 rule fix
+- [ ] local storage
 - [ ] aint miner - basic app
 - [ ] referrals - more details
 - [ ] exchange - check math again
