@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] get the code button
+- [ ] undefined referral issue
 - [ ] 2880 rule fix
 - [ ] local storage
 - [ ] aint miner - basic app
@@ -233,3 +233,4 @@
 - [x] aint.digital github
 - [x] replace AINT
 - [x] aint.digital animation
+- [x] get the code button
