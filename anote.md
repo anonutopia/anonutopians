@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] holders in stats
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
