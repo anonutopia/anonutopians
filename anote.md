@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
