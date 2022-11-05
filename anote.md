@@ -14,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] live - fix assets
 - [ ] anote report - GUI
 - [ ] referrals - remind inactive
 - [ ] expose data.anote.digital
