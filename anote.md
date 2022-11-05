@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
