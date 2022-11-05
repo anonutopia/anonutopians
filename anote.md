@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] aint miner - basic app
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] aint miner - basic app
 - [ ] mobile stake - time lock?
 - [ ] smart contracts - extra security audit
 - [ ] live - fix assets
