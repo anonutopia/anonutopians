@@ -4,12 +4,12 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] AINT smart contract
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
-- [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
