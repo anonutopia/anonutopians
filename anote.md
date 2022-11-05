@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] 2880 rule fix
 - [ ] aint miner - basic app
 - [ ] referrals - more details
 - [ ] exchange - check math again
@@ -234,3 +233,4 @@
 - [x] get the code button
 - [x] undefined referral issue
 - [x] local storage
+- [x] 2880 rule fix
