@@ -7,12 +7,12 @@
 - [ ] aint miner - basic app
 - [ ] referrals - more details
 - [ ] exchange - check math again
-- [ ] mobile stake - time lock
 - [ ] more telegram notifications
 - [ ] AINT smart contract
 
 #### TODO - BACKLOG
 
+- [ ] mobile stake - time lock?
 - [ ] smart contracts - extra security audit
 - [ ] live - fix assets
 - [ ] anote report - GUI
