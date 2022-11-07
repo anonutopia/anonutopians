@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] minting - copy message
+- [ ] minting - validate
 - [ ] minting - waves balance
 - [ ] minting - calculate
 - [ ] minting - mint & send
