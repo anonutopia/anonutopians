@@ -12,6 +12,7 @@
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
+- [ ] ban option
 
 #### TODO - BACKLOG
 
