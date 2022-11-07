@@ -4,8 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] minting - waves balance
+- [ ] minting - calculate
+- [ ] minting - mint & send
 - [ ] AINT - mining
-- [ ] AINT - buying
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
