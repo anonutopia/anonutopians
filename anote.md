@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] secret tab
 - [ ] AINT - mining
 - [ ] AINT - buying
 - [ ] mining info
@@ -243,3 +242,4 @@
 - [x] 2880 rule fix
 - [x] holders in stats
 - [x] mint - waves address
+- [x] secret tab
