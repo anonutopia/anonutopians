@@ -242,3 +242,4 @@
 - [x] local storage
 - [x] 2880 rule fix
 - [x] holders in stats
+- [x] mint - waves address
