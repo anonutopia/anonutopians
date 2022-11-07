@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] secret tab
 - [ ] AINT - mining
 - [ ] AINT - buying
 - [ ] mining info
