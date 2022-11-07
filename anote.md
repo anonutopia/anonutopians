@@ -12,10 +12,11 @@
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
-- [ ] ban option
 
 #### TODO - BACKLOG
 
+- [ ] ban option
+- [ ] more security measures (tel info)
 - [ ] aint miner - basic app
 - [ ] mobile stake - time lock?
 - [ ] smart contracts - extra security audit
