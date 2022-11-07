@@ -4,7 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] AINT smart contract
+- [ ] AINT - mining
+- [ ] AINT - buying
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
