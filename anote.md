@@ -7,6 +7,7 @@
 - [ ] minting - send minted
 - [ ] minting - mint more than tier
 - [ ] minting - calculate
+- [ ] minting - with kk
 - [ ] AINT - mining
 - [ ] mining info
 - [ ] first anotes notification
