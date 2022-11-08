@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] minting - send minted
 - [ ] minting - mint more than tier
 - [ ] minting - calculate
 - [ ] minting - with kk
@@ -249,3 +248,4 @@
 - [x] minting - copy message
 - [x] minting - validate
 - [x] minting - waves balance
+- [x] minting - send minted
