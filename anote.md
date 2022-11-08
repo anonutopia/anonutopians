@@ -8,14 +8,14 @@
 - [ ] mint - calculate
 - [ ] mint - with kk
 - [ ] AINT - mining
+
+#### TODO - BACKLOG
+
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
-
-#### TODO - BACKLOG
-
 - [ ] ban option
 - [ ] more security measures (tel info)
 - [ ] aint miner - basic app
