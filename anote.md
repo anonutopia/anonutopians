@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] minting - waves balance
 - [ ] minting - calculate
 - [ ] minting - mint & send
 - [ ] AINT - mining
@@ -247,3 +246,4 @@
 - [x] secret tab
 - [x] minting - copy message
 - [x] minting - validate
+- [x] minting - waves balance
