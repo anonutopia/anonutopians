@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mint - load aint data
 - [ ] mint - mint more than tier
 - [ ] mint - calculate
 - [ ] mint - with kk
@@ -251,3 +250,4 @@
 - [x] minting - waves balance
 - [x] minting - send minted
 - [x] minting - more info to pause
+- [x] mint - load aint data
