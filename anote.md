@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] minting - validate
 - [ ] minting - waves balance
 - [ ] minting - calculate
 - [ ] minting - mint & send
@@ -247,3 +246,4 @@
 - [x] mint - waves address
 - [x] secret tab
 - [x] minting - copy message
+- [x] minting - validate
