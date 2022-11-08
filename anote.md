@@ -4,9 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] minting - mint more than tier
-- [ ] minting - calculate
-- [ ] minting - with kk
+- [ ] mint - load aint data
+- [ ] mint - mint more than tier
+- [ ] mint - calculate
+- [ ] mint - with kk
 - [ ] AINT - mining
 - [ ] mining info
 - [ ] first anotes notification
