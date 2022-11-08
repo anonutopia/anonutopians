@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] minting - more info to pause
 - [ ] minting - mint more than tier
 - [ ] minting - calculate
 - [ ] minting - with kk
