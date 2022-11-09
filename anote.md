@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] mint - copy message
 - [ ] monitor AINT sales
 - [ ] mint - with kk
 - [ ] AINT - mining
