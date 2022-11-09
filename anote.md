@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] mint - calculate
+- [ ] mint - max button
 - [ ] mint - better loader
 - [ ] mint - with kk
 - [ ] AINT - mining
