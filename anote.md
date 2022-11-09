@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mint - max button
 - [ ] mint - better loader
 - [ ] mint - with kk
 - [ ] AINT - mining
@@ -253,3 +252,4 @@
 - [x] mint - load aint data
 - [x] mint - mint more than tier
 - [x] mint - calculate
+- [x] mint - max button
