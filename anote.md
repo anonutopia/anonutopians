@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mint - mint more than tier
 - [ ] mint - calculate
 - [ ] mint - with kk
 - [ ] AINT - mining
@@ -251,3 +250,4 @@
 - [x] minting - send minted
 - [x] minting - more info to pause
 - [x] mint - load aint data
+- [x] mint - mint more than tier
