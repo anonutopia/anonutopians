@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mint - better loader
 - [ ] mint - calculate
+- [ ] mint - better loader
 - [ ] mint - with kk
 - [ ] AINT - mining
 
