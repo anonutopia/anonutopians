@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] check calculator
 - [ ] mint - with kk
 - [ ] AINT - mining
 
