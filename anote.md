@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] check calculator
 - [ ] mint - with kk
 - [ ] AINT - mining
 
@@ -254,3 +253,4 @@
 - [x] mint - calculate
 - [x] mint - max button
 - [x] mint - better loader
+- [x] check calculator
