@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] monitor AINT sales
 - [ ] mint - with kk
+- [ ] monitor AINT sales
 - [ ] AINT - mining
 
 #### TODO - BACKLOG
