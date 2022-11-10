@@ -10,7 +10,7 @@
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
-- [ ] more security measures (tel info)
+- [ ] more security measures
 
 #### TODO - BACKLOG
 
