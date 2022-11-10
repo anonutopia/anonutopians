@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mint - copy message
 - [ ] monitor AINT sales
 - [ ] mint - with kk
 - [ ] AINT - mining
@@ -256,3 +255,4 @@
 - [x] mint - max button
 - [x] mint - better loader
 - [x] check calculator
+- [x] mint - copy message
