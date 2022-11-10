@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] monitor AINT sales
 - [ ] AINT - mining
 
 #### TODO - BACKLOG
@@ -256,3 +255,4 @@
 - [x] check calculator
 - [x] mint - copy message
 - [x] mint - with kk
+- [x] monitor AINT sales
