@@ -5,6 +5,9 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] optimize server load
+
+#### TODO - BACKLOG
+
 - [ ] fix data on mobile
 - [ ] change delete logic
 - [ ] delete blocked users
@@ -15,9 +18,6 @@
 - [ ] more telegram notifications
 - [ ] more security measures
 - [ ] anote staking
-
-#### TODO - BACKLOG
-
 - [ ] ban option
 - [ ] aint miner - basic app
 - [ ] mobile stake - time lock?
