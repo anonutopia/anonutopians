@@ -4,13 +4,12 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] optimize server load
-
-#### TODO - BACKLOG
-
 - [ ] fix data on mobile
 - [ ] change delete logic
 - [ ] delete blocked users
+
+#### TODO - BACKLOG
+
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
@@ -268,3 +267,4 @@
 - [x] miner - adjust wallet
 - [x] miner - deploy
 - [x] check AINT distribution
+- [x] optimize server load
