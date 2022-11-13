@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] optimize server load
 - [ ] fix data on mobile
 - [ ] change delete logic
 - [ ] delete blocked users
