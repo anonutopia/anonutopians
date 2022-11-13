@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] node smart contract
 - [ ] miner - address in wallet
 - [ ] miner - adjust wallet
 - [ ] mining info
@@ -261,3 +260,4 @@
 - [x] miner - new data format
 - [x] miner - new smart contract
 - [x] miner - move staked aints
+- [x] node smart contract
