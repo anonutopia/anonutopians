@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - deploy
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
@@ -262,3 +261,4 @@
 - [x] node smart contract
 - [x] miner - address in wallet
 - [x] miner - adjust wallet
+- [x] miner - deploy
