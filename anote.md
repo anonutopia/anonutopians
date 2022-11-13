@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - move staked aints
 - [ ] miner - address in wallet
 - [ ] miner - adjust wallet
 - [ ] miner - node
@@ -261,3 +260,4 @@
 - [x] monitor AINT sales
 - [x] miner - new data format
 - [x] miner - new smart contract
+- [x] miner - move staked aints
