@@ -7,7 +7,6 @@
 - [ ] node smart contract
 - [ ] miner - address in wallet
 - [ ] miner - adjust wallet
-- [ ] miner - node
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
