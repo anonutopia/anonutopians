@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] check AINT distribution
 - [ ] anote staking
 - [ ] mining info
 - [ ] first anotes notification
