@@ -4,6 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix data on mobile
+- [ ] change delete logic
+- [ ] delete blocked users
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
