@@ -4,7 +4,12 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] AINT - mining
+- [ ] miner - new data format
+- [ ] miner - move staked aints
+- [ ] miner - new smart contract
+- [ ] miner - address in wallet
+- [ ] miner - adjust wallet
+- [ ] miner - node
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
