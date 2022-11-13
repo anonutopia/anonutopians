@@ -4,13 +4,13 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote staking
 - [ ] mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
 - [ ] more security measures
+- [ ] anote staking
 
 #### TODO - BACKLOG
 
