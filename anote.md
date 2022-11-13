@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] check AINT distribution
 - [ ] anote staking
 - [ ] mining info
 - [ ] first anotes notification
@@ -264,3 +263,4 @@
 - [x] miner - address in wallet
 - [x] miner - adjust wallet
 - [x] miner - deploy
+- [x] check AINT distribution
