@@ -4,13 +4,14 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix data on mobile
-- [ ] change delete logic
-- [ ] delete blocked users
+- [ ] new mining UI
+- [ ] more mining info
 
 #### TODO - BACKLOG
 
-- [ ] mining info
+- [ ] fix data on mobile
+- [ ] change delete logic
+- [ ] delete blocked users
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
