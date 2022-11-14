@@ -269,3 +269,4 @@
 - [x] miner - deploy
 - [x] check AINT distribution
 - [x] optimize server load
+- [x] load tweaking
