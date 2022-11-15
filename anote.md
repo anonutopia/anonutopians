@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix data on mobile
+- [ ] change data structure on mobile
 - [ ] change delete logic
 - [ ] more security measures - bot
 
