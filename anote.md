@@ -10,12 +10,11 @@
 
 - [ ] fix data on mobile
 - [ ] change delete logic
-- [ ] delete blocked users
+- [ ] more security measures - bot
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
-- [ ] more security measures
 - [ ] anote staking
 - [ ] ban option
 - [ ] aint miner - basic app
