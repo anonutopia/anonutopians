@@ -7,15 +7,15 @@
 - [ ] change data structure on mobile
 - [ ] change delete logic
 - [ ] more security measures - bot
-
-#### TODO - BACKLOG
-
 - [ ] more mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
 - [ ] anote staking
+
+#### TODO - BACKLOG
+
 - [ ] ban option
 - [ ] aint miner - basic app
 - [ ] smart contracts - extra security audit
