@@ -4,13 +4,13 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] more mining info
-
-#### TODO - BACKLOG
-
 - [ ] fix data on mobile
 - [ ] change delete logic
 - [ ] more security measures - bot
+
+#### TODO - BACKLOG
+
+- [ ] more mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
