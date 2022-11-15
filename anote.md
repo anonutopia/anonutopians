@@ -24,7 +24,6 @@
 - [ ] referrals - remind inactive
 - [ ] expose data.anote.digital
 - [ ] auto buy up
-- [ ] new servers
 - [ ] anote.today - min 1 anote
 - [ ] wallet - back button
 - [ ] send using alias
