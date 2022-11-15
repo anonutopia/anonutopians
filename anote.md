@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new mining UI
 - [ ] more mining info
 
 #### TODO - BACKLOG
@@ -270,3 +269,4 @@
 - [x] check AINT distribution
 - [x] optimize server load
 - [x] load tweaking
+- [x] new mining UI
