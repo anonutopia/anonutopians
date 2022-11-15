@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] advertise here link
+- [ ] advertising tutorial
 - [ ] change data structure on mobile
 - [ ] change delete logic
 - [ ] more security measures - bot
