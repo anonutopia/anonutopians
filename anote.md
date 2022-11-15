@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix new badge
 - [ ] more mining info
 
 #### TODO - BACKLOG
