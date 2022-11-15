@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix new badge
 - [ ] more mining info
 
 #### TODO - BACKLOG
@@ -271,3 +270,4 @@
 - [x] optimize server load
 - [x] load tweaking
 - [x] new mining UI
+- [x] fix new badge
