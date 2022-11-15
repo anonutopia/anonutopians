@@ -18,7 +18,6 @@
 - [ ] anote staking
 - [ ] ban option
 - [ ] aint miner - basic app
-- [ ] mobile stake - time lock?
 - [ ] smart contracts - extra security audit
 - [ ] live - fix assets
 - [ ] anote report - GUI
