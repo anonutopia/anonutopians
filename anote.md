@@ -6,7 +6,6 @@
 
 - [ ] advertise here link
 - [ ] advertising tutorial
-- [ ] more security measures - bot
 - [ ] more mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
@@ -232,3 +231,4 @@
 - [x] load tweaking
 - [x] new mining UI
 - [x] fix new badge
+- [x] more security measures - bot
