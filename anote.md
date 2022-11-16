@@ -15,6 +15,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] more security measures - bot
 - [ ] change data structure on mobile
 - [ ] ban option
 - [ ] aint miner - basic app
