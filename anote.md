@@ -6,8 +6,6 @@
 
 - [ ] advertise here link
 - [ ] advertising tutorial
-- [ ] change data structure on mobile
-- [ ] change delete logic
 - [ ] more security measures - bot
 - [ ] more mining info
 - [ ] first anotes notification
@@ -18,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] change data structure on mobile
 - [ ] ban option
 - [ ] aint miner - basic app
 - [ ] smart contracts - extra security audit
