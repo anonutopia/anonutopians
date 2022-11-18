@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] issue with aint staked to node
 - [ ] advertise here link
 - [ ] advertising tutorial
 - [ ] more mining info
