@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] country filtering
 - [ ] issue with aint staked to node
 - [ ] advertise here link
 - [ ] advertising tutorial
