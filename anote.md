@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] move mining to aint miner
 - [ ] country filtering
 - [ ] issue with aint staked to node
 - [ ] advertise here link
