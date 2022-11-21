@@ -6,7 +6,6 @@
 
 - [ ] move mining to aint miner
 - [ ] country filtering
-- [ ] issue with aint staked to node
 - [ ] advertise here link
 - [ ] advertising tutorial
 - [ ] more mining info
@@ -236,3 +235,4 @@
 - [x] new mining UI
 - [x] fix new badge
 - [x] more security measures - bot
+- [x] issue with aint staked to node
