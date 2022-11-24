@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - save address
 - [ ] miner - mine action
 - [ ] miner - notification
 - [ ] miner - sign up
@@ -241,3 +240,4 @@
 - [x] fix new badge
 - [x] more security measures - bot
 - [x] issue with aint staked to node
+- [x] miner - save address
