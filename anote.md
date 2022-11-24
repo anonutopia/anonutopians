@@ -4,7 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] move mining to aint miner
+- [ ] miner - save address
+- [ ] miner - mine action
+- [ ] miner - notification
+- [ ] miner - sign up
 - [ ] country filtering
 - [ ] advertise here link
 - [ ] advertising tutorial
