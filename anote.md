@@ -9,6 +9,7 @@
 - [ ] miner - notification
 - [ ] miner - sign up
 - [ ] miner - work without native app
+- [ ] node staking bug
 
 #### TODO - BACKLOG
 
