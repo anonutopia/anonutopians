@@ -8,6 +8,10 @@
 - [ ] miner - mine action
 - [ ] miner - notification
 - [ ] miner - sign up
+- [ ] miner - work without native app
+
+#### TODO - BACKLOG
+
 - [ ] country filtering
 - [ ] advertise here link
 - [ ] advertising tutorial
@@ -16,10 +20,7 @@
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] more telegram notifications
-- [ ] anote staking
-
-#### TODO - BACKLOG
-
+- [ ] anote staking *
 - [ ] more security measures - bot
 - [ ] change data structure on mobile
 - [ ] ban option
