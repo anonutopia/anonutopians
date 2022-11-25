@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] miner - get code direct
 - [ ] miner - sign up
 - [ ] miner - work without native app
 - [ ] node staking bug
