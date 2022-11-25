@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - get code direct
 - [ ] miner - sign up
 - [ ] miner - work without native app
 - [ ] miner - backend work
@@ -243,3 +242,4 @@
 - [x] miner - save address
 - [x] miner - mine action
 - [x] miner - notification
+- [x] miner - get code direct
