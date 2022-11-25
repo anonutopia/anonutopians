@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - mine action
-- [ ] miner - notification
 - [ ] miner - sign up
 - [ ] miner - work without native app
 - [ ] node staking bug
@@ -241,3 +239,5 @@
 - [x] more security measures - bot
 - [x] issue with aint staked to node
 - [x] miner - save address
+- [x] miner - mine action
+- [x] miner - notification
