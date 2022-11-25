@@ -7,6 +7,7 @@
 - [ ] miner - get code direct
 - [ ] miner - sign up
 - [ ] miner - work without native app
+- [ ] miner - backend work
 - [ ] node staking bug
 
 #### TODO - BACKLOG
