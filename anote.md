@@ -8,6 +8,7 @@
 - [ ] miner - work without native app
 - [ ] miner - backend work
 - [ ] node staking bug
+- [ ] remove duplicated nodes
 
 #### TODO - BACKLOG
 
