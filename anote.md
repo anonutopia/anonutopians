@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] miner - multitasking issue
 - [ ] miner - sign up
 - [ ] miner - work without native app
 - [ ] miner - backend work
