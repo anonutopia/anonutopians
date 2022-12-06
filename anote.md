@@ -7,7 +7,6 @@
 - [ ] miner - sign up
 - [ ] miner - work without native app
 - [ ] miner - backend work
-- [ ] node staking bug
 
 #### TODO - BACKLOG
 
@@ -245,3 +244,4 @@
 - [x] miner - get code direct
 - [x] miner - multitasking issue
 - [x] remove duplicated nodes
+- [x] node staking bug
