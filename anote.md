@@ -8,7 +8,6 @@
 - [ ] miner - work without native app
 - [ ] miner - backend work
 - [ ] node staking bug
-- [ ] remove duplicated nodes
 
 #### TODO - BACKLOG
 
@@ -245,3 +244,4 @@
 - [x] miner - notification
 - [x] miner - get code direct
 - [x] miner - multitasking issue
+- [x] remove duplicated nodes
