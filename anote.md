@@ -5,11 +5,11 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] miner - backend work
-- [ ] miner - sign up
-- [ ] miner - work without native app
 
 #### TODO - BACKLOG
 
+- [ ] miner - sign up
+- [ ] miner - work without native app
 - [ ] country filtering
 - [ ] advertise here link
 - [ ] advertising tutorial
