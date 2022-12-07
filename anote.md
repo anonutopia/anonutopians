@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - restart when already mining
 - [ ] miner - backend work
 - [ ] miner - sign up
 - [ ] miner - work without native app
@@ -246,3 +245,4 @@
 - [x] miner - multitasking issue
 - [x] remove duplicated nodes
 - [x] node staking bug
+- [x] miner - restart when already mining
