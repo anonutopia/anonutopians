@@ -4,9 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] miner - backend work
 - [ ] miner - sign up
 - [ ] miner - work without native app
-- [ ] miner - backend work
 
 #### TODO - BACKLOG
 
