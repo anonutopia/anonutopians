@@ -6,6 +6,8 @@
 
 - [ ] new explorer
 - [ ] new wallet
+- [ ] Smrdelj node
+- [ ] Bug node
 - [ ] miner - backend work
 
 #### TODO - BACKLOG
