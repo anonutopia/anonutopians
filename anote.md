@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] new explorer
+- [ ] new wallet
 - [ ] miner - backend work
 
 #### TODO - BACKLOG
