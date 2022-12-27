@@ -246,3 +246,4 @@
 - [x] remove duplicated nodes
 - [x] node staking bug
 - [x] miner - restart when already mining
+- [x] DNS for new master node
