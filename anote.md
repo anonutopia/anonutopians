@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new wallet
 - [ ] Smrdelj node
 - [ ] Bug node
 - [ ] miner - backend work
@@ -251,3 +250,4 @@
 - [x] miner - restart when already mining
 - [x] DNS for new master node
 - [x] new explorer
+- [x] new wallet
