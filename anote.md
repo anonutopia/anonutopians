@@ -4,6 +4,11 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] create AINT on new fork
+- [ ] distribute AINT on new fork
+- [ ] new mobile mining
+- [ ] new node setup binary
+- [ ] node setup tutorial
 - [ ] miner - backend work
 
 #### TODO - BACKLOG
