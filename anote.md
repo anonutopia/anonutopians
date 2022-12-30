@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] configure staked AINT
 - [ ] new mobile mining
 - [ ] new node setup binary
 - [ ] node setup tutorial
@@ -257,3 +256,4 @@
 - [x] Bug node
 - [x] create AINT on new fork
 - [x] distribute AINT on new fork
+- [x] configure staked AINT
