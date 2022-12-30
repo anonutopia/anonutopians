@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] configure staked AINT
 - [ ] new mobile mining
 - [ ] new node setup binary
 - [ ] node setup tutorial
