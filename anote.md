@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] install smart contracts
+- [ ] show AINT node staking in wallet
 - [ ] new mobile mining
 - [ ] new node setup binary
 - [ ] node setup tutorial
