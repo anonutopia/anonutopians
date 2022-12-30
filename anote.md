@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] Smrdelj node
-- [ ] Bug node
 - [ ] miner - backend work
 
 #### TODO - BACKLOG
@@ -251,3 +249,5 @@
 - [x] DNS for new master node
 - [x] new explorer
 - [x] new wallet
+- [x] Smrdelj node
+- [x] Bug node
