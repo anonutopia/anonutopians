@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] create AINT on new fork
 - [ ] distribute AINT on new fork
 - [ ] new mobile mining
 - [ ] new node setup binary
@@ -256,3 +255,4 @@
 - [x] new wallet
 - [x] Smrdelj node
 - [x] Bug node
+- [x] create AINT on new fork
