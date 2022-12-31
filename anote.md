@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] install smart contracts
-- [ ] show AINT node staking in wallet
 - [ ] new mobile mining
 - [ ] new node setup binary
 - [ ] node setup tutorial
@@ -259,3 +258,4 @@
 - [x] create AINT on new fork
 - [x] distribute AINT on new fork
 - [x] configure staked AINT
+- [x] show AINT node staking in wallet
