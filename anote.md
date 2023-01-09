@@ -4,11 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] install smart contracts
 - [ ] new mobile mining
 - [ ] new node setup binary
 - [ ] node setup tutorial
-- [ ] miner - backend work
+- [ ] install smart contracts
 - [ ] new anote-robot
 - [ ] new aint-gateway
 - [ ] new anote-exchange
