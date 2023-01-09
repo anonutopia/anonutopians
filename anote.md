@@ -6,7 +6,6 @@
 
 - [ ] new mobile mining
 - [ ] new node setup binary
-- [ ] node setup tutorial
 - [ ] install smart contracts
 - [ ] new anote-robot
 - [ ] new aint-gateway
@@ -14,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] node setup tutorial
 - [ ] miner - sign up
 - [ ] miner - work without native app
 - [ ] country filtering
