@@ -9,6 +9,9 @@
 - [ ] new node setup binary
 - [ ] node setup tutorial
 - [ ] miner - backend work
+- [ ] new anote-robot
+- [ ] new aint-gateway
+- [ ] new anote-exchange
 
 #### TODO - BACKLOG
 
