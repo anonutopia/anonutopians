@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] create mobileold and move
 - [ ] new mobile mining
 - [ ] install smart contracts
 - [ ] new anote-robot
