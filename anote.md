@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new node setup binary
-- [ ] node update script
 - [ ] new mobile mining
 - [ ] install smart contracts
 - [ ] new anote-robot
@@ -263,3 +261,5 @@
 - [x] configure staked AINT
 - [x] show AINT node staking in wallet
 - [x] new aint-node
+- [x] new node setup binary
+- [x] node update script
