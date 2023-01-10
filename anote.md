@@ -4,8 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new mobile mining
 - [ ] new node setup binary
+- [ ] node update script
+- [ ] new mobile mining
 - [ ] install smart contracts
 - [ ] new anote-robot
 - [ ] new aint-gateway
