@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote-report - fix missing addresses
 - [ ] create mobileold and move
 - [ ] new mobile mining
 - [ ] install smart contracts
@@ -265,3 +264,4 @@
 - [x] new aint-node
 - [x] new node setup binary
 - [x] node update script
+- [x] anote-report - fix missing addresses
