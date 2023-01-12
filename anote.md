@@ -7,7 +7,6 @@
 - [ ] unstake aint from defunct nodes
 - [ ] new mobile mining
 - [ ] install smart contracts
-- [ ] new anote-robot
 - [ ] new aint-gateway
 - [ ] new anote-exchange
 - [ ] issue - aint miner using fake address
@@ -267,3 +266,4 @@
 - [x] node update script
 - [x] anote-report - fix missing addresses
 - [x] create mobileold and move
+- [x] new anote-robot
