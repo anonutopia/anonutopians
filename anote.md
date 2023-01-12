@@ -6,7 +6,6 @@
 
 - [ ] aint miner - ip check
 - [ ] unstake aint from defunct nodes
-- [ ] new mobile mining
 - [ ] install smart contracts
 - [ ] new aint-gateway
 - [ ] new anote-exchange
@@ -268,3 +267,4 @@
 - [x] anote-report - fix missing addresses
 - [x] create mobileold and move
 - [x] new anote-robot
+- [x] new mobile mining
