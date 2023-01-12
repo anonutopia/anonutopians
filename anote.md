@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] aint miner - ip check
+- [ ] aint miner - ip protections
 - [ ] unstake aint from defunct nodes
 - [ ] install smart contracts
 - [ ] new aint-gateway
