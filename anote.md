@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] aint miner - ip protections
 - [ ] unstake aint from defunct nodes
 - [ ] install smart contracts
 - [ ] new aint-gateway
@@ -269,3 +268,4 @@
 - [x] new anote-robot
 - [x] new mobile mining
 - [x] remove extra from wallet
+- [x] aint miner - ip protections
