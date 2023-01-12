@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] remove extra from wallet
 - [ ] aint miner - ip check
 - [ ] unstake aint from defunct nodes
 - [ ] install smart contracts
@@ -269,3 +268,4 @@
 - [x] create mobileold and move
 - [x] new anote-robot
 - [x] new mobile mining
+- [x] remove extra from wallet
