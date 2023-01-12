@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] unstake aint from defunct nodes
 - [ ] new mobile mining
 - [ ] install smart contracts
 - [ ] new anote-robot
