@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] remove extra from wallet
 - [ ] aint miner - ip check
 - [ ] unstake aint from defunct nodes
 - [ ] install smart contracts
