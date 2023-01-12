@@ -9,7 +9,7 @@
 - [ ] new anote-robot
 - [ ] new aint-gateway
 - [ ] new anote-exchange
-- [ ] issue - using fake address
+- [ ] issue - aint miner using fake address
 
 #### TODO - BACKLOG
 
