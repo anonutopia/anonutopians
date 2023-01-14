@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner api - show health
 - [ ] miner UI - show health
 - [ ] install smart contracts
 - [ ] new aint-gateway
@@ -272,3 +271,4 @@
 - [x] aint miner - ip protections
 - [x] remove extra leases
 - [x] unstake aint from defunct nodes
+- [x] miner api - show health
