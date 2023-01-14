@@ -6,6 +6,8 @@
 
 - [ ] miner - invitation
 - [ ] miner - import seed
+- [ ] miner - new account
+- [ ] miner - import existing miners and referred miners
 - [ ] miner UI - show health
 - [ ] install smart contracts
 - [ ] new aint-gateway
