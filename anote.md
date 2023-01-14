@@ -10,6 +10,7 @@
 - [ ] miner - new account
 - [ ] miner - import existing miners and referred miners
 - [ ] miner UI - show health
+- [ ] miner - check flows (existing and new miner)
 - [ ] save and use alias
 - [ ] install smart contracts
 - [ ] new aint-gateway
