@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] remove extra leases
 - [ ] unstake aint from defunct nodes
 - [ ] install smart contracts
 - [ ] new aint-gateway
