@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] miner - invitation
+- [ ] miner - import seed
 - [ ] miner UI - show health
 - [ ] install smart contracts
 - [ ] new aint-gateway
