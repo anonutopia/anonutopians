@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] unstake aint from defunct nodes
 - [ ] install smart contracts
 - [ ] new aint-gateway
 - [ ] new anote-exchange
@@ -270,3 +269,4 @@
 - [x] remove extra from wallet
 - [x] aint miner - ip protections
 - [x] remove extra leases
+- [x] unstake aint from defunct nodes
