@@ -4,10 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - invitation
-- [ ] miner - skip invitation
 - [ ] miner - import seed
-- [ ] miner - new account
 - [ ] miner - import existing miners and referred miners
 - [ ] miner - check flows (existing and new miner)
 - [ ] save and use alias
