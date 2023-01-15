@@ -9,7 +9,6 @@
 - [ ] miner - import seed
 - [ ] miner - new account
 - [ ] miner - import existing miners and referred miners
-- [ ] miner UI - show health
 - [ ] miner - check flows (existing and new miner)
 - [ ] save and use alias
 - [ ] install smart contracts
@@ -279,3 +278,4 @@
 - [x] remove extra leases
 - [x] unstake aint from defunct nodes
 - [x] miner api - show health
+- [x] miner UI - show health
