@@ -7,7 +7,6 @@
 - [ ] miner - import seed
 - [ ] miner - import existing miners and referred miners
 - [ ] miner - check flows (existing and new miner)
-- [ ] save and use alias
 - [ ] install smart contracts
 - [ ] new aint-gateway
 - [ ] new anote-exchange
