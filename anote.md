@@ -4,9 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] miner - import existing miners and referred miners
 - [ ] refresh health
 - [ ] miner - import seed
-- [ ] miner - import existing miners and referred miners
 - [ ] miner - check flows (existing and new miner)
 - [ ] miner - fix ip count
 - [ ] new aint-gateway
