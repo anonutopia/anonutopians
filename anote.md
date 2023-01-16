@@ -9,7 +9,6 @@
 - [ ] miner - import existing miners and referred miners
 - [ ] miner - check flows (existing and new miner)
 - [ ] miner - fix ip count
-- [ ] install smart contracts
 - [ ] new aint-gateway
 - [ ] new anote-exchange
 - [ ] issue - aint miner using fake address
@@ -278,3 +277,4 @@
 - [x] miner api - show health
 - [x] miner UI - show health
 - [x] mine - handle errors
+- [x] install smart contracts
