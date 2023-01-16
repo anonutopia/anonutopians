@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] mine - handle errors
 - [ ] miner - import seed
 - [ ] miner - import existing miners and referred miners
 - [ ] miner - check flows (existing and new miner)
