@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] refresh health
-- [ ] mine - handle errors
 - [ ] miner - import seed
 - [ ] miner - import existing miners and referred miners
 - [ ] miner - check flows (existing and new miner)
@@ -278,3 +277,4 @@
 - [x] unstake aint from defunct nodes
 - [x] miner api - show health
 - [x] miner UI - show health
+- [x] mine - handle errors
