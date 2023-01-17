@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner version
-- [ ] miner download link
 - [ ] refresh health
 - [ ] miner - import seed
 - [ ] miner - check flows (existing and new miner)
@@ -280,3 +278,5 @@
 - [x] mine - handle errors
 - [x] install smart contracts
 - [x] miner - import existing miners and referred miners
+- [x] miner version
+- [x] miner download link
