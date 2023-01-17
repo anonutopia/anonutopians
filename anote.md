@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] enable minting AINT
 - [ ] anote alpha balance
 - [ ] refresh health
 - [ ] miner - import seed
