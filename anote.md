@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] anote alpha balance
 - [ ] refresh health
 - [ ] miner - import seed
 - [ ] miner - check flows (existing and new miner)
