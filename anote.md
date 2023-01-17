@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] enable minting AINT
+- [ ] disable back on registration
 - [ ] anote alpha balance
 - [ ] refresh health
 - [ ] miner - import seed
