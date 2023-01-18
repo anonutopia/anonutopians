@@ -7,7 +7,6 @@
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
 - [ ] enable minting AINT
-- [ ] anote alpha balance
 - [ ] miner - import seed
 - [ ] miner - check flows (existing and new miner)
 - [ ] miner - fix ip count
@@ -285,3 +284,4 @@
 - [x] miner download link
 - [x] refresh health
 - [x] check that address is valid
+- [x] anote alpha balance
