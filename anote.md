@@ -4,11 +4,11 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] show the right screen after saving address
-- [ ] enable minting AINT
-- [ ] disable back on registration
-- [ ] anote alpha balance
 - [ ] refresh health
+- [ ] show the right screen after saving address
+- [ ] disable back on registration
+- [ ] enable minting AINT
+- [ ] anote alpha balance
 - [ ] miner - import seed
 - [ ] miner - check flows (existing and new miner)
 - [ ] miner - fix ip count
