@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] cryptocurrency tutorial
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
 - [ ] enable minting AINT
