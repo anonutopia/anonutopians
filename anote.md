@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] show the right screen after saving address
+- [ ] disable back button on address registration
 - [ ] enable minting AINT
 - [ ] disable back on registration
 - [ ] anote alpha balance
