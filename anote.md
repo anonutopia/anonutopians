@@ -7,6 +7,7 @@
 - [ ] update node tutorial
 - [ ] update mining tutorial - web
 - [ ] update mining tutorial - bot
+- [ ] new anote in waves blockchain
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
 - [ ] enable minting AINT
