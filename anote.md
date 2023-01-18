@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] refresh health
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
 - [ ] enable minting AINT
@@ -284,3 +283,4 @@
 - [x] miner - import existing miners and referred miners
 - [x] miner version
 - [x] miner download link
+- [x] refresh health
