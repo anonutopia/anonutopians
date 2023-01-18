@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] bug - send mined
 - [ ] update node tutorial
 - [ ] update mining tutorial - web
 - [ ] update mining tutorial - bot
