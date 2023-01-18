@@ -4,6 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] update node tutorial
+- [ ] update mining tutorial - web
+- [ ] update mining tutorial - bot
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
 - [ ] enable minting AINT
