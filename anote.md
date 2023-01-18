@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] cryptocurrency tutorial
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
 - [ ] enable minting AINT
@@ -286,3 +285,4 @@
 - [x] refresh health
 - [x] check that address is valid
 - [x] anote alpha balance
+- [x] cryptocurrency tutorial
