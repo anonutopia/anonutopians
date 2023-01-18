@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] check that address is valid
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
 - [ ] enable minting AINT
@@ -285,3 +284,4 @@
 - [x] miner version
 - [x] miner download link
 - [x] refresh health
+- [x] check that address is valid
