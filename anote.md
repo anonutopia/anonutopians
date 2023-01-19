@@ -13,6 +13,7 @@
 - [ ] new aint-gateway
 - [ ] new anote-exchange
 - [ ] move anote.today to beta
+- [ ] protect API
 
 #### TODO - BACKLOG
 
