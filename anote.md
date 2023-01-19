@@ -6,7 +6,6 @@
 
 - [ ] new anote in waves blockchain
 - [ ] enable minting AINT
-- [ ] miner - check flows (existing and new miner)
 - [ ] miner - fix ip count
 - [ ] new aint-gateway
 - [ ] move anote.today to beta
@@ -292,3 +291,4 @@
 - [x] update mining tutorial - bot
 - [x] disable back on registration
 - [x] show the right screen after saving address
+- [x] miner - check flows (existing and new miner)
