@@ -10,6 +10,8 @@
 - [ ] new aint-gateway
 - [ ] move anote.today to beta
 - [ ] protect API
+- [ ] fix referrals
+- [ ] fix mine invite page
 
 #### TODO - BACKLOG
 
