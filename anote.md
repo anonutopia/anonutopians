@@ -10,7 +10,6 @@
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
 - [ ] enable minting AINT
-- [ ] miner - import seed
 - [ ] miner - check flows (existing and new miner)
 - [ ] miner - fix ip count
 - [ ] new aint-gateway
