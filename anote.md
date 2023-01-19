@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] bug - send mined
 - [ ] update node tutorial
 - [ ] update mining tutorial - web
 - [ ] update mining tutorial - bot
@@ -292,3 +291,4 @@
 - [x] check that address is valid
 - [x] anote alpha balance
 - [x] cryptocurrency tutorial
+- [x] bug - send mined
