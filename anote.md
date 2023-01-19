@@ -292,3 +292,4 @@
 - [x] anote alpha balance
 - [x] cryptocurrency tutorial
 - [x] bug - send mined
+- [x] fix health bar
