@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] update mining tutorial - web
-- [ ] update mining tutorial - bot
 - [ ] new anote in waves blockchain
 - [ ] show the right screen after saving address
 - [ ] disable back on registration
@@ -292,3 +290,5 @@
 - [x] bug - send mined
 - [x] fix health bar
 - [x] add miner link to the web
+- [x] update mining tutorial - web
+- [x] update mining tutorial - bot
