@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] show the right screen after saving address
 - [ ] disable back on registration
+- [ ] show the right screen after saving address
 - [ ] new anote in waves blockchain
 - [ ] enable minting AINT
 - [ ] miner - check flows (existing and new miner)
