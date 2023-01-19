@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] disable back on registration
 - [ ] show the right screen after saving address
 - [ ] new anote in waves blockchain
 - [ ] enable minting AINT
@@ -292,3 +291,4 @@
 - [x] add miner link to the web
 - [x] update mining tutorial - web
 - [x] update mining tutorial - bot
+- [x] disable back on registration
