@@ -12,7 +12,6 @@
 - [ ] miner - fix ip count
 - [ ] new aint-gateway
 - [ ] new anote-exchange
-- [ ] issue - aint miner using fake address
 - [ ] move anote.today to beta
 
 #### TODO - BACKLOG
