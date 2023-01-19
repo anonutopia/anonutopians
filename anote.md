@@ -291,3 +291,4 @@
 - [x] cryptocurrency tutorial
 - [x] bug - send mined
 - [x] fix health bar
+- [x] add miner link to the web
