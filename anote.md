@@ -9,12 +9,12 @@
 - [ ] miner - check flows (existing and new miner)
 - [ ] miner - fix ip count
 - [ ] new aint-gateway
-- [ ] new anote-exchange
 - [ ] move anote.today to beta
 - [ ] protect API
 
 #### TODO - BACKLOG
 
+- [ ] new anote-exchange
 - [ ] node setup tutorial
 - [ ] miner - sign up
 - [ ] miner - work without native app
