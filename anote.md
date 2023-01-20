@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new aint-gateway
 - [ ] new anote in waves blockchain
+- [ ] new aint-gateway
 - [ ] enable minting AINT
 - [ ] miner - fix ip count
 - [ ] protect API
