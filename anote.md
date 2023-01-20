@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new aint-gateway
 - [ ] miner - fix ip count
 - [ ] protect API
 - [ ] fix referrals
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] new aint-gateway
 - [ ] new anote-exchange
 - [ ] node setup tutorial
 - [ ] miner - sign up
