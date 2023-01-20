@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] new aint-gateway
-- [ ] enable minting AINT
 - [ ] miner - fix ip count
 - [ ] protect API
 - [ ] fix referrals
@@ -295,3 +294,4 @@
 - [x] move anote.today to beta
 - [x] new anote in waves blockchain
 - [x] new aint-gateway - deploy
+- [x] enable minting AINT
