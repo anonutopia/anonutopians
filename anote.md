@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new anote in waves blockchain
 - [ ] new aint-gateway
 - [ ] enable minting AINT
 - [ ] miner - fix ip count
@@ -294,3 +293,4 @@
 - [x] show the right screen after saving address
 - [x] miner - check flows (existing and new miner)
 - [x] move anote.today to beta
+- [x] new anote in waves blockchain
