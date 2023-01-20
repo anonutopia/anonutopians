@@ -8,7 +8,6 @@
 - [ ] enable minting AINT
 - [ ] miner - fix ip count
 - [ ] new aint-gateway
-- [ ] move anote.today to beta
 - [ ] protect API
 - [ ] fix referrals
 - [ ] fix mine invite page
@@ -294,3 +293,4 @@
 - [x] disable back on registration
 - [x] show the right screen after saving address
 - [x] miner - check flows (existing and new miner)
+- [x] move anote.today to beta
