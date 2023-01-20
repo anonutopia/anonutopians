@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] new aint-gateway - deploy
 - [ ] new aint-gateway
 - [ ] enable minting AINT
 - [ ] miner - fix ip count
