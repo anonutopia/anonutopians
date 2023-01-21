@@ -5,12 +5,12 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] miner - fix ip count
-- [ ] protect API
 - [ ] fix referrals
 - [ ] fix mine invite page
 
 #### TODO - BACKLOG
 
+- [ ] protect API
 - [ ] new aint-gateway
 - [ ] new anote-exchange
 - [ ] node setup tutorial
