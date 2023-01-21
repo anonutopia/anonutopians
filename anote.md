@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] report - show earnings
 - [ ] fix referrals
 - [ ] fix mine invite page
 
