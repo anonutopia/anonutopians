@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] report - show earnings
 - [ ] fix referrals
 - [ ] fix mine invite page
 
@@ -296,3 +295,4 @@
 - [x] new aint-gateway - deploy
 - [x] enable minting AINT
 - [x] miner - fix ip count
+- [x] report - show earnings
