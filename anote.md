@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - fix ip count
 - [ ] fix referrals
 - [ ] fix mine invite page
 
@@ -295,3 +294,4 @@
 - [x] new anote in waves blockchain
 - [x] new aint-gateway - deploy
 - [x] enable minting AINT
+- [x] miner - fix ip count
