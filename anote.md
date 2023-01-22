@@ -4,8 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] app update alert
 - [ ] fix referrals
-- [ ] fix mine invite page
+- [ ] fix mine invite pageXXXXXXXXXXx
 
 #### TODO - BACKLOG
 
