@@ -6,7 +6,7 @@
 
 - [ ] app update alert
 - [ ] fix referrals
-- [ ] fix mine invite pageXXXXXXXXXXx
+- [ ] fix mine invite page
 
 #### TODO - BACKLOG
 
