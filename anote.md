@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] wheel position
 - [ ] app update alert
 - [ ] fix referrals
 - [ ] fix mine invite page
