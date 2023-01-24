@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] wheel position
 - [ ] fix referrals
 - [ ] fix mine invite page
 
@@ -298,3 +297,4 @@
 - [x] miner - fix ip count
 - [x] report - show earnings
 - [x] app update alert
+- [x] wheel position
