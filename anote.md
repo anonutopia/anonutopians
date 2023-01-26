@@ -6,6 +6,7 @@
 
 - [ ] mine invite page - mechanics
 - [ ] fix referrals
+- [ ] telegram bot
 
 #### TODO - BACKLOG
 
