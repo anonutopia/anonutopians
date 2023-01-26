@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] fix referrals
-- [ ] mine invite page
 - [ ] mine invite page - mechanics
 
 #### TODO - BACKLOG
@@ -299,3 +298,4 @@
 - [x] report - show earnings
 - [x] app update alert
 - [x] wheel position
+- [x] mine invite page
