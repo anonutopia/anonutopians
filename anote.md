@@ -5,7 +5,8 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] fix referrals
-- [ ] fix mine invite page
+- [ ] mine invite page
+- [ ] mine invite page - mechanics
 
 #### TODO - BACKLOG
 
