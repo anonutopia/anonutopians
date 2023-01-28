@@ -5,7 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] mine invite page - mechanics
-- [ ] fix referrals
+- [ ] aint miner - import seed
 - [ ] telegram bot
 
 #### TODO - BACKLOG
