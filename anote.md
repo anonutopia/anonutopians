@@ -6,10 +6,10 @@
 
 - [ ] mine invite page - mechanics
 - [ ] aint miner - import seed
-- [ ] telegram bot
 
 #### TODO - BACKLOG
 
+- [ ] telegram bot
 - [ ] protect API
 - [ ] new aint-gateway
 - [ ] new anote-exchange
