@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mine invite page - server side save
 - [ ] aint miner - import seed
 
 #### TODO - BACKLOG
@@ -302,3 +301,4 @@
 - [x] mine invite page
 - [x] mine invite page - mechanics
 - [x] mine invite page - copy
+- [x] mine invite page - server side save
