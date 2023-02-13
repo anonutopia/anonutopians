@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] aint digital - check if seed valid
+- [ ] wallet - register from invite page
 - [ ] referral link in wallet
 
 #### TODO - BACKLOG
