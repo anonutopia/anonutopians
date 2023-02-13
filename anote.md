@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] aint miner - import seed
+- [ ] referral link in wallet
 
 #### TODO - BACKLOG
 
