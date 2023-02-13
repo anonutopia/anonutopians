@@ -7,6 +7,7 @@
 - [ ] aint digital - check if seed valid
 - [ ] wallet - register from invite page
 - [ ] referral link in wallet
+- [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
 
