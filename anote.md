@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mine invite page - copy
 - [ ] mine invite page - server side save
 - [ ] aint miner - import seed
 
@@ -302,3 +301,4 @@
 - [x] wheel position
 - [x] mine invite page
 - [x] mine invite page - mechanics
+- [x] mine invite page - copy
