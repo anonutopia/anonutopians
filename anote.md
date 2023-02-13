@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] invite - alias referral
 - [ ] aint miner - import seed
 
 #### TODO - BACKLOG
