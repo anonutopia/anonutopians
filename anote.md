@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] aint digital - check if seed valid
 - [ ] referral link in wallet
 
 #### TODO - BACKLOG
