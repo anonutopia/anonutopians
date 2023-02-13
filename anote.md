@@ -4,7 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mine invite page - mechanics
+- [ ] mine invite page - copy
+- [ ] mine invite page - server side save
 - [ ] aint miner - import seed
 
 #### TODO - BACKLOG
@@ -300,3 +301,4 @@
 - [x] app update alert
 - [x] wheel position
 - [x] mine invite page
+- [x] mine invite page - mechanics
