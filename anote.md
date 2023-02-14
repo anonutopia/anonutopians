@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] wallet - register from invite page
 - [ ] referral link in wallet
+- [ ] wallet - register from invite page
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
