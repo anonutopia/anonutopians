@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] aint digital - check if seed valid
 - [ ] wallet - register from invite page
 - [ ] referral link in wallet
 - [ ] referral system - influence withdraw
@@ -307,3 +306,4 @@
 - [x] mine invite page - server side save
 - [x] invite - alias referral
 - [x] aint miner - import seed
+- [x] aint digital - check if seed valid
