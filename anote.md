@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - referral link
 - [ ] miner - show referred
+- [ ] miner - referral link
 - [ ] wallet - register from invite page
 - [ ] referral system - influence withdraw
 
