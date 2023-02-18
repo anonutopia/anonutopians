@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] miner - show referred
-- [ ] miner - referral link
 - [ ] wallet - register from invite page
 - [ ] referral system - influence withdraw
 
@@ -309,3 +308,4 @@
 - [x] aint miner - import seed
 - [x] aint digital - check if seed valid
 - [x] miner - show cycle
+- [x] miner - referral link
