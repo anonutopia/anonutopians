@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] ref - move link
+- [ ] ref - invite inactive
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
