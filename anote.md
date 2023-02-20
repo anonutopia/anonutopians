@@ -6,7 +6,6 @@
 
 - [ ] fix robot help
 - [ ] miner - show referred
-- [ ] wallet - register from invite page
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
@@ -312,3 +311,4 @@
 - [x] miner - referral link
 - [x] ref - alias
 - [x] miner data API
+- [x] wallet - register from invite page
