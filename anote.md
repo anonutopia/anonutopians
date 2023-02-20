@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner data API
 - [ ] miner - show referred
 - [ ] wallet - register from invite page
 - [ ] referral system - influence withdraw
@@ -311,3 +310,4 @@
 - [x] miner - show cycle
 - [x] miner - referral link
 - [x] ref - alias
+- [x] miner data API
