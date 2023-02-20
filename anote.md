@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix robot help
 - [ ] miner - show referred
 - [ ] wallet - register from invite page
 - [ ] referral system - influence withdraw
