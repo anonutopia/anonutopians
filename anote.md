@@ -4,13 +4,13 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] connect telegram
 - [ ] ref - move link
 - [ ] ref - invite inactive
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
 
-- [ ] telegram bot
 - [ ] protect API
 - [ ] new aint-gateway
 - [ ] new anote-exchange
