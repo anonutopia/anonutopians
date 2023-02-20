@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix robot help
 - [ ] miner - show referred
 - [ ] referral system - influence withdraw
 
@@ -312,3 +311,4 @@
 - [x] ref - alias
 - [x] miner data API
 - [x] wallet - register from invite page
+- [x] fix robot help
