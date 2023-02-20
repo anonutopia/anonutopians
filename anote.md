@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner - show referred
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
@@ -312,3 +311,4 @@
 - [x] miner data API
 - [x] wallet - register from invite page
 - [x] fix robot help
+- [x] miner - show referred
