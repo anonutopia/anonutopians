@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix cycle when restarting mining
+- [ ] fix cycle bar when restarting mining
 - [ ] connect telegram
 - [ ] ref - move link
 - [ ] ref - invite inactive
