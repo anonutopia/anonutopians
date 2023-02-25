@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix cycle bar when restarting mining
 - [ ] connect telegram
 - [ ] ref - move link
 - [ ] ref - invite inactive
@@ -315,3 +314,4 @@
 - [x] wallet - register from invite page
 - [x] fix robot help
 - [x] miner - show referred
+- [x] fix cycle bar when restarting mining
