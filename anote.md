@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] better battery saver management
 - [ ] fix referral showing in wallet
 - [ ] connect telegram
 - [ ] ref - move link
