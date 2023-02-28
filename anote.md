@@ -317,3 +317,4 @@
 - [x] fix robot help
 - [x] miner - show referred
 - [x] fix cycle bar when restarting mining
+- [x] fix referral issue when using address
