@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] new aint minting contract
 - [ ] connect telegram
 - [ ] fix referral showing in wallet
 - [ ] better battery saver management
