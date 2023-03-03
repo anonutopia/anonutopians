@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] aint oracle
-- [ ] new aint minting contract
 - [ ] connect telegram
 - [ ] fix referral showing in wallet
 - [ ] better battery saver management
@@ -15,6 +13,8 @@
 
 #### TODO - BACKLOG
 
+- [ ] aint oracle
+- [ ] new aint minting contract
 - [ ] protect API
 - [ ] new aint-gateway
 - [ ] new anote-exchange
