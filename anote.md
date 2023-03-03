@@ -6,13 +6,13 @@
 
 - [ ] connect telegram
 - [ ] fix referral showing in wallet
-- [ ] better battery saver management
 - [ ] ref - move link
 - [ ] ref - invite inactive
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
 
+- [ ] better battery saver management
 - [ ] aint oracle
 - [ ] new aint minting contract
 - [ ] protect API
