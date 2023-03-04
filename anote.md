@@ -9,6 +9,7 @@
 - [ ] ref - move link
 - [ ] ref - invite inactive
 - [ ] referral system - influence withdraw
+- [ ] stake AINT for health
 
 #### TODO - BACKLOG
 
