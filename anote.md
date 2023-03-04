@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] connect telegram
 - [ ] fix referral showing in wallet
 - [ ] ref - move link
 - [ ] ref - invite inactive
@@ -321,3 +320,4 @@
 - [x] miner - show referred
 - [x] fix cycle bar when restarting mining
 - [x] fix referral issue when using address
+- [x] connect telegram
