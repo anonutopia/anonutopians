@@ -12,6 +12,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] telegram cycle notification
 - [ ] better battery saver management
 - [ ] aint oracle
 - [ ] new aint minting contract
