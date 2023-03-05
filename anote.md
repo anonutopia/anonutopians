@@ -4,10 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] stake AINT for health
 - [ ] ref - move link
 - [ ] ref - invite inactive
 - [ ] referral system - influence withdraw
-- [ ] stake AINT for health
 
 #### TODO - BACKLOG
 
