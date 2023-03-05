@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix referral showing in wallet
 - [ ] ref - move link
 - [ ] ref - invite inactive
 - [ ] referral system - influence withdraw
@@ -323,3 +322,4 @@
 - [x] fix referral issue when using address
 - [x] connect telegram
 - [x] bot delete command
+- [x] fix referral showing in wallet
