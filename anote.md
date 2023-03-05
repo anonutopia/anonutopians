@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] bot delete command
 - [ ] fix referral showing in wallet
 - [ ] ref - move link
 - [ ] ref - invite inactive
@@ -323,3 +322,4 @@
 - [x] fix cycle bar when restarting mining
 - [x] fix referral issue when using address
 - [x] connect telegram
+- [x] bot delete command
