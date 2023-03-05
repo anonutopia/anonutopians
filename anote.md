@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] bot delete command
 - [ ] fix referral showing in wallet
 - [ ] ref - move link
 - [ ] ref - invite inactive
