@@ -4,13 +4,13 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] stake AINT for health
 - [ ] ref - move link
 - [ ] ref - invite inactive
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
 
+- [ ] stake AINT for health
 - [ ] telegram cycle notification
 - [ ] better battery saver management
 - [ ] aint oracle
@@ -323,3 +323,4 @@
 - [x] connect telegram
 - [x] bot delete command
 - [x] fix referral showing in wallet
+- [x] stake AINT for health
