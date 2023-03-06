@@ -10,7 +10,7 @@
 
 #### TODO - BACKLOG
 
-- [ ] stake AINT for health
+- [ ] stake AINT for health - additional
 - [ ] telegram cycle notification
 - [ ] better battery saver management
 - [ ] aint oracle
