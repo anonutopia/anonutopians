@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] ref - move link
 - [ ] ref - invite inactive
 - [ ] referral system - influence withdraw
 
@@ -324,3 +323,4 @@
 - [x] bot delete command
 - [x] fix referral showing in wallet
 - [x] stake AINT for health
+- [x] ref - move link
