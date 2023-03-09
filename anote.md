@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] ref - invite inactive
+- [ ] UI bug for new users
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
