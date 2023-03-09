@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] UI bug for new users
 - [ ] referral system - influence withdraw
 - [ ] send 0.001 to new miners
 
@@ -326,3 +325,4 @@
 - [x] stake AINT for health
 - [x] ref - move link
 - [x] ref - invite inactive
+- [x] UI bug for new users
