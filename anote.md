@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] ref - invite inactive
 - [ ] UI bug for new users
 - [ ] referral system - influence withdraw
 
@@ -325,3 +324,4 @@
 - [x] fix referral showing in wallet
 - [x] stake AINT for health
 - [x] ref - move link
+- [x] ref - invite inactive
