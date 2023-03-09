@@ -9,9 +9,9 @@
 
 #### TODO - BACKLOG
 
-- [ ] stake AINT for health - additional
 - [ ] telegram cycle notification
 - [ ] better battery saver management
+- [ ] stake AINT for health - additional
 - [ ] aint oracle
 - [ ] new aint minting contract
 - [ ] protect API
