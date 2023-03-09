@@ -11,25 +11,23 @@
 
 - [ ] telegram cycle notification
 - [ ] better battery saver management
-- [ ] stake AINT for health - additional
+- [ ] miner - work without native app
+- [ ] advertise here link
+- [ ] advertising tutorial
+- [ ] more telegram notifications
 - [ ] aint oracle
 - [ ] new aint minting contract
+- [ ] stake AINT for health - additional
 - [ ] protect API
 - [ ] new aint-gateway
 - [ ] new anote-exchange
 - [ ] node setup tutorial
-- [ ] miner - sign up
-- [ ] miner - work without native app
 - [ ] country filtering
-- [ ] advertise here link
-- [ ] advertising tutorial
 - [ ] more mining info
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
-- [ ] more telegram notifications
-- [ ] anote staking *
-- [ ] more security measures - bot
+- [ ] anote staking
 - [ ] change data structure on mobile
 - [ ] ban option
 - [ ] aint miner - basic app
