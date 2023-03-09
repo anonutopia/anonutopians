@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] send 0.001 to new miners
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
@@ -322,3 +321,4 @@
 - [x] ref - move link
 - [x] ref - invite inactive
 - [x] UI bug for new users
+- [x] send 0.001 to new miners
