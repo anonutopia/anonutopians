@@ -33,7 +33,6 @@
 - [ ] smart contracts - extra security audit
 - [ ] live - fix assets
 - [ ] anote report - GUI
-- [ ] referrals - remind inactive
 - [ ] expose data.anote.digital
 - [ ] auto buy up
 - [ ] anote.today - min 1 anote
