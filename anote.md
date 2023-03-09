@@ -31,7 +31,7 @@
 - [ ] change data structure on mobile
 - [ ] ban option
 - [ ] smart contracts - extra security audit
-- [ ] live - fix assets
+- [ ] explorer - fix assets
 - [ ] anote report - GUI
 - [ ] expose data.anote.digital
 - [ ] auto buy up
