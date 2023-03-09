@@ -6,6 +6,7 @@
 
 - [ ] UI bug for new users
 - [ ] referral system - influence withdraw
+- [ ] send 0.001 to new miners
 
 #### TODO - BACKLOG
 
