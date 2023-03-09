@@ -30,7 +30,6 @@
 - [ ] anote staking
 - [ ] change data structure on mobile
 - [ ] ban option
-- [ ] aint miner - basic app
 - [ ] smart contracts - extra security audit
 - [ ] live - fix assets
 - [ ] anote report - GUI
