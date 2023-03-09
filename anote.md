@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] referral system - influence withdraw
 - [ ] send 0.001 to new miners
+- [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
 
