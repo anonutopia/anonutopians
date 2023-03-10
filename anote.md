@@ -26,7 +26,6 @@
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
-- [ ] anote staking
 - [ ] change data structure on mobile
 - [ ] ban option
 - [ ] smart contracts - extra security audit
@@ -37,7 +36,7 @@
 - [ ] anote.today - min 1 anote
 - [ ] wallet - back button
 - [ ] send using alias
-- [ ] wallet - lease and stake
+- [ ] wallet - lease and stake anote
 - [ ] desktop mining
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
