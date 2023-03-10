@@ -14,6 +14,9 @@
 - [ ] advertise here link
 - [ ] advertising tutorial
 - [ ] more telegram notifications
+- [ ] eth / bsc
+- [ ] eth / bsc gateway
+- [ ] publish on dexes
 - [ ] aint oracle
 - [ ] new aint minting contract
 - [ ] stake AINT for health - additional
