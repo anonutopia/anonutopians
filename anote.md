@@ -26,8 +26,6 @@
 - [ ] first anotes notification
 - [ ] referrals - more details
 - [ ] exchange - check math again
-- [ ] change data structure on mobile
-- [ ] ban option
 - [ ] smart contracts - extra security audit
 - [ ] explorer - fix assets
 - [ ] anote report - GUI
