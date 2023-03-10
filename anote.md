@@ -31,7 +31,6 @@
 - [ ] smart contracts - extra security audit
 - [ ] explorer - fix assets
 - [ ] anote report - GUI
-- [ ] expose data.anote.digital
 - [ ] auto buy up
 - [ ] anote.today - min 1 anote
 - [ ] wallet - back button
