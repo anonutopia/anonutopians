@@ -41,7 +41,6 @@
 - [ ] fix situation with anonfunder / kk
 - [ ] restore node from seed file
 - [ ] node update
-- [ ] gateway - old holders
 - [ ] anote.pro tool
 - [ ] secure the nodes
 - [ ] node - docker image
