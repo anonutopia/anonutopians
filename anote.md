@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] settings - use telegram for notifications
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
