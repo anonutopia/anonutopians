@@ -4,11 +4,11 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] telegram cycle notification
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
 
-- [ ] telegram cycle notification
 - [ ] better battery saver management
 - [ ] miner - work without native app
 - [ ] advertise here link
