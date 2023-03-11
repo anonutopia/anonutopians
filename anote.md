@@ -13,6 +13,8 @@
 - [ ] advertise here link
 - [ ] advertising tutorial
 - [ ] more telegram notifications
+- [ ] more miner notifications
+- [ ] more tutorials
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
 - [ ] publish on dexes
