@@ -14,7 +14,8 @@
 - [ ] advertising tutorial
 - [ ] more telegram notifications
 - [ ] more miner notifications
-- [ ] more tutorials
+- [ ] more tutorials (mining, battery, video)
+- [ ] more telegram commands - faq
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
 - [ ] publish on dexes
