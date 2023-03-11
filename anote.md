@@ -4,12 +4,12 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] better battery saver management
+- [ ] miner - work without native app
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
 
-- [ ] better battery saver management
-- [ ] miner - work without native app
 - [ ] advertise here link
 - [ ] advertising tutorial
 - [ ] more telegram notifications
