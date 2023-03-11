@@ -29,7 +29,6 @@
 - [ ] referrals - more details
 - [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
-- [ ] explorer - fix assets
 - [ ] anote report - GUI
 - [ ] auto buy up
 - [ ] anote.today - min 1 anote
@@ -320,3 +319,4 @@
 - [x] UI bug for new users
 - [x] send 0.001 to new miners
 - [x] telegram cycle notification
+- [x] explorer - fix assets
