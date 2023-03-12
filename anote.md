@@ -9,6 +9,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] web miner - ping
 - [ ] advertise here link
 - [ ] advertising tutorial
 - [ ] more telegram notifications
