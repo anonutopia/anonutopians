@@ -323,3 +323,4 @@
 - [x] send 0.001 to new miners
 - [x] telegram cycle notification
 - [x] explorer - fix assets
+- [x] fix delete account
