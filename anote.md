@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] better battery saver management
-- [ ] miner - work without native app
 - [ ] referral system - influence withdraw
 
 #### TODO - BACKLOG
@@ -324,3 +323,4 @@
 - [x] telegram cycle notification
 - [x] explorer - fix assets
 - [x] fix delete account
+- [x] miner - work without native app
