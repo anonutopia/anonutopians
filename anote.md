@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] referral system - influence withdraw
 - [ ] better battery saver management
 
 #### TODO - BACKLOG
@@ -325,3 +324,4 @@
 - [x] explorer - fix assets
 - [x] fix delete account
 - [x] miner - work without native app
+- [x] referral system - influence withdraw
