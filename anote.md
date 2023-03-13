@@ -13,7 +13,7 @@
 - [ ] advertising tutorial
 - [ ] more telegram notifications
 - [ ] more miner notifications
-- [ ] more tutorials (mining, battery, video)
+- [ ] more tutorials (mining, battery, trading, video)
 - [ ] more telegram commands - faq
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
