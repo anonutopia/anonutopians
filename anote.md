@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] better battery saver management
-
 #### TODO - BACKLOG
 
 - [ ] web miner - ping
@@ -327,3 +325,4 @@
 - [x] fix delete account
 - [x] miner - work without native app
 - [x] referral system - influence withdraw
+- [x] better battery saver management
