@@ -20,6 +20,7 @@
 - [ ] publish on dexes
 - [ ] aint oracle
 - [ ] new aint minting contract
+- [ ] allow other channels into anote
 - [ ] stake AINT for health - additional
 - [ ] protect API
 - [ ] new aint-gateway
