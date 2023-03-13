@@ -4,9 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] web miner - ping
+
 #### TODO - BACKLOG
 
-- [ ] web miner - ping
 - [ ] advertise here link
 - [ ] advertising tutorial
 - [ ] more telegram notifications
