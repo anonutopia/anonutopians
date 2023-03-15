@@ -4,16 +4,16 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] web miner - ping
-
-#### TODO - BACKLOG
-
-- [ ] advertise here link
-- [ ] advertising tutorial
 - [ ] more telegram notifications
 - [ ] more miner notifications
 - [ ] more tutorials (mining, battery, trading, video)
 - [ ] more telegram commands - faq
+
+#### TODO - BACKLOG
+
+- [ ] web miner - ping
+- [ ] advertise here link
+- [ ] advertising tutorial
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
 - [ ] publish on dexes
