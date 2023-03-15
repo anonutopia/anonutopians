@@ -6,7 +6,7 @@
 
 - [ ] more telegram notifications
 - [ ] more miner notifications
-- [ ] more tutorials (mining, battery, trading, video)
+- [ ] more tutorials (mining, battery, trading, aint, video)
 - [ ] more telegram commands - faq
 
 #### TODO - BACKLOG
