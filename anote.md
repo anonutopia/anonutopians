@@ -327,3 +327,4 @@
 - [x] miner - work without native app
 - [x] referral system - influence withdraw
 - [x] better battery saver management
+- [x] miner js issue - update chrome and system webview
