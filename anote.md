@@ -331,3 +331,4 @@
 - [x] end notification sync miner and telegram
 - [x] battery optimization tutorial
 - [x] battery optimization bot command
+- [x] telegram health notification
