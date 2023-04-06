@@ -330,3 +330,4 @@
 - [x] miner js issue - update chrome and system webview
 - [x] end notification sync miner and telegram
 - [x] battery optimization tutorial
+- [x] battery optimization bot command
