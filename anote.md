@@ -6,11 +6,12 @@
 
 - [ ] more telegram notifications
 - [ ] more miner notifications
-- [ ] more tutorials (mining, trading, aint, video)
+- [ ] more tutorials (aint)
 - [ ] more telegram commands - faq
 
 #### TODO - BACKLOG
 
+- [ ] more tutorials (mining, trading, video)
 - [ ] web miner - ping
 - [ ] advertise here link
 - [ ] advertising tutorial
