@@ -328,3 +328,4 @@
 - [x] referral system - influence withdraw
 - [x] better battery saver management
 - [x] miner js issue - update chrome and system webview
+- [x] end notification sync miner and telegram
