@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] confirmed users in miner
 - [ ] aint tutorial
 - [ ] miner health notification
 - [ ] first cycle telegram notification
@@ -337,3 +336,4 @@
 - [x] battery optimization tutorial
 - [x] battery optimization bot command
 - [x] telegram health notification
+- [x] confirmed users in miner
