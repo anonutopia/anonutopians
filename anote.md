@@ -4,11 +4,11 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] aint tutorial
 - [ ] miner health notification
-- [ ] first cycle telegram notification
 - [ ] show balance in miner
 - [ ] show address in miner
+- [ ] first cycle telegram notification
+- [ ] aint tutorial
 - [ ] fix wallet logic
 - [ ] warn about invite
 
