@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] miner health notification
 - [ ] show balance in miner
 - [ ] show address in miner
 - [ ] first cycle telegram notification
@@ -337,3 +336,4 @@
 - [x] battery optimization bot command
 - [x] telegram health notification
 - [x] confirmed users in miner
+- [x] miner health notification
