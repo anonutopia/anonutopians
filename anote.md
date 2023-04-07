@@ -4,10 +4,12 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] more telegram notifications
-- [ ] more miner notifications
-- [ ] more tutorials (aint)
-- [ ] more telegram commands - faq
+- [ ] aint tutorial
+- [ ] miner health notification
+- [ ] first cycle telegram notification
+- [ ] show balance in miner
+- [ ] show address in miner
+- [ ] fix wallet logic
 
 #### TODO - BACKLOG
 
