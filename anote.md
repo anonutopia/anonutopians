@@ -4,13 +4,13 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] confirmed users in miner
 - [ ] aint tutorial
 - [ ] miner health notification
 - [ ] first cycle telegram notification
 - [ ] show balance in miner
 - [ ] show address in miner
 - [ ] fix wallet logic
-- [ ] confirmed users in miner
 - [ ] warn about invite
 
 #### TODO - BACKLOG
