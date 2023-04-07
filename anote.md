@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] show balance in miner
-- [ ] show address in miner
 - [ ] first cycle telegram notification
 - [ ] aint tutorial
 - [ ] fix wallet logic
@@ -337,3 +335,5 @@
 - [x] telegram health notification
 - [x] confirmed users in miner
 - [x] miner health notification
+- [x] show balance in miner
+- [x] show address in miner
