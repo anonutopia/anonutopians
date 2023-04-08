@@ -27,8 +27,6 @@
 - [ ] node setup tutorial
 - [ ] country filtering
 - [ ] more mining info
-- [ ] referrals - more details
-- [ ] exchange - check math again
 - [ ] smart contracts - extra security audit
 - [ ] anote report - GUI
 - [ ] auto buy up
