@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] first cycle telegram notification
 - [ ] aint tutorial
 - [ ] fix wallet logic
 - [ ] warn about invite
@@ -338,3 +337,4 @@
 - [x] show balance in miner
 - [x] show address in miner
 - [x] different battery notification check
+- [x] first cycle telegram notification
