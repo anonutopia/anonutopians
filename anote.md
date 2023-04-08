@@ -7,13 +7,13 @@
 - [ ] aint tutorial
 - [ ] fix wallet logic
 - [ ] warn about invite
+- [ ] advertise here link
+- [ ] advertising tutorial
 
 #### TODO - BACKLOG
 
 - [ ] more tutorials (mining, trading, video)
 - [ ] web miner - ping
-- [ ] advertise here link
-- [ ] advertising tutorial
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
 - [ ] publish on dexes
