@@ -13,7 +13,6 @@
 #### TODO - BACKLOG
 
 - [ ] more tutorials (mining, trading, video)
-- [ ] web miner - ping
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
 - [ ] publish on dexes
