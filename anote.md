@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] different battery notification check
 - [ ] first cycle telegram notification
 - [ ] aint tutorial
 - [ ] fix wallet logic
