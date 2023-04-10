@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] add warning to node tutorial
+- [ ] node setup tutorial
 - [ ] advertising tutorial
 - [ ] advertise here link
 - [ ] fix wallet logic
@@ -24,7 +24,6 @@
 - [ ] protect API
 - [ ] new aint-gateway
 - [ ] new anote-exchange
-- [ ] node setup tutorial
 - [ ] country filtering
 - [ ] more mining info
 - [ ] smart contracts - extra security audit
