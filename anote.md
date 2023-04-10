@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] anote.today - min 1 anote
+- [ ] anote.today - fix no bids
 - [ ] fix wallet logic
 - [ ] warn about invite
 - [ ] advertise here link
