@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] anote.today - min 1 anote
 - [ ] fix wallet logic
 - [ ] warn about invite
 - [ ] advertise here link
@@ -29,7 +30,6 @@
 - [ ] smart contracts - extra security audit
 - [ ] anote report - GUI
 - [ ] auto buy up
-- [ ] anote.today - min 1 anote
 - [ ] wallet - back button
 - [ ] send using alias
 - [ ] wallet - lease and stake anote
