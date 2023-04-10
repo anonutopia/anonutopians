@@ -38,7 +38,6 @@
 - [ ] fix situation with anonfunder / kk
 - [ ] restore node from seed file
 - [ ] node update
-- [ ] anote.pro tool
 - [ ] secure the nodes
 - [ ] node - docker image
 - [ ] desktop wallet
