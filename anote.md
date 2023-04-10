@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] aint tutorial
 - [ ] fix wallet logic
 - [ ] warn about invite
 - [ ] advertise here link
@@ -334,3 +333,4 @@
 - [x] show address in miner
 - [x] different battery notification check
 - [x] first cycle telegram notification
+- [x] aint tutorial
