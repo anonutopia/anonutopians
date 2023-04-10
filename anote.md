@@ -4,10 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] advertising tutorial
+- [ ] advertise here link
 - [ ] fix wallet logic
 - [ ] warn about invite
-- [ ] advertise here link
-- [ ] advertising tutorial
 
 #### TODO - BACKLOG
 
