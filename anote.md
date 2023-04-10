@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] add warning to node tutorial
 - [ ] advertising tutorial
 - [ ] advertise here link
 - [ ] fix wallet logic
