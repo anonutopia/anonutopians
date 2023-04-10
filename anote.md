@@ -6,7 +6,6 @@
 
 - [ ] node setup tutorial
 - [ ] advertising tutorial
-- [ ] advertise here link
 - [ ] fix wallet logic
 - [ ] warn about invite
 
@@ -335,3 +334,4 @@
 - [x] anote.today - fix no bids
 - [x] anote.today - min 1 anote
 - [x] anote.today - bids list
+- [x] advertise here link
