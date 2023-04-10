@@ -23,7 +23,7 @@
 - [ ] protect API
 - [ ] new aint-gateway
 - [ ] new anote-exchange
-- [ ] country filtering
+- [ ] countries logging
 - [ ] more mining info
 - [ ] smart contracts - extra security audit
 - [ ] anote report - GUI
