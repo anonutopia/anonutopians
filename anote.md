@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] anote.today - min 1 anote
 - [ ] fix wallet logic
 - [ ] warn about invite
 - [ ] advertise here link
@@ -334,3 +333,4 @@
 - [x] first cycle telegram notification
 - [x] aint tutorial
 - [x] anote.today - fix no bids
+- [x] anote.today - min 1 anote
