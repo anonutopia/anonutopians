@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] node setup tutorial
 - [ ] advertising tutorial
 - [ ] fix wallet logic
 - [ ] warn about invite
@@ -335,3 +334,4 @@
 - [x] anote.today - min 1 anote
 - [x] anote.today - bids list
 - [x] advertise here link
+- [x] node setup tutorial
