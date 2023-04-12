@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] aintcoin case study
 - [ ] fix wallet logic
 - [ ] warn about invite
 
