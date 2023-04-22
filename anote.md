@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] aintcoin case study
+- [ ] monitor disk space
 - [ ] fix wallet logic
 - [ ] warn about invite
 
