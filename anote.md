@@ -8,6 +8,7 @@
 - [ ] monitor disk space
 - [ ] fix wallet logic
 - [ ] warn about invite
+- [ ] allow other channels into anote
 
 #### TODO - BACKLOG
 
@@ -18,7 +19,6 @@
 - [ ] aint oracle
 - [ ] new aint minting contract
 - [ ] ATH / AINT notifications in the group
-- [ ] allow other channels into anote
 - [ ] stake AINT for health - additional
 - [ ] protect API
 - [ ] new aint-gateway
