@@ -6,12 +6,12 @@
 
 - [ ] aintcoin case study
 - [ ] monitor disk space
-- [ ] fix wallet logic
 - [ ] warn about invite
 - [ ] allow other channels into anote
 
 #### TODO - BACKLOG
 
+- [ ] fix wallet logic
 - [ ] more tutorials (mining, trading, video)
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
