@@ -5,7 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] aintcoin case study
-- [ ] monitor disk space
+- [ ] automate monitoring (space, balance, certs, domains)
 - [ ] warn about invite
 - [ ] allow other channels into anote
 
