@@ -4,11 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] ability to mine and have better health in more ways
-- [ ] one of them being oracle questions
-- [ ] one of them being desktop mining
-- [ ] tutorial for cashing out that nobody will test, but will create trust
-- [ ] letting people know about cashing out tutorial
+- [ ] aint oracle
+- [ ] desktop mining
+- [ ] tutorial for cashing out
+- [ ] cashing out tutorial links
 - [ ] mining cycle countdown fix
 - [ ] explaing mining cycle
 - [ ] aintcoin case study
@@ -23,7 +22,6 @@
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
 - [ ] publish on dexes
-- [ ] aint oracle
 - [ ] new aint minting contract
 - [ ] ATH / AINT notifications in the group
 - [ ] stake AINT for health - additional
@@ -38,7 +36,6 @@
 - [ ] wallet - back button
 - [ ] send using alias
 - [ ] wallet - lease and stake anote
-- [ ] desktop mining
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
 - [ ] restore node from seed file
