@@ -9,6 +9,8 @@
 - [ ] one of them being desktop mining
 - [ ] tutorial for cashing out that nobody will test, but will create trust
 - [ ] letting people know about cashing out tutorial
+- [ ] mining cycle countdown fix
+- [ ] explaing mining cycle
 - [ ] aintcoin case study
 - [ ] automate monitoring (space, balance, certs, domains)
 - [ ] warn about invite
