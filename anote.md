@@ -4,6 +4,11 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] ability to mine and have better health in more ways
+- [ ] one of them being oracle questions
+- [ ] one of them being desktop mining
+- [ ] tutorial for cashing out that nobody will test, but will create trust
+- [ ] letting people know about cashing out tutorial
 - [ ] aintcoin case study
 - [ ] automate monitoring (space, balance, certs, domains)
 - [ ] warn about invite
