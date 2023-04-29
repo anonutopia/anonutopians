@@ -9,7 +9,7 @@
 - [ ] tutorial for cashing out
 - [ ] cashing out tutorial links
 - [ ] mining cycle countdown fix
-- [ ] explaing mining cycle
+- [ ] explaining mining cycle
 - [ ] website - roadmap
 - [ ] aintcoin case study
 - [ ] automate monitoring (space, balance, certs, domains)
