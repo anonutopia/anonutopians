@@ -15,6 +15,7 @@
 - [ ] automate monitoring (space, balance, certs, domains)
 - [ ] warn about invite
 - [ ] allow other channels into anote
+- [ ] make battery notifacation less annoying
 - [ ] fund for influencers
 
 #### TODO - BACKLOG
