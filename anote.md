@@ -14,6 +14,7 @@
 - [ ] aintcoin case study
 - [ ] automate monitoring (space, balance, certs, domains)
 - [ ] warn about invite
+- [ ] translations
 - [ ] allow other channels into anote
 - [ ] make battery notifacation less annoying
 - [ ] fund for influencers
