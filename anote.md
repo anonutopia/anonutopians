@@ -4,6 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] tokenomics
+- [ ] roadmap
+- [ ] about
 - [ ] aint oracle
 - [ ] desktop mining
 - [ ] tutorial for cashing out
