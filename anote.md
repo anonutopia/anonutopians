@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix issues with miner and notifications 
 - [ ] tokenomics
 - [ ] roadmap
 - [ ] about
