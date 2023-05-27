@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] fix miner domain
+- [ ] fix load on master server
 - [ ] domain rebranding
 - [ ] tokenomics
 - [ ] roadmap
