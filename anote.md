@@ -14,7 +14,7 @@
 - [ ] explaining mining cycle
 - [ ] website - roadmap
 - [ ] aintcoin case study
-- [ ] automate monitoring (space, balance, certs, domains)
+- [ ] automatic monitoring (space, balance, certs, domains)
 - [ ] warn about invite
 - [ ] translations
 - [ ] allow other channels into anote
