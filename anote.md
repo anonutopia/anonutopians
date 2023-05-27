@@ -12,7 +12,6 @@
 - [ ] tutorial for cashing out
 - [ ] cashing out tutorial links
 - [ ] explaining mining cycle
-- [ ] website - roadmap
 - [ ] aintcoin case study
 - [ ] automatic monitoring (space, balance, certs, domains)
 - [ ] warn about invite
