@@ -349,3 +349,4 @@
 - [x] advertise here link
 - [x] node setup tutorial
 - [x] advertising tutorial
+- [x] fix issues with miner and notifications
