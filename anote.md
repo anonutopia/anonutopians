@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix miner domain
+- [ ] domain rebranding
 - [ ] tokenomics
 - [ ] roadmap
 - [ ] about
