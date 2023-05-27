@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] polish everything
 - [ ] tokenomics
 - [ ] roadmap
 - [ ] about
@@ -350,3 +349,4 @@
 - [x] node setup tutorial
 - [x] advertising tutorial
 - [x] fix issues with miner and notifications
+- [x] polish everything
