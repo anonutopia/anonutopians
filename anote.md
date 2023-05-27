@@ -11,7 +11,6 @@
 - [ ] desktop mining
 - [ ] tutorial for cashing out
 - [ ] cashing out tutorial links
-- [ ] mining cycle countdown fix
 - [ ] explaining mining cycle
 - [ ] website - roadmap
 - [ ] aintcoin case study
@@ -350,3 +349,4 @@
 - [x] advertising tutorial
 - [x] fix issues with miner and notifications
 - [x] polish everything
+- [x] mining cycle countdown fix
