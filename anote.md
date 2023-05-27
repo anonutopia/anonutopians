@@ -7,7 +7,6 @@
 - [ ] tokenomics
 - [ ] roadmap
 - [ ] about
-- [ ] aint oracle
 - [ ] desktop mining
 - [ ] tutorial for cashing out
 - [ ] cashing out tutorial links
@@ -22,6 +21,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] aint oracle
 - [ ] fix wallet logic
 - [ ] more tutorials (mining, trading, video)
 - [ ] eth / bsc
