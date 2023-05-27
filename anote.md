@@ -11,7 +11,6 @@
 - [ ] tutorial for cashing out
 - [ ] cashing out tutorial links
 - [ ] explaining mining cycle
-- [ ] aintcoin case study
 - [ ] automatic monitoring (space, balance, certs, domains)
 - [ ] warn about invite
 - [ ] translations
@@ -22,6 +21,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] aintcoin case study
 - [ ] aint oracle
 - [ ] fix wallet logic
 - [ ] more tutorials (mining, trading, video)
