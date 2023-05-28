@@ -26,3 +26,5 @@
 - [ ] AintCoin case study
 
 #### 2024
+
+- [ ] DAO company
