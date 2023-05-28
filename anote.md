@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix load on master server
 - [ ] tokenomics
 - [ ] roadmap
 - [ ] about
@@ -353,3 +352,4 @@
 - [x] polish everything
 - [x] mining cycle countdown fix
 - [x] fix miner domain
+- [x] fix load on master server
