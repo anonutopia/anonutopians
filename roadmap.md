@@ -4,22 +4,22 @@
 
 #### Q1 2023
 
-- [ ] tokenomics
-- [ ] roadmap
+- [ ] basic version
+- [ ] filter out fake users
 
 #### Q2 2023
 
-- [ ] tokenomics
-- [ ] roadmap
+- [ ] list on DEX
+- [ ] desktop mining
+- [ ] polish everything up
 
 #### Q3 2023
 
-- [ ] tokenomics
-- [ ] roadmap
+- [ ] prepare for other Telegram channels
+- [ ] full decentralization
 
 #### Q4 2023
 
-- [ ] tokenomics
-- [ ] roadmap
+- [ ] AintCoin case study
 
 #### 2024
