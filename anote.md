@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] mining cycle countdown fix
 - [ ] tokenomics
 - [ ] roadmap
 - [ ] about
@@ -350,6 +351,5 @@
 - [x] advertising tutorial
 - [x] fix issues with miner and notifications
 - [x] polish everything
-- [x] mining cycle countdown fix
 - [x] fix miner domain
 - [x] fix load on master server
