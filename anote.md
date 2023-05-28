@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] fix load on master server
-- [ ] domain rebranding
 - [ ] tokenomics
 - [ ] roadmap
 - [ ] about
@@ -23,6 +22,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] domain rebranding
 - [ ] aintcoin case study
 - [ ] aint oracle
 - [ ] fix wallet logic
