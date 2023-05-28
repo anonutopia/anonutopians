@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix battery notification
 - [ ] mining cycle countdown fix
 - [ ] tokenomics
 - [ ] roadmap
