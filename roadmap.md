@@ -16,8 +16,9 @@
 #### Q3 2023
 
 - [ ] tutorials
-- [ ] prepare for other Telegram channels
+- [ ] allow other Telegram channels
 - [ ] full decentralization
+- [ ] multiple translations
 
 #### Q4 2023
 
