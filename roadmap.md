@@ -9,7 +9,7 @@
 
 #### Q2 2023
 
-- [ ] list on DEX
+- [ ] list on DEXes
 - [ ] desktop mining
 - [ ] polish everything up
 
