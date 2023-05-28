@@ -22,6 +22,7 @@
 
 #### Q4 2023
 
+- [ ] AINT Oracle
 - [ ] AintCoin case study
 
 #### 2024
