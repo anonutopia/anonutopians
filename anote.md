@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix miner domain
 - [ ] fix load on master server
 - [ ] domain rebranding
 - [ ] tokenomics
@@ -353,3 +352,4 @@
 - [x] fix issues with miner and notifications
 - [x] polish everything
 - [x] mining cycle countdown fix
+- [x] fix miner domain
