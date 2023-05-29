@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix battery notification
 - [ ] mining cycle countdown fix
 - [ ] tokenomics
 - [ ] roadmap
@@ -354,3 +353,4 @@
 - [x] polish everything
 - [x] fix miner domain
 - [x] fix load on master server
+- [x] fix battery notification
