@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix battery notification
 - [ ] make miner use mobile.anote.digital
 - [ ] mining cycle countdown fix
 - [ ] tokenomics
@@ -356,3 +355,4 @@
 - [x] fix miner domain
 - [x] fix load on master server
 - [x] fix battery notification
+- [x] disable battery notification
