@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] remind inactive miners weekly
 - [ ] make miner use mobile.anote.digital
 - [ ] mining cycle countdown fix
 - [ ] tokenomics
