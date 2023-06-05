@@ -18,7 +18,7 @@
 - [ ] warn about invite
 - [ ] translations
 - [ ] allow other channels into anote
-- [ ] make battery notifacation less annoying
+- [ ] make battery notification less annoying
 - [ ] fund for influencers
 - [ ] decentralize 100%
 
