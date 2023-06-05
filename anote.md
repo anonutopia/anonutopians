@@ -356,3 +356,4 @@
 - [x] fix load on master server
 - [x] fix battery notification
 - [x] disable battery notification
+- [x] notifications fix
