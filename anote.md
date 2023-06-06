@@ -357,3 +357,4 @@
 - [x] fix battery notification
 - [x] disable battery notification
 - [x] notifications fix
+- [x] make miner use mobile.anote.digital
