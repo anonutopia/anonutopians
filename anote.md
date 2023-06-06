@@ -4,10 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] remind inactive miners weekly
 - [ ] tokenomics
 - [ ] roadmap
 - [ ] about
+- [ ] remind inactive miners weekly
 - [ ] desktop mining
 - [ ] tutorial for cashing out
 - [ ] cashing out tutorial links
