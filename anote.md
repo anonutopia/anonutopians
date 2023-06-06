@@ -16,7 +16,6 @@
 - [ ] automatic monitoring (space, balance, certs, domains)
 - [ ] warn about invite
 - [ ] allow other channels into anote
-- [ ] make battery notification less annoying
 - [ ] fund for influencers
 - [ ] decentralize 100%
 
@@ -358,3 +357,4 @@
 - [x] disable battery notification
 - [x] notifications fix
 - [x] make miner use mobile.anote.digital
+- [x] make battery notification less annoying
