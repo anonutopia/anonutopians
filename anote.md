@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] tokenomics
 - [ ] mining cycle countdown fix
 - [ ] trustless AINT gateway
 - [ ] remind inactive miners weekly
@@ -360,3 +359,4 @@
 - [x] make battery notification less annoying
 - [x] wavespaper
 - [x] roadmap
+- [x] tokenomics
