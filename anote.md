@@ -5,7 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] mining cycle countdown fix
-- [ ] trustless AINT gateway
+- [ ] automate AINT gateway
 - [ ] remind inactive miners weekly
 - [ ] desktop mining
 - [ ] tutorial for cashing out
