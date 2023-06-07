@@ -6,7 +6,6 @@
 
 - [ ] tokenomics
 - [ ] roadmap
-- [ ] about
 - [ ] remind inactive miners weekly
 - [ ] desktop mining
 - [ ] tutorial for cashing out
@@ -358,3 +357,4 @@
 - [x] make miner use mobile.anote.digital
 - [x] make battery notification less annoying
 - [x] mining cycle countdown fix
+- [x] wavespaper
