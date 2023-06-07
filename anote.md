@@ -20,6 +20,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] trustless AINT gateway
 - [ ] other languages
 - [ ] domain rebranding
 - [ ] aintcoin case study
