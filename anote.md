@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] tokenomics
-- [ ] roadmap
 - [ ] automate gateway
 - [ ] remind inactive miners weekly
 - [ ] desktop mining
@@ -360,3 +359,4 @@
 - [x] make battery notification less annoying
 - [x] mining cycle countdown fix
 - [x] wavespaper
+- [x] roadmap
