@@ -6,6 +6,7 @@
 
 - [ ] tokenomics
 - [ ] roadmap
+- [ ] automate gateway
 - [ ] remind inactive miners weekly
 - [ ] desktop mining
 - [ ] tutorial for cashing out
