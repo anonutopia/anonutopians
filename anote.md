@@ -6,7 +6,7 @@
 
 - [ ] tokenomics
 - [ ] mining cycle countdown fix
-- [ ] automate gateway
+- [ ] trustless AINT gateway
 - [ ] remind inactive miners weekly
 - [ ] desktop mining
 - [ ] tutorial for cashing out
