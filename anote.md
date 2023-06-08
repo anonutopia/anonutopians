@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] show how much is mined
 - [ ] build back Telegram miner
 - [ ] mining cycle countdown fix
 - [ ] automate AINT gateway
