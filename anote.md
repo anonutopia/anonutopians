@@ -16,6 +16,7 @@
 - [ ] allow other channels into anote
 - [ ] fund for influencers
 - [ ] decentralize 100%
+- [ ] wallet - lease and stake anote
 
 #### TODO - BACKLOG
 
@@ -42,7 +43,6 @@
 - [ ] auto buy up
 - [ ] wallet - back button
 - [ ] send using alias
-- [ ] wallet - lease and stake anote
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
 - [ ] restore node from seed file
