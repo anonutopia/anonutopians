@@ -9,10 +9,7 @@
 - [ ] automate AINT gateway
 - [ ] remind inactive miners weekly
 - [ ] desktop mining
-- [ ] tutorial for cashing out
-- [ ] cashing out tutorial links
 - [ ] explaining mining cycle
-- [ ] automatic monitoring (space, balance, certs, domains)
 - [ ] warn about invite
 - [ ] allow other channels into anote
 - [ ] fund for influencers
@@ -21,6 +18,9 @@
 
 #### TODO - BACKLOG
 
+- [ ] automatic monitoring (space, balance, certs, domains)
+- [ ] tutorial for cashing out
+- [ ] cashing out tutorial links
 - [ ] trustless AINT gateway
 - [ ] other languages
 - [ ] domain rebranding
