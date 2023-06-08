@@ -11,13 +11,13 @@
 - [ ] desktop mining
 - [ ] explaining mining cycle
 - [ ] warn about invite
-- [ ] allow other channels into anote
 - [ ] fund for influencers
 - [ ] decentralize 100%
 - [ ] wallet - lease and stake anote
 
 #### TODO - BACKLOG
 
+- [ ] allow other channels into anote
 - [ ] automatic monitoring (space, balance, certs, domains)
 - [ ] tutorial for cashing out
 - [ ] cashing out tutorial links
