@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] install explorer on new domain
 - [ ] build back Telegram miner
 - [ ] show how much is mined
 - [ ] mining cycle countdown fix
@@ -364,3 +363,4 @@
 - [x] roadmap
 - [x] tokenomics
 - [x] buy new domain
+- [x] install explorer on new domain
