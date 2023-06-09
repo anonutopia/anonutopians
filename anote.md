@@ -8,7 +8,6 @@
 - [ ] show how much is mined
 - [ ] mining cycle countdown fix
 - [ ] automate AINT gateway
-- [ ] desktop mining
 - [ ] explaining mining cycle
 - [ ] warn about invite
 - [ ] fund for influencers
@@ -17,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] desktop mining
 - [ ] remind inactive miners weekly
 - [ ] allow other channels into anote
 - [ ] automatic monitoring (space, balance, certs, domains)
