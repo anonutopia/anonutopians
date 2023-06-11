@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new robot help
 - [ ] build back Telegram miner
 - [ ] show how much is mined
 - [ ] automate AINT gateway
@@ -364,3 +363,4 @@
 - [x] tokenomics
 - [x] buy new domain
 - [x] install explorer on new domain
+- [x] new robot help
