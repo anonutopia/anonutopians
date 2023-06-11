@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] new robot help
 - [ ] build back Telegram miner
 - [ ] show how much is mined
 - [ ] automate AINT gateway
