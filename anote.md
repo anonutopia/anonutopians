@@ -6,7 +6,6 @@
 
 - [ ] build back Telegram miner
 - [ ] show how much is mined
-- [ ] mining cycle countdown fix
 - [ ] automate AINT gateway
 - [ ] warn about invite
 - [ ] fund for influencers
