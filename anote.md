@@ -4,9 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] mystats command
 - [ ] update referral system
 - [ ] mine invitation page
-- [ ] mystats command
 - [ ] show how much is mined
 - [ ] withdraw command
 - [ ] separate telegram fund
