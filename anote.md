@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mystats command
 - [ ] update referral system
 - [ ] mine invitation page
 - [ ] show how much is mined
@@ -371,3 +370,4 @@
 - [x] buy new domain
 - [x] install explorer on new domain
 - [x] new robot help
+- [x] mystats command
