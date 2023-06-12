@@ -4,16 +4,22 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] build back Telegram miner
+- [ ] update referral system
+- [ ] mine invitation page
+- [ ] mystats command
 - [ ] show how much is mined
+- [ ] withdraw command
+- [ ] separate telegram fund
+- [ ] finish domain rebranding
+- [ ] anote native app
 - [ ] automate AINT gateway
+
+#### TODO - BACKLOG
+
 - [ ] warn about invite
 - [ ] fund for influencers
 - [ ] decentralize 100%
 - [ ] wallet - lease and stake anote
-
-#### TODO - BACKLOG
-
 - [ ] explaining mining cycle
 - [ ] desktop mining
 - [ ] remind inactive miners weekly
