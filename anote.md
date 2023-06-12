@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] automate AINT gateway
 - [ ] update referral system
 - [ ] mine invitation page
 - [ ] mystats command
@@ -16,6 +15,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] automate AINT gateway
 - [ ] bug - double payout
 - [ ] warn about invite
 - [ ] fund for influencers
