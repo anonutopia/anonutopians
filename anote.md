@@ -16,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] bug - double payout
 - [ ] warn about invite
 - [ ] fund for influencers
 - [ ] decentralize 100%
