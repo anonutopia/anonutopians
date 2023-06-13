@@ -9,6 +9,7 @@
 - [ ] show how much is mined
 - [ ] withdraw command
 - [ ] separate telegram fund
+- [ ] new telegram connect
 - [ ] finish domain rebranding (ads, wallet, node, miner)
 
 #### TODO - BACKLOG
