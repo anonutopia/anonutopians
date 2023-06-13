@@ -10,10 +10,10 @@
 - [ ] withdraw command
 - [ ] separate telegram fund
 - [ ] finish domain rebranding (ads, wallet, node, miner)
-- [ ] anote native app
 
 #### TODO - BACKLOG
 
+- [ ] anote native app
 - [ ] automate AINT gateway
 - [ ] bug - double payout
 - [ ] warn about invite
