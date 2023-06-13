@@ -10,10 +10,10 @@
 - [ ] withdraw command
 - [ ] separate telegram fund
 - [ ] new telegram connect
-- [ ] finish domain rebranding (ads, wallet, node, miner)
 
 #### TODO - BACKLOG
 
+- [ ] finish domain rebranding (ads, wallet, node, miner)
 - [ ] anote native app
 - [ ] automate AINT gateway
 - [ ] bug - double payout
