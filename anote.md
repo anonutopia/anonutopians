@@ -4,10 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] withdraw command
 - [ ] update referral system
 - [ ] mine invitation page
 - [ ] show how much is mined
-- [ ] withdraw command
 - [ ] separate telegram fund
 - [ ] new telegram connect
 
