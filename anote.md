@@ -6,7 +6,6 @@
 
 - [ ] withdraw command
 - [ ] show how much is mined
-- [ ] separate telegram fund
 - [ ] update referral system
 - [ ] mine invitation page
 - [ ] new telegram connect
@@ -372,3 +371,4 @@
 - [x] install explorer on new domain
 - [x] new robot help
 - [x] mystats command
+- [x] separate telegram fund
