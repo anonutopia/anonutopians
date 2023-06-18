@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] show how much is mined
 - [ ] withdraw command
 - [ ] update referral system
 - [ ] mine invitation page
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] show how much is mined - mobile
 - [ ] finish domain rebranding (ads, wallet, node, miner)
 - [ ] anote native app
 - [ ] automate AINT gateway
