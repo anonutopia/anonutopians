@@ -372,3 +372,4 @@
 - [x] new robot help
 - [x] mystats command
 - [x] separate telegram fund
+- [x] show how much is mined
