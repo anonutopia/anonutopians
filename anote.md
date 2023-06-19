@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix telegram fund distribution
 - [ ] withdraw command
 - [ ] update referral system
 - [ ] mine invitation page
