@@ -10,6 +10,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] remove anote.digital domain everywhere
 - [ ] fix telegram fund distribution
 - [ ] show how much is mined - mobile
 - [ ] finish domain rebranding (ads, wallet, node, miner)
