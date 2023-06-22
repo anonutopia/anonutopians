@@ -6,7 +6,6 @@
 
 - [ ] withdraw command
 - [ ] update referral system
-- [ ] mine invitation page
 - [ ] new telegram connect
 
 #### TODO - BACKLOG
@@ -374,3 +373,4 @@
 - [x] mystats command
 - [x] separate telegram fund
 - [x] show how much is mined
+- [x] mine invitation page
