@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix telegram fund distribution
 - [ ] withdraw command
 - [ ] update referral system
 - [ ] mine invitation page
@@ -12,6 +11,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] fix telegram fund distribution
 - [ ] show how much is mined - mobile
 - [ ] finish domain rebranding (ads, wallet, node, miner)
 - [ ] anote native app
