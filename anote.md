@@ -15,7 +15,6 @@
 - [ ] finish domain rebranding (ads, wallet, node, miner)
 - [ ] anote native app
 - [ ] automate AINT gateway
-- [ ] bug - double payout
 - [ ] warn about invite
 - [ ] fund for influencers
 - [ ] decentralize 100%
@@ -375,3 +374,4 @@
 - [x] show how much is mined
 - [x] mine invitation page
 - [x] update referral system
+- [x] bug - double payout
