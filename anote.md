@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] withdraw command
 - [ ] weekly notification
 
 #### TODO - BACKLOG
@@ -377,3 +376,4 @@
 - [x] update referral system
 - [x] bug - double payout
 - [x] new telegram connect
+- [x] withdraw command
