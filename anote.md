@@ -23,7 +23,6 @@
 - [ ] wallet - lease and stake anote
 - [ ] explaining mining cycle
 - [ ] desktop mining
-- [ ] remind inactive miners weekly
 - [ ] allow other channels into anote
 - [ ] automatic monitoring (space, balance, certs, domains)
 - [ ] tutorial for cashing out
