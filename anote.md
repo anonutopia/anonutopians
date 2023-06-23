@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] update referral system
 - [ ] withdraw command
 - [ ] new telegram connect
 
@@ -375,3 +374,4 @@
 - [x] separate telegram fund
 - [x] show how much is mined
 - [x] mine invitation page
+- [x] update referral system
