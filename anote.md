@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] withdraw command
 - [ ] new telegram connect
+- [ ] withdraw command
 
 #### TODO - BACKLOG
 
