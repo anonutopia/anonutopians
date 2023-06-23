@@ -6,6 +6,7 @@
 
 - [ ] update miner ref link
 - [ ] add ref link to wallet
+- [ ] address command
 - [ ] weekly notification
 
 #### TODO - BACKLOG
