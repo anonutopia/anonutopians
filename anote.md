@@ -6,6 +6,7 @@
 
 - [ ] new telegram connect
 - [ ] withdraw command
+- [ ] send notification
 
 #### TODO - BACKLOG
 
