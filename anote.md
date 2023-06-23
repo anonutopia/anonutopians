@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new telegram connect
 - [ ] withdraw command
 - [ ] weekly notification
 
@@ -377,3 +376,4 @@
 - [x] mine invitation page
 - [x] update referral system
 - [x] bug - double payout
+- [x] new telegram connect
