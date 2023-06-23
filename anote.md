@@ -4,10 +4,10 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] weekly notification
 - [ ] update miner ref link
 - [ ] add ref link to wallet
 - [ ] address command
-- [ ] weekly notification
 
 #### TODO - BACKLOG
 
