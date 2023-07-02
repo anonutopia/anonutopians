@@ -6,7 +6,6 @@
 
 - [ ] alpha zero warning
 - [ ] prealpha exchange
-- [ ] weekly notification
 - [ ] update miner ref link
 - [ ] add ref link to wallet
 - [ ] address command
@@ -382,3 +381,4 @@
 - [x] new telegram connect
 - [x] withdraw command
 - [x] alpha exchange block limit
+- [x] weekly notification
