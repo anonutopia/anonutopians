@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] alpha exchange block limit
 - [ ] alpha zero warning
 - [ ] prealpha exchange
 - [ ] weekly notification
@@ -382,3 +381,4 @@
 - [x] bug - double payout
 - [x] new telegram connect
 - [x] withdraw command
+- [x] alpha exchange block limit
