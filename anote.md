@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] alpha exchange block limit
+- [ ] prealpha exchange
 - [ ] weekly notification
 - [ ] update miner ref link
 - [ ] add ref link to wallet
