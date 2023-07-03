@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] delete command
+- [ ] remove alpha balance when exchanged
 - [ ] better stats
 - [ ] prealpha exchange
 - [ ] update miner ref link
