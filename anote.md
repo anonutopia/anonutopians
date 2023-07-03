@@ -11,7 +11,7 @@
 - [ ] update miner ref link
 - [ ] add ref link to wallet
 - [ ] address command
-- [ ] telegram bot
+- [ ] twitter bot
 
 #### TODO - BACKLOG
 
