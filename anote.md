@@ -33,7 +33,7 @@
 - [ ] other languages
 - [ ] aintcoin case study
 - [ ] aint oracle
-- [ ] more tutorials (mining, trading, video)
+- [ ] more tutorials (mining, trading, cashing out, video)
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
 - [ ] publish on dexes
