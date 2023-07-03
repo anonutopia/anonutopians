@@ -34,7 +34,7 @@
 - [ ] aintcoin case study
 - [ ] aint oracle
 - [ ] more tutorials (mining, trading, cashing out, video)
-- [ ] eth / bsc
+- [ ] eth / bsc version
 - [ ] eth / bsc gateway
 - [ ] publish on dexes
 - [ ] new aint minting contract
