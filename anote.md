@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] delete command
+- [ ] better stats
 - [ ] prealpha exchange
 - [ ] update miner ref link
 - [ ] add ref link to wallet
