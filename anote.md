@@ -31,7 +31,6 @@
 - [ ] cashing out tutorial links
 - [ ] trustless AINT gateway
 - [ ] other languages
-- [ ] domain rebranding
 - [ ] aintcoin case study
 - [ ] aint oracle
 - [ ] fix wallet logic
