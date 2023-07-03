@@ -33,7 +33,6 @@
 - [ ] other languages
 - [ ] aintcoin case study
 - [ ] aint oracle
-- [ ] fix wallet logic
 - [ ] more tutorials (mining, trading, video)
 - [ ] eth / bsc
 - [ ] eth / bsc gateway
