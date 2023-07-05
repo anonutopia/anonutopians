@@ -21,7 +21,6 @@
 - [ ] show how much is mined - mobile
 - [ ] finish domain rebranding (ads, wallet, node, miner)
 - [ ] anote native app
-- [ ] automate AINT gateway
 - [ ] warn about invite
 - [ ] fund for influencers
 - [ ] decentralize 100%
@@ -384,3 +383,4 @@
 - [x] alpha exchange block limit
 - [x] weekly notification
 - [x] alpha zero warning
+- [x] automate AINT gateway
