@@ -5,12 +5,13 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] remove alpha balance when exchanged
+- [ ] prealpha exchange
+- [ ] exchange notification
 
 #### TODO - BACKLOG
 
 - [ ] delete command
 - [ ] better stats
-- [ ] prealpha exchange
 - [ ] update miner ref link
 - [ ] add ref link to wallet
 - [ ] address command
