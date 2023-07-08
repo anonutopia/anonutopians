@@ -384,3 +384,4 @@
 - [x] weekly notification
 - [x] alpha zero warning
 - [x] automate AINT gateway
+- [x] show price from puzzle in stats
