@@ -4,17 +4,17 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] delete command
 - [ ] remove alpha balance when exchanged
+
+#### TODO - BACKLOG
+
+- [ ] delete command
 - [ ] better stats
 - [ ] prealpha exchange
 - [ ] update miner ref link
 - [ ] add ref link to wallet
 - [ ] address command
 - [ ] twitter bot
-
-#### TODO - BACKLOG
-
 - [ ] pdf seed
 - [ ] remove anote.digital domain everywhere
 - [ ] fix telegram fund distribution
