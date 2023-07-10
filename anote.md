@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix newline issue on wallet
 - [ ] prealpha exchange
 - [ ] exchange notification
 - [ ] update mobile miner
@@ -388,3 +387,4 @@
 - [x] automate AINT gateway
 - [x] show price from puzzle in stats
 - [x] remove alpha balance when exchanged
+- [x] fix newline issue on wallet
