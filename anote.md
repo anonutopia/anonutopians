@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] remove alpha balance when exchanged
 - [ ] prealpha exchange
 - [ ] exchange notification
 
@@ -386,3 +385,4 @@
 - [x] alpha zero warning
 - [x] automate AINT gateway
 - [x] show price from puzzle in stats
+- [x] remove alpha balance when exchanged
