@@ -6,6 +6,7 @@
 
 - [ ] prealpha exchange
 - [ ] exchange notification
+- [ ] update mobile miner
 
 #### TODO - BACKLOG
 
