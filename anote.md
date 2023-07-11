@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] check bug - mining height 0
 - [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
