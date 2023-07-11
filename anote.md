@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] check bug - mining height 0
 - [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
@@ -390,3 +389,4 @@
 - [x] show price from puzzle in stats
 - [x] remove alpha balance when exchanged
 - [x] fix newline issue on wallet
+- [x] check bug - mining height 0
