@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
 - [ ] update mobile miner
