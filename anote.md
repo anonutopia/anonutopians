@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] update anote.one link everywhere
 - [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
