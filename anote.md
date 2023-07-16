@@ -21,7 +21,7 @@
 - [ ] remove anote.digital domain everywhere
 - [ ] fix telegram fund distribution
 - [ ] show how much is mined - mobile
-- [ ] finish domain rebranding (ads, wallet, node, miner)
+- [ ] finish domain rebranding (ads, node, miner)
 - [ ] anote native app
 - [ ] warn about invite
 - [ ] fund for influencers
@@ -390,3 +390,4 @@
 - [x] remove alpha balance when exchanged
 - [x] fix newline issue on wallet
 - [x] check bug - mining height 0
+- [x] domain re-branding - wallet
