@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] update anote.one link everywhere
 - [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
@@ -392,3 +391,4 @@
 - [x] fix newline issue on wallet
 - [x] check bug - mining height 0
 - [x] domain re-branding - wallet
+- [x] update anote.one link everywhere
