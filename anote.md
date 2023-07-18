@@ -392,3 +392,4 @@
 - [x] check bug - mining height 0
 - [x] domain re-branding - wallet
 - [x] update anote.one link everywhere
+- [x] split bot into two
