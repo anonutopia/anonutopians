@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] dollar amount in wallet
 - [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
