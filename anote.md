@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] dollar amount in wallet
 - [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
@@ -394,3 +393,4 @@
 - [x] domain re-branding - wallet
 - [x] update anote.one link everywhere
 - [x] split bot into two
+- [x] dollar amount in wallet
