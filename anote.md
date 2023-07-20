@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] tips and tricks as default ad
 - [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
