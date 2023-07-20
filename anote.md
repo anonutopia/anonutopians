@@ -5,6 +5,8 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] tips and tricks as default ad
+- [ ] single referral link
+- [ ] new sign up flow
 - [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
