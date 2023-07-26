@@ -46,7 +46,7 @@
 - [ ] eth / bsc gateway
 - [ ] publish on dexes (puzzle, pancake, uniswap, curve)
 - [ ] new aint minting contract
-- [ ] ATH / AINT notifications in the group
+- [ ] ATH notifications in the group
 - [ ] stake AINT for health - additional
 - [ ] protect API
 - [ ] new aint-gateway
