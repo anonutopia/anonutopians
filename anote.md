@@ -402,3 +402,4 @@
 - [x] dollar amount in wallet
 - [x] gateway notification - show decimals
 - [x] redirect anote.one
+- [x] bot forward to check user
