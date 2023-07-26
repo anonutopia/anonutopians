@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] bot forward to check user
 - [ ] AINT notifications in the group
 - [ ] node update
 - [ ] tips and tricks as default ad
@@ -17,6 +16,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] user check - more data
 - [ ] delete command
 - [ ] better stats
 - [ ] update miner ref link
