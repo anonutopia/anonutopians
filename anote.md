@@ -51,7 +51,6 @@
 - [ ] ATH notifications in the group
 - [ ] stake AINT for health - additional
 - [ ] protect API
-- [ ] new aint-gateway
 - [ ] new anote-exchange
 - [ ] countries logging
 - [ ] more mining info
