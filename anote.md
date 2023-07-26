@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] gateway notification - show decimals
 - [ ] node update
 - [ ] tips and tricks as default ad
 - [ ] single referral link
