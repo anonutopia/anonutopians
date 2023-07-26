@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] gateway notification - show decimals
 - [ ] node update
 - [ ] tips and tricks as default ad
 - [ ] single referral link
@@ -399,3 +398,4 @@
 - [x] update anote.one link everywhere
 - [x] split bot into two
 - [x] dollar amount in wallet
+- [x] gateway notification - show decimals
