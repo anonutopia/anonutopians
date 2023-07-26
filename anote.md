@@ -9,13 +9,13 @@
 - [ ] tips and tricks as default ad
 - [ ] single referral link
 - [ ] new sign up flow
-- [ ] restore canceled nodes
 - [ ] prealpha exchange
 - [ ] exchange notification
 - [ ] update mobile miner
 
 #### TODO - BACKLOG
 
+- [ ] restore canceled nodes
 - [ ] user check - more data
 - [ ] delete command
 - [ ] better stats
