@@ -63,7 +63,6 @@
 - [ ] node - blockchain download
 - [ ] fix situation with anonfunder / kk
 - [ ] restore node from seed file
-- [ ] node update
 - [ ] secure the nodes
 - [ ] node - docker image
 - [ ] desktop wallet
