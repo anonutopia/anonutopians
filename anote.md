@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] redirect anote.one
 - [ ] bot forward to check user
 - [ ] AINT notifications in the group
 - [ ] node update
@@ -402,3 +401,4 @@
 - [x] split bot into two
 - [x] dollar amount in wallet
 - [x] gateway notification - show decimals
+- [x] redirect anote.one
