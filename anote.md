@@ -37,8 +37,6 @@
 - [ ] desktop mining
 - [ ] allow other channels into anote
 - [ ] automatic monitoring (space, balance, certs, domains)
-- [ ] tutorial for cashing out
-- [ ] cashing out tutorial links
 - [ ] trustless AINT gateway
 - [ ] other languages
 - [ ] aintcoin case study
