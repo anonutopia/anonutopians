@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] AINT notifications in the group
+- [ ] AINT time lock
 - [ ] node update
 - [ ] tips and tricks as default ad
 - [ ] single referral link
@@ -47,7 +48,6 @@
 - [ ] publish on dexes (puzzle, pancake, uniswap, curve)
 - [ ] new aint minting contract
 - [ ] ATH notifications in the group
-- [ ] stake AINT for health - additional
 - [ ] protect API
 - [ ] new anote-exchange
 - [ ] countries logging
