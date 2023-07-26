@@ -20,7 +20,6 @@
 - [ ] user check - more data
 - [ ] delete command
 - [ ] better stats
-- [ ] update miner ref link
 - [ ] add ref link to wallet
 - [ ] address command
 - [ ] twitter bot
@@ -399,3 +398,4 @@
 - [x] gateway notification - show decimals
 - [x] redirect anote.one
 - [x] bot forward to check user
+- [x] update miner ref link
