@@ -58,7 +58,7 @@
 - [ ] wallet - back button
 - [ ] send using alias
 - [ ] node - blockchain download
-- [ ] fix situation with anonfunder / kk
+- [ ] fix situation with kk
 - [ ] restore node from seed file
 - [ ] secure the nodes
 - [ ] node - docker image
