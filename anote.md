@@ -13,6 +13,7 @@
 - [ ] prealpha exchange limit
 - [ ] exchange notification
 - [ ] update mobile miner
+- [ ] twitter bot
 
 #### TODO - BACKLOG
 
@@ -22,7 +23,6 @@
 - [ ] better stats
 - [ ] add ref link to wallet
 - [ ] address command
-- [ ] twitter bot
 - [ ] pdf seed
 - [ ] remove anote.digital domain everywhere
 - [ ] fix telegram fund distribution
