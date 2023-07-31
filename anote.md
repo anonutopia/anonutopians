@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] eth / bsc gateway
 - [ ] kk fund
 - [ ] AINT notifications in the group
 - [ ] AINT time lock
@@ -43,7 +44,6 @@
 - [ ] aintcoin case study
 - [ ] aint oracle
 - [ ] more tutorials (mining, trading, cashing out, video)
-- [ ] eth / bsc gateway
 - [ ] publish on dexes (puzzle, pancake, uniswap, curve)
 - [ ] new aint minting contract
 - [ ] ATH notifications in the group
