@@ -43,7 +43,6 @@
 - [ ] aintcoin case study
 - [ ] aint oracle
 - [ ] more tutorials (mining, trading, cashing out, video)
-- [ ] eth / bsc version
 - [ ] eth / bsc gateway
 - [ ] publish on dexes (puzzle, pancake, uniswap, curve)
 - [ ] new aint minting contract
@@ -400,3 +399,4 @@
 - [x] redirect anote.one
 - [x] bot forward to check user
 - [x] update miner ref link
+- [x] eth / bsc version
