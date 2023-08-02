@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] bsc gateway - wallet side
 - [ ] bsc gateway - deposit ui
 - [ ] bsc gateway - add withdraw
 - [ ] bsc gateway - forward deposit
@@ -403,3 +402,4 @@
 - [x] bot forward to check user
 - [x] update miner ref link
 - [x] eth / bsc version
+- [x] bsc gateway - wallet side
