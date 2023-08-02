@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] bsc gateway - deposit ui
 - [ ] bsc gateway - add withdraw
 - [ ] bsc gateway - forward deposit
 - [ ] kk fund
@@ -403,3 +402,4 @@
 - [x] update miner ref link
 - [x] eth / bsc version
 - [x] bsc gateway - wallet side
+- [x] bsc gateway - deposit ui
