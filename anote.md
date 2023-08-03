@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] bsc gateway - add withdraw
 - [ ] bsc gateway - forward deposit
 - [ ] kk fund
 - [ ] AINT notifications in the group
@@ -403,3 +402,4 @@
 - [x] eth / bsc version
 - [x] bsc gateway - wallet side
 - [x] bsc gateway - deposit ui
+- [x] bsc gateway - add withdraw
