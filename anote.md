@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] gateway tutorial
 - [ ] kk fund
 - [ ] AINT notifications in the group
 - [ ] AINT time lock
