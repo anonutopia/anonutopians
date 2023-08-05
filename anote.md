@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] gateway tutorial
-- [ ] kk fund
 - [ ] AINT notifications in the group
 - [ ] AINT time lock
 - [ ] node update
@@ -404,3 +403,4 @@
 - [x] bsc gateway - deposit ui
 - [x] bsc gateway - add withdraw
 - [x] bsc gateway - forward deposit
+- [x] kk fund
