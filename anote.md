@@ -4,16 +4,16 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] update mobile miner
 - [ ] gateway tutorial
-- [ ] AINT notifications in the group
 - [ ] AINT time lock
+- [ ] AINT notifications in the groups
 - [ ] node update
 - [ ] tips and tricks as default ad
 - [ ] single referral link
 - [ ] new sign up flow
 - [ ] prealpha exchange limit
 - [ ] exchange notification
-- [ ] update mobile miner
 - [ ] twitter bot
 
 #### TODO - BACKLOG
