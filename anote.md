@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] delete welcome messge after 30 seconds
 - [ ] ref bug - self
 - [ ] ref bug - change
 - [ ] update mobile miner
@@ -407,3 +406,4 @@
 - [x] bsc gateway - add withdraw
 - [x] bsc gateway - forward deposit
 - [x] kk fund
+- [x] delete welcome message after 30 seconds
