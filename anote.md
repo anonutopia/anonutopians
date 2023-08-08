@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] wallet gw limits and messages
 - [ ] update mobile miner
 - [ ] extended mining tutorial
 - [ ] gateway tutorial
