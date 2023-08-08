@@ -7,18 +7,18 @@
 - [ ] update mobile miner
 - [ ] gateway tutorial
 - [ ] AINT time lock
-- [ ] AINT notifications in the groups
-- [ ] node update
-- [ ] tips and tricks as default ad
 - [ ] single referral link
 - [ ] new sign up flow
 - [ ] prealpha exchange limit
 - [ ] exchange notification
-- [ ] twitter bot
-- [ ] change telegram account
 
 #### TODO - BACKLOG
 
+- [ ] twitter bot
+- [ ] change telegram account
+- [ ] AINT notifications in the groups
+- [ ] node update
+- [ ] tips and tricks as default ad
 - [ ] restore canceled nodes
 - [ ] user check - more data
 - [ ] delete command
