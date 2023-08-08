@@ -4,8 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] ref bug - self
-- [ ] ref bug - change
 - [ ] update mobile miner
 - [ ] gateway tutorial
 - [ ] AINT time lock
@@ -407,3 +405,5 @@
 - [x] bsc gateway - forward deposit
 - [x] kk fund
 - [x] delete welcome message after 30 seconds
+- [x] ref bug - self
+- [x] ref bug - change
