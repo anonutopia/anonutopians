@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] update mobile miner
+- [ ] extended mining tutorial
 - [ ] gateway tutorial
 - [ ] AINT time lock
 - [ ] single referral link
