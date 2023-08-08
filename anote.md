@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] ref bug - self
+- [ ] ref bug - change
 - [ ] update mobile miner
 - [ ] gateway tutorial
 - [ ] AINT time lock
