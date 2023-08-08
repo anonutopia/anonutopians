@@ -15,6 +15,7 @@
 - [ ] prealpha exchange limit
 - [ ] exchange notification
 - [ ] twitter bot
+- [ ] change telegram account
 
 #### TODO - BACKLOG
 
