@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] delete welcome messge after 30 seconds
 - [ ] ref bug - self
 - [ ] ref bug - change
 - [ ] update mobile miner
