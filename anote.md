@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] cache bot stats
 - [ ] gateway tutorial - bot
 - [ ] extended mining tutorial
 - [ ] cash out tutorial
