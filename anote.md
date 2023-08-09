@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] gw - automatic switch to BSC chain
 - [ ] extended mining tutorial
 - [ ] gateway tutorial
 - [ ] AINT time lock
@@ -411,3 +410,4 @@
 - [x] ref bug - change
 - [x] wallet gw limits and messages
 - [x] update mobile miner
+- [x] gw - automatic switch to BSC chain
