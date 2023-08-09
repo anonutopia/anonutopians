@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] wallet gw limits and messages
 - [ ] update mobile miner
 - [ ] extended mining tutorial
 - [ ] gateway tutorial
@@ -410,3 +409,4 @@
 - [x] delete welcome message after 30 seconds
 - [x] ref bug - self
 - [x] ref bug - change
+- [x] wallet gw limits and messages
