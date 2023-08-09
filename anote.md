@@ -4,8 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] extended mining tutorial
 - [ ] gateway tutorial
+- [ ] extended mining tutorial
 - [ ] AINT time lock
 - [ ] single referral link
 - [ ] new sign up flow
