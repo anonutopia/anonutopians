@@ -11,7 +11,7 @@
 - [ ] cash out tutorial
 - [ ] buy anotes tutorial
 - [ ] AINT time lock
-- [ ] single referral link
+- [ ] unified referral link
 - [ ] new sign up flow
 - [ ] prealpha exchange limit
 - [ ] exchange notification
