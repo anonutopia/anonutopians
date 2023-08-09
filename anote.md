@@ -274,7 +274,6 @@
 - [x] create AINT on new fork
 - [x] distribute AINT on new fork
 - [x] configure staked AINT
-- [x] show AINT node staking in wallet
 - [x] new aint-node
 - [x] new node setup binary
 - [x] node update script
