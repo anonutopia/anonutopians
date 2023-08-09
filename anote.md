@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] gateway tutorial
+- [ ] gateway tutorial - bot
 - [ ] extended mining tutorial
 - [ ] AINT time lock
 - [ ] single referral link
@@ -411,3 +411,4 @@
 - [x] wallet gw limits and messages
 - [x] update mobile miner
 - [x] gw - automatic switch to BSC chain
+- [x] gateway tutorial
