@@ -6,6 +6,8 @@
 
 - [ ] gateway tutorial - bot
 - [ ] extended mining tutorial
+- [ ] cash out tutorial
+- [ ] buy anotes tutorial
 - [ ] AINT time lock
 - [ ] single referral link
 - [ ] new sign up flow
