@@ -14,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] add twitter everywhere
 - [ ] twitter bot
 - [ ] change telegram account
 - [ ] AINT notifications in the groups
