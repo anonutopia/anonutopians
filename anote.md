@@ -414,3 +414,4 @@
 - [x] update mobile miner
 - [x] gw - automatic switch to BSC chain
 - [x] gateway tutorial
+- [x] bsc address command
