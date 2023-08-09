@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] update mobile miner
 - [ ] extended mining tutorial
 - [ ] gateway tutorial
 - [ ] AINT time lock
@@ -410,3 +409,4 @@
 - [x] ref bug - self
 - [x] ref bug - change
 - [x] wallet gw limits and messages
+- [x] update mobile miner
