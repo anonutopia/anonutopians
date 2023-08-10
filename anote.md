@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] cache bot stats
 - [ ] mine command
 - [ ] gateway tutorial - bot
 - [ ] extended mining tutorial
@@ -418,3 +417,4 @@
 - [x] gateway tutorial
 - [x] seed command
 - [x] bsc address command
+- [x] cache bot stats
