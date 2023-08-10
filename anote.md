@@ -4,7 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] mine command
+- [ ] mine help command
 - [ ] gateway tutorial - bot
 - [ ] extended mining tutorial
 - [ ] cash out tutorial
