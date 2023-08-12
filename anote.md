@@ -419,3 +419,4 @@
 - [x] seed command
 - [x] bsc address command
 - [x] cache bot stats
+- [x] basic anote staking
