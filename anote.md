@@ -421,3 +421,5 @@
 - [x] cache bot stats
 - [x] basic anote staking
 - [x] anote staking
+- [x] staking tutorial
+
