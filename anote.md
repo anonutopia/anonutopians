@@ -420,3 +420,4 @@
 - [x] bsc address command
 - [x] cache bot stats
 - [x] basic anote staking
+- [x] anote staking
