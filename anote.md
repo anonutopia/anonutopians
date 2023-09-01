@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] memory leak issue
 - [ ] new nodes smart contract
 - [ ] mine help command
 - [ ] gateway tutorial - bot
