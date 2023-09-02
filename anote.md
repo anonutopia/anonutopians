@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] move to postgres
 - [ ] memory leak issue
 - [ ] new nodes smart contract
 - [ ] mine help command
