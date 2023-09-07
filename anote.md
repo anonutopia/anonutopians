@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] move to postgres
 - [ ] new nodes smart contract
 - [ ] mine help command
 - [ ] gateway tutorial - bot
@@ -424,3 +423,4 @@
 - [x] anote staking
 - [x] staking tutorial
 - [x] memory leak issue
+- [x] move to postgres
