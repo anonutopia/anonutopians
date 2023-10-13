@@ -424,3 +424,4 @@
 - [x] staking tutorial
 - [x] memory leak issue
 - [x] move to postgres
+- [x] remove 10x for referred users
