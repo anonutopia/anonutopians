@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] aint successfully staked typo
 - [ ] minting AINT with anotes
 - [ ] AINT time lock
 - [ ] anote time lock
