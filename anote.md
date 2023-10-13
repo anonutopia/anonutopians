@@ -4,9 +4,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] minting AINT with anotes
 - [ ] AINT time lock
 - [ ] anote time lock
-- [ ] minting AINT with anote
 - [ ] new BSC contract
 - [ ] new nodes smart contract
 - [ ] mine help command
