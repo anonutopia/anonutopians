@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] aint successfully staked typo
 - [ ] minting AINT with anotes
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -429,3 +428,4 @@
 - [x] memory leak issue
 - [x] move to postgres
 - [x] remove 10x for referred users
+- [x] aint successfully staked typo
