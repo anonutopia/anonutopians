@@ -4,13 +4,16 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] AINT time lock
+- [ ] anote time lock
+- [ ] minting AINT with anote
+- [ ] new BSC contract
 - [ ] new nodes smart contract
 - [ ] mine help command
 - [ ] gateway tutorial - bot
 - [ ] extended mining tutorial
 - [ ] cash out tutorial
 - [ ] buy anotes tutorial
-- [ ] AINT time lock
 - [ ] unified referral link
 - [ ] new sign up flow
 - [ ] prealpha exchange limit
