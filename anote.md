@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] minting AINT with anotes
+- [ ] create your own token
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] new BSC contract
