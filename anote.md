@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] minting AINT with anotes
 - [ ] create your own token
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -54,7 +53,6 @@
 - [ ] aint oracle
 - [ ] more tutorials (mining, trading, cashing out, video)
 - [ ] publish on dexes (puzzle, pancake, uniswap, curve)
-- [ ] new aint minting contract
 - [ ] ATH notifications in the group
 - [ ] protect API
 - [ ] new anote-exchange
@@ -430,3 +428,5 @@
 - [x] move to postgres
 - [x] remove 10x for referred users
 - [x] aint successfully staked typo
+- [x] minting AINT with anotes
+- [x] new aint minting contract
