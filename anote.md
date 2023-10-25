@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] update aint minting tutorial
 - [ ] create your own token
 - [ ] AINT time lock
 - [ ] anote time lock
