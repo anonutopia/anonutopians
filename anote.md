@@ -10,6 +10,10 @@
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] new BSC contract
+- [ ] twitter bot
+
+#### TODO - BACKLOG
+
 - [ ] new nodes smart contract
 - [ ] mine help command
 - [ ] gateway tutorial - bot
@@ -20,11 +24,7 @@
 - [ ] new sign up flow
 - [ ] prealpha exchange limit
 - [ ] exchange notification
-
-#### TODO - BACKLOG
-
 - [ ] add twitter everywhere
-- [ ] twitter bot
 - [ ] change telegram account
 - [ ] AINT notifications in the groups
 - [ ] node update
