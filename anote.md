@@ -6,7 +6,7 @@
 
 - [ ] check gateway - bsc -> anote
 - [ ] update aint minting tutorial
-- [ ] create your own token
+- [ ] list your own token
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] new BSC contract
@@ -432,3 +432,4 @@
 - [x] aint successfully staked typo
 - [x] minting AINT with anotes
 - [x] new aint minting contract
+- [x] create your own token
