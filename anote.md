@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] update aint minting tutorial
 - [ ] list your own token
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -435,3 +434,4 @@
 - [x] new aint minting contract
 - [x] create your own token
 - [x] check gateway - bsc -> anote
+- [x] update aint minting tutorial
