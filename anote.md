@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] check gateway - bsc -> anote
 - [ ] update aint minting tutorial
 - [ ] create your own token
 - [ ] AINT time lock
