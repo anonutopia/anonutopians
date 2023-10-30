@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] 0.1 bug when sending from BSC to Anote
 - [ ] list your own token
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -437,3 +436,4 @@
 - [x] create your own token
 - [x] check gateway - bsc -> anote
 - [x] update aint minting tutorial
+- [x] 0.1 bug when sending from BSC to Anote
