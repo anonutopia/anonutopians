@@ -11,6 +11,7 @@
 - [ ] anote time lock
 - [ ] new BSC contract
 - [ ] twitter bot
+- [ ] proof of loyalty (PoL)
 
 #### TODO - BACKLOG
 
