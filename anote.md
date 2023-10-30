@@ -14,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] white label service
 - [ ] new nodes smart contract
 - [ ] mine help command
 - [ ] gateway tutorial - bot
