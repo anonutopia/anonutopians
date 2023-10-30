@@ -12,6 +12,7 @@
 - [ ] new BSC contract
 - [ ] twitter bot
 - [ ] proof of loyalty (PoL)
+- [ ] price and stats page
 
 #### TODO - BACKLOG
 
