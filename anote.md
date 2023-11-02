@@ -4,10 +4,11 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] new BSC contract - add fee when more than 1 withdrawal
+- [ ] new BSC contract - automatic cancel
 - [ ] list your own token
 - [ ] AINT time lock
 - [ ] anote time lock
-- [ ] new BSC contract
 - [ ] twitter bot
 - [ ] proof of loyalty (PoL)
 - [ ] price and stats page
