@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new BSC contract - add fee when more than 1 withdrawal
 - [ ] list your own token
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -438,3 +437,4 @@
 - [x] update aint minting tutorial
 - [x] 0.1 bug when sending from BSC to Anote
 - [x] disable gateway
+- [x] new BSC contract - add fee when more than 1 withdrawal
