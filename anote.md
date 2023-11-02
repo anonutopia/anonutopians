@@ -437,3 +437,4 @@
 - [x] check gateway - bsc -> anote
 - [x] update aint minting tutorial
 - [x] 0.1 bug when sending from BSC to Anote
+- [x] disable gateway
