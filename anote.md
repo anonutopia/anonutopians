@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] deploy new gateway
 - [ ] list your own token
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -440,3 +439,4 @@
 - [x] disable gateway
 - [x] new BSC contract - add fee when more than 1 withdrawal
 - [x] wrong price in the wallet
+- [x] deploy new gateway
