@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] wrong price in the wallet
 - [ ] deploy new gateway
 - [ ] list your own token
 - [ ] AINT time lock
@@ -440,3 +439,4 @@
 - [x] 0.1 bug when sending from BSC to Anote
 - [x] disable gateway
 - [x] new BSC contract - add fee when more than 1 withdrawal
+- [x] wrong price in the wallet
