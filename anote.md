@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] deploy new gateway
 - [ ] list your own token
 - [ ] AINT time lock
 - [ ] anote time lock
