@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] wrong price in the wallet
 - [ ] deploy new gateway
 - [ ] list your own token
 - [ ] AINT time lock
