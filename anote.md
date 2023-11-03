@@ -8,7 +8,7 @@
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] twitter bot
-- [ ] proof of loyalty (PoL)
+- [ ] proof of loyalty (PoL) / SAINT
 - [ ] price and stats page
 
 #### TODO - BACKLOG
