@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] list your own token
+- [ ] employees fund
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] twitter bot
