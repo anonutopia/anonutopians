@@ -6,7 +6,6 @@
 
 - [ ] aint price bug
 - [ ] list your own token
-- [ ] employees fund
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] twitter bot
@@ -15,6 +14,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] employees fund
 - [ ] white label service
 - [ ] new nodes smart contract
 - [ ] mine help command
