@@ -4,6 +4,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] wallet - price sometimes now showing
 - [ ] list your own token
 - [ ] employees fund
 - [ ] AINT time lock
