@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] wallet - price sometimes now showing
 - [ ] list your own token
 - [ ] employees fund
 - [ ] AINT time lock
@@ -442,3 +441,4 @@
 - [x] new BSC contract - add fee when more than 1 withdrawal
 - [x] wrong price in the wallet
 - [x] deploy new gateway
+- [x] 
