@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] tokens - send
 - [ ] tokens - finish dev tool
 - [ ] tokens - show listing price
 - [ ] aint price bug
@@ -446,3 +445,4 @@
 - [x] deploy new gateway
 - [x] list your own token
 - [x] tokens - show only when exists
+- [x] tokens - send
