@@ -4,6 +4,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] tokens - show only when exists
+- [ ] tokens - send
 - [ ] aint price bug
 - [ ] AINT time lock
 - [ ] anote time lock
