@@ -8,9 +8,9 @@
 - [ ] aint price bug
 - [ ] AINT time lock
 - [ ] anote time lock
-- [ ] twitter bot
 - [ ] proof of loyalty (PoL) / SAINT
 - [ ] price and stats page
+- [ ] twitter bot
 
 #### TODO - BACKLOG
 
