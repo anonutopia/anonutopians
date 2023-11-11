@@ -6,6 +6,7 @@
 
 - [ ] tokens - show only when exists
 - [ ] tokens - send
+- [ ] tokens - finish dev tool
 - [ ] aint price bug
 - [ ] AINT time lock
 - [ ] anote time lock
