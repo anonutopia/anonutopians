@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] tokens - finish dev tool
 - [ ] tokens - show listing price
 - [ ] aint price bug
 - [ ] AINT time lock
@@ -446,3 +445,4 @@
 - [x] list your own token
 - [x] tokens - show only when exists
 - [x] tokens - send
+- [x] tokens - finish dev tool
