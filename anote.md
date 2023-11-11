@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] tokens - show only when exists
 - [ ] tokens - send
 - [ ] tokens - finish dev tool
 - [ ] aint price bug
@@ -445,3 +444,4 @@
 - [x] wrong price in the wallet
 - [x] deploy new gateway
 - [x] list your own token
+- [x] tokens - show only when exists
