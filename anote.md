@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] aint price bug
-- [ ] list your own token
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] twitter bot
@@ -442,4 +441,4 @@
 - [x] new BSC contract - add fee when more than 1 withdrawal
 - [x] wrong price in the wallet
 - [x] deploy new gateway
-- [x] 
+- [x] list your own token
