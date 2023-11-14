@@ -5,7 +5,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] tokens - tutorial
-- [ ] aint price bug
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
@@ -14,6 +13,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] aint price bug
 - [ ] employees fund
 - [ ] white label service
 - [ ] new nodes smart contract
