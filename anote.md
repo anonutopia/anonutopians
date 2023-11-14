@@ -5,6 +5,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] tokens - show listing price
+- [ ] tokens - tutorial
 - [ ] aint price bug
 - [ ] AINT time lock
 - [ ] anote time lock
