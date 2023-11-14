@@ -4,7 +4,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] tokens - tutorial
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
@@ -447,3 +446,4 @@
 - [x] tokens - send
 - [x] tokens - finish dev tool
 - [x] tokens - show listing price
+- [x] tokens - tutorial
