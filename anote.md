@@ -446,3 +446,5 @@
 - [x] tokens - finish dev tool
 - [x] tokens - show listing price
 - [x] tokens - tutorial
+- [x] price and stats page
+
