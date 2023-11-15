@@ -7,7 +7,7 @@
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
-- [ ] more stats on page
+- [ ] more stats on website
 
 #### TODO - BACKLOG
 
