@@ -8,6 +8,7 @@
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
 - [ ] more stats on website
+- [ ] publish ads tool again
 
 #### TODO - BACKLOG
 
