@@ -2,6 +2,14 @@
 
 ## Anote
 
+#### TODO - MILESTONES
+
+- [ ] fix funds and mechanics
+- [ ] 100% trustless & permissionless
+- [ ] crowdfunding campaign
+- [ ] code refactoring
+- [ ] big utility app
+
 #### TODO - v2.0 (MVP)
 
 - [ ] AINT time lock
