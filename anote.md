@@ -6,7 +6,8 @@
 
 - [ ] fix funds and mechanics
 - [ ] 100% trustless & permissionless
-- [ ] crowdfunding campaign
+- [ ] crowdfunding campaign + marketing campaign
+- [ ] text & video tutorials for everything
 - [ ] code refactoring
 - [ ] big utility app
 
