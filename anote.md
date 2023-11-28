@@ -4,7 +4,7 @@
 
 #### TODO - MILESTONES
 
-- [ ] fix funds and mechanics
+- [ ] fix funds, mechanics and flows
 - [ ] 100% trustless & permissionless (community address, mobile mining, gateway, updates, domains)
 - [ ] crowdfunding campaign + marketing campaign
 - [ ] text & video tutorials for everything
