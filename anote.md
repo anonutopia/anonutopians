@@ -30,7 +30,6 @@
 - [ ] extended mining tutorial
 - [ ] cash out tutorial
 - [ ] buy anotes tutorial
-- [ ] unified referral link
 - [ ] new sign up flow
 - [ ] prealpha exchange limit
 - [ ] exchange notification
@@ -457,4 +456,4 @@
 - [x] tokens - show listing price
 - [x] tokens - tutorial
 - [x] price and stats page
-
+- [x] unified referral link
