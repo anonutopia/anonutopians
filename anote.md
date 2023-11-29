@@ -7,7 +7,7 @@
 - [ ] fix funds, mechanics and flows
 - [ ] 100% trustless & permissionless (community address, mobile mining, gateway, updates, domains)
 - [ ] crowdfunding campaign + marketing campaign
-- [ ] text & video tutorials for everything
+- [ ] text & video tutorials for everything + translation
 - [ ] code refactoring
 - [ ] big utility app
 
