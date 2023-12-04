@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] install wallet
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
