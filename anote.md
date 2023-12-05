@@ -19,7 +19,6 @@
 - [ ] proof of loyalty (PoL) / SAINT
 - [ ] more stats on website
 - [ ] more bot helper commands
-- [ ] publish ads tool again
 
 #### TODO - BACKLOG
 
@@ -459,3 +458,4 @@
 - [x] tokens - tutorial
 - [x] price and stats page
 - [x] unified referral link
+- [x] publish ads tool again>
