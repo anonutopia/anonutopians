@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] bnb gateway
 - [ ] install wallet
 - [ ] AINT time lock
 - [ ] anote time lock
