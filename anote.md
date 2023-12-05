@@ -19,6 +19,7 @@
 - [ ] proof of loyalty (PoL) / SAINT
 - [ ] more stats on website
 - [ ] more bot helper commands
+- [ ] fix ads tool
 
 #### TODO - BACKLOG
 
