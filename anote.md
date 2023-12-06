@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] aint price / minting bug
 - [ ] bnb gateway
 - [ ] install wallet
 - [ ] AINT time lock
@@ -24,7 +25,6 @@
 
 #### TODO - BACKLOG
 
-- [ ] aint price bug
 - [ ] employees fund
 - [ ] white label service
 - [ ] new nodes smart contract
