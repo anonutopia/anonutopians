@@ -15,7 +15,7 @@
 
 - [ ] aint price / minting bug
 - [ ] bnb gateway
-- [ ] install wallet
+- [ ] install wallet option
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
