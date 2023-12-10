@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] node token contract
 - [ ] node token service
 - [ ] node token address
 - [ ] aint price / minting bug
@@ -465,3 +464,4 @@
 - [x] unified referral link
 - [x] publish ads tool again>
 - [x] node token UI
+- [x] node token contract
