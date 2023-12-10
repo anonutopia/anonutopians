@@ -13,8 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] node token service
-- [ ] node token address
 - [ ] aint price / minting bug
 - [ ] bnb gateway
 - [ ] install wallet option
@@ -465,3 +463,5 @@
 - [x] publish ads tool again>
 - [x] node token UI
 - [x] node token contract
+- [x] node token service
+- [x] node token address
