@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] NODE price increase
 - [ ] aint price / minting bug
 - [ ] bnb gateway
 - [ ] install wallet option
