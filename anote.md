@@ -27,6 +27,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] integrate bots into anote-mobile
 - [ ] employees fund
 - [ ] white label service
 - [ ] new nodes smart contract
