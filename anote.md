@@ -16,6 +16,7 @@
 - [ ] node token UI
 - [ ] node token contract
 - [ ] node token service
+- [ ] node token address
 - [ ] aint price / minting bug
 - [ ] bnb gateway
 - [ ] install wallet option
