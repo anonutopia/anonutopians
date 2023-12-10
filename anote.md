@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] node token UI
 - [ ] node token contract
 - [ ] node token service
 - [ ] node token address
@@ -465,3 +464,4 @@
 - [x] price and stats page
 - [x] unified referral link
 - [x] publish ads tool again>
+- [x] node token UI
