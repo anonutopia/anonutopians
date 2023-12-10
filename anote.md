@@ -9,7 +9,7 @@
 - [ ] crowdfunding campaign + marketing campaign
 - [ ] text & video tutorials for everything + translation
 - [ ] code refactoring
-- [ ] big utility app
+- [ ] big utility app (user support, betting, websites, taxi, market)
 
 #### TODO - v2.0 (MVP)
 
