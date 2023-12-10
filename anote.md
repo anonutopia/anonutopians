@@ -13,6 +13,9 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] node token UI
+- [ ] node token contract
+- [ ] node token service
 - [ ] aint price / minting bug
 - [ ] bnb gateway
 - [ ] install wallet option
