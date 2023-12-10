@@ -4,6 +4,7 @@
 
 ## Project / App Ideas
 
+- [ ] user agent bot
 - [ ] exchange
 - [ ] website directory
 - [ ] taxi app
