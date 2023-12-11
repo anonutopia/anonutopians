@@ -463,7 +463,7 @@
 - [x] tokens - tutorial
 - [x] price and stats page
 - [x] unified referral link
-- [x] publish ads tool again>
+- [x] publish ads tool again
 - [x] node token UI
 - [x] node token contract
 - [x] node token service
