@@ -27,6 +27,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] ad bids detected as aint mint
 - [ ] integrate bots into anote-mobile
 - [ ] employees fund
 - [ ] white label service
