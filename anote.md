@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] referral link issue
 - [ ] incentivize channels
 - [ ] NODE price increase
 - [ ] aint price / minting bug
@@ -29,6 +28,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] more exposed referral link
 - [ ] ad bids detected as aint mint
 - [ ] integrate bots into anote-mobile
 - [ ] employees fund
