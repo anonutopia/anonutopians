@@ -472,3 +472,4 @@
 - [x] node token address
 - [x] incentivize channels
 - [x] issue with mobile amount 1 anote
+- [x] changed suspicious activity reporting
