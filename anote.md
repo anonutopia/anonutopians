@@ -471,3 +471,4 @@
 - [x] node token service
 - [x] node token address
 - [x] incentivize channels
+- [x] issue with mobile amount 1 anote
