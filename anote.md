@@ -14,9 +14,6 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] NODE price increase
-- [ ] aint price / minting bug
-- [ ] bnb gateway
-- [ ] install wallet option
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
@@ -27,6 +24,9 @@
 
 #### TODO - BACKLOG
 
+- [ ] aint price / minting bug
+- [ ] bnb gateway
+- [ ] install wallet option
 - [ ] more exposed referral link
 - [ ] ad bids detected as aint mint
 - [ ] integrate bots into anote-mobile
