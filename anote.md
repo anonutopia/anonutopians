@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] incentivize channels
 - [ ] NODE price increase
 - [ ] aint price / minting bug
 - [ ] bnb gateway
@@ -471,3 +470,4 @@
 - [x] node token contract
 - [x] node token service
 - [x] node token address
+- [x] incentivize channels
