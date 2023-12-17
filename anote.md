@@ -21,6 +21,7 @@
 - [ ] proof of loyalty (PoL) / SAINT
 - [ ] more stats on website
 - [ ] more bot helper commands
+- [ ] move gateway to wallet
 - [ ] fix ads tool (not publishing, bids list)
 - [ ] mining with twitter and fb
 
