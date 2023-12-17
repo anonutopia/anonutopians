@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] NODE display more information
 - [ ] NODE tutorial
 - [ ] NODE minting notifications
 - [ ] AINT time lock
@@ -478,3 +477,4 @@
 - [x] changed suspicious activity reporting
 - [x] NODE price increase
 - [x] fixed bug with suspicious activity reporting
+- [x] NODE display more information
