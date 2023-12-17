@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] NODE notification - tier
 - [ ] fix weekly notification
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -481,3 +480,4 @@
 - [x] NODE display more information
 - [x] NODE token tutorial
 - [x] NODE minting notifications
+- [x] NODE notification - tier
