@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] NODE price increase
 - [ ] NODE tutorial
 - [ ] NODE minting notifications
 - [ ] AINT time lock
@@ -475,3 +474,4 @@
 - [x] incentivize channels
 - [x] issue with mobile amount 1 anote
 - [x] changed suspicious activity reporting
+- [x] NODE price increase
