@@ -9,7 +9,7 @@
 - [ ] crowdfunding campaign + marketing campaign
 - [ ] text & video tutorials for everything + translation
 - [ ] code refactoring
-- [ ] big utility app (user support, betting, websites, taxi, market)
+- [ ] big utility app (user support, betting, websites, taxi, market, advertising network)
 
 #### TODO - v2.0 (MVP)
 
@@ -477,3 +477,4 @@
 - [x] issue with mobile amount 1 anote
 - [x] changed suspicious activity reporting
 - [x] NODE price increase
+- [x] fixed bug with suspicious activity reporting
