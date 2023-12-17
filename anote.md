@@ -22,6 +22,8 @@
 - [ ] move gateway to wallet
 - [ ] fix ads tool (not publishing, bids list)
 - [ ] mining with twitter and fb
+- [ ] finish node layer
+- [ ] NODE gateway
 - [ ] issue with NODE minting tool *
 
 #### TODO - BACKLOG
