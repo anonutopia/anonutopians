@@ -13,8 +13,8 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix weekly notification
 - [ ] NODE minting notifications
+- [ ] fix weekly notification
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
