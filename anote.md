@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] NODE display more information
 - [ ] NODE tutorial
 - [ ] NODE minting notifications
 - [ ] AINT time lock
