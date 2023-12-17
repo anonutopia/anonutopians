@@ -14,6 +14,8 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] NODE price increase
+- [ ] NODE tutorial
+- [ ] NODE minting notifications
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / SAINT
