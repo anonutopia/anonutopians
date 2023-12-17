@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] NODE minting notifications
 - [ ] fix weekly notification
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -480,3 +479,4 @@
 - [x] fixed bug with suspicious activity reporting
 - [x] NODE display more information
 - [x] NODE token tutorial
+- [x] NODE minting notifications
