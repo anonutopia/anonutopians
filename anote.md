@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] NODE notification - tier
 - [ ] fix weekly notification
 - [ ] AINT time lock
 - [ ] anote time lock
