@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] change telegram account on the same address
 - [ ] fix weekly notification
 - [ ] AINT time lock
 - [ ] anote time lock
