@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] change telegram account on the same address
 - [ ] fix weekly notification
 - [ ] AINT time lock
 - [ ] anote time lock
@@ -26,6 +25,7 @@
 - [ ] finish node layer
 - [ ] NODE gateway
 - [ ] issue with NODE minting tool *
+- [ ] change telegram account on the same address
 
 #### TODO - BACKLOG
 
