@@ -16,7 +16,7 @@
 - [ ] fix weekly notification
 - [ ] AINT time lock
 - [ ] anote time lock
-- [ ] proof of loyalty (PoL) / SAINT
+- [ ] proof of loyalty (PoL) / sAINT
 - [ ] more stats on website
 - [ ] more bot helper commands
 - [ ] move gateway to wallet
