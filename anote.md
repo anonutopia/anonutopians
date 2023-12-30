@@ -21,7 +21,6 @@
 - [ ] more bot helper commands
 - [ ] move gateway to wallet
 - [ ] fix ads tool (not publishing, bids list)
-- [ ] mining with twitter and fb
 - [ ] finish node layer
 - [ ] NODE gateway
 - [ ] issue with NODE minting tool *
@@ -29,6 +28,7 @@
 
 #### TODO - BACKLOG
 
+- [ ] mining with twitter and fb
 - [ ] aint price / minting bug
 - [ ] bnb gateway
 - [ ] install wallet option
