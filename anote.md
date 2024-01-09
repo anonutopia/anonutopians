@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] don't allow mining if wallet is not connected
 - [ ] fix weekly notification
 - [ ] AINT time lock
 - [ ] anote time lock
