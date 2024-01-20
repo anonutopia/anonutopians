@@ -485,3 +485,5 @@
 - [x] NODE token tutorial
 - [x] NODE minting notifications
 - [x] NODE notification - tier
+- [x] remove ips from nodes db
+- [x] fix wallet after removing ips
