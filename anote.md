@@ -13,6 +13,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] investor referral program
+- [ ] node alarm
 - [ ] don't allow mining if wallet is not connected
 - [ ] fix weekly notification
 - [ ] AINT time lock
