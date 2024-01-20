@@ -15,6 +15,8 @@
 
 - [ ] investor referral program
 - [ ] node alarm
+- [ ] remove anote from the market
+- [ ] bring aint to the market
 - [ ] don't allow mining if wallet is not connected
 - [ ] fix weekly notification
 - [ ] AINT time lock
