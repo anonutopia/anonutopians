@@ -13,6 +13,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] node leasing tutorial
+- [ ] NODE reward splitting
 - [ ] investor referral program
 - [ ] node alarm
 - [ ] remove anote from the market
