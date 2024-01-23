@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] new price API
 - [ ] node leasing tutorial
 - [ ] NODE reward splitting
 - [ ] investor referral program
