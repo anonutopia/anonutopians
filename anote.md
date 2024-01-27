@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] new price API
 - [ ] NODE reward splitting
 - [ ] investor referral program
 - [ ] node alarm
@@ -497,3 +496,4 @@
 - [x] stop spamming group too much with forwards
 - [x] automatic leases to new nodes
 - [x] node leasing tutorial
+- [x] new price API
