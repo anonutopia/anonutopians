@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] write down competitions procedure
 - [ ] NODE reward splitting
 - [ ] investor referral program
 - [ ] node alarm
