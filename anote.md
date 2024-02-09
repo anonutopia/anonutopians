@@ -498,3 +498,4 @@
 - [x] automatic leases to new nodes
 - [x] node leasing tutorial
 - [x] new price API
+- [x] more bot helper commands
