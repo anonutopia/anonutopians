@@ -13,6 +13,8 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] name change - disable gateway
+- [ ] name change - disable aint minting
 - [ ] name change - explorer
 - [ ] name change - create anote token
 - [ ] name change - send anote token
