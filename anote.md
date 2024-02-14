@@ -18,6 +18,8 @@
 - [ ] name change - fix staking
 - [ ] name change - fix $ amount
 - [ ] name change - fix bots and notifications
+- [ ] name change - dev tool
+- [ ] name change - ads tool
 - [ ] write down competitions procedure
 - [ ] NODE reward splitting
 - [ ] investor referral program
