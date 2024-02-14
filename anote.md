@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] name change - send anote token
 - [ ] name change - minting anote
 - [ ] name change - update gateway
 - [ ] write down competitions procedure
@@ -507,3 +506,4 @@
 - [x] name change - explorer
 - [x] name change - wallet
 - [x] name change - create anote token
+- [x] name change - send anote token
