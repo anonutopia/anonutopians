@@ -16,7 +16,6 @@
 - [ ] name change - create anote token
 - [ ] name change - send anote token
 - [ ] name change - minting anote
-- [ ] name change - wallet
 - [ ] write down competitions procedure
 - [ ] NODE reward splitting
 - [ ] investor referral program
