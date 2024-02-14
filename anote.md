@@ -14,6 +14,7 @@
 #### TODO - v2.0 (MVP)
 
 - [ ] name change - explorer
+- [ ] name change - wallet
 - [ ] name change - create anote token
 - [ ] name change - send anote token
 - [ ] name change - minting anote
