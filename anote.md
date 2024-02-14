@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] name change - explorer
 - [ ] name change - wallet
 - [ ] name change - create anote token
 - [ ] name change - send anote token
@@ -507,3 +506,4 @@
 - [x] more bot helper commands
 - [x] name change - disable aint minting
 - [x] name change - disable gateway
+- [x] name change - explorer
