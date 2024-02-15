@@ -13,7 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] name change - return all aint automatic
+- [ ] name change - return all aint automatically
 - [ ] name change - minting anote
 - [ ] name change - update gateway
 - [ ] name change - fix staking
