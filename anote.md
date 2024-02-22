@@ -24,7 +24,6 @@
 - [ ] write down competitions procedure
 - [ ] NODE reward splitting
 - [ ] investor referral program
-- [ ] node alarm
 - [ ] express aint price in anote
 - [ ] don't allow mining if wallet is not connected
 - [ ] fix weekly notification
@@ -513,3 +512,4 @@
 - [x] name change - send anote token
 - [x] remove anote from the market
 - [x] bring aint to the market
+- [x] node alarm
