@@ -13,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] name change - return all aint automatically
 - [ ] name change - minting anote
 - [ ] name change - update gateway
 - [ ] name change - fix staking
@@ -40,7 +41,6 @@
 
 #### TODO - BACKLOG
 
-- [ ] name change - return all aint automatically
 - [ ] mining with twitter and fb
 - [ ] aint price / minting bug
 - [ ] bnb gateway
