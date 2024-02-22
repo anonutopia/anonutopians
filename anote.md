@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] name change - return all aint automatically
 - [ ] name change - minting anote
 - [ ] name change - update gateway
 - [ ] name change - fix staking
@@ -513,3 +512,4 @@
 - [x] remove anote from the market
 - [x] bring aint to the market
 - [x] node alarm
+- [x] name change - return all aint automatically
