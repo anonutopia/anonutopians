@@ -13,7 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] name change - update gateway
 - [ ] name change - fix staking
 - [ ] name change - fix $ amount
 - [ ] name change - fix bots and notifications
@@ -513,4 +512,4 @@
 - [x] node alarm
 - [x] name change - return all aint automatically
 - [x] name change - minting anote
-
+- [x] name change - update gateway
