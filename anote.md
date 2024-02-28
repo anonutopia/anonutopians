@@ -21,7 +21,6 @@
 - [ ] write down competitions procedure
 - [ ] NODE reward splitting
 - [ ] investor referral program
-- [ ] express aint price in anote
 - [ ] don't allow mining if wallet is not connected
 - [ ] fix weekly notification
 - [ ] AINT time lock
