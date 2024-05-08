@@ -4,6 +4,7 @@
 
 #### TODO - MILESTONES
 
+- [ ] fix anote master
 - [ ] fix funds, mechanics and flows
 - [ ] 100% trustless & permissionless (community addresses, mobile mining, gateway, updates, domains)
 - [ ] crowdfunding campaign + marketing campaign
