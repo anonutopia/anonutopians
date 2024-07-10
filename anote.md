@@ -513,3 +513,4 @@
 - [x] name change - return all aint automatically
 - [x] name change - minting anote
 - [x] name change - update gateway
+- [x] fix dollar amount
