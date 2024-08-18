@@ -10,9 +10,24 @@
 - [ ] crowdfunding campaign + marketing campaign
 - [ ] text & video tutorials for everything + translation
 - [ ] code refactoring
-- [ ] big utility app (user support, betting, websites, taxi, market, advertising network)
+- [ ] big utility app (exchange, lottery, user support, betting, websites, taxi, market, advertising network)
 
 #### TODO - v2.0 (MVP)
+
+- [ ] create new anote token
+- [ ] update gateway
+- [ ] anote minting (10k)
+- [ ] anote staking - big apy
+- [ ] update website
+- [ ] make wallet work perfectly
+- [ ] aint staking
+- [ ] new node version (?)
+- [ ] more stats on website
+- [ ] other network mining (x, fb)
+- [ ] bring back social network contests
+- [ ] bot - feature to add in other channels
+ 
+#### TODO - v2.1 (MVP)
 
 - [ ] name change - fix staking
 - [ ] name change - fix $ amount
@@ -27,7 +42,6 @@
 - [ ] AINT time lock
 - [ ] anote time lock
 - [ ] proof of loyalty (PoL) / sAINT
-- [ ] more stats on website
 - [ ] more bot helper commands
 - [ ] move gateway to wallet
 - [ ] fix ads tool (not publishing, bids list)
