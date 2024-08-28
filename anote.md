@@ -10,7 +10,7 @@
 - [ ] crowdfunding campaign + marketing campaign
 - [ ] text & video tutorials for everything + translation
 - [ ] code refactoring
-- [ ] big utility app (exchange, lottery, user support, betting, websites, taxi, market, advertising network)
+- [ ] big utility app (exchange, lottery, user support, betting, websites, taxi, market, advertising network, cmc)
 
 #### TODO - v2.0 (MVP)
 
@@ -528,3 +528,4 @@
 - [x] name change - minting anote
 - [x] name change - update gateway
 - [x] fix dollar amount
+- [x] new anote token
