@@ -4,7 +4,6 @@
 
 #### TODO - MILESTONES
 
-- [ ] fix anote master
 - [ ] fix funds, mechanics and flows
 - [ ] 100% trustless & permissionless (community addresses, mobile mining, gateway, updates, domains)
 - [ ] crowdfunding campaign + marketing campaign
@@ -14,6 +13,7 @@
 
 #### TODO - v2.0 (MVP)
 
+- [ ] fix anote master
 - [ ] fix gateway and node store
 - [ ] fix nodes
 - [ ] new token - mint tool
