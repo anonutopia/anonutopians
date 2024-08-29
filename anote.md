@@ -14,10 +14,10 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] create new anote token
-- [ ] update gateway
-- [ ] anote minting (10k)
-- [ ] anote staking - big apy
+- [ ] fix gateway and node store
+- [ ] fix nodes
+- [ ] new token - mint tool
+- [ ] new token - update gateway
 - [ ] update website
 - [ ] make wallet work perfectly
 - [ ] aint staking
