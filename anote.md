@@ -13,8 +13,6 @@
 
 #### TODO - v2.0 (MVP)
 
-- [ ] fix anote master
-- [ ] fix gateway and node store
 - [ ] fix nodes
 - [ ] new token - mint tool
 - [ ] new token - update gateway
@@ -529,3 +527,5 @@
 - [x] name change - update gateway
 - [x] fix dollar amount
 - [x] new anote token
+- [x] fix anote master
+- [x] fix gateway and node store
